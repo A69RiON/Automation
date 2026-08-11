@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AU Deal Hunter</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div>
+    <h1>AU Deal Hunter</h1>
+    <p>Black Friday intelligence + every detected discount</p>
+  </div>
+  <div class="status">
+    <span id="lastUpdated">Last updated: —</span>
+    <span class="live-dot"></span>
+  </div>
+<a href="admin.html" style="color:inherit">Admin</a></header>
+
+<main>
+  <div class="demo-banner" id="demoBanner" hidden>Demonstration data is displayed. Run the GitHub Actions “Refresh Deal Dashboard” workflow to load live source data.</div>
+  <section class="metrics" id="metrics"></section>
+
+  <nav class="tabs" aria-label="Deal views">
+    <button class="tab active" data-tab="good">🔥 Good Deals</button>
+    <button class="tab" data-tab="all">🏷️ All Discounts</button>
+  </nav>
+
+  <section class="toolbar">
+    <input id="search" type="search" placeholder="Search product, model, retailer…">
+    <select id="retailer"><option value="">All retailers</option></select>
+    <select id="category"><option value="">All categories</option></select>
+    <select id="sort">
+      <option value="score">Deal score</option>
+      <option value="discount">Advertised discount %</option>
+      <option value="realDiscount">Real discount vs observed normal</option>
+      <option value="priceLow">Price: low → high</option>
+      <option value="priceHigh">Price: high → low</option>
+      <option value="newest">Newest</option>
+    </select>
+  </section>
+
+  <section class="view-note" id="viewNote"></section>
+
+  <details class="source-health">
+    <summary>Source health <span id="healthSummary"></span></summary>
+    <div class="health-grid" id="sourceHealth"></div>
+  </details>
+
+  <section class="deal-grid" id="dealGrid"></section>
+  <div class="empty" id="empty" hidden>No deals match your filters.</div>
+</main>
+
+<dialog id="scoreDialog">
+  <button class="dialog-close" id="closeDialog" aria-label="Close">×</button>
+  <div id="scoreDetails"></div>
+</dialog>
+
+<script src="app.js"></script>
+</body>
+</html>
