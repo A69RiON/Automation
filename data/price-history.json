@@ -1,1 +1,342 @@
-{"schema_version":1,"products":{}}
+{
+  "schema_version": 1,
+  "products": {
+    "product-23e2dce7dfc23688cbe8": {
+      "title": "Lebara 365 Days Prepaid 180GB/ $159, 425GB/ $219 @ Lebara",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.354935+00:00",
+          "retailer": "Lebara",
+          "price": 159.0,
+          "deal_id": "ozbargain-094ceed98ec266ba",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-147fabe4fb05b7c81a4b": {
+      "title": "OPTIMUM NUTRITION Amino Energy + Electrolytes, 12-Pack $30 ($27 S&S, RRP $54) + Delivery ($0 Prime/$59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": "12-PACK",
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.355114+00:00",
+          "retailer": "Amazon AU",
+          "price": 30.0,
+          "deal_id": "ozbargain-dd6e7bd27722d9c9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-387513b6c3f6bb57e96a": {
+      "title": "50% off Single Origin Coffee Beans 1kg $30.65, Decaf $35, 30% off Teas + Delivery ($0 with $99 Order, C&C) @ Lime Blue Coffee",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.355266+00:00",
+          "retailer": "Lime Blue Coffee",
+          "price": 30.65,
+          "deal_id": "ozbargain-b126f5a0f0f141f0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-23a6483a5f087a686d08": {
+      "title": "Herschel Pop Quiz Backpack Navy/Tan OS $29 + Shipping @ Big W Marketplace",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.355377+00:00",
+          "retailer": "Big W Marketplace",
+          "price": 29.0,
+          "deal_id": "ozbargain-4d1bd5032db543c4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8d870f3125163ed04b06": {
+      "title": "BWS: 22% Cashback ($20 Cap Per Order) @ ShopBack",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.355597+00:00",
+          "retailer": "ShopBack",
+          "price": 20.0,
+          "deal_id": "ozbargain-d3d53b371637d320",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-336a2413bd729a3ddf57": {
+      "title": "Switch with Econnex & Stay 45 Days for Cashback: Electricity $150, Gas $120, Broadband $100, Solar $200 @ TopCashback AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.355830+00:00",
+          "retailer": "TopCashback AU",
+          "price": 150.0,
+          "deal_id": "ozbargain-1be32a72dae08b65",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c9066a3b9583c1fcf452": {
+      "title": "Muscle Chef High Protein Pack (10 Meals) Subscription - $82.91 Delivered (New Customers Only) @ Muscle Chef",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.355948+00:00",
+          "retailer": "Muscle Chef",
+          "price": 82.91,
+          "deal_id": "ozbargain-30912567bc343152",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8d30e97d232fef150f97": {
+      "title": "Antler Expandable Carry-on Luggage $150 Delivered @ Antler",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.356038+00:00",
+          "retailer": "Antler",
+          "price": 150.0,
+          "deal_id": "ozbargain-a511306e63a05783",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c47077303447b5f31e53": {
+      "title": "20% off Sitewide + $8.95 Delivery ($0 with $70 Order): e.g. 25 Serves Freeze-Dried Vietnamese Soup $43.16 @ SUP Foods",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.356150+00:00",
+          "retailer": "SUP Foods",
+          "price": 8.95,
+          "deal_id": "ozbargain-45ff24506bcb26c2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-df63fa980f2c5a281344": {
+      "title": "iPhone 17 Pro Max 256GB Cosmic Orange or Dark Blue $1,850 Delivered @ SkyTree Phones",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.356377+00:00",
+          "retailer": "SkyTree Phones",
+          "price": 1850.0,
+          "deal_id": "ozbargain-60bc41f6f7976611",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5eeee076ee6c4903e9b6": {
+      "title": "$3 off $15, $6 off $39, $10 off $69, $15 off $99, $25 off $179, $40 off $289, $65 off $459 Spend (in USD) @ AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.356509+00:00",
+          "retailer": "AliExpress",
+          "price": 3.0,
+          "deal_id": "ozbargain-71c8487ce25cc465",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f10de99aa78a2615978e": {
+      "title": "10% off $100-$500 Coles Digital Gift Cards (Max Order $2,500 Per Day) @ Giftcards.com.au",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.356623+00:00",
+          "retailer": "Giftcards.com.au",
+          "price": 100.0,
+          "deal_id": "ozbargain-f611f55c850a8da6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ec6fb9adefaba6b55bb0": {
+      "title": "[PC] Ashampoo Privacy Inspector 2 - Free Lifetime Licence with Newsletter Sign-up (Save $40) @ Ashampoo",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.356733+00:00",
+          "retailer": "Ashampoo",
+          "price": 40.0,
+          "deal_id": "ozbargain-030d650325250885",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-596e6bf968a3124a5756": {
+      "title": "Classic Burrito & Bowls $10 + Delivery ($0 with Uber One & $20+ Spend) + Service Fees @ Zambrero via Uber Eats",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.356843+00:00",
+          "retailer": "Zambrero via Uber Eats",
+          "price": 10.0,
+          "deal_id": "ozbargain-60339cddf1db3d5f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d93d77d4d00928048dbc": {
+      "title": "Olight Ostation X Automatic 3-in-1 Rechargeable AA Battery Charger $92.97 (RRP $185.95) Delivered @ Olight AU",
+      "brand": null,
+      "model": "3-IN-1",
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.357038+00:00",
+          "retailer": "Olight AU",
+          "price": 92.97,
+          "deal_id": "ozbargain-03cf1e2fc3ee39d0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6befa3f3da8a9ea36494": {
+      "title": "[QLD] $15/Month off nbn Plans for 12 Months for Gold Coast Residents (New Customers) @ InfiNET Broadband",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.357147+00:00",
+          "retailer": "InfiNET Broadband",
+          "price": 15.0,
+          "deal_id": "ozbargain-bb306dd5d943f494",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-05eb90ad431b82b253f4": {
+      "title": "[Short Dated] 10x Selleys 100ml Autofix Instant Gasket Grey $39.95 Delivered / 20x Pack $49.95 Delivered @ South East Clearance",
+      "brand": null,
+      "model": "100ML",
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.357265+00:00",
+          "retailer": "South East Clearance",
+          "price": 39.95,
+          "deal_id": "ozbargain-078feadf996109ef",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-3d6961de22968a83b21d": {
+      "title": "Canesten Disinfectant and Laundry Sanitiser Lemon 2L $11.87 ($10.68 S&S) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU (Excl. NT)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.357515+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 11.87,
+          "deal_id": "ozbargain-e5bcd936030fc364",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-bd5e60a37ef9148d51c7": {
+      "title": "Faro Light Backpack 0.4 $100.80 (with 10% off Code) Delivered @ Bagsmart",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.357620+00:00",
+          "retailer": "Bagsmart",
+          "price": 100.8,
+          "deal_id": "ozbargain-8474fc3cda8e8a27",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-eb3a5886b8ad343ed88e": {
+      "title": "Wicked Nugget Pack (20 Nuggets + Chips) for $12.95 Pickup @ KFC (App/Online Order Only)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.357720+00:00",
+          "retailer": "KFC (App/Online Order Only)",
+          "price": 12.95,
+          "deal_id": "ozbargain-1202fe26f1165898",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5ab938f0fd6380df441c": {
+      "title": "Samsung Galaxy Tab Active4 Pro 5G 64GB Rugged Tablet with S Pen $593 + Delivery @ MyITHub",
+      "brand": "Samsung",
+      "model": "ACTIVE4",
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.357828+00:00",
+          "retailer": "MyITHub",
+          "price": 593.0,
+          "deal_id": "ozbargain-da5c3d763181f3ff",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-67f7b2262ba7409e9296": {
+      "title": "Shark Messmaster Wet/Dry Vacuum $60 + $9.95 Delivery ($0 with $99 Order) @ MYER / $50 Price Check + Delivery @ The Good Guys",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.357959+00:00",
+          "retailer": "MYER / $50 Price Check + Delivery @ The Good Guys",
+          "price": 60.0,
+          "deal_id": "ozbargain-aa34e50caa20b2c7",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8d2c8e0735699ec6dcb7": {
+      "title": "[VIC] Kale Supernova Porcelain Tiles: 300×600 $32/m², 600×600 $40/m², 600×1200 $49/m² + Delivery ($0 C&C/ in-Store) @ Attila",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.358195+00:00",
+          "retailer": "Attila",
+          "price": 32.0,
+          "deal_id": "ozbargain-2a335ec8b1cec836",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1922192510ea9613becd": {
+      "title": "amaysim: $60 Cashback on 365 Days 200GB (+20GB Bonus) Prepaid Plan for $175 (Ongoing $270) @ ShopBack",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-11T22:38:54.358303+00:00",
+          "retailer": "ShopBack",
+          "price": 60.0,
+          "deal_id": "ozbargain-2d201f2f9de031a8",
+          "source": "OzBargain"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-08-11T22:39:05.480831+00:00"
+}
