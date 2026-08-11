@@ -1,0 +1,49 @@
+name: Refresh Deal Dashboard
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: deal-dashboard-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Refresh AU deals and send qualifying Discord alerts
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+          EBAY_SEARCH_QUERIES: ${{ vars.EBAY_SEARCH_QUERIES }}
+          AMAZON_CREATORS_CLIENT_ID: ${{ secrets.AMAZON_CREATORS_CLIENT_ID }}
+          AMAZON_CREATORS_CLIENT_SECRET: ${{ secrets.AMAZON_CREATORS_CLIENT_SECRET }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_DEAL_SCORE_THRESHOLD: ${{ vars.DISCORD_DEAL_SCORE_THRESHOLD }}
+          DISCORD_REALERT_PRICE_DROP_PERCENT: ${{ vars.DISCORD_REALERT_PRICE_DROP_PERCENT }}
+          DISCORD_REALERT_SCORE_IMPROVEMENT: ${{ vars.DISCORD_REALERT_SCORE_IMPROVEMENT }}
+        run: python scripts/collector.py
+      - name: Commit changed dashboard, price history, and alert state
+        run: |
+          git config user.name "deal-hunter-bot"
+          git config user.email "deal-hunter-bot@users.noreply.github.com"
+          git add docs/data/deals.json data/price-history.json data/alert-history.json
+          git diff --cached --quiet || git commit -m "Refresh AU deal data"
+          git push
