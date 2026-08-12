@@ -1006,6 +1006,13 @@
           "price": 45.0,
           "deal_id": "ozbargain-f4851fa787bc544e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-12T19:26:32.989155+00:00",
+          "retailer": "AliExpress",
+          "price": 45.0,
+          "deal_id": "ozbargain-f4851fa787bc544e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -1016,6 +1023,13 @@
       "observations": [
         {
           "timestamp": "2026-08-12T13:48:15.478943+00:00",
+          "retailer": "NAB Goodies",
+          "price": 5.0,
+          "deal_id": "ozbargain-f87d52997c54a6cf",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-12T19:26:32.989269+00:00",
           "retailer": "NAB Goodies",
           "price": 5.0,
           "deal_id": "ozbargain-f87d52997c54a6cf",
@@ -1034,6 +1048,13 @@
           "price": 84.95,
           "deal_id": "ozbargain-05c207948a5da857",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-12T19:26:32.989387+00:00",
+          "retailer": "Steam",
+          "price": 84.95,
+          "deal_id": "ozbargain-05c207948a5da857",
+          "source": "OzBargain"
         }
       ]
     },
@@ -1048,11 +1069,18 @@
           "price": 29.99,
           "deal_id": "ozbargain-2fe15ae53b998819",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-12T19:26:32.989598+00:00",
+          "retailer": "Chemist Warehouse",
+          "price": 29.99,
+          "deal_id": "ozbargain-2fe15ae53b998819",
+          "source": "OzBargain"
         }
       ]
     },
     "product-fc4a3b330e61e5af98b5": {
-      "title": "Macon Streaming Microphone Kit (USB Condenser Mic + Pop Filter + Boom) $19 + $10.50 Delivery / $0 C&C @ Mwave",
+      "title": "Macon Streaming Microphone Kit (USB Condenser Mic + Pop Filter + Boom) $19 + Delivery ($0 NSW C&C/ mVIP) @ Mwave",
       "brand": null,
       "model": null,
       "observations": [
@@ -1061,6 +1089,13 @@
           "retailer": "Mwave",
           "price": 19.0,
           "deal_id": "ozbargain-8d5fac5b8f48051d",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-12T19:26:32.989742+00:00",
+          "retailer": "Mwave",
+          "price": 19.0,
+          "deal_id": "ozbargain-15c450d67f0af229",
           "source": "OzBargain"
         }
       ]
@@ -1072,6 +1107,13 @@
       "observations": [
         {
           "timestamp": "2026-08-12T13:48:15.479586+00:00",
+          "retailer": "VideoPro",
+          "price": 1799.0,
+          "deal_id": "ozbargain-f1dbf1b396093537",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-12T19:26:32.989865+00:00",
           "retailer": "VideoPro",
           "price": 1799.0,
           "deal_id": "ozbargain-f1dbf1b396093537",
@@ -1090,6 +1132,13 @@
           "price": 69.0,
           "deal_id": "ozbargain-6ba1d80cc1de1e83",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-12T19:26:32.989994+00:00",
+          "retailer": "digiDirect (Price Beat $74.05 Delivered / C&C / in-Store @ Officeworks)",
+          "price": 69.0,
+          "deal_id": "ozbargain-6ba1d80cc1de1e83",
+          "source": "OzBargain"
         }
       ]
     },
@@ -1100,6 +1149,13 @@
       "observations": [
         {
           "timestamp": "2026-08-12T13:48:15.479819+00:00",
+          "retailer": "Uber Eats",
+          "price": 70.0,
+          "deal_id": "ozbargain-e3fcece9d86e9d50",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-12T19:26:32.990094+00:00",
           "retailer": "Uber Eats",
           "price": 70.0,
           "deal_id": "ozbargain-e3fcece9d86e9d50",
@@ -1118,6 +1174,13 @@
           "price": 79.84,
           "deal_id": "ozbargain-383082192acf8bd3",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-12T19:26:32.990196+00:00",
+          "retailer": "Amazon UK via Amazon AU",
+          "price": 79.84,
+          "deal_id": "ozbargain-383082192acf8bd3",
+          "source": "OzBargain"
         }
       ]
     },
@@ -1128,6 +1191,13 @@
       "observations": [
         {
           "timestamp": "2026-08-12T13:48:15.480083+00:00",
+          "retailer": "NSW Government",
+          "price": 250.0,
+          "deal_id": "ozbargain-03e2b8d0c50c6f1d",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-12T19:26:32.990318+00:00",
           "retailer": "NSW Government",
           "price": 250.0,
           "deal_id": "ozbargain-03e2b8d0c50c6f1d",
@@ -1146,6 +1216,13 @@
           "price": 35.0,
           "deal_id": "ozbargain-af0d427dde16b967",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-12T19:26:32.990434+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 35.0,
+          "deal_id": "ozbargain-af0d427dde16b967",
+          "source": "OzBargain"
         }
       ]
     },
@@ -1156,6 +1233,13 @@
       "observations": [
         {
           "timestamp": "2026-08-12T13:48:15.480334+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 38.0,
+          "deal_id": "ozbargain-6ee75526470ba57e",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-12T19:26:32.990558+00:00",
           "retailer": "OzBargain-listed deal",
           "price": 38.0,
           "deal_id": "ozbargain-6ee75526470ba57e",
@@ -1174,6 +1258,13 @@
           "price": 5.4,
           "deal_id": "ozbargain-5963e5ede2485b1f",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-12T19:26:32.990748+00:00",
+          "retailer": "Amazon AU",
+          "price": 5.4,
+          "deal_id": "ozbargain-5963e5ede2485b1f",
+          "source": "OzBargain"
         }
       ]
     },
@@ -1184,6 +1275,13 @@
       "observations": [
         {
           "timestamp": "2026-08-12T13:48:15.480610+00:00",
+          "retailer": "StockUp",
+          "price": 4.99,
+          "deal_id": "ozbargain-34bd1f24ebdd2fe0",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-12T19:26:32.990881+00:00",
           "retailer": "StockUp",
           "price": 4.99,
           "deal_id": "ozbargain-34bd1f24ebdd2fe0",
@@ -1246,7 +1344,147 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-30beda173ab3fd21e144": {
+      "title": "[PC, Steam] KINGDOM HEARTS HD 1.5+2.5 ReMIX $22.48, HD 2.8 FCP $26.98, III + Re Mind (DLC) $26.98, All 3 for $43.48 @ Steam",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-12T19:26:32.987397+00:00",
+          "retailer": "Steam",
+          "price": 22.48,
+          "deal_id": "ozbargain-b7e41b4eb847d90f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-df1aff936c33b0f8a98b": {
+      "title": "DJI Osmo Action 5 Pro Standard Combo $377.15 (RRP $539) Delivered @ Mobileciti",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-12T19:26:32.987524+00:00",
+          "retailer": "Mobileciti",
+          "price": 377.15,
+          "deal_id": "ozbargain-fd360c4946577445",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a01cd264586c116e026c": {
+      "title": "$10 Promo Credit on $250 Amazon Gift Card Spend (First 5,000 Orders) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-12T19:26:32.987682+00:00",
+          "retailer": "Amazon AU",
+          "price": 10.0,
+          "deal_id": "ozbargain-bacd99d5fa9a1c60",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e7728a7fd01320855efb": {
+      "title": "Bosch 18V Professional Brushless 165mm Circular Saw 5.0Ah Kit $199 Delivered @ Bunnings Warehouse",
+      "brand": null,
+      "model": "165MM",
+      "observations": [
+        {
+          "timestamp": "2026-08-12T19:26:32.987819+00:00",
+          "retailer": "Bunnings Warehouse",
+          "price": 199.0,
+          "deal_id": "ozbargain-7028d3c3857eaf0f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-cc725d9e22588139329e": {
+      "title": "Google Pixel 11 Pro XL - $1448.64 (12/24/36 months) plus plan @ Telstra",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-12T19:26:32.987948+00:00",
+          "retailer": "Telstra",
+          "price": 1448.64,
+          "deal_id": "ozbargain-504f3445d5298c5f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1c433603dd40b79d0dca": {
+      "title": "25% + $20 Bonus Cashback on Vodafone 350GB 1-Year Prepaid Plus Starter Pack for $219 (Was $350), Activation Req'd @ ShopBack App",
+      "brand": null,
+      "model": "1-YEAR",
+      "observations": [
+        {
+          "timestamp": "2026-08-12T19:26:32.988074+00:00",
+          "retailer": "ShopBack App",
+          "price": 20.0,
+          "deal_id": "ozbargain-fda11e6532716f77",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-bb832ed7a69cc677bfc9": {
+      "title": "Samsonite Oc2lite 55cm Carry-On Luggage, Off-White $167 Delivered @ Samsonite",
+      "brand": null,
+      "model": "OC2LITE",
+      "observations": [
+        {
+          "timestamp": "2026-08-12T19:26:32.988198+00:00",
+          "retailer": "Samsonite",
+          "price": 167.0,
+          "deal_id": "ozbargain-1df19037dfcb8125",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7c35e448d4b38a49e8ff": {
+      "title": "Hikoki Framing Nailer and 15ga Brad Nailer Kit $999 @ Bunnings",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-12T19:26:32.988475+00:00",
+          "retailer": "Bunnings",
+          "price": 999.0,
+          "deal_id": "ozbargain-158789cc98e3201f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-88dcaf4a5807244c02af": {
+      "title": "Shark StainForce Portable Spot & Stain Cleaner $159 (Was $299) Delivered @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-12T19:26:32.988565+00:00",
+          "retailer": "Amazon AU",
+          "price": 159.0,
+          "deal_id": "ozbargain-4bb68fe89016e2c2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7660da7c3ec50d5fc416": {
+      "title": "eBay Australia: 10% Cashback ($20 Cap Per Member, Excludes Coupons) @ TopCashback AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-12T19:26:32.988709+00:00",
+          "retailer": "TopCashback AU",
+          "price": 20.0,
+          "deal_id": "ozbargain-579e3b0b5bc8179c",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-12T13:48:24.755002+00:00"
+  "updated_at": "2026-08-12T19:26:42.079544+00:00"
 }
