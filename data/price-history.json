@@ -1484,7 +1484,385 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-a93c01ae2c7833b57a57": {
+      "title": "Terramaster F4-425 Plus NAS Storage Intel N150 CPU, 16GB Ddr5 RAM, 5gbe LAN X 2, M.2 Slot X 3 $879.99 @Amazon.com.au",
+      "brand": "Intel",
+      "model": "F4-425",
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.249409+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 879.99,
+          "deal_id": "ozbargain-d1f4b503de2ed918",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b1a3636a60721704a05f": {
+      "title": "HOTO 3.6V Electric Cordless Screwdriver 25 bit kit $59 (RRP $99) + Delivery ($0 C&C/In-Store) @ CentreCom",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.249578+00:00",
+          "retailer": "CentreCom",
+          "price": 59.0,
+          "deal_id": "ozbargain-85bb4625d8960538",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-720ade97535e708415ec": {
+      "title": "[Afterpay] Ubiquiti Cloud Gateway Fiber with 4x 2.5G Switch, 10G SFP+ $446.25 Delivered @ Digilifeonline eBay",
+      "brand": "Ubiquiti",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.249714+00:00",
+          "retailer": "Digilifeonline eBay",
+          "price": 446.25,
+          "deal_id": "ozbargain-1b6601b96023add2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-671c9cd31a6fdf23f370": {
+      "title": "SOUNDPEATS UU2(POP Clip2) Open-Ear Headphones, Clip-on Fit Wireless Earbuds $47.99 (RRP $59.99) Delivered @ Amazon AU",
+      "brand": null,
+      "model": "CLIP2",
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.249819+00:00",
+          "retailer": "Amazon AU",
+          "price": 47.99,
+          "deal_id": "ozbargain-ec8721ca3e04bb67",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-3f5cf6cc6fbee72643c7": {
+      "title": "[Afterpay] Nintendo Switch 2 + Pokemon Pokopia Console Bundle - $654.46 + Delivery @ EB Games eBay",
+      "brand": "Nintendo",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.249919+00:00",
+          "retailer": "EB Games eBay",
+          "price": 654.46,
+          "deal_id": "ozbargain-da45be45fa9bffce",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d2b6a8c7f17077a42d39": {
+      "title": "Join via Compare The Market & Hold for 90 Days: $265 Cashback for Hospital & Extras, $215 CB for Hospital Only @ TopCashback AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.250051+00:00",
+          "retailer": "TopCashback AU",
+          "price": 265.0,
+          "deal_id": "ozbargain-9bf7e2b815dad30d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0b4af675408853491650": {
+      "title": "[Afterpay] Samsung Galaxy S26 256GB $879 Delivered @ Samsung eBay",
+      "brand": "Samsung",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.250275+00:00",
+          "retailer": "Samsung eBay",
+          "price": 879.0,
+          "deal_id": "ozbargain-093ab7c886b8634c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ed46823fa7aa512f58a8": {
+      "title": "Multix Non-Stick Baking Paper 50m x 30cm $6 (2 for $11.40) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU / Coles",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.250416+00:00",
+          "retailer": "Amazon AU / Coles",
+          "price": 6.0,
+          "deal_id": "ozbargain-d3ba3cea33ff225f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-06345966da4c06fc2303": {
+      "title": "$100 Free API Credit: GLM-5.2, DeepSeek, Gemma 4 (No Min. Spend) @ AI Compute Australia",
+      "brand": null,
+      "model": "GLM-5",
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.250539+00:00",
+          "retailer": "AI Compute Australia",
+          "price": 100.0,
+          "deal_id": "ozbargain-eaa0a89d68028471",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c30e4692d9df96bc61d4": {
+      "title": "Skullcandy Smokin Buds TWS In-Ear Flame $37 + Delivery ($0 C&C/In-Store) @ Bing Lee",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.250668+00:00",
+          "retailer": "Bing Lee",
+          "price": 37.0,
+          "deal_id": "ozbargain-ef11c6d516c5ad30",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-aded8a1c4035dbd37fe1": {
+      "title": "Apple iPhone 11 to 17 Series Cases/Covers $15/$19/$29 Delivered @ Phonebot",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.250781+00:00",
+          "retailer": "Phonebot",
+          "price": 15.0,
+          "deal_id": "ozbargain-c639ea43aea5c830",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-50eb7aee8b59ad2ea736": {
+      "title": "[PC, Steam, Switch, XSX] Pro Jank Footy $19.75 @ Steam/Nintendo eShop/Xbox",
+      "brand": "Nintendo",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.250887+00:00",
+          "retailer": "Steam/Nintendo eShop/Xbox",
+          "price": 19.75,
+          "deal_id": "ozbargain-fb41895941511921",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b5ff98645e8c7d361222": {
+      "title": "[Afterpay, Box Damaged] Dyson V15 Detect Absolute Vacuum Cleaner + Floor Dok $699 Delivered @ Dyson eBay",
+      "brand": "Dyson",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.251005+00:00",
+          "retailer": "Dyson eBay",
+          "price": 699.0,
+          "deal_id": "ozbargain-9241680c6212a322",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e8d1017d6d52a7c410ad": {
+      "title": "Samsung Galaxy S26 256GB Black or White $979.99 Delivered @ Costco Wholesale (Membership Required)",
+      "brand": "Samsung",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.251128+00:00",
+          "retailer": "Costco Wholesale (Membership Required)",
+          "price": 979.99,
+          "deal_id": "ozbargain-ca4dffd069fdb9ff",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-bac5d16f99be5e0adf66": {
+      "title": "Afterpay Day: up to 40% off Training Shoes, up to 60% off Apparel & Gear (Nike, Reebok, TYR, TWL) + $10 off @ TWL",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.251281+00:00",
+          "retailer": "TWL",
+          "price": 10.0,
+          "deal_id": "ozbargain-9bb1ec9218cbf19a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-fa483974461f111fa074": {
+      "title": "Join Hospital + Extras or Packaged Cover on Direct Debit, Stay 60 Days, Get $450 (Singles) / $650 (Family) EDR Dollars @ Bupa",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.251406+00:00",
+          "retailer": "Bupa",
+          "price": 450.0,
+          "deal_id": "ozbargain-98277500a33de75a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-92a6edffaeb202470f1c": {
+      "title": "[Afterpay] 15% off with $110 Minimum Spend on Eligible Items (Max Discount $120, One Use Per Account) @ eBay",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.251514+00:00",
+          "retailer": "eBay",
+          "price": 110.0,
+          "deal_id": "ozbargain-42aec74687d0bd27",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1f2cfeda38ec2dcfdbe7": {
+      "title": "Applaws Soup Bone Broth 6x85g 15% off $13.17 ($12.51 Auto Delivery) @ Pet Cirlce",
+      "brand": null,
+      "model": "6X85G",
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.251621+00:00",
+          "retailer": "Pet Cirlce",
+          "price": 13.17,
+          "deal_id": "ozbargain-d978e20c94778593",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-fed5d007b08ef686c63b": {
+      "title": "Tineco Floor One S7 Steam Stretch $555.20 Delivered @ Bing Lee",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.251729+00:00",
+          "retailer": "Bing Lee",
+          "price": 555.2,
+          "deal_id": "ozbargain-4a620daed41d3037",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d97a669ee0aa98bf3490": {
+      "title": "Nintendo Switch 2 Console $639 + Delivery ($0 C&C/ in-Store) @ The Good Guys",
+      "brand": "Nintendo",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.251847+00:00",
+          "retailer": "The Good Guys",
+          "price": 639.0,
+          "deal_id": "ozbargain-e771700c8b5b12e4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-bdde1b488f30df8e1d70": {
+      "title": "Google Pixel 10a 128GB $499 Delivered (New Customer Must Add Plan from $30/28-Day) @ amaysim",
+      "brand": null,
+      "model": "28-DAY",
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.251935+00:00",
+          "retailer": "amaysim",
+          "price": 499.0,
+          "deal_id": "ozbargain-c47d3a07be33a145",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4c3c67aec41adf923a62": {
+      "title": "20%-50% off Nike Football Boots & Basketball Shoes: Nike Phantom 6 $54.99 (RRP $109.99) + $9.99 Delivery ($0 WA C&C) @ Jim Kidd",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.252058+00:00",
+          "retailer": "Jim Kidd",
+          "price": 54.99,
+          "deal_id": "ozbargain-4a1a1f27a64f9165",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-318e81fa3b333b1288bd": {
+      "title": "Activate & Spend $X (Min. $50) in 1 Transaction for 4 Consecutive Weeks at Coles, Get 10,000 Flybuys Points or $50 off @ Flybuys",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.252205+00:00",
+          "retailer": "Flybuys",
+          "price": 50.0,
+          "deal_id": "ozbargain-5cb079896fc82680",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-fb7d1efbf25687af9637": {
+      "title": "$40 off $300-$399.99 Spend, $60 off $400+ Spend Online & In-Store (Excludes Delivery, Excludes Some Products) @ The Good Guys",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.252437+00:00",
+          "retailer": "The Good Guys",
+          "price": 40.0,
+          "deal_id": "ozbargain-b16bcaeb54a1bcee",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c4746dc62b1a6145575d": {
+      "title": "Samsung Galaxy S25 FE 8GB RAM/128GB Storage $522 (via Price Check) + Delivery ($0 C&C) @ The Good Guys",
+      "brand": "Samsung",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.252671+00:00",
+          "retailer": "The Good Guys",
+          "price": 522.0,
+          "deal_id": "ozbargain-e5a6ecac2e7ef6f5",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4a60c43a43a7c1d1c163": {
+      "title": "Pay with PayPal for US$16 off US$160, US$36 off US$260, US$43 off US$360 Spend @ AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.252789+00:00",
+          "retailer": "AliExpress",
+          "price": 16.0,
+          "deal_id": "ozbargain-5c54d4fb761a681e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f13ed27ac7f38d7dacca": {
+      "title": "Original Glazed Dozen Doughnuts $14.95 @ Krispy Kreme",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T02:47:38.252883+00:00",
+          "retailer": "Krispy Kreme",
+          "price": 14.95,
+          "deal_id": "ozbargain-3ca7314008bcc197",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-12T19:26:42.079544+00:00"
+  "updated_at": "2026-08-13T02:47:49.403515+00:00"
 }
