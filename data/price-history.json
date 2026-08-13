@@ -1916,6 +1916,13 @@
           "price": 36.76,
           "deal_id": "ozbargain-c31d619a10c4eb6e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-13T13:49:16.487994+00:00",
+          "retailer": "FitVille",
+          "price": 36.76,
+          "deal_id": "ozbargain-c31d619a10c4eb6e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -1958,6 +1965,13 @@
           "price": 234.5,
           "deal_id": "ozbargain-80ff67983a11b761",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-13T13:49:16.488318+00:00",
+          "retailer": "Wild Earth",
+          "price": 234.5,
+          "deal_id": "ozbargain-80ff67983a11b761",
+          "source": "OzBargain"
         }
       ]
     },
@@ -1968,6 +1982,13 @@
       "observations": [
         {
           "timestamp": "2026-08-13T07:53:59.334696+00:00",
+          "retailer": "Digilifeonline eBay",
+          "price": 497.25,
+          "deal_id": "ozbargain-f52a3f370127a955",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-13T13:49:16.488531+00:00",
           "retailer": "Digilifeonline eBay",
           "price": 497.25,
           "deal_id": "ozbargain-f52a3f370127a955",
@@ -1986,6 +2007,13 @@
           "price": 594.96,
           "deal_id": "ozbargain-b90dc122d7e1ea9b",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-13T13:49:16.488737+00:00",
+          "retailer": "EB Games eBay",
+          "price": 594.96,
+          "deal_id": "ozbargain-b90dc122d7e1ea9b",
+          "source": "OzBargain"
         }
       ]
     },
@@ -1996,6 +2024,13 @@
       "observations": [
         {
           "timestamp": "2026-08-13T07:53:59.334970+00:00",
+          "retailer": "The Athlete's Foot",
+          "price": 149.99,
+          "deal_id": "ozbargain-86d4894d026ff4b6",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-13T13:49:16.488854+00:00",
           "retailer": "The Athlete's Foot",
           "price": 149.99,
           "deal_id": "ozbargain-86d4894d026ff4b6",
@@ -2156,7 +2191,245 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-9d0e020e479ef017f34e": {
+      "title": "Hainan Airlines Rtn Ex SYD/MEL: Shanghai/Hangzhou $673, Beijing/Xi'an $674, Guangzhou $682, Shenzhen $683 & More (Aug-Dec) @ BTF",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T13:49:16.485721+00:00",
+          "retailer": "BTF",
+          "price": 673.0,
+          "deal_id": "ozbargain-feb0f2085ec08498",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7bd17eda04a0629b1f08": {
+      "title": "44% off Valvoline Synpower Engine Oil different Viscosity's $49.99 + Delivery ($0 C&C/ in-Store) @ Autobarn",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T13:49:16.485885+00:00",
+          "retailer": "Autobarn",
+          "price": 49.99,
+          "deal_id": "ozbargain-20fac6610e3e7454",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-eb3f744ba9efc07266da": {
+      "title": "Samsung Galaxy Watch9 (44mm BT) + Misty Band $400.42 Delivered @ Samsung Education Store",
+      "brand": "Samsung",
+      "model": "WATCH9",
+      "observations": [
+        {
+          "timestamp": "2026-08-13T13:49:16.486008+00:00",
+          "retailer": "Samsung Education Store",
+          "price": 400.42,
+          "deal_id": "ozbargain-822a5db69750ffc3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-92d9e5355db92e240be0": {
+      "title": "TerraMaster F4-424 Pro 4-Bay NAS (i3-N305, 32GB RAM, 2x M.2 NVMe, 2x 2.5G LAN) $847.99 Delivered @ TerraMaster Amazon AU",
+      "brand": null,
+      "model": "I3-N305",
+      "observations": [
+        {
+          "timestamp": "2026-08-13T13:49:16.486138+00:00",
+          "retailer": "TerraMaster Amazon AU",
+          "price": 847.99,
+          "deal_id": "ozbargain-49645949cb73f95a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e71bce8c709e154dcccc": {
+      "title": "ASUS TUF Gaming BE3600 Dual Band Wi-Fi 7 Router $149 (RRP $279) Delivered @ Amazon AU (Excl. NT)",
+      "brand": "Asus",
+      "model": "BE3600",
+      "observations": [
+        {
+          "timestamp": "2026-08-13T13:49:16.486262+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 149.0,
+          "deal_id": "ozbargain-8e879aa9a6dc9975",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d2b42d831d27551e8206": {
+      "title": "½ Price Whittaker's Slab Milk Chocolate Bar 50g $1.50 (Was $3) @ Coles",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T13:49:16.486376+00:00",
+          "retailer": "Coles",
+          "price": 1.5,
+          "deal_id": "ozbargain-8815a63619c89d2c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f5c76cb3b2dbdec2a6ed": {
+      "title": "[Pre Order] Google Pixel 11 Pro XL 256GB $91.56/Month + 240GB/Month $50/Month Plan for 12 Months @ Optus",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T13:49:16.486603+00:00",
+          "retailer": "Optus",
+          "price": 91.56,
+          "deal_id": "ozbargain-dcef94938b67f8b3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8fbe08fcef094987b836": {
+      "title": "Cadbury & More Chocolate Block Varieties 195g $6.00 (Was $9) @ Woolworths",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T13:49:16.486709+00:00",
+          "retailer": "Woolworths",
+          "price": 6.0,
+          "deal_id": "ozbargain-f1144c3ed7dbf427",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-bb3ec4d41ba11d84cb9e": {
+      "title": "Samsung Galaxy A17 5G 128GB Black $249.99 Shipped @ Costco (Membership Required)",
+      "brand": "Samsung",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T13:49:16.486932+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 249.99,
+          "deal_id": "ozbargain-09cbe6c28c14c88a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8095138af983851f4589": {
+      "title": "100x Cetirizine 10mg $8.99 Delivered @ PharmacySavings",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T13:49:16.487031+00:00",
+          "retailer": "PharmacySavings",
+          "price": 8.99,
+          "deal_id": "ozbargain-ab360167227d86cf",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7654a210243eaaa21805": {
+      "title": "Ninja Foodi Dual Zone Air Fryer, 2 Basket Airfryer $142 (RRP $188) Delivered @ Amazon AU (Excl. NT)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T13:49:16.487236+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 142.0,
+          "deal_id": "ozbargain-9fc149d7f0d5f5c4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6f70634e8fea5ab25465": {
+      "title": "Instant Pot 9-in-1 Duo Plus 5.7L Electric Pressure Cooker $109.16 (RRP $159) Delivered @ Amazon AU (Excl. NT)",
+      "brand": null,
+      "model": "9-IN-1",
+      "observations": [
+        {
+          "timestamp": "2026-08-13T13:49:16.487346+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 109.16,
+          "deal_id": "ozbargain-5a1963c4ddccc3ba",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-fccc2f47639a4e7ff9bd": {
+      "title": "Olympus M. Zuiko Digital ED 12mm F/2.0 Lens Silver (International Version) $422.20 Delivered @ Amazon Japan via AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T13:49:16.487459+00:00",
+          "retailer": "Amazon Japan via AU",
+          "price": 422.2,
+          "deal_id": "ozbargain-a7852d7d6dcea663",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-80d89bf59f3f6a3369b8": {
+      "title": "Sis GO Plus Isotonic Energy Gel 60ml $1.75 (Was $3.50) @ Coles",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T13:49:16.487655+00:00",
+          "retailer": "Coles",
+          "price": 1.75,
+          "deal_id": "ozbargain-e4fbe40b2f75f32b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c6bc81ffd2cbeba406c7": {
+      "title": "Bosch Series 6 9kg Front Load Washer $973 (via Price Check Button) + Delivery ($0 C&C) @ The Good Guys",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T13:49:16.487776+00:00",
+          "retailer": "The Good Guys",
+          "price": 973.0,
+          "deal_id": "ozbargain-33b140b72533b87d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-be42191fc2a55f764d52": {
+      "title": "Samsung 990 PRO 2TB PCIe 4.0 NVMe M.2 SSD $524.80 Delivered @ Amazon UK via AU",
+      "brand": "Samsung",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-13T13:49:16.488097+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 524.8,
+          "deal_id": "ozbargain-26cb197667065e8a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d18a6391e09d80d2ec2e": {
+      "title": "[Pre Order] Google Pixel 11 256GB + $320 240GB 365-Day Prepaid Mobile Plan for $1419 Delivered @ amaysim",
+      "brand": null,
+      "model": "365-DAY",
+      "observations": [
+        {
+          "timestamp": "2026-08-13T13:49:16.488219+00:00",
+          "retailer": "amaysim",
+          "price": 320.0,
+          "deal_id": "ozbargain-9ca8b858e81580e6",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-13T07:54:15.214457+00:00"
+  "updated_at": "2026-08-13T13:49:27.754461+00:00"
 }
