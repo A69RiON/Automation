@@ -2672,6 +2672,13 @@
           "price": 338.84,
           "deal_id": "ozbargain-068ddd9d0f877142",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T07:51:30.100389+00:00",
+          "retailer": "Ryda via Everyday Market",
+          "price": 338.84,
+          "deal_id": "ozbargain-068ddd9d0f877142",
+          "source": "OzBargain"
         }
       ]
     },
@@ -2682,6 +2689,13 @@
       "observations": [
         {
           "timestamp": "2026-08-14T02:46:43.284763+00:00",
+          "retailer": "Techunion",
+          "price": 1279.6,
+          "deal_id": "ozbargain-cdc0fb76f992c2b8",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T07:51:30.100488+00:00",
           "retailer": "Techunion",
           "price": 1279.6,
           "deal_id": "ozbargain-cdc0fb76f992c2b8",
@@ -2700,6 +2714,13 @@
           "price": 25.99,
           "deal_id": "ozbargain-8df8efe4dd366c3a",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T07:51:30.100606+00:00",
+          "retailer": "Mbest-AU via Amazon AU",
+          "price": 25.99,
+          "deal_id": "ozbargain-8df8efe4dd366c3a",
+          "source": "OzBargain"
         }
       ]
     },
@@ -2714,6 +2735,13 @@
           "price": 50.0,
           "deal_id": "ozbargain-ce22f5cc84854641",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T07:51:30.100711+00:00",
+          "retailer": "TopCashback AU",
+          "price": 50.0,
+          "deal_id": "ozbargain-ce22f5cc84854641",
+          "source": "OzBargain"
         }
       ]
     },
@@ -2724,6 +2752,13 @@
       "observations": [
         {
           "timestamp": "2026-08-14T02:46:43.285144+00:00",
+          "retailer": "Funlab Venues",
+          "price": 5.0,
+          "deal_id": "ozbargain-20396fc1a7856d3e",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T07:51:30.100818+00:00",
           "retailer": "Funlab Venues",
           "price": 5.0,
           "deal_id": "ozbargain-20396fc1a7856d3e",
@@ -2756,6 +2791,13 @@
           "price": 298.99,
           "deal_id": "ozbargain-50e76c2b04cda471",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T07:51:30.101078+00:00",
+          "retailer": "Roborock AU Direct Amazon AU",
+          "price": 298.99,
+          "deal_id": "ozbargain-50e76c2b04cda471",
+          "source": "OzBargain"
         }
       ]
     },
@@ -2766,6 +2808,13 @@
       "observations": [
         {
           "timestamp": "2026-08-14T02:46:43.285499+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 1359.0,
+          "deal_id": "ozbargain-8d21e93790931224",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T07:51:30.101273+00:00",
           "retailer": "JB Hi-Fi",
           "price": 1359.0,
           "deal_id": "ozbargain-8d21e93790931224",
@@ -2784,6 +2833,13 @@
           "price": 581.4,
           "deal_id": "ozbargain-c2b6b64495eb22e6",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T07:51:30.101404+00:00",
+          "retailer": "Centre Com eBay",
+          "price": 581.4,
+          "deal_id": "ozbargain-c2b6b64495eb22e6",
+          "source": "OzBargain"
         }
       ]
     },
@@ -2794,6 +2850,13 @@
       "observations": [
         {
           "timestamp": "2026-08-14T02:46:43.285755+00:00",
+          "retailer": "Elegoo AU",
+          "price": 80.0,
+          "deal_id": "ozbargain-988134c051f1f8bd",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T07:51:30.101517+00:00",
           "retailer": "Elegoo AU",
           "price": 80.0,
           "deal_id": "ozbargain-988134c051f1f8bd",
@@ -2812,6 +2875,13 @@
           "price": 80.0,
           "deal_id": "ozbargain-c7e95bb03fd5edb3",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T07:51:30.101621+00:00",
+          "retailer": "Sports Direct",
+          "price": 80.0,
+          "deal_id": "ozbargain-c7e95bb03fd5edb3",
+          "source": "OzBargain"
         }
       ]
     },
@@ -2822,6 +2892,13 @@
       "observations": [
         {
           "timestamp": "2026-08-14T02:46:43.285998+00:00",
+          "retailer": "The Good Guys",
+          "price": 179.0,
+          "deal_id": "ozbargain-edfef3964aa4a2a2",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T07:51:30.101751+00:00",
           "retailer": "The Good Guys",
           "price": 179.0,
           "deal_id": "ozbargain-edfef3964aa4a2a2",
@@ -2940,7 +3017,245 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-6f09e567101043f68e58": {
+      "title": "Private Internet Access (PIA VPN) 120% Cashback on 1-Month, 6-Month & 2-Year Plans for New PIA Customers @ TopCashback AU",
+      "brand": null,
+      "model": "1-MONTH",
+      "observations": [
+        {
+          "timestamp": "2026-08-14T07:51:30.098365+00:00",
+          "retailer": "TopCashback AU",
+          "price": 51.74,
+          "deal_id": "ozbargain-6dec42711e1ded9b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-79c657b6be1365d210b8": {
+      "title": "Round Lab 1025 Dokdo Toner Set 2 x 200ml + 1 x 100ml $39.99 Delivered @ Costco (Membership Required)",
+      "brand": null,
+      "model": "200ML",
+      "observations": [
+        {
+          "timestamp": "2026-08-14T07:51:30.098647+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 39.99,
+          "deal_id": "ozbargain-06140775509e9eb8",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0d8f8b4d94d86de879d1": {
+      "title": "DeLonghi Magnifica Evo $599.40, La Specialista Arte $479.40 Delivered @ De'Longhi Australia",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T07:51:30.098773+00:00",
+          "retailer": "De'Longhi Australia",
+          "price": 599.4,
+          "deal_id": "ozbargain-a39f9d90fb38f3f9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b7a1920795aae2bc0688": {
+      "title": "Xiaomi 17T 5G (Dual Sim, 256GB/12GB, AU Version) $797.99 Shipped @ Mobileciti via Everyday Market",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T07:51:30.098875+00:00",
+          "retailer": "Mobileciti via Everyday Market",
+          "price": 797.99,
+          "deal_id": "ozbargain-9b9d9a59de08f2e4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2028216b32bbb3e76787": {
+      "title": "Bonus A$20-$350 in Crypto Each for Referrer and Referee after Referee Trades A$200 in Non-Stablecoin within 30 Days @ Kraken",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T07:51:30.099004+00:00",
+          "retailer": "Kraken",
+          "price": 20.0,
+          "deal_id": "ozbargain-80d1a01e1a5cc5fe",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e612c4f6f52f39ca6238": {
+      "title": "BeyerDynamic Aventho 300 ANC Over-Ear Headphones (Nordic Grey) $399 + Delivery ($0 NSW C&C/ mVIP) @ Mwave",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T07:51:30.099153+00:00",
+          "retailer": "Mwave",
+          "price": 399.0,
+          "deal_id": "ozbargain-d0ef8d6e7032c73f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8d67866a3cc1040c3dc3": {
+      "title": "Panasonic ES-PV3B-K841 Wet & Dry Shaver $299 Delivered @ Shaver Shop",
+      "brand": "Panasonic",
+      "model": "ES-PV3B-K841",
+      "observations": [
+        {
+          "timestamp": "2026-08-14T07:51:30.099263+00:00",
+          "retailer": "Shaver Shop",
+          "price": 299.0,
+          "deal_id": "ozbargain-0cb8eda6a715646e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-adb341c725018d4ecdcb": {
+      "title": "10% off Travel eSIMs (e.g. 3GB Japan Data for 30 Days US$3.60 / ~A$5.10) @ Travel eSIM Empire",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T07:51:30.099367+00:00",
+          "retailer": "Travel eSIM Empire",
+          "price": 3.6,
+          "deal_id": "ozbargain-5aec849d3fc62c4c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ca99e21d324e7121c289": {
+      "title": "Philips Evnia 26.5in QHD QD-OLED 240Hz Gaming Monitor (27M2N6500L) $551 + Delivery @ Umart via Everyday Market",
+      "brand": "Philips",
+      "model": "27M2N6500L",
+      "observations": [
+        {
+          "timestamp": "2026-08-14T07:51:30.099473+00:00",
+          "retailer": "Umart via Everyday Market",
+          "price": 551.0,
+          "deal_id": "ozbargain-e5599a68ccd3dc46",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-694b3503ebe595bc7694": {
+      "title": "anko 2400W Convection LED Heater with Timer $29 + Delivery ($0 OnePass/C&C/in Store) @ Kmart",
+      "brand": null,
+      "model": "2400W",
+      "observations": [
+        {
+          "timestamp": "2026-08-14T07:51:30.099592+00:00",
+          "retailer": "Kmart",
+          "price": 29.0,
+          "deal_id": "ozbargain-04319b00f6abb780",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-71e51b5a2d87296c38f6": {
+      "title": "Xiaomi 17T 256GB $799 Delivered @ Xiaomi Australia",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T07:51:30.099692+00:00",
+          "retailer": "Xiaomi Australia",
+          "price": 799.0,
+          "deal_id": "ozbargain-30c238d1cbd7a237",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8e05be7feda1e1e82142": {
+      "title": "[NSW] BOGOF High Tea - 2 People for $80 - Monday-Thursday 3pm-5pm @ Gunners Barracks",
+      "brand": null,
+      "model": "3PM-5PM",
+      "observations": [
+        {
+          "timestamp": "2026-08-14T07:51:30.099804+00:00",
+          "retailer": "Gunners Barracks",
+          "price": 80.0,
+          "deal_id": "ozbargain-2fac7c6b0ade2866",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4f1b54022de3c914c14f": {
+      "title": "Apple Airtag 2nd Gen 4-Pack $144 + Delivery ($0 C&C/ in-Store) @ Bing Lee",
+      "brand": "Apple",
+      "model": "4-PACK",
+      "observations": [
+        {
+          "timestamp": "2026-08-14T07:51:30.099893+00:00",
+          "retailer": "Bing Lee",
+          "price": 144.0,
+          "deal_id": "ozbargain-e6477406c05c0378",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ad543f9161516ed710de": {
+      "title": "Ozito PXC 18V 160mm 6¼” Brushless Pruning Chainsaw (Skin Only) $48.92 + Delivery ($0 C&C/ in-Store/ OnePass) @ Bunnings",
+      "brand": null,
+      "model": "160MM",
+      "observations": [
+        {
+          "timestamp": "2026-08-14T07:51:30.100028+00:00",
+          "retailer": "Bunnings",
+          "price": 48.92,
+          "deal_id": "ozbargain-82fcff4775ea3992",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1cc0315eb180b2460e6c": {
+      "title": "Daron Jetstar 787 Airport Small Playset $15 + $9.90 Delivery ($0 NSW C&C/ $125 Order) @ Hobbyco",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T07:51:30.100172+00:00",
+          "retailer": "Hobbyco",
+          "price": 15.0,
+          "deal_id": "ozbargain-a827a4b24863ca9f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f4b65b3e94d753239c54": {
+      "title": "[PS5] Mafia: The Old Country $45.90 + Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T07:51:30.100283+00:00",
+          "retailer": "Amazon AU",
+          "price": 45.9,
+          "deal_id": "ozbargain-fcffdacd4cef1030",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-254e7fe965ec20e98b8f": {
+      "title": "[Switch] Cruis'n Blast (Code in Box) $26.46 (RRP $39.95) + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T07:51:30.100921+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 26.46,
+          "deal_id": "ozbargain-508bec6d55dd844f",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-14T02:46:55.434668+00:00"
+  "updated_at": "2026-08-14T07:51:40.921027+00:00"
 }
