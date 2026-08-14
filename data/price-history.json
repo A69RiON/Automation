@@ -2217,6 +2217,13 @@
           "price": 673.0,
           "deal_id": "ozbargain-feb0f2085ec08498",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T02:46:43.287832+00:00",
+          "retailer": "BTF",
+          "price": 673.0,
+          "deal_id": "ozbargain-feb0f2085ec08498",
+          "source": "OzBargain"
         }
       ]
     },
@@ -2252,6 +2259,13 @@
           "price": 400.42,
           "deal_id": "ozbargain-785bc462bedd8119",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T02:46:43.288087+00:00",
+          "retailer": "Samsung Education Store",
+          "price": 400.42,
+          "deal_id": "ozbargain-785bc462bedd8119",
+          "source": "OzBargain"
         }
       ]
     },
@@ -2269,6 +2283,13 @@
         },
         {
           "timestamp": "2026-08-13T19:21:53.698997+00:00",
+          "retailer": "TerraMaster Amazon AU",
+          "price": 847.99,
+          "deal_id": "ozbargain-49645949cb73f95a",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T02:46:43.288227+00:00",
           "retailer": "TerraMaster Amazon AU",
           "price": 847.99,
           "deal_id": "ozbargain-49645949cb73f95a",
@@ -2574,6 +2595,13 @@
           "price": 40.0,
           "deal_id": "ozbargain-7c82934e5211dc8e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T02:46:43.287436+00:00",
+          "retailer": "ShopBack",
+          "price": 40.0,
+          "deal_id": "ozbargain-7c82934e5211dc8e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -2584,6 +2612,13 @@
       "observations": [
         {
           "timestamp": "2026-08-13T19:21:53.698373+00:00",
+          "retailer": "TopCashback AU",
+          "price": 35.0,
+          "deal_id": "ozbargain-33617f77cc74cc9c",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T02:46:43.287549+00:00",
           "retailer": "TopCashback AU",
           "price": 35.0,
           "deal_id": "ozbargain-33617f77cc74cc9c",
@@ -2616,9 +2651,296 @@
           "price": 49.99,
           "deal_id": "ozbargain-a087ee2187c1b4d3",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T02:46:43.287967+00:00",
+          "retailer": "Autobarn",
+          "price": 49.99,
+          "deal_id": "ozbargain-a087ee2187c1b4d3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-009d4017ad95ab51dfcc": {
+      "title": "Garmin Instinct 2 Solar Smart Watch in Graphite $338.84 (RRP $679) Delivered @ Ryda via Everyday Market",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.284620+00:00",
+          "retailer": "Ryda via Everyday Market",
+          "price": 338.84,
+          "deal_id": "ozbargain-068ddd9d0f877142",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-58c83faf5a58a5ff5f43": {
+      "title": "60% off PowerGuard 3000W Portable Power Station (2560Wh) $1,279.60 (RRP $3,199) Delivered @ Techunion",
+      "brand": null,
+      "model": "2560WH",
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.284763+00:00",
+          "retailer": "Techunion",
+          "price": 1279.6,
+          "deal_id": "ozbargain-cdc0fb76f992c2b8",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-024742e727bc670c3ca1": {
+      "title": "NOVOO 67W 3-Port GaN Charger Black with USB-C Cable $25.99 + Delivery ($0 with Prime) @ Mbest-AU via Amazon AU",
+      "brand": null,
+      "model": "3-PORT",
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.284901+00:00",
+          "retailer": "Mbest-AU via Amazon AU",
+          "price": 25.99,
+          "deal_id": "ozbargain-8df8efe4dd366c3a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1718483ffde349ee4b06": {
+      "title": "Everyday Market from Woolworths: 30% Cashback on Minimum $50 Spend, Capped at $150 Per Member @ TopCashback AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.285021+00:00",
+          "retailer": "TopCashback AU",
+          "price": 50.0,
+          "deal_id": "ozbargain-ce22f5cc84854641",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9d18daa62ea4686d9bb4": {
+      "title": "$5 Activities - Bowling, Mini Golf, Darts, Laser Tag, Challenge Rooms @ Funlab Venues",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.285144+00:00",
+          "retailer": "Funlab Venues",
+          "price": 5.0,
+          "deal_id": "ozbargain-20396fc1a7856d3e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-15b47122b4ea422a1244": {
+      "title": "[Switch] Cruisn'n Blast $26.46 (RRP $39.95) + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.285259+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 26.46,
+          "deal_id": "ozbargain-91a010618f569037",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2f7a7896ad22a261d191": {
+      "title": "Roborock Q7T+ Robotic Vacuum Cleaner, Black $298.99 (RRP $799) Delivered @ Roborock AU Direct Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.285372+00:00",
+          "retailer": "Roborock AU Direct Amazon AU",
+          "price": 298.99,
+          "deal_id": "ozbargain-50e76c2b04cda471",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-43e8de0720cf128dd14e": {
+      "title": "Lenovo Yoga S7 14\" WUXGA OLED Laptop (Intel Core Ultra 7 256V, 16GB RAM, 1TB SSD) $1,359 + Delivery Only @ JB Hi-Fi",
+      "brand": "Lenovo",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.285499+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 1359.0,
+          "deal_id": "ozbargain-8d21e93790931224",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-539ac452e3660758e571": {
+      "title": "[Afterpay] PowerColor Reaper Radeon RX 9060 XT 16GB GDDR6 Graphics Card $581.40 Delivered @ Centre Com eBay",
+      "brand": null,
+      "model": "RX 9060",
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.285638+00:00",
+          "retailer": "Centre Com eBay",
+          "price": 581.4,
+          "deal_id": "ozbargain-c2b6b64495eb22e6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2c1e26b8e8339b57ad34": {
+      "title": "Elegoo ASA 1kg Roll - 5 for $80 Delivered @ Elegoo AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.285755+00:00",
+          "retailer": "Elegoo AU",
+          "price": 80.0,
+          "deal_id": "ozbargain-988134c051f1f8bd",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-eb9a77df4272eee3f776": {
+      "title": "Nautica Men's Puffer Hooded Jacket $80 (Was $249.99, 68% Off) + $10 Delivery ($0 with $150 Order) @ Sports Direct",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.285863+00:00",
+          "retailer": "Sports Direct",
+          "price": 80.0,
+          "deal_id": "ozbargain-c7e95bb03fd5edb3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-de7c621d4759b9a4a4c9": {
+      "title": "Panasonic 25L 900W Microwave White $179 ($174 with Price Check Button) + Delivery ($0 C&C) @ The Good Guys",
+      "brand": "Panasonic",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.285998+00:00",
+          "retailer": "The Good Guys",
+          "price": 179.0,
+          "deal_id": "ozbargain-edfef3964aa4a2a2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8f82dd94e2d76f225a26": {
+      "title": "[SA] 1 Dozen Original Glaze Donuts $15 (Limit 3 Dozens Per Person) + Delivery ($0 in-Store / $70 Spend) @ Krispy Kreme SA",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.286229+00:00",
+          "retailer": "Krispy Kreme SA",
+          "price": 15.0,
+          "deal_id": "ozbargain-98a5538e9b963f17",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-457a1f428782c51e3c10": {
+      "title": "25% Sitewide (Watches) + $12.50 Delivery ($0 with $100 Order) @ Nixon",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.286335+00:00",
+          "retailer": "Nixon",
+          "price": 12.5,
+          "deal_id": "ozbargain-2c395fa2c2c2b34c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ef441697727fab78d1dd": {
+      "title": "AmEx Statement Offer: Spend $500 or More at Samsung (Online Only), Get $100 Back @ American Express",
+      "brand": "Samsung",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.286502+00:00",
+          "retailer": "American Express",
+          "price": 500.0,
+          "deal_id": "ozbargain-4c52b77b37d54e78",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-640e72def1383185eb4e": {
+      "title": "McLaren Vale Merlot Shiraz Cabernet Blend 2024 (6 Bottles) $58.50 Delivered / SA C&C (RRP $132) @ Bec Hardy Wines",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.286669+00:00",
+          "retailer": "Bec Hardy Wines",
+          "price": 58.5,
+          "deal_id": "ozbargain-2263b712defd895e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a0fa5cba90dc05217009": {
+      "title": "[Switch 2] Star Fox $69 Delivered / C&C / In-Store @ Target",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.286790+00:00",
+          "retailer": "Target",
+          "price": 69.0,
+          "deal_id": "ozbargain-bf5f76af46ce0b1c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-01998147e3c2547b00d6": {
+      "title": "[PC, Steam] Gears of War: Reloaded $14.98, Gears Tactics $9.98 @ Steam",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.286900+00:00",
+          "retailer": "Steam",
+          "price": 14.98,
+          "deal_id": "ozbargain-638ff88b2f54e5d5",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-62e5ce0c62def2cada27": {
+      "title": "[Pre Order] UBD Brisbane, Gold Coast & Sunshine Coast Street Directory 71st Ed. $43.75 + Del ($0 Prime/ $59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.287343+00:00",
+          "retailer": "Amazon AU",
+          "price": 43.75,
+          "deal_id": "ozbargain-1171edf3ce5e06cd",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b4bf90f78df84f27746b": {
+      "title": "$5 Cashback with $50 Minimum Spend at Coles @ Commbank Yello (Activation Required)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T02:46:43.287697+00:00",
+          "retailer": "Commbank Yello (Activation Required)",
+          "price": 5.0,
+          "deal_id": "ozbargain-37efc4bf873348e4",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-08-13T19:22:04.939509+00:00"
+  "updated_at": "2026-08-14T02:46:55.434668+00:00"
 }
