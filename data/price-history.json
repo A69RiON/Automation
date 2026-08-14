@@ -3050,6 +3050,13 @@
           "price": 39.99,
           "deal_id": "ozbargain-06140775509e9eb8",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.545721+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 39.99,
+          "deal_id": "ozbargain-06140775509e9eb8",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3067,6 +3074,13 @@
         },
         {
           "timestamp": "2026-08-14T13:44:16.200276+00:00",
+          "retailer": "De'Longhi Australia",
+          "price": 599.4,
+          "deal_id": "ozbargain-a39f9d90fb38f3f9",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.545827+00:00",
           "retailer": "De'Longhi Australia",
           "price": 599.4,
           "deal_id": "ozbargain-a39f9d90fb38f3f9",
@@ -3092,6 +3106,13 @@
           "price": 797.99,
           "deal_id": "ozbargain-9b9d9a59de08f2e4",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.545919+00:00",
+          "retailer": "Mobileciti via Everyday Market",
+          "price": 797.99,
+          "deal_id": "ozbargain-9b9d9a59de08f2e4",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3109,6 +3130,13 @@
         },
         {
           "timestamp": "2026-08-14T13:44:16.200489+00:00",
+          "retailer": "Kraken",
+          "price": 20.0,
+          "deal_id": "ozbargain-80d1a01e1a5cc5fe",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.546036+00:00",
           "retailer": "Kraken",
           "price": 20.0,
           "deal_id": "ozbargain-80d1a01e1a5cc5fe",
@@ -3134,6 +3162,13 @@
           "price": 399.0,
           "deal_id": "ozbargain-d0ef8d6e7032c73f",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.546151+00:00",
+          "retailer": "Mwave",
+          "price": 399.0,
+          "deal_id": "ozbargain-d0ef8d6e7032c73f",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3151,6 +3186,13 @@
         },
         {
           "timestamp": "2026-08-14T13:44:16.200705+00:00",
+          "retailer": "Shaver Shop",
+          "price": 299.0,
+          "deal_id": "ozbargain-0cb8eda6a715646e",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.546254+00:00",
           "retailer": "Shaver Shop",
           "price": 299.0,
           "deal_id": "ozbargain-0cb8eda6a715646e",
@@ -3190,6 +3232,13 @@
           "price": 551.0,
           "deal_id": "ozbargain-e5599a68ccd3dc46",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.546373+00:00",
+          "retailer": "Umart via Everyday Market",
+          "price": 551.0,
+          "deal_id": "ozbargain-e5599a68ccd3dc46",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3207,6 +3256,13 @@
         },
         {
           "timestamp": "2026-08-14T13:44:16.200923+00:00",
+          "retailer": "Kmart",
+          "price": 29.0,
+          "deal_id": "ozbargain-04319b00f6abb780",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.546488+00:00",
           "retailer": "Kmart",
           "price": 29.0,
           "deal_id": "ozbargain-04319b00f6abb780",
@@ -3232,6 +3288,13 @@
           "price": 799.0,
           "deal_id": "ozbargain-30c238d1cbd7a237",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.546584+00:00",
+          "retailer": "Xiaomi Australia",
+          "price": 799.0,
+          "deal_id": "ozbargain-30c238d1cbd7a237",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3249,6 +3312,13 @@
         },
         {
           "timestamp": "2026-08-14T13:44:16.201137+00:00",
+          "retailer": "Gunners Barracks",
+          "price": 80.0,
+          "deal_id": "ozbargain-2fac7c6b0ade2866",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.546691+00:00",
           "retailer": "Gunners Barracks",
           "price": 80.0,
           "deal_id": "ozbargain-2fac7c6b0ade2866",
@@ -3358,11 +3428,18 @@
           "price": 583.98,
           "deal_id": "ozbargain-145800529d1ee30e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.543869+00:00",
+          "retailer": "TerraMaster Amazon AU",
+          "price": 583.98,
+          "deal_id": "ozbargain-145800529d1ee30e",
+          "source": "OzBargain"
         }
       ]
     },
     "product-6f302a770fcd8366297a": {
-      "title": "Samsung Galaxy Watch8 $318 Delivered @ Amazon AU",
+      "title": "Samsung Galaxy Watch8 Bluetooth, 40 mm, Sport Band $318 Delivered @ Amazon AU",
       "brand": "Samsung",
       "model": "WATCH8",
       "observations": [
@@ -3372,11 +3449,18 @@
           "price": 318.0,
           "deal_id": "ozbargain-61937365ff9414cd",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.543973+00:00",
+          "retailer": "Amazon AU",
+          "price": 318.0,
+          "deal_id": "ozbargain-a1763d83fc3a915b",
+          "source": "OzBargain"
         }
       ]
     },
     "product-4f0efc9e039ae94f105c": {
-      "title": "[Box Damaged] Sony FE 85mm F1.4 GM Lens $999 Delivered @ Sony eBay Australia",
+      "title": "[Box Damaged] Sony FE 85mm F1.4 GM Lens $999 Delivered (Excludes WA, TAS, NT) @ Sony eBay",
       "brand": "Sony",
       "model": null,
       "observations": [
@@ -3385,6 +3469,13 @@
           "retailer": "Sony eBay Australia",
           "price": 999.0,
           "deal_id": "ozbargain-5c7a9e101c999781",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.544093+00:00",
+          "retailer": "Sony eBay",
+          "price": 999.0,
+          "deal_id": "ozbargain-e54ca6fcfa3e6e5e",
           "source": "OzBargain"
         }
       ]
@@ -3396,6 +3487,13 @@
       "observations": [
         {
           "timestamp": "2026-08-14T13:44:16.198563+00:00",
+          "retailer": "Centre Com eBay",
+          "price": 345.1,
+          "deal_id": "ozbargain-f59266996e0489d6",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.544201+00:00",
           "retailer": "Centre Com eBay",
           "price": 345.1,
           "deal_id": "ozbargain-f59266996e0489d6",
@@ -3414,6 +3512,13 @@
           "price": 20.0,
           "deal_id": "ozbargain-4790813e41d64573",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.544318+00:00",
+          "retailer": "Coles",
+          "price": 20.0,
+          "deal_id": "ozbargain-4790813e41d64573",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3424,6 +3529,13 @@
       "observations": [
         {
           "timestamp": "2026-08-14T13:44:16.198821+00:00",
+          "retailer": "Target",
+          "price": 79.0,
+          "deal_id": "ozbargain-aa4177a17639ba5f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.544456+00:00",
           "retailer": "Target",
           "price": 79.0,
           "deal_id": "ozbargain-aa4177a17639ba5f",
@@ -3442,6 +3554,13 @@
           "price": 9.0,
           "deal_id": "ozbargain-9361184979e02eaf",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.544573+00:00",
+          "retailer": "Amazon AU",
+          "price": 9.0,
+          "deal_id": "ozbargain-9361184979e02eaf",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3452,6 +3571,13 @@
       "observations": [
         {
           "timestamp": "2026-08-14T13:44:16.199070+00:00",
+          "retailer": "Shopback App",
+          "price": 3.0,
+          "deal_id": "ozbargain-ebbef81c2a5168d2",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.544690+00:00",
           "retailer": "Shopback App",
           "price": 3.0,
           "deal_id": "ozbargain-ebbef81c2a5168d2",
@@ -3470,6 +3596,13 @@
           "price": 14.5,
           "deal_id": "ozbargain-38820c7936e43392",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.544787+00:00",
+          "retailer": "PropertyFlags",
+          "price": 14.5,
+          "deal_id": "ozbargain-38820c7936e43392",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3480,6 +3613,13 @@
       "observations": [
         {
           "timestamp": "2026-08-14T13:44:16.199267+00:00",
+          "retailer": "Centre Com eBay",
+          "price": 498.95,
+          "deal_id": "ozbargain-011f70fdb2decc3f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.544864+00:00",
           "retailer": "Centre Com eBay",
           "price": 498.95,
           "deal_id": "ozbargain-011f70fdb2decc3f",
@@ -3498,6 +3638,13 @@
           "price": 249.0,
           "deal_id": "ozbargain-b0158b6d2cccf00c",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.544973+00:00",
+          "retailer": "StarBuy",
+          "price": 249.0,
+          "deal_id": "ozbargain-b0158b6d2cccf00c",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3508,6 +3655,13 @@
       "observations": [
         {
           "timestamp": "2026-08-14T13:44:16.199477+00:00",
+          "retailer": "BIG W, Canberra Airport",
+          "price": 2.0,
+          "deal_id": "ozbargain-50fefbdfd0e36a7a",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.545054+00:00",
           "retailer": "BIG W, Canberra Airport",
           "price": 2.0,
           "deal_id": "ozbargain-50fefbdfd0e36a7a",
@@ -3526,6 +3680,13 @@
           "price": 50.0,
           "deal_id": "ozbargain-41a0bcd70c9e4471",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.545169+00:00",
+          "retailer": "Flybuys",
+          "price": 50.0,
+          "deal_id": "ozbargain-41a0bcd70c9e4471",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3540,9 +3701,58 @@
           "price": 11.0,
           "deal_id": "ozbargain-fe55869364bcdfd3",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-14T19:14:51.545392+00:00",
+          "retailer": "Domino's (Select WA Stores)",
+          "price": 11.0,
+          "deal_id": "ozbargain-fe55869364bcdfd3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-470093be92c7f1fe5852": {
+      "title": "Z-Edge 34 Inch 165Hz Ultrawide Monitor 21:9, IPS Panel, UWQHD(3440x1440) $339",
+      "brand": null,
+      "model": "3440X1440",
+      "observations": [
+        {
+          "timestamp": "2026-08-14T19:14:51.543492+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 339.0,
+          "deal_id": "ozbargain-69343c93dd646b0d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-78448b9a03f52a333f63": {
+      "title": "Philips 27\" IPS QHD 75Hz VGA HDMI DP Monitor $139 Delivered @ Amazon AU",
+      "brand": "Philips",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-14T19:14:51.543621+00:00",
+          "retailer": "Amazon AU",
+          "price": 139.0,
+          "deal_id": "ozbargain-44eda99401163c3d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d4f29a3620c6a25d4f96": {
+      "title": "LG 29WQ500 29\" 21:9 UltraWide Full HD (2560 x 1080) Monitor $219 (RRP $349) Delivered @ Amazon AU",
+      "brand": "LG",
+      "model": "29WQ500",
+      "observations": [
+        {
+          "timestamp": "2026-08-14T19:14:51.543741+00:00",
+          "retailer": "Amazon AU",
+          "price": 219.0,
+          "deal_id": "ozbargain-9c0d4b0b10753747",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-08-14T13:44:28.011820+00:00"
+  "updated_at": "2026-08-14T19:15:03.870526+00:00"
 }
