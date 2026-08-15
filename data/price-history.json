@@ -2847,6 +2847,13 @@
           "price": 549.0,
           "deal_id": "ozbargain-c7f6dfc2fae3be2b",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T18:47:48.832711+00:00",
+          "retailer": "Shopping Express Epic Hour",
+          "price": 549.0,
+          "deal_id": "ozbargain-c7f6dfc2fae3be2b",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3967,6 +3974,13 @@
           "price": 1828.0,
           "deal_id": "ozbargain-09153fda7ae53f6d",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T18:47:48.833874+00:00",
+          "retailer": "Appliance Central",
+          "price": 1828.0,
+          "deal_id": "ozbargain-09153fda7ae53f6d",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4163,6 +4177,13 @@
           "price": 0.15,
           "deal_id": "ozbargain-9b9f7200b8e9d6cb",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T18:47:48.833702+00:00",
+          "retailer": "Google Play",
+          "price": 0.15,
+          "deal_id": "ozbargain-9b9f7200b8e9d6cb",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4180,6 +4201,13 @@
         },
         {
           "timestamp": "2026-08-15T12:59:56.872857+00:00",
+          "retailer": "Chemist Warehouse",
+          "price": 74.99,
+          "deal_id": "ozbargain-5faab9f38f4ca817",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T18:47:48.833790+00:00",
           "retailer": "Chemist Warehouse",
           "price": 74.99,
           "deal_id": "ozbargain-5faab9f38f4ca817",
@@ -4205,6 +4233,13 @@
           "price": 653.65,
           "deal_id": "ozbargain-ef9c90a6e7045d52",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T18:47:48.833942+00:00",
+          "retailer": "DigiDirect eBay",
+          "price": 653.65,
+          "deal_id": "ozbargain-ef9c90a6e7045d52",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4226,6 +4261,13 @@
           "price": 35.9,
           "deal_id": "ozbargain-ca42b31304b07296",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T18:47:48.834036+00:00",
+          "retailer": "Cyborg Sport via Amazon AU",
+          "price": 35.9,
+          "deal_id": "ozbargain-ca42b31304b07296",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4243,6 +4285,13 @@
         },
         {
           "timestamp": "2026-08-15T12:59:56.873328+00:00",
+          "retailer": "The Wicked Yak Clearance Center eBay",
+          "price": 39.99,
+          "deal_id": "ozbargain-8684023c42421cb6",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T18:47:48.834121+00:00",
           "retailer": "The Wicked Yak Clearance Center eBay",
           "price": 39.99,
           "deal_id": "ozbargain-8684023c42421cb6",
@@ -4282,6 +4331,13 @@
           "price": 159.99,
           "deal_id": "ozbargain-db00f003b9e9ffac",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T18:47:48.834370+00:00",
+          "retailer": "Saucony",
+          "price": 159.99,
+          "deal_id": "ozbargain-db00f003b9e9ffac",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4299,6 +4355,13 @@
         },
         {
           "timestamp": "2026-08-15T12:59:56.873769+00:00",
+          "retailer": "Bunnings Warehouse",
+          "price": 1595.0,
+          "deal_id": "ozbargain-c575b49cf4f41d0f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T18:47:48.834445+00:00",
           "retailer": "Bunnings Warehouse",
           "price": 1595.0,
           "deal_id": "ozbargain-c575b49cf4f41d0f",
@@ -4450,6 +4513,13 @@
           "price": 45.99,
           "deal_id": "ozbargain-9a96834b90a024dc",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T18:47:48.832874+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 45.99,
+          "deal_id": "ozbargain-9a96834b90a024dc",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4460,6 +4530,13 @@
       "observations": [
         {
           "timestamp": "2026-08-15T12:59:56.871592+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 36.99,
+          "deal_id": "ozbargain-611beaf395cb7d91",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T18:47:48.832941+00:00",
           "retailer": "Costco (Membership Required)",
           "price": 36.99,
           "deal_id": "ozbargain-611beaf395cb7d91",
@@ -4478,6 +4555,13 @@
           "price": 1181.0,
           "deal_id": "ozbargain-9589d40b803c30df",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T18:47:48.833028+00:00",
+          "retailer": "BTF",
+          "price": 1181.0,
+          "deal_id": "ozbargain-9589d40b803c30df",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4488,6 +4572,13 @@
       "observations": [
         {
           "timestamp": "2026-08-15T12:59:56.871888+00:00",
+          "retailer": "Mr Bargain",
+          "price": 18.0,
+          "deal_id": "ozbargain-61a9528d2a93daf6",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T18:47:48.833123+00:00",
           "retailer": "Mr Bargain",
           "price": 18.0,
           "deal_id": "ozbargain-61a9528d2a93daf6",
@@ -4506,6 +4597,13 @@
           "price": 20.39,
           "deal_id": "ozbargain-72e868e9aa5ad8f9",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T18:47:48.833290+00:00",
+          "retailer": "INIU AU via Amazon AU",
+          "price": 20.39,
+          "deal_id": "ozbargain-72e868e9aa5ad8f9",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4520,6 +4618,13 @@
           "price": 315.0,
           "deal_id": "ozbargain-ff8474c4fff332f9",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T18:47:48.833395+00:00",
+          "retailer": "Syd Tools",
+          "price": 315.0,
+          "deal_id": "ozbargain-ff8474c4fff332f9",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4530,6 +4635,13 @@
       "observations": [
         {
           "timestamp": "2026-08-15T12:59:56.873555+00:00",
+          "retailer": "Bunnings, Springvale",
+          "price": 4.0,
+          "deal_id": "ozbargain-d41c555a242944e0",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T18:47:48.834286+00:00",
           "retailer": "Bunnings, Springvale",
           "price": 4.0,
           "deal_id": "ozbargain-d41c555a242944e0",
@@ -4550,7 +4662,119 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-1148c1bab2bda0fb0b71": {
+      "title": "[PS5] Gears of War: Reloaded $29.97 @ PlayStation",
+      "brand": "Playstation",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T18:47:48.831936+00:00",
+          "retailer": "PlayStation",
+          "price": 29.97,
+          "deal_id": "ozbargain-160d4d21f3a801a9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9d351d580cb3609aa21c": {
+      "title": "Double Your Dollars Arcade Game Card (Pay $35/$50/$100, Get $70/$100/$200) @ Archie Brothers",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T18:47:48.832050+00:00",
+          "retailer": "Archie Brothers",
+          "price": 35.0,
+          "deal_id": "ozbargain-50f50ea81fca398e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-98649864615e367e2d78": {
+      "title": "DEEBOT X11 PRO OMNI & Accessories Bundle $1070 ($913 with signing up and introduce a friend) + $70 Amazon voucher",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T18:47:48.832163+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 1070.0,
+          "deal_id": "ozbargain-7e68b205b9a850b6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-625cb87143349fd44861": {
+      "title": "Garmin Forerunner 965, $683.84 @ Woolworths ($583.84 with TopCashback)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T18:47:48.832248+00:00",
+          "retailer": "Woolworths ($583.84 with TopCashback)",
+          "price": 683.84,
+          "deal_id": "ozbargain-eb338101d0b21ca3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8fccdd214126e2b2505a": {
+      "title": "Vegemite Kids Spread 220g $4.40 (Was $5.70) + $4 Bonus via Receipts App (Stackable with $1 Weekend Bonus) @ Woolworths",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T18:47:48.832387+00:00",
+          "retailer": "Woolworths",
+          "price": 4.4,
+          "deal_id": "ozbargain-57071b7aaeb4f76c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b7dfda589fe7b8bb4ad9": {
+      "title": "ASUS ROG GT-BE19000AI Tri-Band WiFi 7 (802.11be) AI Gaming Route… $999 (RRP $1,399) Delivered @ Amazon AU",
+      "brand": "Asus",
+      "model": "GT-BE19000AI",
+      "observations": [
+        {
+          "timestamp": "2026-08-15T18:47:48.832482+00:00",
+          "retailer": "Amazon AU",
+          "price": 999.0,
+          "deal_id": "ozbargain-182195daeb5d4141",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2ea16ad44dc1bfb3f315": {
+      "title": "[Afterpay] Viofo A329S 2CH 4K + 2K Dash Cam $505.74 Delivered @ eBay (A1_electric)",
+      "brand": null,
+      "model": "A329S",
+      "observations": [
+        {
+          "timestamp": "2026-08-15T18:47:48.832566+00:00",
+          "retailer": "eBay (A1_electric)",
+          "price": 505.74,
+          "deal_id": "ozbargain-a10ba2337a28fcb6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-cad01422b8e759d83a13": {
+      "title": "3 Months Standard Plan for $5/Month @ Paramount Plus via CommBank Yello",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T18:47:48.832791+00:00",
+          "retailer": "Paramount Plus via CommBank Yello",
+          "price": 5.0,
+          "deal_id": "ozbargain-0a9f99522d932128",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-15T13:00:08.700444+00:00"
+  "updated_at": "2026-08-15T18:47:59.530468+00:00"
 }
