@@ -2823,7 +2823,7 @@
       ]
     },
     "product-539ac452e3660758e571": {
-      "title": "[Afterpay] PowerColor Reaper Radeon RX 9060 XT 16GB GDDR6 Graphics Card $581.40 Delivered @ Centre Com eBay",
+      "title": "XFX Swift Radeon RX 9060 XT OC 16GB Gaming Edition GDDR6 Graphics Card $549 Delivered @ Shopping Express Epic Hour",
       "brand": null,
       "model": "RX 9060",
       "observations": [
@@ -2839,6 +2839,13 @@
           "retailer": "Centre Com eBay",
           "price": 581.4,
           "deal_id": "ozbargain-c2b6b64495eb22e6",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T12:59:56.871241+00:00",
+          "retailer": "Shopping Express Epic Hour",
+          "price": 549.0,
+          "deal_id": "ozbargain-c7f6dfc2fae3be2b",
           "source": "OzBargain"
         }
       ]
@@ -3929,7 +3936,7 @@
       ]
     },
     "product-ff235a72582270bef59d": {
-      "title": "[Perks] TCL C8L Premium SQD-Mini LED 4K TV 65C8L $1836, 75C8L $2368.80, 85C8L $2956 + Delivery @ JB Hi-Fi",
+      "title": "TCL C8L SQD-Mini LED 4K TV 65C8L $1828, 75C8L $2366, 85C8L $2950 + Delivery ($0 to Selected Areas / NSW C&C) @ Appliance Central",
       "brand": null,
       "model": "65C8L",
       "observations": [
@@ -3952,6 +3959,13 @@
           "retailer": "JB Hi-Fi",
           "price": 1836.0,
           "deal_id": "ozbargain-0519e06114715de5",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T12:59:56.872983+00:00",
+          "retailer": "Appliance Central",
+          "price": 1828.0,
+          "deal_id": "ozbargain-09153fda7ae53f6d",
           "source": "OzBargain"
         }
       ]
@@ -4142,6 +4156,13 @@
           "price": 0.15,
           "deal_id": "ozbargain-9b9f7200b8e9d6cb",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T12:59:56.872702+00:00",
+          "retailer": "Google Play",
+          "price": 0.15,
+          "deal_id": "ozbargain-9b9f7200b8e9d6cb",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4152,6 +4173,13 @@
       "observations": [
         {
           "timestamp": "2026-08-15T06:58:15.954181+00:00",
+          "retailer": "Chemist Warehouse",
+          "price": 74.99,
+          "deal_id": "ozbargain-5faab9f38f4ca817",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T12:59:56.872857+00:00",
           "retailer": "Chemist Warehouse",
           "price": 74.99,
           "deal_id": "ozbargain-5faab9f38f4ca817",
@@ -4170,6 +4198,13 @@
           "price": 653.65,
           "deal_id": "ozbargain-ef9c90a6e7045d52",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T12:59:56.873079+00:00",
+          "retailer": "DigiDirect eBay",
+          "price": 653.65,
+          "deal_id": "ozbargain-ef9c90a6e7045d52",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4184,6 +4219,13 @@
           "price": 35.9,
           "deal_id": "ozbargain-ca42b31304b07296",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T12:59:56.873207+00:00",
+          "retailer": "Cyborg Sport via Amazon AU",
+          "price": 35.9,
+          "deal_id": "ozbargain-ca42b31304b07296",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4194,6 +4236,13 @@
       "observations": [
         {
           "timestamp": "2026-08-15T06:58:15.954650+00:00",
+          "retailer": "The Wicked Yak Clearance Center eBay",
+          "price": 39.99,
+          "deal_id": "ozbargain-8684023c42421cb6",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T12:59:56.873328+00:00",
           "retailer": "The Wicked Yak Clearance Center eBay",
           "price": 39.99,
           "deal_id": "ozbargain-8684023c42421cb6",
@@ -4226,6 +4275,13 @@
           "price": 159.99,
           "deal_id": "ozbargain-db00f003b9e9ffac",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T12:59:56.873662+00:00",
+          "retailer": "Saucony",
+          "price": 159.99,
+          "deal_id": "ozbargain-db00f003b9e9ffac",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4236,6 +4292,13 @@
       "observations": [
         {
           "timestamp": "2026-08-15T06:58:15.955074+00:00",
+          "retailer": "Bunnings Warehouse",
+          "price": 1595.0,
+          "deal_id": "ozbargain-c575b49cf4f41d0f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T12:59:56.873769+00:00",
           "retailer": "Bunnings Warehouse",
           "price": 1595.0,
           "deal_id": "ozbargain-c575b49cf4f41d0f",
@@ -4254,6 +4317,13 @@
           "price": 99.0,
           "deal_id": "ozbargain-26c7eaef6a455179",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T12:59:56.873934+00:00",
+          "retailer": "JB HI-Fi",
+          "price": 99.0,
+          "deal_id": "ozbargain-26c7eaef6a455179",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4264,6 +4334,13 @@
       "observations": [
         {
           "timestamp": "2026-08-15T06:58:15.955321+00:00",
+          "retailer": "Optus",
+          "price": 2048.4,
+          "deal_id": "ozbargain-038a0f65f4717ccb",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T12:59:56.874068+00:00",
           "retailer": "Optus",
           "price": 2048.4,
           "deal_id": "ozbargain-038a0f65f4717ccb",
@@ -4282,11 +4359,18 @@
           "price": 219.0,
           "deal_id": "ozbargain-a630c0a1a578a568",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T12:59:56.874179+00:00",
+          "retailer": "Amazon AU",
+          "price": 219.0,
+          "deal_id": "ozbargain-a630c0a1a578a568",
+          "source": "OzBargain"
         }
       ]
     },
     "product-1e3fab029f799d403297": {
-      "title": "Carbon Comms nbn 750/50mbps – $91/Month | Fttp & HFC Only | Static Ipv4 Included | No Cgnat | Unlimited Data",
+      "title": "nbn FTTP or HFC 750/50Mbps $91/Month (Static IPv4 Included) @ Carbon Comms",
       "brand": null,
       "model": "50MBPS",
       "observations": [
@@ -4295,6 +4379,13 @@
           "retailer": "OzBargain-listed deal",
           "price": 91.0,
           "deal_id": "ozbargain-1a34489bf28d64d5",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T12:59:56.874294+00:00",
+          "retailer": "Carbon Comms",
+          "price": 91.0,
+          "deal_id": "ozbargain-8140005de512a648",
           "source": "OzBargain"
         }
       ]
@@ -4306,6 +4397,13 @@
       "observations": [
         {
           "timestamp": "2026-08-15T06:58:15.955693+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 1356.0,
+          "deal_id": "ozbargain-1caa6c38cbd54e84",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T12:59:56.874423+00:00",
           "retailer": "JB Hi-Fi",
           "price": 1356.0,
           "deal_id": "ozbargain-1caa6c38cbd54e84",
@@ -4326,7 +4424,133 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-b50570e61b06dd735636": {
+      "title": "3 Months Standard Plan for $5/Month @ Paramount Plus",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T12:59:56.871367+00:00",
+          "retailer": "Paramount Plus",
+          "price": 5.0,
+          "deal_id": "ozbargain-1103f7262875d978",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-19b38a7d3e0daae04813": {
+      "title": "Johnnie Walker Double Black Blended Scotch Whisky 700ml $45.99 In-Store Only @ Costco (Membership Required)",
+      "brand": null,
+      "model": "700ML",
+      "observations": [
+        {
+          "timestamp": "2026-08-15T12:59:56.871496+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 45.99,
+          "deal_id": "ozbargain-9a96834b90a024dc",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-04d0e7b38a8c67832586": {
+      "title": "Nulon Protect Full Synthetic 5W-30 Premium Engine Oil 5L $36.99 In-Store Only @ Costco (Membership Required)",
+      "brand": null,
+      "model": "5W-30",
+      "observations": [
+        {
+          "timestamp": "2026-08-15T12:59:56.871592+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 36.99,
+          "deal_id": "ozbargain-611beaf395cb7d91",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f7a4b1d1048c7e0457d2": {
+      "title": "Finnair Open-Jaw Europe: Melbourne from $1181 Return - Fly into London, Home from Other Cities [Oct '26 - Jun '27] @ BTF",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T12:59:56.871721+00:00",
+          "retailer": "BTF",
+          "price": 1181.0,
+          "deal_id": "ozbargain-9589d40b803c30df",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4ed6d275153b697920e0": {
+      "title": "Eleven Workwear Super lightweight Jolts Work Short $18.00 (Was $29.99) Delivered / WA C&C @ Mr Bargain",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T12:59:56.871888+00:00",
+          "retailer": "Mr Bargain",
+          "price": 18.0,
+          "deal_id": "ozbargain-61a9528d2a93daf6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8c3921ce0cf1cd26b2b7": {
+      "title": "[Prime] INIU 22.5W 20000mAh Mini Power Bank $20.39 Delivered @ INIU AU via Amazon AU",
+      "brand": null,
+      "model": "20000MAH",
+      "observations": [
+        {
+          "timestamp": "2026-08-15T12:59:56.872136+00:00",
+          "retailer": "INIU AU via Amazon AU",
+          "price": 20.39,
+          "deal_id": "ozbargain-72e868e9aa5ad8f9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0dfec21e566d1be41e1b": {
+      "title": "Bosch GDS 18V-1000 18V Li-ion Cordless 1/2\" High Torque Impact Wrench - Skin Only $315 (RRP $596) + Bosch Redemption @ Syd Tools",
+      "brand": null,
+      "model": "18V-1000",
+      "observations": [
+        {
+          "timestamp": "2026-08-15T12:59:56.872270+00:00",
+          "retailer": "Syd Tools",
+          "price": 315.0,
+          "deal_id": "ozbargain-ff8474c4fff332f9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0d7d0511ea8bfa309b1f": {
+      "title": "[VIC] Stanley 16oz Claw Hammer $4 (in-store only) @ Bunnings, Springvale",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T12:59:56.873555+00:00",
+          "retailer": "Bunnings, Springvale",
+          "price": 4.0,
+          "deal_id": "ozbargain-d41c555a242944e0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-faf4314cbe2cb3a1ac8b": {
+      "title": "TCL 85C8l Mini LED 144Hz 4K Google TV $2950.40 + Delivery (+ Bonus $250 HN Gift Card) @ Harvey Norman",
+      "brand": null,
+      "model": "85C8L",
+      "observations": [
+        {
+          "timestamp": "2026-08-15T12:59:56.874547+00:00",
+          "retailer": "Harvey Norman",
+          "price": 2950.4,
+          "deal_id": "ozbargain-2a36d8dab555b86a",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-15T06:58:26.225039+00:00"
+  "updated_at": "2026-08-15T13:00:08.700444+00:00"
 }
