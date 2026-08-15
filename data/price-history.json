@@ -3435,6 +3435,13 @@
           "price": 583.98,
           "deal_id": "ozbargain-145800529d1ee30e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T01:49:59.135031+00:00",
+          "retailer": "TerraMaster Amazon AU",
+          "price": 583.98,
+          "deal_id": "ozbargain-145800529d1ee30e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3452,6 +3459,13 @@
         },
         {
           "timestamp": "2026-08-14T19:14:51.543973+00:00",
+          "retailer": "Amazon AU",
+          "price": 318.0,
+          "deal_id": "ozbargain-a1763d83fc3a915b",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T01:49:59.135138+00:00",
           "retailer": "Amazon AU",
           "price": 318.0,
           "deal_id": "ozbargain-a1763d83fc3a915b",
@@ -3477,6 +3491,13 @@
           "price": 999.0,
           "deal_id": "ozbargain-e54ca6fcfa3e6e5e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T01:49:59.135260+00:00",
+          "retailer": "Sony eBay",
+          "price": 999.0,
+          "deal_id": "ozbargain-e54ca6fcfa3e6e5e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3494,6 +3515,13 @@
         },
         {
           "timestamp": "2026-08-14T19:14:51.544201+00:00",
+          "retailer": "Centre Com eBay",
+          "price": 345.1,
+          "deal_id": "ozbargain-f59266996e0489d6",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T01:49:59.135370+00:00",
           "retailer": "Centre Com eBay",
           "price": 345.1,
           "deal_id": "ozbargain-f59266996e0489d6",
@@ -3519,6 +3547,13 @@
           "price": 20.0,
           "deal_id": "ozbargain-4790813e41d64573",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T01:49:59.135506+00:00",
+          "retailer": "Coles",
+          "price": 20.0,
+          "deal_id": "ozbargain-4790813e41d64573",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3536,6 +3571,13 @@
         },
         {
           "timestamp": "2026-08-14T19:14:51.544456+00:00",
+          "retailer": "Target",
+          "price": 79.0,
+          "deal_id": "ozbargain-aa4177a17639ba5f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T01:49:59.135641+00:00",
           "retailer": "Target",
           "price": 79.0,
           "deal_id": "ozbargain-aa4177a17639ba5f",
@@ -3561,6 +3603,13 @@
           "price": 9.0,
           "deal_id": "ozbargain-9361184979e02eaf",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T01:49:59.135765+00:00",
+          "retailer": "Amazon AU",
+          "price": 9.0,
+          "deal_id": "ozbargain-9361184979e02eaf",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3578,6 +3627,13 @@
         },
         {
           "timestamp": "2026-08-14T19:14:51.544690+00:00",
+          "retailer": "Shopback App",
+          "price": 3.0,
+          "deal_id": "ozbargain-ebbef81c2a5168d2",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T01:49:59.135898+00:00",
           "retailer": "Shopback App",
           "price": 3.0,
           "deal_id": "ozbargain-ebbef81c2a5168d2",
@@ -3603,6 +3659,13 @@
           "price": 14.5,
           "deal_id": "ozbargain-38820c7936e43392",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T01:49:59.136011+00:00",
+          "retailer": "PropertyFlags",
+          "price": 14.5,
+          "deal_id": "ozbargain-38820c7936e43392",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3620,6 +3683,13 @@
         },
         {
           "timestamp": "2026-08-14T19:14:51.544864+00:00",
+          "retailer": "Centre Com eBay",
+          "price": 498.95,
+          "deal_id": "ozbargain-011f70fdb2decc3f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T01:49:59.136094+00:00",
           "retailer": "Centre Com eBay",
           "price": 498.95,
           "deal_id": "ozbargain-011f70fdb2decc3f",
@@ -3645,6 +3715,13 @@
           "price": 249.0,
           "deal_id": "ozbargain-b0158b6d2cccf00c",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T01:49:59.136211+00:00",
+          "retailer": "StarBuy",
+          "price": 249.0,
+          "deal_id": "ozbargain-b0158b6d2cccf00c",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3666,6 +3743,13 @@
           "price": 2.0,
           "deal_id": "ozbargain-50fefbdfd0e36a7a",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T01:49:59.136299+00:00",
+          "retailer": "BIG W, Canberra Airport",
+          "price": 2.0,
+          "deal_id": "ozbargain-50fefbdfd0e36a7a",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3683,6 +3767,13 @@
         },
         {
           "timestamp": "2026-08-14T19:14:51.545169+00:00",
+          "retailer": "Flybuys",
+          "price": 50.0,
+          "deal_id": "ozbargain-41a0bcd70c9e4471",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T01:49:59.136439+00:00",
           "retailer": "Flybuys",
           "price": 50.0,
           "deal_id": "ozbargain-41a0bcd70c9e4471",
@@ -3712,7 +3803,7 @@
       ]
     },
     "product-470093be92c7f1fe5852": {
-      "title": "Z-Edge 34 Inch 165Hz Ultrawide Monitor 21:9, IPS Panel, UWQHD(3440x1440) $339",
+      "title": "Z-Edge 34 Inch 165Hz Ultrawide Monitor 21:9, IPS Panel, UWQHD(3440x1440) $339 Delivered @ Paragon Amazon AU",
       "brand": null,
       "model": "3440X1440",
       "observations": [
@@ -3721,6 +3812,13 @@
           "retailer": "OzBargain-listed deal",
           "price": 339.0,
           "deal_id": "ozbargain-69343c93dd646b0d",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T01:49:59.134676+00:00",
+          "retailer": "Paragon Amazon AU",
+          "price": 339.0,
+          "deal_id": "ozbargain-5fe4a8ea3753db37",
           "source": "OzBargain"
         }
       ]
@@ -3732,6 +3830,13 @@
       "observations": [
         {
           "timestamp": "2026-08-14T19:14:51.543621+00:00",
+          "retailer": "Amazon AU",
+          "price": 139.0,
+          "deal_id": "ozbargain-44eda99401163c3d",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T01:49:59.134787+00:00",
           "retailer": "Amazon AU",
           "price": 139.0,
           "deal_id": "ozbargain-44eda99401163c3d",
@@ -3750,9 +3855,198 @@
           "price": 219.0,
           "deal_id": "ozbargain-9c0d4b0b10753747",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T01:49:59.134902+00:00",
+          "retailer": "Amazon AU",
+          "price": 219.0,
+          "deal_id": "ozbargain-9c0d4b0b10753747",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-505957870ccb881fd224": {
+      "title": "Save $1650 on Google Pixel 11 Pro XL 256GB with $79/m 36-Month Optus Plan (Total Min cost $3293) @ Harvey Norman",
+      "brand": null,
+      "model": "36-MONTH",
+      "observations": [
+        {
+          "timestamp": "2026-08-15T01:49:59.132996+00:00",
+          "retailer": "Harvey Norman",
+          "price": 1650.0,
+          "deal_id": "ozbargain-0c353b6d6f9ec5aa",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e6c3b2e8c443fdf45972": {
+      "title": "Robocop 4K UHD $31.61 + Delivery ($0 with Prime/ $59 Spend) @ Amazon UK via AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T01:49:59.133146+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 31.61,
+          "deal_id": "ozbargain-06d8bac2bf08f6da",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-dbb2f3c3f3f648cc4681": {
+      "title": "Gamiac Black RGB Hot-Swap Mechanical Keyboard Kailh Blue and Red $19 + Delivery from ~$18 ($0 C&C Dandenong South) @ PC Case Gea",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T01:49:59.133283+00:00",
+          "retailer": "PC Case Gea",
+          "price": 19.0,
+          "deal_id": "ozbargain-c4dfdd6a99eb9c20",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ff235a72582270bef59d": {
+      "title": "[Perks] TCL C8L Premium SQD-Mini LED 4K TV 65C8L $1836, 75C8L $2368.80, 85C8L $2956 + Delivery @ JB Hi-Fi",
+      "brand": null,
+      "model": "65C8L",
+      "observations": [
+        {
+          "timestamp": "2026-08-15T01:49:59.133415+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 1836.0,
+          "deal_id": "ozbargain-0519e06114715de5",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5bcd765d397b9aa7bd80": {
+      "title": "Bunnings \"Home\" Australia Coir Door Mat $0.50 - in Store Only",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T01:49:59.133506+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 0.5,
+          "deal_id": "ozbargain-6c42d86b851b7920",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-238895eefcdef4dc1557": {
+      "title": "Massena 25th Anniversary Celebration 2023 Barossa Valley Shiraz $39.99 (Was $200) / 3PK $119.97 Delivered @ Skye Cellars",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T01:49:59.133636+00:00",
+          "retailer": "Skye Cellars",
+          "price": 39.99,
+          "deal_id": "ozbargain-2881b9aa5e82534e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-973081d60eee8561bd7e": {
+      "title": "Olympus M.zuiko Digital 45 Mm F1.8 Lens $202.25 Delivered @ Amazon UK via AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T01:49:59.133725+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 202.25,
+          "deal_id": "ozbargain-a7aa2321941dfb32",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-953fab1012b77ec1b0dd": {
+      "title": "ROG Xbox Ally X AMD Ryzen AI Z2 Extreme 24GB 1TB $1593 Kogan or DickSmith @ eBay Australia",
+      "brand": "Xbox",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T01:49:59.133841+00:00",
+          "retailer": "eBay Australia",
+          "price": 1593.0,
+          "deal_id": "ozbargain-395fa6e45dc09045",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-941855fa4de2fe3cac91": {
+      "title": "Origin Energy Bill Credits $200 (Electricity) $100(Gas) + 8c/KWhr EV Night charging for New/Moving Customers @Origin Energy",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T01:49:59.133967+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 200.0,
+          "deal_id": "ozbargain-72c3d53bb7b9f67e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f3dfb35cbefcea459ec3": {
+      "title": "China Eastern Business: BNE/MEL/SYD to Rome $4880/ $4851/ $4872, Dublin $4832/ $4833/ $4855, Madrid $4856/ $4857/ $4878 & More",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T01:49:59.134093+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 4880.0,
+          "deal_id": "ozbargain-6d9e9370a51fa61b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4c9a6e57137e7c24be7a": {
+      "title": "TCL 98\" C8L Smart 4K Premium SQD-Mini LED UHD Google TV (2026) $5,525 + Del ($0 Metro) @ Stan Cash",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T01:49:59.134194+00:00",
+          "retailer": "Stan Cash",
+          "price": 5525.0,
+          "deal_id": "ozbargain-4bd26c444f650c0d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0e4da31613a79255b286": {
+      "title": "High Interest Saver 5.35% No Withdrawal/Deposit Conditions 4 Months @ PN bank",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T01:49:59.134401+00:00",
+          "retailer": "PN bank",
+          "price": 5.0,
+          "deal_id": "ozbargain-c17cdc802130721d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ed7312b0224ed9a34ff9": {
+      "title": "Garmin Instinct 2X Solar GPS Smart Watch - Graphite $384 + Delivery ($0 C&C/in-Store) @ Harvey Norman",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T01:49:59.134552+00:00",
+          "retailer": "Harvey Norman",
+          "price": 384.0,
+          "deal_id": "ozbargain-32736745804974da",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-08-14T19:15:03.870526+00:00"
+  "updated_at": "2026-08-15T01:50:10.091182+00:00"
 }
