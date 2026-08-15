@@ -3876,6 +3876,13 @@
           "price": 1650.0,
           "deal_id": "ozbargain-0c353b6d6f9ec5aa",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T06:58:15.955932+00:00",
+          "retailer": "Harvey Norman",
+          "price": 1650.0,
+          "deal_id": "ozbargain-0c353b6d6f9ec5aa",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3890,11 +3897,18 @@
           "price": 31.61,
           "deal_id": "ozbargain-06d8bac2bf08f6da",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T06:58:15.956043+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 31.61,
+          "deal_id": "ozbargain-06d8bac2bf08f6da",
+          "source": "OzBargain"
         }
       ]
     },
     "product-dbb2f3c3f3f648cc4681": {
-      "title": "Gamiac Black RGB Hot-Swap Mechanical Keyboard Kailh Blue and Red $19 + Delivery from ~$18 ($0 C&C Dandenong South) @ PC Case Gea",
+      "title": "Gamiac Black RGB Hot-Swap Mechanical Keyboard Kailh Blue & Red $19 + Delivery from ~$18 ($0 C&C Dandenong South) @ PC Case Gear",
       "brand": null,
       "model": null,
       "observations": [
@@ -3903,6 +3917,13 @@
           "retailer": "PC Case Gea",
           "price": 19.0,
           "deal_id": "ozbargain-c4dfdd6a99eb9c20",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T06:58:15.956158+00:00",
+          "retailer": "PC Case Gear",
+          "price": 19.0,
+          "deal_id": "ozbargain-8b3f8a6c1729ee40",
           "source": "OzBargain"
         }
       ]
@@ -3914,6 +3935,20 @@
       "observations": [
         {
           "timestamp": "2026-08-15T01:49:59.133415+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 1836.0,
+          "deal_id": "ozbargain-0519e06114715de5",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T06:58:15.954297+00:00",
+          "retailer": "Appliance Central",
+          "price": 1828.0,
+          "deal_id": "ozbargain-09153fda7ae53f6d",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T06:58:15.956259+00:00",
           "retailer": "JB Hi-Fi",
           "price": 1836.0,
           "deal_id": "ozbargain-0519e06114715de5",
@@ -3946,6 +3981,13 @@
           "price": 39.99,
           "deal_id": "ozbargain-2881b9aa5e82534e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T06:58:15.956453+00:00",
+          "retailer": "Skye Cellars",
+          "price": 39.99,
+          "deal_id": "ozbargain-2881b9aa5e82534e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -3960,11 +4002,18 @@
           "price": 202.25,
           "deal_id": "ozbargain-a7aa2321941dfb32",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T06:58:15.956531+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 202.25,
+          "deal_id": "ozbargain-a7aa2321941dfb32",
+          "source": "OzBargain"
         }
       ]
     },
     "product-953fab1012b77ec1b0dd": {
-      "title": "ROG Xbox Ally X AMD Ryzen AI Z2 Extreme 24GB 1TB $1593 Kogan or DickSmith @ eBay Australia",
+      "title": "ROG Xbox Ally X AMD Ryzen AI Z2 Extreme 24GB 1TB $1593 Delivered @ Kogan & Dick Smith eBay",
       "brand": "Xbox",
       "model": null,
       "observations": [
@@ -3974,11 +4023,18 @@
           "price": 1593.0,
           "deal_id": "ozbargain-395fa6e45dc09045",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T06:58:15.956640+00:00",
+          "retailer": "Kogan & Dick Smith eBay",
+          "price": 1593.0,
+          "deal_id": "ozbargain-0e18e4bf89107fa5",
+          "source": "OzBargain"
         }
       ]
     },
     "product-941855fa4de2fe3cac91": {
-      "title": "Origin Energy Bill Credits $200 (Electricity) $100(Gas) + 8c/KWhr EV Night charging for New/Moving Customers @Origin Energy",
+      "title": "Origin Energy Bill Credits $200 (Electricity) $100(Gas) + 8c/KWhr EV Night charging for New/Moving Customers @ Origin Energy",
       "brand": null,
       "model": null,
       "observations": [
@@ -3987,6 +4043,13 @@
           "retailer": "OzBargain-listed deal",
           "price": 200.0,
           "deal_id": "ozbargain-72c3d53bb7b9f67e",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T06:58:15.956782+00:00",
+          "retailer": "Origin Energy",
+          "price": 200.0,
+          "deal_id": "ozbargain-31ac455ab6e99fe9",
           "source": "OzBargain"
         }
       ]
@@ -3998,6 +4061,13 @@
       "observations": [
         {
           "timestamp": "2026-08-15T01:49:59.134093+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 4880.0,
+          "deal_id": "ozbargain-6d9e9370a51fa61b",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T06:58:15.956903+00:00",
           "retailer": "OzBargain-listed deal",
           "price": 4880.0,
           "deal_id": "ozbargain-6d9e9370a51fa61b",
@@ -4016,6 +4086,13 @@
           "price": 5525.0,
           "deal_id": "ozbargain-4bd26c444f650c0d",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T06:58:15.957026+00:00",
+          "retailer": "Stan Cash",
+          "price": 5525.0,
+          "deal_id": "ozbargain-4bd26c444f650c0d",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4026,6 +4103,13 @@
       "observations": [
         {
           "timestamp": "2026-08-15T01:49:59.134401+00:00",
+          "retailer": "PN bank",
+          "price": 5.0,
+          "deal_id": "ozbargain-c17cdc802130721d",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-15T06:58:15.957198+00:00",
           "retailer": "PN bank",
           "price": 5.0,
           "deal_id": "ozbargain-c17cdc802130721d",
@@ -4046,7 +4130,203 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-8f37a18d33f8d3b70d6a": {
+      "title": "[Android, WearOS] DADAM128: Analog Watch Face A$0.15 (Was A$1.49) @ Google Play",
+      "brand": null,
+      "model": "DADAM128",
+      "observations": [
+        {
+          "timestamp": "2026-08-15T06:58:15.954043+00:00",
+          "retailer": "Google Play",
+          "price": 0.15,
+          "deal_id": "ozbargain-9b9f7200b8e9d6cb",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9d5ac7d71aaa89efae13": {
+      "title": "Jean Paul Gaultier Le Male Eau De Toilette 125ml $74.99 (Was $180) + Delivery ($0 C&C/ in-Store) @ Chemist Warehouse",
+      "brand": null,
+      "model": "125ML",
+      "observations": [
+        {
+          "timestamp": "2026-08-15T06:58:15.954181+00:00",
+          "retailer": "Chemist Warehouse",
+          "price": 74.99,
+          "deal_id": "ozbargain-5faab9f38f4ca817",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f87254e4e2198aae91cc": {
+      "title": "[Afterpay] Nintendo Switch 2 + Pokemon Pokopia Console Bundle - $653.65 @ DigiDirect eBay",
+      "brand": "Nintendo",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T06:58:15.954400+00:00",
+          "retailer": "DigiDirect eBay",
+          "price": 653.65,
+          "deal_id": "ozbargain-ef9c90a6e7045d52",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-cce675d62451bd2fba95": {
+      "title": "Cyborg Sport Micronised Creatine Monohydrate Powder 1kg $35.90 + Delivery ($0 with Prime/$59 Spend) @ Cyborg Sport via Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T06:58:15.954531+00:00",
+          "retailer": "Cyborg Sport via Amazon AU",
+          "price": 35.9,
+          "deal_id": "ozbargain-ca42b31304b07296",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f83d70ac7dc237c5725e": {
+      "title": "[Refurb] Sangean Clock Radio DAB+/FM-RDS Digital Dual Alarm-DCR-89+ $39.99 Shipped @ The Wicked Yak Clearance Center eBay",
+      "brand": null,
+      "model": "ALARM-DCR-89",
+      "observations": [
+        {
+          "timestamp": "2026-08-15T06:58:15.954650+00:00",
+          "retailer": "The Wicked Yak Clearance Center eBay",
+          "price": 39.99,
+          "deal_id": "ozbargain-8684023c42421cb6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8e0a17681ab819c00ba4": {
+      "title": "[VIC] Stanley 16oz claw Hammer $4 @Bunnings (Springvale)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T06:58:15.954878+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 4.0,
+          "deal_id": "ozbargain-db2099ced1b898ab",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0607019297cf6359dd5f": {
+      "title": "Saucony Hurricane 25 $159.99 (Was $269.99) + Delivery @ Saucony",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T06:58:15.954972+00:00",
+          "retailer": "Saucony",
+          "price": 159.99,
+          "deal_id": "ozbargain-db00f003b9e9ffac",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9397ccfb378b832d602f": {
+      "title": "Ecovacs Deebot T90 Pro Omni $1,595 @ Bunnings Warehouse",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T06:58:15.955074+00:00",
+          "retailer": "Bunnings Warehouse",
+          "price": 1595.0,
+          "deal_id": "ozbargain-c575b49cf4f41d0f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a836cfb059d2113abf61": {
+      "title": "Motorola Moto G35 5G 4GB / 128GB (Locked) + JB Hi-Fi 30GB, 30-Day Prepaid SIM $99 + Shipping ($0 C&C/ in-Store) @ JB HI-Fi",
+      "brand": null,
+      "model": "30-DAY",
+      "observations": [
+        {
+          "timestamp": "2026-08-15T06:58:15.955205+00:00",
+          "retailer": "JB HI-Fi",
+          "price": 99.0,
+          "deal_id": "ozbargain-26c7eaef6a455179",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a76af5ff23669318cd00": {
+      "title": "Apple iPad Pro (M5) 11\" Wi-Fi/Cellular 256GB Space Black $2,048.40 Outright (RRP $2,349) + Free Delivery/C&C in-Store @ Optus",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T06:58:15.955321+00:00",
+          "retailer": "Optus",
+          "price": 2048.4,
+          "deal_id": "ozbargain-038a0f65f4717ccb",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4a72d2224a96ea08ac9b": {
+      "title": "ASUS TUF Gaming BE6500 Dual Band Wi-Fi 7 Router $219 (RRP $338.99) Delivered @ Amazon AU",
+      "brand": "Asus",
+      "model": "BE6500",
+      "observations": [
+        {
+          "timestamp": "2026-08-15T06:58:15.955423+00:00",
+          "retailer": "Amazon AU",
+          "price": 219.0,
+          "deal_id": "ozbargain-a630c0a1a578a568",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1e3fab029f799d403297": {
+      "title": "Carbon Comms nbn 750/50mbps – $91/Month | Fttp & HFC Only | Static Ipv4 Included | No Cgnat | Unlimited Data",
+      "brand": null,
+      "model": "50MBPS",
+      "observations": [
+        {
+          "timestamp": "2026-08-15T06:58:15.955549+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 91.0,
+          "deal_id": "ozbargain-1a34489bf28d64d5",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f8b893948bf2c1cf8394": {
+      "title": "[Perks]LG 85\" QNED70B AI Mini-LED 4K Smart TV [2026] $1,356 + Delivery ($0 C&C/in-Store) @ JB Hi-Fi",
+      "brand": "LG",
+      "model": "QNED70B",
+      "observations": [
+        {
+          "timestamp": "2026-08-15T06:58:15.955693+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 1356.0,
+          "deal_id": "ozbargain-1caa6c38cbd54e84",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0ed812de6a103cb525cf": {
+      "title": "\"Home\" Australia Coir Door Mat $0.50 In-Store @ Bunnings Warehouse (Limited Stores)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-15T06:58:15.956344+00:00",
+          "retailer": "Bunnings Warehouse (Limited Stores)",
+          "price": 0.5,
+          "deal_id": "ozbargain-352c3ef6fe671cfc",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-15T01:50:10.091182+00:00"
+  "updated_at": "2026-08-15T06:58:26.225039+00:00"
 }
