@@ -5129,6 +5129,13 @@
           "price": 50.0,
           "deal_id": "ozbargain-21ca3dcfdc961db4",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.372727+00:00",
+          "retailer": "TopCashback AU",
+          "price": 50.0,
+          "deal_id": "ozbargain-21ca3dcfdc961db4",
+          "source": "OzBargain"
         }
       ]
     },
@@ -5146,6 +5153,13 @@
         },
         {
           "timestamp": "2026-08-16T13:01:41.483722+00:00",
+          "retailer": "AG LEGO Certified Stores",
+          "price": 449.99,
+          "deal_id": "ozbargain-40c7f9ab3c706f0e",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.372849+00:00",
           "retailer": "AG LEGO Certified Stores",
           "price": 449.99,
           "deal_id": "ozbargain-40c7f9ab3c706f0e",
@@ -5171,6 +5185,13 @@
           "price": 1009.0,
           "deal_id": "ozbargain-0964a635a1cbe31e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.372948+00:00",
+          "retailer": "Mobileciti",
+          "price": 1009.0,
+          "deal_id": "ozbargain-0964a635a1cbe31e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -5192,6 +5213,13 @@
           "price": 25.0,
           "deal_id": "ozbargain-1989f5ea69f0e968",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.373063+00:00",
+          "retailer": "Target",
+          "price": 25.0,
+          "deal_id": "ozbargain-1989f5ea69f0e968",
+          "source": "OzBargain"
         }
       ]
     },
@@ -5209,6 +5237,13 @@
         },
         {
           "timestamp": "2026-08-16T13:01:41.484038+00:00",
+          "retailer": "HMS1116 eBay",
+          "price": 6.99,
+          "deal_id": "ozbargain-7057c5d575952671",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.373163+00:00",
           "retailer": "HMS1116 eBay",
           "price": 6.99,
           "deal_id": "ozbargain-7057c5d575952671",
@@ -5420,7 +5455,7 @@
       ]
     },
     "product-2fcf8ee69692b1bb9f53": {
-      "title": "New balance - Made in USA 990v6 $199(ORG $320) + free shipping / Online and In store",
+      "title": "New balance - Made in USA 990v6 $199 Delivered (was $320) / $0 C&C / In-Store @ New Balance",
       "brand": null,
       "model": "990V6",
       "observations": [
@@ -5429,6 +5464,13 @@
           "retailer": "OzBargain-listed deal",
           "price": 199.0,
           "deal_id": "ozbargain-f15327a437e1a813",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.370795+00:00",
+          "retailer": "New Balance",
+          "price": 199.0,
+          "deal_id": "ozbargain-7fdf88b07cd7beb5",
           "source": "OzBargain"
         }
       ]
@@ -5440,6 +5482,13 @@
       "observations": [
         {
           "timestamp": "2026-08-16T13:01:41.481713+00:00",
+          "retailer": "Amazon AU via UK",
+          "price": 54.85,
+          "deal_id": "ozbargain-63b682172f9fc681",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.370906+00:00",
           "retailer": "Amazon AU via UK",
           "price": 54.85,
           "deal_id": "ozbargain-63b682172f9fc681",
@@ -5458,6 +5507,13 @@
           "price": 9.95,
           "deal_id": "ozbargain-b8d638ff0f9fbef0",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.371011+00:00",
+          "retailer": "Miilk Cake Studio",
+          "price": 9.95,
+          "deal_id": "ozbargain-b8d638ff0f9fbef0",
+          "source": "OzBargain"
         }
       ]
     },
@@ -5468,6 +5524,13 @@
       "observations": [
         {
           "timestamp": "2026-08-16T13:01:41.481942+00:00",
+          "retailer": "ALDI",
+          "price": 19.99,
+          "deal_id": "ozbargain-d912be76471b44ba",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.371124+00:00",
           "retailer": "ALDI",
           "price": 19.99,
           "deal_id": "ozbargain-d912be76471b44ba",
@@ -5486,6 +5549,13 @@
           "price": 85.0,
           "deal_id": "ozbargain-8f7aea29d30a8c80",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.371361+00:00",
+          "retailer": "Dan Murphy's",
+          "price": 85.0,
+          "deal_id": "ozbargain-8f7aea29d30a8c80",
+          "source": "OzBargain"
         }
       ]
     },
@@ -5496,6 +5566,13 @@
       "observations": [
         {
           "timestamp": "2026-08-16T13:01:41.482305+00:00",
+          "retailer": "Nintendo Store",
+          "price": 39.95,
+          "deal_id": "ozbargain-df8957a0e5883892",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.371477+00:00",
           "retailer": "Nintendo Store",
           "price": 39.95,
           "deal_id": "ozbargain-df8957a0e5883892",
@@ -5514,6 +5591,13 @@
           "price": 58.99,
           "deal_id": "ozbargain-eba3137ea6b453fb",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.371580+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 58.99,
+          "deal_id": "ozbargain-eba3137ea6b453fb",
+          "source": "OzBargain"
         }
       ]
     },
@@ -5524,6 +5608,13 @@
       "observations": [
         {
           "timestamp": "2026-08-16T13:01:41.482536+00:00",
+          "retailer": "BTF",
+          "price": 360.0,
+          "deal_id": "ozbargain-d82747756dfab162",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.371702+00:00",
           "retailer": "BTF",
           "price": 360.0,
           "deal_id": "ozbargain-d82747756dfab162",
@@ -5542,6 +5633,13 @@
           "price": 184.95,
           "deal_id": "ozbargain-98714be14e803af3",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.371809+00:00",
+          "retailer": "National Power Tools (Bunnings Price Beat $166.47)",
+          "price": 184.95,
+          "deal_id": "ozbargain-98714be14e803af3",
+          "source": "OzBargain"
         }
       ]
     },
@@ -5552,6 +5650,13 @@
       "observations": [
         {
           "timestamp": "2026-08-16T13:01:41.482753+00:00",
+          "retailer": "Sky Spy",
+          "price": 718.0,
+          "deal_id": "ozbargain-4cb61823708ab7a0",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.371912+00:00",
           "retailer": "Sky Spy",
           "price": 718.0,
           "deal_id": "ozbargain-4cb61823708ab7a0",
@@ -5570,6 +5675,13 @@
           "price": 34.96,
           "deal_id": "ozbargain-a724fc2a2a1d21c1",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.372006+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 34.96,
+          "deal_id": "ozbargain-a724fc2a2a1d21c1",
+          "source": "OzBargain"
         }
       ]
     },
@@ -5580,6 +5692,13 @@
       "observations": [
         {
           "timestamp": "2026-08-16T13:01:41.482965+00:00",
+          "retailer": "Total Tools (pick up)",
+          "price": 899.0,
+          "deal_id": "ozbargain-0fc4051d68ea5eff",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.372118+00:00",
           "retailer": "Total Tools (pick up)",
           "price": 899.0,
           "deal_id": "ozbargain-0fc4051d68ea5eff",
@@ -5598,6 +5717,13 @@
           "price": 1297.0,
           "deal_id": "ozbargain-55e8dd15acc2246f",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.372217+00:00",
+          "retailer": "Officeworks",
+          "price": 1297.0,
+          "deal_id": "ozbargain-55e8dd15acc2246f",
+          "source": "OzBargain"
         }
       ]
     },
@@ -5608,6 +5734,13 @@
       "observations": [
         {
           "timestamp": "2026-08-16T13:01:41.483199+00:00",
+          "retailer": "ING via Pocket Perks",
+          "price": 170.0,
+          "deal_id": "ozbargain-b2dac21e5056b219",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.372347+00:00",
           "retailer": "ING via Pocket Perks",
           "price": 170.0,
           "deal_id": "ozbargain-b2dac21e5056b219",
@@ -5626,6 +5759,13 @@
           "price": 100.0,
           "deal_id": "ozbargain-3609931c9aaae552",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.372436+00:00",
+          "retailer": "ING via Pocket Perks",
+          "price": 100.0,
+          "deal_id": "ozbargain-3609931c9aaae552",
+          "source": "OzBargain"
         }
       ]
     },
@@ -5640,9 +5780,86 @@
           "price": 140.0,
           "deal_id": "ozbargain-9e822f1e8304526e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T18:47:16.372558+00:00",
+          "retailer": "ASOS",
+          "price": 140.0,
+          "deal_id": "ozbargain-9e822f1e8304526e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b57cead9ba6da8f6fc32": {
+      "title": "Klein Tools Pinless Moisture Meter with EMF Technology, Non-Inva… $65 (RRP $73.32) Delivered @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T18:47:16.369934+00:00",
+          "retailer": "Amazon AU",
+          "price": 65.0,
+          "deal_id": "ozbargain-fc643c55269721e6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-887a1e94056ae9a9709c": {
+      "title": "Philips 27in FHD IPS 120Hz Adaptive Sync USB-C Monitor (27E1N2300A) $160 @Umart",
+      "brand": "Philips",
+      "model": "27E1N2300A",
+      "observations": [
+        {
+          "timestamp": "2026-08-16T18:47:16.370077+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 160.0,
+          "deal_id": "ozbargain-175eac96335c0db6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7051bdc9aece3d5e9efd": {
+      "title": "Philips 27in QHD IPS 120Hz Adaptive Sync USB-C Monitor (27E1N2600A) $200 @Umart",
+      "brand": "Philips",
+      "model": "27E1N2600A",
+      "observations": [
+        {
+          "timestamp": "2026-08-16T18:47:16.370196+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 200.0,
+          "deal_id": "ozbargain-1fcbd388b789641c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-cf1f7bb09e2274116a8b": {
+      "title": "Canstar: $350 Cashback on Hospital & Extras Health Insurance Policies @ ShopBack",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T18:47:16.370334+00:00",
+          "retailer": "ShopBack",
+          "price": 350.0,
+          "deal_id": "ozbargain-d959a288ed4515e9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-554a3228778196936654": {
+      "title": "INIU 45W 10000mAh Power Bank with Built-in Cable $18.20 + Delivery ($0 with Prime/ $59 Spend) @ INIU AU via Amazon AU",
+      "brand": null,
+      "model": "10000MAH",
+      "observations": [
+        {
+          "timestamp": "2026-08-16T18:47:16.370572+00:00",
+          "retailer": "INIU AU via Amazon AU",
+          "price": 18.2,
+          "deal_id": "ozbargain-09a6bdb6a2e40e7f",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-08-16T13:01:53.377288+00:00"
+  "updated_at": "2026-08-16T18:47:27.547544+00:00"
 }
