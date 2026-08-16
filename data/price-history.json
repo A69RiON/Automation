@@ -4765,6 +4765,13 @@
           "price": 35.0,
           "deal_id": "ozbargain-50f50ea81fca398e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T06:59:41.647129+00:00",
+          "retailer": "Archie Brothers",
+          "price": 35.0,
+          "deal_id": "ozbargain-50f50ea81fca398e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4814,11 +4821,18 @@
           "price": 4.4,
           "deal_id": "ozbargain-e92cc6624b343a39",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T06:59:41.647373+00:00",
+          "retailer": "Woolworths",
+          "price": 4.4,
+          "deal_id": "ozbargain-e92cc6624b343a39",
+          "source": "OzBargain"
         }
       ]
     },
     "product-b7dfda589fe7b8bb4ad9": {
-      "title": "ASUS ROG GT-BE19000AI Router $999 (RRP $1,399) Delivered @ Amazon AU",
+      "title": "ASUS ROG Rapture GT-BE19000AI Tri-Band Router $999 (RRP $1,399) Delivered @ Amazon AU",
       "brand": "Asus",
       "model": "GT-BE19000AI",
       "observations": [
@@ -4834,6 +4848,13 @@
           "retailer": "Amazon AU",
           "price": 999.0,
           "deal_id": "ozbargain-6c3c306b54de5d50",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T06:59:41.647445+00:00",
+          "retailer": "Amazon AU",
+          "price": 999.0,
+          "deal_id": "ozbargain-3815c6cad3a7a4ab",
           "source": "OzBargain"
         }
       ]
@@ -4881,7 +4902,7 @@
       ]
     },
     "product-991e0f98103366285137": {
-      "title": "InnoScreen COVID-19 Rapid Antigen Test 5-pk, $8.05 + $9.80 Del ($0 with $100 Order) @ Ozmed Distribution",
+      "title": "InnoScreen COVID-19 Rapid Antigen Test 5-Pack, $8.05 + $9.80 Delivery ($0 with $100 Order) @ Ozmed Distribution",
       "brand": null,
       "model": "COVID-19",
       "observations": [
@@ -4890,6 +4911,13 @@
           "retailer": "Ozmed Distribution",
           "price": 8.05,
           "deal_id": "ozbargain-a479e9d6f9b6c06a",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T06:59:41.646385+00:00",
+          "retailer": "Ozmed Distribution",
+          "price": 8.05,
+          "deal_id": "ozbargain-645c66d1198757aa",
           "source": "OzBargain"
         }
       ]
@@ -4901,6 +4929,13 @@
       "observations": [
         {
           "timestamp": "2026-08-16T01:57:48.592225+00:00",
+          "retailer": "Event Cinemas (Free Membership Required)",
+          "price": 50.0,
+          "deal_id": "ozbargain-b1abfc96a93f7ffd",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T06:59:41.646467+00:00",
           "retailer": "Event Cinemas (Free Membership Required)",
           "price": 50.0,
           "deal_id": "ozbargain-b1abfc96a93f7ffd",
@@ -4919,6 +4954,13 @@
           "price": 35.0,
           "deal_id": "ozbargain-6c2c7e0fbeebaa9b",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T06:59:41.646546+00:00",
+          "retailer": "IKEA",
+          "price": 35.0,
+          "deal_id": "ozbargain-6c2c7e0fbeebaa9b",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4929,6 +4971,13 @@
       "observations": [
         {
           "timestamp": "2026-08-16T01:57:48.592494+00:00",
+          "retailer": "Cablematters Amazon Au",
+          "price": 32.19,
+          "deal_id": "ozbargain-b3d4a1e5f0d7ac99",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T06:59:41.646638+00:00",
           "retailer": "Cablematters Amazon Au",
           "price": 32.19,
           "deal_id": "ozbargain-b3d4a1e5f0d7ac99",
@@ -4947,6 +4996,13 @@
           "price": 10.0,
           "deal_id": "ozbargain-e8d47015d52a7dc0",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T06:59:41.646691+00:00",
+          "retailer": "BWS",
+          "price": 10.0,
+          "deal_id": "ozbargain-e8d47015d52a7dc0",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4957,6 +5013,13 @@
       "observations": [
         {
           "timestamp": "2026-08-16T01:57:48.592727+00:00",
+          "retailer": "flightfinderau",
+          "price": 3562.0,
+          "deal_id": "ozbargain-b1f6a761cb3bbcca",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T06:59:41.646771+00:00",
           "retailer": "flightfinderau",
           "price": 3562.0,
           "deal_id": "ozbargain-b1f6a761cb3bbcca",
@@ -4975,11 +5038,18 @@
           "price": 88.0,
           "deal_id": "ozbargain-33ec6f7e87fbe258",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T06:59:41.646873+00:00",
+          "retailer": "Bec Hardy Wines",
+          "price": 88.0,
+          "deal_id": "ozbargain-33ec6f7e87fbe258",
+          "source": "OzBargain"
         }
       ]
     },
     "product-1595553a62e5f49502e7": {
-      "title": "Crucial T710 SSD 4TB M.2 NVMe PCIe 5.0 x4 Gen5 $852.68 Delivered @ Amazon Global (UK) via Amazon AU",
+      "title": "Crucial T710 SSD 4TB M.2 NVMe PCIe 5.0 x4 Gen5 $852.68 Delivered @ Amazon UK via AU",
       "brand": "Crucial",
       "model": null,
       "observations": [
@@ -4988,6 +5058,13 @@
           "retailer": "Amazon Global (UK) via Amazon AU",
           "price": 852.68,
           "deal_id": "ozbargain-012a805b2010aae2",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T06:59:41.646966+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 852.68,
+          "deal_id": "ozbargain-eb5719ff252d509d",
           "source": "OzBargain"
         }
       ]
@@ -4999,6 +5076,13 @@
       "observations": [
         {
           "timestamp": "2026-08-16T01:57:48.593363+00:00",
+          "retailer": "Ecovacs",
+          "price": 1070.0,
+          "deal_id": "ozbargain-ed130ceafbf2d6e1",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T06:59:41.647217+00:00",
           "retailer": "Ecovacs",
           "price": 1070.0,
           "deal_id": "ozbargain-ed130ceafbf2d6e1",
@@ -5017,9 +5101,240 @@
           "price": 683.84,
           "deal_id": "ozbargain-e129a5913fca0029",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T06:59:41.647293+00:00",
+          "retailer": "Woolworths Everyday Market",
+          "price": 683.84,
+          "deal_id": "ozbargain-e129a5913fca0029",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-72b035f232fa1c8d6774": {
+      "title": "Myer: 20% Cashback (Capped at $50 Per Member) @ TopCashback AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T06:59:41.644988+00:00",
+          "retailer": "TopCashback AU",
+          "price": 50.0,
+          "deal_id": "ozbargain-21ca3dcfdc961db4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-eb857d972fbcac60588d": {
+      "title": "LEGO 43302 Disney Main Street, U.S.A $449.99 + $38 Delivery ($0 C&C) @ AG LEGO Certified Stores",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T06:59:41.645106+00:00",
+          "retailer": "AG LEGO Certified Stores",
+          "price": 449.99,
+          "deal_id": "ozbargain-40c7f9ab3c706f0e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d8ff1172d51b3e74d5af": {
+      "title": "Xiaomi 17T Pro 12/256GB $1009, 512GB/12GB $1193 Delivered @ Mobileciti",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T06:59:41.645195+00:00",
+          "retailer": "Mobileciti",
+          "price": 1009.0,
+          "deal_id": "ozbargain-0964a635a1cbe31e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-bffa445984310cc12aa3": {
+      "title": "Nintendo Switch 2 Camera $25 + Delivery ($0 with $60 Order/ OnePass/ C&C/ in-Store) @ Target",
+      "brand": "Nintendo",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T06:59:41.645297+00:00",
+          "retailer": "Target",
+          "price": 25.0,
+          "deal_id": "ozbargain-1989f5ea69f0e968",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1c4b7eb64c08d46448ba": {
+      "title": "iPhone Screen Protectors with Built-in Applicator (2-Pack) $6.99 Delivered @ HMS1116 eBay",
+      "brand": null,
+      "model": "2-PACK",
+      "observations": [
+        {
+          "timestamp": "2026-08-16T06:59:41.645388+00:00",
+          "retailer": "HMS1116 eBay",
+          "price": 6.99,
+          "deal_id": "ozbargain-7057c5d575952671",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-867d44dfd94df263d988": {
+      "title": "[Refurb] Apple iPhone 13 128GB $369 + Boost Mobile $39 28-Day Prepaid SIM Delivered @ Coles",
+      "brand": "Apple",
+      "model": "28-DAY",
+      "observations": [
+        {
+          "timestamp": "2026-08-16T06:59:41.645473+00:00",
+          "retailer": "Coles",
+          "price": 369.0,
+          "deal_id": "ozbargain-4806ab6b9c734058",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a930bcfdcb8d363899d1": {
+      "title": "[VIC] Pope ‘100 Year Edition’ 10m Garden Hose Reel $10 @ Bunnings, Vermont South",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T06:59:41.645564+00:00",
+          "retailer": "Bunnings, Vermont South",
+          "price": 10.0,
+          "deal_id": "ozbargain-59a001f448ddf832",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9bc5cf4659cac402aea5": {
+      "title": "Mode Home 4L Digital Airfryer $19 + $12.99 Delivery ($0 C&C) @ Spotlight",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T06:59:41.645641+00:00",
+          "retailer": "Spotlight",
+          "price": 19.0,
+          "deal_id": "ozbargain-d6dc873103108a41",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-bf8562df4ba9fcc25ee2": {
+      "title": "[VIC] Up to $200 Electricity Bill Reimbursement on All Battery Installs @ DIM Electrical",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T06:59:41.645733+00:00",
+          "retailer": "DIM Electrical",
+          "price": 200.0,
+          "deal_id": "ozbargain-7e592b2f43a695c5",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-641d9c76f0ece1351ad6": {
+      "title": "40% Further off Selected Kitchen Items | Free Gift + Free Shipping over $200@Buydeem Australia",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T06:59:41.645824+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 200.0,
+          "deal_id": "ozbargain-ba93b05cf9eec284",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7ae7bc6a4038dee8ad11": {
+      "title": "Steggles Homestyle Family Roast Whole Chicken Herb & Onion Stuffed 2kg - 2.9kg $4.00 Per 1KG @ Woolworths",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T06:59:41.645921+00:00",
+          "retailer": "Woolworths",
+          "price": 4.0,
+          "deal_id": "ozbargain-3b50bb000a0b2c22",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9463b0f376249b5a684b": {
+      "title": "Hush Puppies Chalet Women's Leather Boots $59.80 (RRP $199.95) + Shipping @ Brand House Direct",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T06:59:41.646047+00:00",
+          "retailer": "Brand House Direct",
+          "price": 59.8,
+          "deal_id": "ozbargain-bf4fc67bebc5db75",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2ad89ea885e444e3f7ef": {
+      "title": "Forclaz Trek100 Hooded down Jacket Purple/Pink $49.99 (Was $119.99, 58% off) + Delivery ($0 C&C/ in-Store) @ Decathlon",
+      "brand": null,
+      "model": "TREK100",
+      "observations": [
+        {
+          "timestamp": "2026-08-16T06:59:41.646128+00:00",
+          "retailer": "Decathlon",
+          "price": 49.99,
+          "deal_id": "ozbargain-6cd5ab3caee82ce5",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1f5cff5dfd23bc546236": {
+      "title": "NOVOO 100W GaN III USB-C Charger with 1m Cable, $38.94 + Delivery ($0 with Prime / $59 Spend) @ Mbest-AU via Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T06:59:41.646225+00:00",
+          "retailer": "Mbest-AU via Amazon AU",
+          "price": 38.94,
+          "deal_id": "ozbargain-40832c787c364f4b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-031f037d99272cd23680": {
+      "title": "Cage the Elephant - Melophobia (180G/Dl Card) $26.99 + Delivery ($0 Prime/$59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T06:59:41.646295+00:00",
+          "retailer": "Amazon AU",
+          "price": 26.99,
+          "deal_id": "ozbargain-def845254e7c46ed",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c97d9d8bf77e2fa9ee9c": {
+      "title": "[PS5] Gears of War: Reloaded $29.97 @ PlayStation Store",
+      "brand": "Playstation",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T06:59:41.647042+00:00",
+          "retailer": "PlayStation Store",
+          "price": 29.97,
+          "deal_id": "ozbargain-c1376c3c68a6138c",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-08-16T01:58:01.054041+00:00"
+  "updated_at": "2026-08-16T06:59:50.768392+00:00"
 }
