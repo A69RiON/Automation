@@ -5122,6 +5122,13 @@
           "price": 50.0,
           "deal_id": "ozbargain-21ca3dcfdc961db4",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T13:01:41.483600+00:00",
+          "retailer": "TopCashback AU",
+          "price": 50.0,
+          "deal_id": "ozbargain-21ca3dcfdc961db4",
+          "source": "OzBargain"
         }
       ]
     },
@@ -5132,6 +5139,13 @@
       "observations": [
         {
           "timestamp": "2026-08-16T06:59:41.645106+00:00",
+          "retailer": "AG LEGO Certified Stores",
+          "price": 449.99,
+          "deal_id": "ozbargain-40c7f9ab3c706f0e",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T13:01:41.483722+00:00",
           "retailer": "AG LEGO Certified Stores",
           "price": 449.99,
           "deal_id": "ozbargain-40c7f9ab3c706f0e",
@@ -5150,6 +5164,13 @@
           "price": 1009.0,
           "deal_id": "ozbargain-0964a635a1cbe31e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T13:01:41.483822+00:00",
+          "retailer": "Mobileciti",
+          "price": 1009.0,
+          "deal_id": "ozbargain-0964a635a1cbe31e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -5160,6 +5181,13 @@
       "observations": [
         {
           "timestamp": "2026-08-16T06:59:41.645297+00:00",
+          "retailer": "Target",
+          "price": 25.0,
+          "deal_id": "ozbargain-1989f5ea69f0e968",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T13:01:41.483937+00:00",
           "retailer": "Target",
           "price": 25.0,
           "deal_id": "ozbargain-1989f5ea69f0e968",
@@ -5178,6 +5206,13 @@
           "price": 6.99,
           "deal_id": "ozbargain-7057c5d575952671",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T13:01:41.484038+00:00",
+          "retailer": "HMS1116 eBay",
+          "price": 6.99,
+          "deal_id": "ozbargain-7057c5d575952671",
+          "source": "OzBargain"
         }
       ]
     },
@@ -5188,6 +5223,13 @@
       "observations": [
         {
           "timestamp": "2026-08-16T06:59:41.645473+00:00",
+          "retailer": "Coles",
+          "price": 369.0,
+          "deal_id": "ozbargain-4806ab6b9c734058",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T13:01:41.484147+00:00",
           "retailer": "Coles",
           "price": 369.0,
           "deal_id": "ozbargain-4806ab6b9c734058",
@@ -5206,6 +5248,13 @@
           "price": 10.0,
           "deal_id": "ozbargain-59a001f448ddf832",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T13:01:41.484274+00:00",
+          "retailer": "Bunnings, Vermont South",
+          "price": 10.0,
+          "deal_id": "ozbargain-59a001f448ddf832",
+          "source": "OzBargain"
         }
       ]
     },
@@ -5216,6 +5265,13 @@
       "observations": [
         {
           "timestamp": "2026-08-16T06:59:41.645641+00:00",
+          "retailer": "Spotlight",
+          "price": 19.0,
+          "deal_id": "ozbargain-d6dc873103108a41",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T13:01:41.484368+00:00",
           "retailer": "Spotlight",
           "price": 19.0,
           "deal_id": "ozbargain-d6dc873103108a41",
@@ -5234,6 +5290,13 @@
           "price": 200.0,
           "deal_id": "ozbargain-7e592b2f43a695c5",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T13:01:41.484476+00:00",
+          "retailer": "DIM Electrical",
+          "price": 200.0,
+          "deal_id": "ozbargain-7e592b2f43a695c5",
+          "source": "OzBargain"
         }
       ]
     },
@@ -5244,6 +5307,13 @@
       "observations": [
         {
           "timestamp": "2026-08-16T06:59:41.645824+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 200.0,
+          "deal_id": "ozbargain-ba93b05cf9eec284",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-16T13:01:41.484588+00:00",
           "retailer": "OzBargain-listed deal",
           "price": 200.0,
           "deal_id": "ozbargain-ba93b05cf9eec284",
@@ -5334,7 +5404,245 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-d1cc65f50111b2a0bcf2": {
+      "title": "Photon Matrix Infrared Laser Mosquito \"Air Defense\" — US$988 (15% off, was US$1,188) + Free Worldwide Shipping @ Photon Matrix",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T13:01:41.481483+00:00",
+          "retailer": "Photon Matrix",
+          "price": 988.0,
+          "deal_id": "ozbargain-f577070e0650a17f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2fcf8ee69692b1bb9f53": {
+      "title": "New balance - Made in USA 990v6 $199(ORG $320) + free shipping / Online and In store",
+      "brand": null,
+      "model": "990V6",
+      "observations": [
+        {
+          "timestamp": "2026-08-16T13:01:41.481602+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 199.0,
+          "deal_id": "ozbargain-f15327a437e1a813",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ef57ed6b0da201342ce2": {
+      "title": "Stabila Spirit Level, 40 Cm Length, 15225 Type 96-2, $54.85 (RRP $127.55) Delivered @ Amazon AU via UK",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T13:01:41.481713+00:00",
+          "retailer": "Amazon AU via UK",
+          "price": 54.85,
+          "deal_id": "ozbargain-63b682172f9fc681",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-67eebf6842763ca4c260": {
+      "title": "[VIC] Free Jar of Penottis with $9.95 Cookie Purchase @ Miilk Cake Studio",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T13:01:41.481819+00:00",
+          "retailer": "Miilk Cake Studio",
+          "price": 9.95,
+          "deal_id": "ozbargain-b8d638ff0f9fbef0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0cbf7dd0b4ab6867a6bb": {
+      "title": "Roasted & Salted / Natural Australian Macadamias 600g $19.99 ($33.32/kg) @ ALDI",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T13:01:41.481942+00:00",
+          "retailer": "ALDI",
+          "price": 19.99,
+          "deal_id": "ozbargain-d912be76471b44ba",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-72a409d0e0805a6d479c": {
+      "title": "Best's Great Western Bin 0 Shiraz 2021 $85> $51.6 + Delivery ($0 to Metro/ C&C) @ Dan Murphy's",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T13:01:41.482173+00:00",
+          "retailer": "Dan Murphy's",
+          "price": 85.0,
+          "deal_id": "ozbargain-8f7aea29d30a8c80",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1dd047a5e2d850df54d4": {
+      "title": "Super Nintendo Entertainment System Controller $39.95 + $9.95 Del ($0 with $100 Spend, NSO Membership Req'd) @ Nintendo Store",
+      "brand": "Nintendo",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T13:01:41.482305+00:00",
+          "retailer": "Nintendo Store",
+          "price": 39.95,
+          "deal_id": "ozbargain-df8957a0e5883892",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-232b03c2f880f40d3289": {
+      "title": "6 Months RESTOR Hair Regrowth Spray For Men + Woman + Bonus Item $58.99 Delivered @PharmacySavings",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T13:01:41.482414+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 58.99,
+          "deal_id": "ozbargain-eba3137ea6b453fb",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6a08b136291dff51316f": {
+      "title": "Vietjet Return to Vietnam: Perth Fr $360, Sydney Fr $452, Melbourne Fr $459, Brisbane Fr $479 (Hanoi, Da Nang & More) @ BTF",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T13:01:41.482536+00:00",
+          "retailer": "BTF",
+          "price": 360.0,
+          "deal_id": "ozbargain-d82747756dfab162",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-40fe80e7f0f979d7396e": {
+      "title": "DeWalt DCV501LN-XJ 18V Hand-Held Stick Vacuum - Skin $184.95 Delivered @ National Power Tools (Bunnings Price Beat $166.47)",
+      "brand": null,
+      "model": "DCV501LN-XJ",
+      "observations": [
+        {
+          "timestamp": "2026-08-16T13:01:41.482646+00:00",
+          "retailer": "National Power Tools (Bunnings Price Beat $166.47)",
+          "price": 184.95,
+          "deal_id": "ozbargain-98714be14e803af3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c3dbc234327c2c7b8e6c": {
+      "title": "Etihad: Sydney to Europe One Way from $718 (Paris, Athens, Rome + 14 More Cities), Melbourne from $725, Late Sept @ Sky Spy",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T13:01:41.482753+00:00",
+          "retailer": "Sky Spy",
+          "price": 718.0,
+          "deal_id": "ozbargain-4cb61823708ab7a0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5c3b3db16bb4bdeee2eb": {
+      "title": "Laser-Cut Molle Tactical Battle Belt with Quick Release Buckle A$34.96 Delivered (Was A$87) @Beltbuy",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T13:01:41.482850+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 34.96,
+          "deal_id": "ozbargain-a724fc2a2a1d21c1",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-aa9a7ca0b66a017fd2cc": {
+      "title": "EGO LM1903E-SP 56V 47cm Self-Propelled Mower Kit + Free LB6150E Blower (via Redemption) $899 @ Total Tools (pick up)",
+      "brand": null,
+      "model": "LM1903E-SP",
+      "observations": [
+        {
+          "timestamp": "2026-08-16T13:01:41.482965+00:00",
+          "retailer": "Total Tools (pick up)",
+          "price": 899.0,
+          "deal_id": "ozbargain-0fc4051d68ea5eff",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-84483120b12864269ae1": {
+      "title": "Samsung Galaxy S26+ 256GB $1297 + Delivery ($0 to Metro/ C&C/ in-Store) @ Officeworks",
+      "brand": "Samsung",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T13:01:41.483078+00:00",
+          "retailer": "Officeworks",
+          "price": 1297.0,
+          "deal_id": "ozbargain-55e8dd15acc2246f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-67ca1b090d8da63008b4": {
+      "title": "Woolworths get 4% casback when you spend $170 for new customers (online, cap $50) with an ING Card @ ING via Pocket Perks",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T13:01:41.483199+00:00",
+          "retailer": "ING via Pocket Perks",
+          "price": 170.0,
+          "deal_id": "ozbargain-b2dac21e5056b219",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e722ff061fdaed4ec86c": {
+      "title": "Priceline Spend $100 or More Get $5 Cashback (Online) with an ING Card @ ING via Pocket Perks",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T13:01:41.483305+00:00",
+          "retailer": "ING via Pocket Perks",
+          "price": 100.0,
+          "deal_id": "ozbargain-3609931c9aaae552",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6baf49d50c9b5090e822": {
+      "title": "adidas HyperBoost Euphoria LT Trainers (Silver/White) $140 Delivered ($105 + Delivery via App with Code) @ ASOS",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-16T13:01:41.483430+00:00",
+          "retailer": "ASOS",
+          "price": 140.0,
+          "deal_id": "ozbargain-9e822f1e8304526e",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-16T06:59:50.768392+00:00"
+  "updated_at": "2026-08-16T13:01:53.377288+00:00"
 }
