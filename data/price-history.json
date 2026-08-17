@@ -292,6 +292,13 @@
           "price": 18.0,
           "deal_id": "ozbargain-54ccbce494759935",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-17T07:17:07.981746+00:00",
+          "retailer": "Kmart",
+          "price": 18.0,
+          "deal_id": "ozbargain-54ccbce494759935",
+          "source": "OzBargain"
         }
       ]
     },
@@ -1255,7 +1262,7 @@
       ]
     },
     "product-618a7f0d51cd0565c3bf": {
-      "title": "NIVEA MEN Power Shower Gel & Body Wash 500ml (Pack of 2) $5.40 ($4.86 S&S) & More + Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
+      "title": "Armor All Ultra Shield Protect & Shine Ceramic Wax 500mL $8 + Delivery ($0 C&C/In-Store) @ Supercheap Auto",
       "brand": null,
       "model": "500ML",
       "observations": [
@@ -1271,6 +1278,13 @@
           "retailer": "Amazon AU",
           "price": 5.4,
           "deal_id": "ozbargain-5963e5ede2485b1f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-17T07:17:07.979674+00:00",
+          "retailer": "Supercheap Auto",
+          "price": 8.0,
+          "deal_id": "ozbargain-19a392bdaa1503ff",
           "source": "OzBargain"
         }
       ]
@@ -5976,6 +5990,13 @@
           "price": 20.0,
           "deal_id": "ozbargain-15b4b6dc8987e82a",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-17T07:17:07.981185+00:00",
+          "retailer": "Up Bank (Activation Required)",
+          "price": 20.0,
+          "deal_id": "ozbargain-15b4b6dc8987e82a",
+          "source": "OzBargain"
         }
       ]
     },
@@ -5986,6 +6007,13 @@
       "observations": [
         {
           "timestamp": "2026-08-17T01:55:59.745190+00:00",
+          "retailer": "AmazonAU",
+          "price": 8.1,
+          "deal_id": "ozbargain-da174a1bb7177736",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-17T07:17:07.981312+00:00",
           "retailer": "AmazonAU",
           "price": 8.1,
           "deal_id": "ozbargain-da174a1bb7177736",
@@ -6004,6 +6032,13 @@
           "price": 1294.3,
           "deal_id": "ozbargain-29cb6da5d8f04bbc",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-17T07:17:07.981421+00:00",
+          "retailer": "Samsung AU",
+          "price": 1294.3,
+          "deal_id": "ozbargain-29cb6da5d8f04bbc",
+          "source": "OzBargain"
         }
       ]
     },
@@ -6014,6 +6049,13 @@
       "observations": [
         {
           "timestamp": "2026-08-17T01:55:59.745516+00:00",
+          "retailer": "Coles via Uber Eats",
+          "price": 20.0,
+          "deal_id": "ozbargain-e9555e835d9e77a9",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-17T07:17:07.981619+00:00",
           "retailer": "Coles via Uber Eats",
           "price": 20.0,
           "deal_id": "ozbargain-e9555e835d9e77a9",
@@ -6032,6 +6074,13 @@
           "price": 13.48,
           "deal_id": "ozbargain-e75c981949ba934b",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-17T07:17:07.981866+00:00",
+          "retailer": "Amazon AU",
+          "price": 13.48,
+          "deal_id": "ozbargain-e75c981949ba934b",
+          "source": "OzBargain"
         }
       ]
     },
@@ -6042,6 +6091,13 @@
       "observations": [
         {
           "timestamp": "2026-08-17T01:55:59.745896+00:00",
+          "retailer": "Zasel",
+          "price": 32.44,
+          "deal_id": "ozbargain-f8b307028beb112c",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-17T07:17:07.981969+00:00",
           "retailer": "Zasel",
           "price": 32.44,
           "deal_id": "ozbargain-f8b307028beb112c",
@@ -6060,6 +6116,13 @@
           "price": 149.99,
           "deal_id": "ozbargain-e1221554c1c5777c",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-17T07:17:07.982283+00:00",
+          "retailer": "Amazon AU",
+          "price": 149.99,
+          "deal_id": "ozbargain-e1221554c1c5777c",
+          "source": "OzBargain"
         }
       ]
     },
@@ -6070,6 +6133,13 @@
       "observations": [
         {
           "timestamp": "2026-08-17T01:55:59.746366+00:00",
+          "retailer": "Bulk Cards",
+          "price": 79.0,
+          "deal_id": "ozbargain-224feb5929b785c8",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-17T07:17:07.982409+00:00",
           "retailer": "Bulk Cards",
           "price": 79.0,
           "deal_id": "ozbargain-224feb5929b785c8",
@@ -6118,7 +6188,231 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-0afdeaeaece6232cc6c1": {
+      "title": "AliExpress: 22% Cashback on Affiliated Products ($30 Cap Per Transaction) @ TopCashback AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T07:17:07.979130+00:00",
+          "retailer": "TopCashback AU",
+          "price": 30.0,
+          "deal_id": "ozbargain-b49f3f26055bc28e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-91a910c1798a1b1d573d": {
+      "title": "YESIDO VACUUM MAGNET 360 Rotating Vacuum Cup Phone Holder Black at $20 + $4.99 Delivery @Mobileskin",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T07:17:07.979275+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 20.0,
+          "deal_id": "ozbargain-8efe7b31337f1ff3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-464033678c7a159ff75e": {
+      "title": "MOVA S70 Pro Roller Wet & Dry Robotic Vacuum $1295 + Delivery ($0 C&C) @ The Good Guys",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T07:17:07.979415+00:00",
+          "retailer": "The Good Guys",
+          "price": 1295.0,
+          "deal_id": "ozbargain-cb19c252f692f041",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4c4a4f40e4c0c966aa45": {
+      "title": "Trade-in Bonus $2000 on Eligible Tesla Model 3 and Y",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T07:17:07.979519+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 2000.0,
+          "deal_id": "ozbargain-2fd38d9bd68bd620",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f2b181203a35787fb4e3": {
+      "title": "Macpac Halo Down Jacket V2 Brown $84.99 + Delivery ($0 C&C / in-Store) @ BCF",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T07:17:07.979799+00:00",
+          "retailer": "BCF",
+          "price": 84.99,
+          "deal_id": "ozbargain-c573d6b4f6db83dd",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b0d6937970f384d3b570": {
+      "title": "Emerald EVO Smoke Alarm Radio Frequency 10 Year Battery Powered EVO10RF. $59.40 Was $89.95. Free Shipping for Orders over $250",
+      "brand": null,
+      "model": "EVO10RF",
+      "observations": [
+        {
+          "timestamp": "2026-08-17T07:17:07.979911+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 59.4,
+          "deal_id": "ozbargain-19e0ba0ec1845f93",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a1f8fe8f021537f6809a": {
+      "title": "Asus ROG Bulwark Dock DG300 USB-C $196.95 (RRP $349) Delivered @ Amazon JP via AU",
+      "brand": "Asus",
+      "model": "DG300",
+      "observations": [
+        {
+          "timestamp": "2026-08-17T07:17:07.980010+00:00",
+          "retailer": "Amazon JP via AU",
+          "price": 196.95,
+          "deal_id": "ozbargain-fa54b6b77c30983a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8ce9f57c1756e473920e": {
+      "title": "Myer: Get $10 Cashback When You Spend $100 or More @ Up Bank (Activation Required)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T07:17:07.980129+00:00",
+          "retailer": "Up Bank (Activation Required)",
+          "price": 10.0,
+          "deal_id": "ozbargain-be7cdf8b86441b52",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-686ee2dc0b0d681c45d2": {
+      "title": "Anker Solix C1000 (Gen1) Portable Power Station - 1,056Wh $699 Delivered @ Anker",
+      "brand": "Anker",
+      "model": "C1000",
+      "observations": [
+        {
+          "timestamp": "2026-08-17T07:17:07.980237+00:00",
+          "retailer": "Anker",
+          "price": 699.0,
+          "deal_id": "ozbargain-de12eef148c10062",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0efc5e7ac521dc432850": {
+      "title": "Kogan Mobile Extra Large 4G Prepaid Plan: 365 Days Expiry, 900GB Data $199 Delivered @ Kogan",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T07:17:07.980344+00:00",
+          "retailer": "Kogan",
+          "price": 199.0,
+          "deal_id": "ozbargain-8f565d0848f8be5f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a0a68ff46e633d94ad88": {
+      "title": "Up to 50,000 Flybuys Points with Optus Sim Only Mobile Plans",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T07:17:07.980445+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 10.0,
+          "deal_id": "ozbargain-7fa8e63aeb62a25e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1c7001cd472b64b252e7": {
+      "title": "Beaucaire Jacket (2 Colours) $198 (Was $495, 60% off RRP)+ $14.95 Delivery ($0 over $400 Spend, $0 VIC C&C) @ Henry Bucks",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T07:17:07.980555+00:00",
+          "retailer": "Henry Bucks",
+          "price": 198.0,
+          "deal_id": "ozbargain-4e1378e1d38ad39b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-230f986794657e7244d4": {
+      "title": "Samsung Galaxy Tab A11+ 5G 128GB $399 (Was $549) Delivered @ Telstra",
+      "brand": "Samsung",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T07:17:07.980759+00:00",
+          "retailer": "Telstra",
+          "price": 399.0,
+          "deal_id": "ozbargain-2a388e5eca2f5f07",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-acda36b394e88fa80482": {
+      "title": "Select TV Shows 2 for $40 + Delivery ($0 C&C/ in-Store) @ JB Hi-Fi",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T07:17:07.980876+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 40.0,
+          "deal_id": "ozbargain-0941b94622b44552",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6be26b13e3aa6aac170f": {
+      "title": "Panasonic Eneloop AAA 4 Pack - $18.36 + $8.95 Delivery @ digiDirect",
+      "brand": "Panasonic",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T07:17:07.980968+00:00",
+          "retailer": "digiDirect",
+          "price": 18.36,
+          "deal_id": "ozbargain-86acf7dd596637fe",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-fc711d82ced09eedb37a": {
+      "title": "Sydney to Taipei Return with Hong Kong stop over in Premium Economy fr $2,000 pp (Including Dec/Jan dates) @Cathay Pacific",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T07:17:07.981079+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 2000.0,
+          "deal_id": "ozbargain-9d77c3a298850a6f",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-17T01:56:12.167894+00:00"
+  "updated_at": "2026-08-17T07:17:20.088513+00:00"
 }
