@@ -1286,6 +1286,13 @@
           "price": 8.0,
           "deal_id": "ozbargain-19a392bdaa1503ff",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-17T13:06:17.258647+00:00",
+          "retailer": "Supercheap Auto",
+          "price": 8.0,
+          "deal_id": "ozbargain-19a392bdaa1503ff",
+          "source": "OzBargain"
         }
       ]
     },
@@ -6200,6 +6207,13 @@
           "price": 30.0,
           "deal_id": "ozbargain-b49f3f26055bc28e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-17T13:06:17.258207+00:00",
+          "retailer": "TopCashback AU",
+          "price": 30.0,
+          "deal_id": "ozbargain-b49f3f26055bc28e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -6210,6 +6224,13 @@
       "observations": [
         {
           "timestamp": "2026-08-17T07:17:07.979275+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 20.0,
+          "deal_id": "ozbargain-8efe7b31337f1ff3",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-17T13:06:17.258328+00:00",
           "retailer": "OzBargain-listed deal",
           "price": 20.0,
           "deal_id": "ozbargain-8efe7b31337f1ff3",
@@ -6228,6 +6249,13 @@
           "price": 1295.0,
           "deal_id": "ozbargain-cb19c252f692f041",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-17T13:06:17.258444+00:00",
+          "retailer": "The Good Guys",
+          "price": 1295.0,
+          "deal_id": "ozbargain-cb19c252f692f041",
+          "source": "OzBargain"
         }
       ]
     },
@@ -6242,6 +6270,13 @@
           "price": 2000.0,
           "deal_id": "ozbargain-2fd38d9bd68bd620",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-17T13:06:17.258533+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 2000.0,
+          "deal_id": "ozbargain-2fd38d9bd68bd620",
+          "source": "OzBargain"
         }
       ]
     },
@@ -6252,6 +6287,13 @@
       "observations": [
         {
           "timestamp": "2026-08-17T07:17:07.979799+00:00",
+          "retailer": "BCF",
+          "price": 84.99,
+          "deal_id": "ozbargain-c573d6b4f6db83dd",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-17T13:06:17.258753+00:00",
           "retailer": "BCF",
           "price": 84.99,
           "deal_id": "ozbargain-c573d6b4f6db83dd",
@@ -6412,7 +6454,315 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-7c4d6c3dfec21f3fdec8": {
+      "title": "No Service Fee (Save $2.95) on Westfield eftpos Gift Cards Purchased In-Centre @ Westfield (Free Membership Required)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.255148+00:00",
+          "retailer": "Westfield (Free Membership Required)",
+          "price": 2.95,
+          "deal_id": "ozbargain-bf28c64ef93b8db2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2e2b5be932c9cbb02952": {
+      "title": "Netac Shadow III DDR4 32GB (2x16GB) 3200MHz CL16 RAM US$137.49 (~A$195.02) Delivered @ Netac Official Store AliExpress",
+      "brand": null,
+      "model": "3200MHZ",
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.255346+00:00",
+          "retailer": "Netac Official Store AliExpress",
+          "price": 137.49,
+          "deal_id": "ozbargain-daabadadd875df2f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-3ef503e708e48b513355": {
+      "title": "Crucial P310 2TB 2280 PCIe Gen4 3D Nand NVMe M.2 Internal SSD $392.83 Delivered @ Amazon DE via AU",
+      "brand": "Crucial",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.255487+00:00",
+          "retailer": "Amazon DE via AU",
+          "price": 392.83,
+          "deal_id": "ozbargain-9490e119844d9ddc",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e94f2d5e4592a972a2a7": {
+      "title": "DJI Osmo Pocket 4 1 CMOS 4K/240fps Gimbal US$448.00 (~A$667.05) with PayPal Delivered @ EasyFly Store via AliExpress",
+      "brand": null,
+      "model": "240FPS",
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.255637+00:00",
+          "retailer": "EasyFly Store via AliExpress",
+          "price": 448.0,
+          "deal_id": "ozbargain-40d8176ae5af16da",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-199752962c46fd535eb0": {
+      "title": "CUSU DDR5 32GB (1x32GB) 5600MHz RAM US$230.10 (~A$346.73) with PayPal Delivered @ CUSU Official Store via AliExpress",
+      "brand": null,
+      "model": "5600MHZ",
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.255776+00:00",
+          "retailer": "CUSU Official Store via AliExpress",
+          "price": 230.1,
+          "deal_id": "ozbargain-9698aac1104bd66e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d1b0329980950fd6c199": {
+      "title": "Vertigo (4K Ultra HD) $26.59 + Delivery ($0 Prime/ $59 Spend) @ Amazon US via AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.255888+00:00",
+          "retailer": "Amazon US via AU",
+          "price": 26.59,
+          "deal_id": "ozbargain-8b28c945f0553107",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-42730f2f9d9cea5b95aa": {
+      "title": "40% off Sitewide + $15 Delivery @ Twinings Australia",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.255971+00:00",
+          "retailer": "Twinings Australia",
+          "price": 15.0,
+          "deal_id": "ozbargain-13534737bbf901d7",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e64440d83a678190008d": {
+      "title": "NutriBullet 900W Blender $69 + Delivery ($0 C&C/ in-Store) @ The Good Guys",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.256086+00:00",
+          "retailer": "The Good Guys",
+          "price": 69.0,
+          "deal_id": "ozbargain-c18ccb1b466f3cc5",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f2d25ce77ccf03d4c816": {
+      "title": "Li-Ning Men's RED Hare 9 PRO Racing Running Shoes US$59.84 (~AU$85.17) Delivered @ LINING Official Store via AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.256225+00:00",
+          "retailer": "LINING Official Store via AliExpress",
+          "price": 59.84,
+          "deal_id": "ozbargain-1d4c110863013907",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e87fe6e5a060eece0312": {
+      "title": "[Pre Order] AYN Thor Base 8GB+128GB US$320.16 (~A$450) with PayPal Delivered @ AYN Official Store AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.256500+00:00",
+          "retailer": "AYN Official Store AliExpress",
+          "price": 320.16,
+          "deal_id": "ozbargain-4f7a00f1f6f1773f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b1057e24a3fa86418b33": {
+      "title": "AMD Ryzen 7 9800X3D CPU US$337.02 (~A$478.04) with PayPal Delivered @ AuroraSilicon Store AliExpress",
+      "brand": "AMD",
+      "model": "9800X3D",
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.256625+00:00",
+          "retailer": "AuroraSilicon Store AliExpress",
+          "price": 337.02,
+          "deal_id": "ozbargain-69557bd8d82372ba",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-bef370782ef89c9c1868": {
+      "title": "GL.inet GL-MT3000 (Beryl AX) Wi-Fi 6 Wireless Travel Gigabit Router US$50.04 (~A$71.14 Delivered) @ GL-iNet Overseas AliExpress",
+      "brand": null,
+      "model": "GL-MT3000",
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.256754+00:00",
+          "retailer": "GL-iNet Overseas AliExpress",
+          "price": 50.04,
+          "deal_id": "ozbargain-327c4519510f934a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2810eb36ccd606d8af6a": {
+      "title": "Britax Safe-n-Sound Graphene EA Lux (Silver Fern, Sedona Sage) $329 + $9.95 Delivery @ Britax",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.256860+00:00",
+          "retailer": "Britax",
+          "price": 329.0,
+          "deal_id": "ozbargain-3919bfa70d7bb6af",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f77634d441a52e3d5445": {
+      "title": "[NSW, ACT] Real Foods Corn Thins Original 150g $1 @ IGA (Selected Stores Only)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.256959+00:00",
+          "retailer": "IGA (Selected Stores Only)",
+          "price": 1.0,
+          "deal_id": "ozbargain-6093d9c301642250",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9f66bb4e17df5e803e0f": {
+      "title": "Wolfbox Electric Air Duster DF60 US$19.06 (~A$26.39) AU Stock Shipped @ WOLFBOX Auto Store AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.257192+00:00",
+          "retailer": "WOLFBOX Auto Store AliExpress",
+          "price": 19.06,
+          "deal_id": "ozbargain-c698e1591dfe32a6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-671dd62f71b49cc1fb29": {
+      "title": "AliExpress: 28% Upsized Cashback (New Customers Only), 12% for Existing Customers (Capped at A$50 Per Order) via ShopBack",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.257317+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 50.0,
+          "deal_id": "ozbargain-02ff4d00cb3ba027",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f9adc2747ff9f565c9fe": {
+      "title": "½ Price: Arnott’s Shapes Crackers 160-190g $2 @ Woolworths | John West Tuna 95g $1.45 @ Coles + 211 More",
+      "brand": null,
+      "model": "160-190G",
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.257459+00:00",
+          "retailer": "Coles + 211 More",
+          "price": 2.0,
+          "deal_id": "ozbargain-c0272c4cc9f94ecb",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-66679d2b8b8f34c3624b": {
+      "title": "Garmin Forerunner 265 Smartwatch US$230.76 (~A$325), Forerunner 255 US$159.95 (~A$225) Delivered @ Aussie Electron AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.257598+00:00",
+          "retailer": "Aussie Electron AliExpress",
+          "price": 230.76,
+          "deal_id": "ozbargain-695d0fe556943ec0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d5fa5503b7a022130337": {
+      "title": "Dreame L50 Ultra Robotic Vacuum and Mop $796 Delivered ($0 C&C) @ Bing Lee",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.257726+00:00",
+          "retailer": "Bing Lee",
+          "price": 796.0,
+          "deal_id": "ozbargain-1939c8b6bbe555c4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c67fc59d0cae99c59a0c": {
+      "title": "AMD Ryzen 7 7800X3D CPU US$234.08 (~A$332.03) with PayPal Delivered @ Binary Tech Store AliExpress",
+      "brand": "AMD",
+      "model": "7800X3D",
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.257852+00:00",
+          "retailer": "Binary Tech Store AliExpress",
+          "price": 234.08,
+          "deal_id": "ozbargain-6bef6d275abef6d6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e3e718bf136f72b596f0": {
+      "title": "Dreame X60 Ultra Robotic Vacuum and Mop $1596 Delivered @ Bing Lee",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.257963+00:00",
+          "retailer": "Bing Lee",
+          "price": 1596.0,
+          "deal_id": "ozbargain-0c2be268fa190286",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-3f4cd9c2906e796809c4": {
+      "title": "GL.iNet Flint 2 (GL-MT6000) Wi-Fi 6 Router US$86.06 (~A$122.07) AU Stock Delivered @ GL-iNet Overseas Store AliExpress",
+      "brand": null,
+      "model": "GL-MT6000",
+      "observations": [
+        {
+          "timestamp": "2026-08-17T13:06:17.258093+00:00",
+          "retailer": "GL-iNet Overseas Store AliExpress",
+          "price": 86.06,
+          "deal_id": "ozbargain-876ce83f72e50c7f",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-17T07:17:20.088513+00:00"
+  "updated_at": "2026-08-17T13:06:26.786096+00:00"
 }
