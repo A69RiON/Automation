@@ -306,6 +306,13 @@
           "price": 72.99,
           "deal_id": "ozbargain-612f3349671f17df",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T01:51:09.311645+00:00",
+          "retailer": "Amazon AU",
+          "price": 72.99,
+          "deal_id": "ozbargain-612f3349671f17df",
+          "source": "OzBargain"
         }
       ]
     },
@@ -435,6 +442,13 @@
         },
         {
           "timestamp": "2026-08-17T18:58:13.745066+00:00",
+          "retailer": "ShopBack",
+          "price": 60.0,
+          "deal_id": "ozbargain-f7e2ba573a2e9a15",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T01:51:09.311553+00:00",
           "retailer": "ShopBack",
           "price": 60.0,
           "deal_id": "ozbargain-f7e2ba573a2e9a15",
@@ -6494,6 +6508,13 @@
           "price": 2.95,
           "deal_id": "ozbargain-bf28c64ef93b8db2",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T01:51:09.311873+00:00",
+          "retailer": "Westfield (Free Membership Required)",
+          "price": 2.95,
+          "deal_id": "ozbargain-bf28c64ef93b8db2",
+          "source": "OzBargain"
         }
       ]
     },
@@ -6511,6 +6532,13 @@
         },
         {
           "timestamp": "2026-08-17T18:58:13.745584+00:00",
+          "retailer": "Netac Official Store AliExpress",
+          "price": 137.49,
+          "deal_id": "ozbargain-daabadadd875df2f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T01:51:09.311981+00:00",
           "retailer": "Netac Official Store AliExpress",
           "price": 137.49,
           "deal_id": "ozbargain-daabadadd875df2f",
@@ -6536,6 +6564,13 @@
           "price": 392.83,
           "deal_id": "ozbargain-9490e119844d9ddc",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T01:51:09.312074+00:00",
+          "retailer": "Amazon DE via AU",
+          "price": 392.83,
+          "deal_id": "ozbargain-9490e119844d9ddc",
+          "source": "OzBargain"
         }
       ]
     },
@@ -6553,6 +6588,13 @@
         },
         {
           "timestamp": "2026-08-17T18:58:13.745838+00:00",
+          "retailer": "EasyFly Store via AliExpress",
+          "price": 448.0,
+          "deal_id": "ozbargain-40d8176ae5af16da",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T01:51:09.312184+00:00",
           "retailer": "EasyFly Store via AliExpress",
           "price": 448.0,
           "deal_id": "ozbargain-40d8176ae5af16da",
@@ -6578,6 +6620,13 @@
           "price": 230.1,
           "deal_id": "ozbargain-9698aac1104bd66e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T01:51:09.312289+00:00",
+          "retailer": "CUSU Official Store via AliExpress",
+          "price": 230.1,
+          "deal_id": "ozbargain-9698aac1104bd66e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -6595,6 +6644,13 @@
         },
         {
           "timestamp": "2026-08-17T18:58:13.746058+00:00",
+          "retailer": "Amazon US via AU",
+          "price": 26.59,
+          "deal_id": "ozbargain-8b28c945f0553107",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T01:51:09.312380+00:00",
           "retailer": "Amazon US via AU",
           "price": 26.59,
           "deal_id": "ozbargain-8b28c945f0553107",
@@ -6620,6 +6676,13 @@
           "price": 15.0,
           "deal_id": "ozbargain-13534737bbf901d7",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T01:51:09.312446+00:00",
+          "retailer": "Twinings Australia",
+          "price": 15.0,
+          "deal_id": "ozbargain-13534737bbf901d7",
+          "source": "OzBargain"
         }
       ]
     },
@@ -6637,6 +6700,13 @@
         },
         {
           "timestamp": "2026-08-17T18:58:13.746225+00:00",
+          "retailer": "The Good Guys",
+          "price": 69.0,
+          "deal_id": "ozbargain-c18ccb1b466f3cc5",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T01:51:09.312532+00:00",
           "retailer": "The Good Guys",
           "price": 69.0,
           "deal_id": "ozbargain-c18ccb1b466f3cc5",
@@ -6949,6 +7019,13 @@
           "price": 40.0,
           "deal_id": "ozbargain-08f8425c883016a2",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T01:51:09.311342+00:00",
+          "retailer": "TopCashback AU",
+          "price": 40.0,
+          "deal_id": "ozbargain-08f8425c883016a2",
+          "source": "OzBargain"
         }
       ]
     },
@@ -6959,6 +7036,13 @@
       "observations": [
         {
           "timestamp": "2026-08-17T18:58:13.744933+00:00",
+          "retailer": "Steam",
+          "price": 5.12,
+          "deal_id": "ozbargain-3c3322161252807b",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T01:51:09.311451+00:00",
           "retailer": "Steam",
           "price": 5.12,
           "deal_id": "ozbargain-3c3322161252807b",
@@ -6977,9 +7061,226 @@
           "price": 18.95,
           "deal_id": "ozbargain-c76bfa3a3a8dff72",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T01:51:09.311773+00:00",
+          "retailer": "BIG W",
+          "price": 18.95,
+          "deal_id": "ozbargain-c76bfa3a3a8dff72",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a91f96d225d36e47ac38": {
+      "title": "Sony WH1000XM5SA Wireless Noise Cancelling Headphones $299.99 Delivered @ Costco (Membership Required)",
+      "brand": "Sony",
+      "model": "WH1000XM5SA",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T01:51:09.309487+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 299.99,
+          "deal_id": "ozbargain-18afb6cc09083ac3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-dca698da514bfd494c8a": {
+      "title": "Powerwave Premium Starter Pack for Nintendo Switch 2 $35 + Delivery Only ($0 OnePass/ $65 Order) @ Target via Kmart",
+      "brand": "Nintendo",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T01:51:09.309627+00:00",
+          "retailer": "Target via Kmart",
+          "price": 35.0,
+          "deal_id": "ozbargain-a83c89d02f76a63b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-94f47bd176940952f00d": {
+      "title": "Save up to $20 When You Dine out for The First Time with Dine in Deals (CommBank Yello Customers Only)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T01:51:09.309754+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 20.0,
+          "deal_id": "ozbargain-94ce12e379b88c58",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-adf51f910d8785ab8381": {
+      "title": "Ubiquiti UCG-Ultra Cloud Gateway Ultra $179 Delivered / C&C / in-Store @ Centre Com",
+      "brand": "Ubiquiti",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T01:51:09.309869+00:00",
+          "retailer": "Centre Com",
+          "price": 179.0,
+          "deal_id": "ozbargain-11e94f7860c5b23d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-afe05f19360beeb377df": {
+      "title": "Muscle Nation Daily Greens Tropical Crush or Mixed Berry 180gm $15 (Min Order: 4) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": "180GM",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T01:51:09.309961+00:00",
+          "retailer": "Amazon AU",
+          "price": 15.0,
+          "deal_id": "ozbargain-477130024dbcefc7",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-009dd12bd05cd0528b98": {
+      "title": "KitchenAid Utensils $10ea (Masher, Skimmer, Pizza Cutter, Ice Cream Scoop, Tin Opener, Garlic Press, Stoneware Bake etc.) @ Myer",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T01:51:09.310072+00:00",
+          "retailer": "Myer",
+          "price": 10.0,
+          "deal_id": "ozbargain-23669395c6259ffb",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0aaf79ef6f252b5f697d": {
+      "title": "AmEx Statement Offer: Spend $170 or More, in One Transaction, Online or in-App at Woolworths by 18/09 to Receive One 3% Credit",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T01:51:09.310173+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 170.0,
+          "deal_id": "ozbargain-d2e52a3a08ff553c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-84b8be5a9e2ef0dd3247": {
+      "title": "HIFIMAN Ananda Headphones US$150.17 (~A$212.55), Arya Stealth US$399.54 (~A$565.52) AU Stock Shipped @ HIFIMAN Local AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T01:51:09.310288+00:00",
+          "retailer": "HIFIMAN Local AliExpress",
+          "price": 150.17,
+          "deal_id": "ozbargain-5c0204ab9dc7868d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ccfce604be94190b41f1": {
+      "title": "Pioneer DJ DDJ-FLX4 2-Channel DJ Controller $469 + Free Shipping @ DJ City (Bonus $90 VISA Gift Card via Redemption)",
+      "brand": null,
+      "model": "2-CHANNEL",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T01:51:09.310420+00:00",
+          "retailer": "DJ City (Bonus $90 VISA Gift Card via Redemption)",
+          "price": 469.0,
+          "deal_id": "ozbargain-6bad342cdb9fe898",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-cb6b2523d17d64037b54": {
+      "title": "Buy 1-Year Access All Areas Membership for $75, Get 1 Membership Free + $30 Visa GC @ Entertainment",
+      "brand": null,
+      "model": "1-YEAR",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T01:51:09.310521+00:00",
+          "retailer": "Entertainment",
+          "price": 75.0,
+          "deal_id": "ozbargain-c41495f0f7ced741",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-382b20b7f64ccca0a5d5": {
+      "title": "Mickey Toy Factory 108pc Puzzle $6.17, 300pc $10.10, Princess 200pc $6.22, DBZ II 352pc $12.54 + Delivery ($0 Prime) @ Amazon JP",
+      "brand": null,
+      "model": "108PC",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T01:51:09.310629+00:00",
+          "retailer": "Amazon JP",
+          "price": 6.17,
+          "deal_id": "ozbargain-bd18177c9440bcff",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9991d9abfa32e292151c": {
+      "title": "AmEx Statement Offer: Spend $1000 or More at Microsoft Online, Get $400 Back @ American Express",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T01:51:09.310723+00:00",
+          "retailer": "American Express",
+          "price": 1000.0,
+          "deal_id": "ozbargain-7b66e13a2df75b92",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e430c0a6164a8683a4ae": {
+      "title": "SteelSeries Arctis Nova 7 Wireless Gen 2 Gaming Headset $299 + Delivery (RRP $379) @ SteelSeries",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T01:51:09.310927+00:00",
+          "retailer": "SteelSeries",
+          "price": 299.0,
+          "deal_id": "ozbargain-18281e690285a3ac",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-68459c6875c3c86b855e": {
+      "title": "Paper Mate Flair Dual Felt Tip Pens (Medium) 8 Pack $3, Eko Wireless Charging Stand & Speaker $6 + Del ($0 C&C/in Store) @ Big W",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T01:51:09.311048+00:00",
+          "retailer": "Big W",
+          "price": 3.0,
+          "deal_id": "ozbargain-5537a05ee94b0652",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e89ddfb889fef63f255a": {
+      "title": "GL.inet GL-BE3600 (Slate 7) Wi-Fi 7 Travel Router US $76.56 (~A$108) Delivered @ GL-iNet Overseas Store AliExpress",
+      "brand": null,
+      "model": "GL-BE3600",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T01:51:09.311149+00:00",
+          "retailer": "GL-iNet Overseas Store AliExpress",
+          "price": 76.56,
+          "deal_id": "ozbargain-7833c8fb8386d023",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-08-17T18:58:25.438879+00:00"
+  "updated_at": "2026-08-18T01:51:40.177085+00:00"
 }
