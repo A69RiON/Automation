@@ -282,7 +282,7 @@
       ]
     },
     "product-d93d77d4d00928048dbc": {
-      "title": "Belkin BoostCharge Pro 3-in-1 Wireless Charging Stand $72.99 (RRP $219.95) Delivered @ Amazon AU",
+      "title": "Belkin MagSafe 3-in-1 Fast Wireless Charger, MFi Certified $81.99 (RRP $229.95) Delivered @ Amazon AU",
       "brand": null,
       "model": "3-IN-1",
       "observations": [
@@ -319,6 +319,13 @@
           "retailer": "Amazon AU",
           "price": 72.99,
           "deal_id": "ozbargain-612f3349671f17df",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T13:08:25.956207+00:00",
+          "retailer": "Amazon AU",
+          "price": 81.99,
+          "deal_id": "ozbargain-c6f7f6fbbb06a9a4",
           "source": "OzBargain"
         }
       ]
@@ -4265,7 +4272,7 @@
       ]
     },
     "product-9d5ac7d71aaa89efae13": {
-      "title": "Jean Paul Gaultier Le Male Eau De Toilette 125ml $74.99 (Was $180) + Delivery ($0 C&C/ in-Store) @ Chemist Warehouse",
+      "title": "Hugo Boss Intense 125ml Eau De Parfum - $41 Delivered Only @ The Perfume Warehouse via BIG W Marketplace",
       "brand": null,
       "model": "125ML",
       "observations": [
@@ -4295,6 +4302,13 @@
           "retailer": "Chemist Warehouse",
           "price": 74.99,
           "deal_id": "ozbargain-5faab9f38f4ca817",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T13:08:25.957113+00:00",
+          "retailer": "The Perfume Warehouse via BIG W Marketplace",
+          "price": 41.0,
+          "deal_id": "ozbargain-a93726149817d6c3",
           "source": "OzBargain"
         }
       ]
@@ -7334,6 +7348,13 @@
           "price": 1.0,
           "deal_id": "ozbargain-ddcdba28f92fa1b5",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T13:08:25.957230+00:00",
+          "retailer": "Motto Motto, Harbour Town, Gold Coast",
+          "price": 1.0,
+          "deal_id": "ozbargain-ddcdba28f92fa1b5",
+          "source": "OzBargain"
         }
       ]
     },
@@ -7348,6 +7369,13 @@
           "price": 8.95,
           "deal_id": "ozbargain-9cfea44d40fccc80",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T13:08:25.957450+00:00",
+          "retailer": "KFC (App/Online Order Only)",
+          "price": 8.95,
+          "deal_id": "ozbargain-9cfea44d40fccc80",
+          "source": "OzBargain"
         }
       ]
     },
@@ -7358,6 +7386,13 @@
       "observations": [
         {
           "timestamp": "2026-08-18T07:04:37.223021+00:00",
+          "retailer": "Laser",
+          "price": 1.0,
+          "deal_id": "ozbargain-1a0dc99241ff58ee",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T13:08:25.957693+00:00",
           "retailer": "Laser",
           "price": 1.0,
           "deal_id": "ozbargain-1a0dc99241ff58ee",
@@ -7602,7 +7637,315 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-be50546e12568fb39b4c": {
+      "title": "Nintendo Sound Clock: Alarmo $100 Delivered / in-Store / C&C @ BIG W",
+      "brand": "Nintendo",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.954268+00:00",
+          "retailer": "BIG W",
+          "price": 100.0,
+          "deal_id": "ozbargain-d13bcb2eed3efe57",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a8781db1e0c30d030ba1": {
+      "title": "Epson Ecotank ET-8500 Multifunction Photo Printer $660 Delivered / C&C @ Bing Lee",
+      "brand": null,
+      "model": "ET-8500",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.954444+00:00",
+          "retailer": "Bing Lee",
+          "price": 660.0,
+          "deal_id": "ozbargain-1ce109203b28ba01",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-fef773eabda9509813d8": {
+      "title": "Youyeetoo Nest Disk NAS Mini PC w/ N150 & 12GB LPDDR5 US$260.36 (~A$367) Delivered @ AliExpress",
+      "brand": null,
+      "model": "LPDDR5",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.954583+00:00",
+          "retailer": "AliExpress",
+          "price": 260.36,
+          "deal_id": "ozbargain-5183c1224ec6f4bc",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-188d59bff26bc56e3568": {
+      "title": "Surface Laptop 13.8-Inch (8th Edition) Snapdragon X2 Elite (12 Core), Black, 32GB RAM, 1TB SSD $3,181.25 @ Microsoft",
+      "brand": null,
+      "model": "8-INCH",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.954702+00:00",
+          "retailer": "Microsoft",
+          "price": 3181.25,
+          "deal_id": "ozbargain-74b66259ea7ac209",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a2dfbbc1efbb69263d32": {
+      "title": "GAC Emzoom Premium from $22,990 Driveaway @ GAC",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.954797+00:00",
+          "retailer": "GAC",
+          "price": 22990.0,
+          "deal_id": "ozbargain-93871baf17fe0fea",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c556ff335bd85f9c4307": {
+      "title": "Sofirn SE1 Quick Release Pocket Light - Grey US$11.93 (~A$16.89), Standard Pack US$14.31 (~A$20.25) Shipped @ Sofirn AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.954922+00:00",
+          "retailer": "Sofirn AliExpress",
+          "price": 11.93,
+          "deal_id": "ozbargain-7a1a10063ea79a20",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2389e939f1ffb33640de": {
+      "title": "Coca-Cola 375ml Can 24-Pack $2.99 C&C / in Limited Stores Only @ Autobarn & Autopro",
+      "brand": null,
+      "model": "24-PACK",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.955052+00:00",
+          "retailer": "Autobarn & Autopro",
+          "price": 2.99,
+          "deal_id": "ozbargain-b134372e10c51285",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-22748118664009424b3a": {
+      "title": "Crucial T500 2TB PCIe Gen4 NVMe M.2 SSD $327.26 Delivered @ Amazon US via AU",
+      "brand": "Crucial",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.955271+00:00",
+          "retailer": "Amazon US via AU",
+          "price": 327.26,
+          "deal_id": "ozbargain-6e5c8329eb8988fa",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d9813771d64686efc0f3": {
+      "title": "OnePlus Watch 4 Smart Watch (Global Version) Green US$193.89 Delivered (~A$274.44) Pay with PayPal @ Lumixar Store AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.955401+00:00",
+          "retailer": "Lumixar Store AliExpress",
+          "price": 193.89,
+          "deal_id": "ozbargain-0fe71e55794c0836",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-624cdbfa8bc178d9644e": {
+      "title": "Hugo Boss Bottled Eau De Toilette 3 Piece Set $79.99 + Delivery ($0 C&C/ in Limited Stores) @ Chemist Warehouse",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.955546+00:00",
+          "retailer": "Chemist Warehouse",
+          "price": 79.99,
+          "deal_id": "ozbargain-9622d71e173b7009",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-95f1caa4c1c95c75b6de": {
+      "title": "Activate & Spend $X in 1 Transaction at Coles, Get Bonus Flybuys Points @ Flybuys",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.955659+00:00",
+          "retailer": "Flybuys",
+          "price": 50.0,
+          "deal_id": "ozbargain-0d8aa00ec8a51241",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-81666007d535947eabe5": {
+      "title": "Tozo OpenEarRing Open Ear Earbuds (BT5.4, IPX5) $50.97 (54% off) + Delivery ($0 with Prime/ $59 Spend) @ TOZOSHOP Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.955751+00:00",
+          "retailer": "TOZOSHOP Amazon AU",
+          "price": 50.97,
+          "deal_id": "ozbargain-d6362e8841c19f74",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d905b9ce996c88557f88": {
+      "title": "Circo+ Rotating Stone 16\" Pizza Oven $645 + Delivery / VIC C&C @ Dough Bros Pizza Ovens",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.955868+00:00",
+          "retailer": "Dough Bros Pizza Ovens",
+          "price": 645.0,
+          "deal_id": "ozbargain-f9e0ce7bfd5a0758",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5445c17827d3b265b65f": {
+      "title": "Dettol Foam Antibacterial Hand Wash Vanilla & Orchid 250ml 6pk $14.70 ($13.23 S&S) + Del ($0 Prime/ $59+) @ Amazon AU (Excl. NT)",
+      "brand": null,
+      "model": "250ML",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.956008+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 14.7,
+          "deal_id": "ozbargain-687a16bb42d9e0a3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6d25d614624c1f302c3d": {
+      "title": "Philips 2-in-1 Air Purifier & Humidifier 3400 $299 (RRP $549) Delivered @ Amazon AU",
+      "brand": "Philips",
+      "model": "2-IN-1",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.956109+00:00",
+          "retailer": "Amazon AU",
+          "price": 299.0,
+          "deal_id": "ozbargain-09dae215eb8cdc96",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-41caa5f82a3fdfbb6a82": {
+      "title": "Lenovo Legion Y900 (11.1\" 4K 144Hz, 8GB/256GB, Dimensity 9500s) US$320.77 (~A$454.03) Delivered @ Lenovo Smart Store AliExpress",
+      "brand": "Lenovo",
+      "model": "144HZ",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.956326+00:00",
+          "retailer": "Lenovo Smart Store AliExpress",
+          "price": 320.77,
+          "deal_id": "ozbargain-a66f8af9a966ab94",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-871cd6ecbeed21e7fe1a": {
+      "title": "Reolink Solar Floodlight Cam 2K w/ AI Motion, 1000lm Floodlight & Wi-Fi 6, $125.45 Delivered (RRP $179.99) @ Reolink AU",
+      "brand": null,
+      "model": "1000LM",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.956447+00:00",
+          "retailer": "Reolink AU",
+          "price": 125.45,
+          "deal_id": "ozbargain-b5c1174d5f1fb4a4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d18d703cbf9e6f3eaaf5": {
+      "title": "Bambu Lab 3D Printer: P2S Combo $1011.12, H2C Combo $2991.12 Delivered / C&C @ Bing Lee",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.956563+00:00",
+          "retailer": "Bing Lee",
+          "price": 1011.12,
+          "deal_id": "ozbargain-af2b8f4cb09c3ff6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9805a92a50aa1216c6ac": {
+      "title": "[Pre Order] AYN Odin 3 8GB/128GB Game Console Black US$340.25 (~A$481.60) with PayPal Delivered @ AYN Official Store AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.956680+00:00",
+          "retailer": "AYN Official Store AliExpress",
+          "price": 340.25,
+          "deal_id": "ozbargain-463a7d1d76f8db8f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-3498c3477f3eb0c197b9": {
+      "title": "FlexiSpot Kana Solid Wood Queen Size Bed from $458.99 Delivered (15% Off) @ FlexiSpot",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.956771+00:00",
+          "retailer": "FlexiSpot",
+          "price": 458.99,
+          "deal_id": "ozbargain-886462f70d96ad3d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-cfe969d26dced3d3f2fe": {
+      "title": "Scoot South East Asia One-Way Sale: Perth to Singapore from $237, 14 Destinations under $400 (Nov & Late Jan) @ Sky Spy",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.956884+00:00",
+          "retailer": "Sky Spy",
+          "price": 237.0,
+          "deal_id": "ozbargain-671588cc6fe14bcd",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d69f19e1f1e4bd04d332": {
+      "title": "[QLD] One Free Selected Burger Per Person for The First 754 Customers @ Grill'd, Clayfield",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T13:08:25.957343+00:00",
+          "retailer": "Grill'd, Clayfield",
+          "price": 10.0,
+          "deal_id": "ozbargain-47abeabc22ddf6ab",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-18T07:04:47.785768+00:00"
+  "updated_at": "2026-08-18T13:08:37.260537+00:00"
 }
