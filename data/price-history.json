@@ -327,6 +327,13 @@
           "price": 81.99,
           "deal_id": "ozbargain-c6f7f6fbbb06a9a4",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.072040+00:00",
+          "retailer": "Amazon AU",
+          "price": 81.99,
+          "deal_id": "ozbargain-c6f7f6fbbb06a9a4",
+          "source": "OzBargain"
         }
       ]
     },
@@ -7649,6 +7656,13 @@
           "price": 100.0,
           "deal_id": "ozbargain-d13bcb2eed3efe57",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.070213+00:00",
+          "retailer": "BIG W",
+          "price": 100.0,
+          "deal_id": "ozbargain-d13bcb2eed3efe57",
+          "source": "OzBargain"
         }
       ]
     },
@@ -7659,6 +7673,13 @@
       "observations": [
         {
           "timestamp": "2026-08-18T13:08:25.954444+00:00",
+          "retailer": "Bing Lee",
+          "price": 660.0,
+          "deal_id": "ozbargain-1ce109203b28ba01",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.070331+00:00",
           "retailer": "Bing Lee",
           "price": 660.0,
           "deal_id": "ozbargain-1ce109203b28ba01",
@@ -7677,6 +7698,13 @@
           "price": 260.36,
           "deal_id": "ozbargain-5183c1224ec6f4bc",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.070477+00:00",
+          "retailer": "AliExpress",
+          "price": 260.36,
+          "deal_id": "ozbargain-5183c1224ec6f4bc",
+          "source": "OzBargain"
         }
       ]
     },
@@ -7687,6 +7715,13 @@
       "observations": [
         {
           "timestamp": "2026-08-18T13:08:25.954702+00:00",
+          "retailer": "Microsoft",
+          "price": 3181.25,
+          "deal_id": "ozbargain-74b66259ea7ac209",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.070585+00:00",
           "retailer": "Microsoft",
           "price": 3181.25,
           "deal_id": "ozbargain-74b66259ea7ac209",
@@ -7705,6 +7740,13 @@
           "price": 22990.0,
           "deal_id": "ozbargain-93871baf17fe0fea",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.070670+00:00",
+          "retailer": "GAC",
+          "price": 22990.0,
+          "deal_id": "ozbargain-93871baf17fe0fea",
+          "source": "OzBargain"
         }
       ]
     },
@@ -7715,6 +7757,13 @@
       "observations": [
         {
           "timestamp": "2026-08-18T13:08:25.954922+00:00",
+          "retailer": "Sofirn AliExpress",
+          "price": 11.93,
+          "deal_id": "ozbargain-7a1a10063ea79a20",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.070789+00:00",
           "retailer": "Sofirn AliExpress",
           "price": 11.93,
           "deal_id": "ozbargain-7a1a10063ea79a20",
@@ -7733,6 +7782,13 @@
           "price": 2.99,
           "deal_id": "ozbargain-b134372e10c51285",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.070910+00:00",
+          "retailer": "Autobarn & Autopro",
+          "price": 2.99,
+          "deal_id": "ozbargain-b134372e10c51285",
+          "source": "OzBargain"
         }
       ]
     },
@@ -7743,6 +7799,13 @@
       "observations": [
         {
           "timestamp": "2026-08-18T13:08:25.955271+00:00",
+          "retailer": "Amazon US via AU",
+          "price": 327.26,
+          "deal_id": "ozbargain-6e5c8329eb8988fa",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.071126+00:00",
           "retailer": "Amazon US via AU",
           "price": 327.26,
           "deal_id": "ozbargain-6e5c8329eb8988fa",
@@ -7761,6 +7824,13 @@
           "price": 193.89,
           "deal_id": "ozbargain-0fe71e55794c0836",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.071245+00:00",
+          "retailer": "Lumixar Store AliExpress",
+          "price": 193.89,
+          "deal_id": "ozbargain-0fe71e55794c0836",
+          "source": "OzBargain"
         }
       ]
     },
@@ -7771,6 +7841,13 @@
       "observations": [
         {
           "timestamp": "2026-08-18T13:08:25.955546+00:00",
+          "retailer": "Chemist Warehouse",
+          "price": 79.99,
+          "deal_id": "ozbargain-9622d71e173b7009",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.071386+00:00",
           "retailer": "Chemist Warehouse",
           "price": 79.99,
           "deal_id": "ozbargain-9622d71e173b7009",
@@ -7789,6 +7866,13 @@
           "price": 50.0,
           "deal_id": "ozbargain-0d8aa00ec8a51241",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.071496+00:00",
+          "retailer": "Flybuys",
+          "price": 50.0,
+          "deal_id": "ozbargain-0d8aa00ec8a51241",
+          "source": "OzBargain"
         }
       ]
     },
@@ -7799,6 +7883,13 @@
       "observations": [
         {
           "timestamp": "2026-08-18T13:08:25.955751+00:00",
+          "retailer": "TOZOSHOP Amazon AU",
+          "price": 50.97,
+          "deal_id": "ozbargain-d6362e8841c19f74",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.071588+00:00",
           "retailer": "TOZOSHOP Amazon AU",
           "price": 50.97,
           "deal_id": "ozbargain-d6362e8841c19f74",
@@ -7817,6 +7908,13 @@
           "price": 645.0,
           "deal_id": "ozbargain-f9e0ce7bfd5a0758",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.071704+00:00",
+          "retailer": "Dough Bros Pizza Ovens",
+          "price": 645.0,
+          "deal_id": "ozbargain-f9e0ce7bfd5a0758",
+          "source": "OzBargain"
         }
       ]
     },
@@ -7831,11 +7929,18 @@
           "price": 14.7,
           "deal_id": "ozbargain-687a16bb42d9e0a3",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.071837+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 14.7,
+          "deal_id": "ozbargain-687a16bb42d9e0a3",
+          "source": "OzBargain"
         }
       ]
     },
     "product-6d25d614624c1f302c3d": {
-      "title": "Philips 2-in-1 Air Purifier & Humidifier 3400 $299 (RRP $549) Delivered @ Amazon AU",
+      "title": "Philips 2-in-1 Air Purifier & Humidifier 3400 $299 (RRP $549) Delivered @ Amazon AU (Excl. NT)",
       "brand": "Philips",
       "model": "2-IN-1",
       "observations": [
@@ -7844,6 +7949,13 @@
           "retailer": "Amazon AU",
           "price": 299.0,
           "deal_id": "ozbargain-09dae215eb8cdc96",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.071938+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 299.0,
+          "deal_id": "ozbargain-6e621a77f42d6b7d",
           "source": "OzBargain"
         }
       ]
@@ -7855,6 +7967,20 @@
       "observations": [
         {
           "timestamp": "2026-08-18T13:08:25.956326+00:00",
+          "retailer": "Lenovo Smart Store AliExpress",
+          "price": 320.77,
+          "deal_id": "ozbargain-a66f8af9a966ab94",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.069864+00:00",
+          "retailer": "Goldway AliExpress",
+          "price": 221.79,
+          "deal_id": "ozbargain-b8bd12f43bebfd51",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.072158+00:00",
           "retailer": "Lenovo Smart Store AliExpress",
           "price": 320.77,
           "deal_id": "ozbargain-a66f8af9a966ab94",
@@ -7873,6 +7999,13 @@
           "price": 125.45,
           "deal_id": "ozbargain-b5c1174d5f1fb4a4",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.072260+00:00",
+          "retailer": "Reolink AU",
+          "price": 125.45,
+          "deal_id": "ozbargain-b5c1174d5f1fb4a4",
+          "source": "OzBargain"
         }
       ]
     },
@@ -7883,6 +8016,13 @@
       "observations": [
         {
           "timestamp": "2026-08-18T13:08:25.956563+00:00",
+          "retailer": "Bing Lee",
+          "price": 1011.12,
+          "deal_id": "ozbargain-af2b8f4cb09c3ff6",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.072382+00:00",
           "retailer": "Bing Lee",
           "price": 1011.12,
           "deal_id": "ozbargain-af2b8f4cb09c3ff6",
@@ -7901,6 +8041,13 @@
           "price": 340.25,
           "deal_id": "ozbargain-463a7d1d76f8db8f",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.072504+00:00",
+          "retailer": "AYN Official Store AliExpress",
+          "price": 340.25,
+          "deal_id": "ozbargain-463a7d1d76f8db8f",
+          "source": "OzBargain"
         }
       ]
     },
@@ -7915,6 +8062,13 @@
           "price": 458.99,
           "deal_id": "ozbargain-886462f70d96ad3d",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.072597+00:00",
+          "retailer": "FlexiSpot",
+          "price": 458.99,
+          "deal_id": "ozbargain-886462f70d96ad3d",
+          "source": "OzBargain"
         }
       ]
     },
@@ -7925,6 +8079,13 @@
       "observations": [
         {
           "timestamp": "2026-08-18T13:08:25.956884+00:00",
+          "retailer": "Sky Spy",
+          "price": 237.0,
+          "deal_id": "ozbargain-671588cc6fe14bcd",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T18:57:21.072709+00:00",
           "retailer": "Sky Spy",
           "price": 237.0,
           "deal_id": "ozbargain-671588cc6fe14bcd",
@@ -7945,7 +8106,77 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-49c251e6ec4c9496d75d": {
+      "title": "Apple iPhone SE 3 2022 64GB Refurbished Device $189.00 (+Upto $40 Coupons) + Handling & Delivery Fees @ Coles",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T18:57:21.069459+00:00",
+          "retailer": "Coles",
+          "price": 189.0,
+          "deal_id": "ozbargain-33c827738c35735b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-418bbbce34a2dfeae921": {
+      "title": "Get $30 off your first Deliver More order @Coles",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T18:57:21.069590+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 30.0,
+          "deal_id": "ozbargain-0b516f62c92b1440",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f72e6ca8d3604a7f9961": {
+      "title": "Nothing Phone (3) ( 6.7', Snapdragon 8s gen4, 12/256) @ AliExpress US$438.19 (~ A$616.01) Delivered @ Nothing Online Store",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T18:57:21.069731+00:00",
+          "retailer": "AliExpress US$438.19 (~ A$616.01) Delivered @ Nothing Online Store",
+          "price": 438.19,
+          "deal_id": "ozbargain-5afbdadebd5c3315",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-34dd0022a83ecd157c64": {
+      "title": "Roborock Saros Z70 Robot Vacuum with Mechanical Foldable Arm $999 (RRP $3,999) Delivered @ Roborockstore AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T18:57:21.069982+00:00",
+          "retailer": "Roborockstore AU",
+          "price": 999.0,
+          "deal_id": "ozbargain-781f01591d26541e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-08418fa6f323560a3ed4": {
+      "title": "[PlanMyGetaways] 50% off Subscription @ $7.50/Mo or $30/Yr (Was $15/ $60) Code ANZ50",
+      "brand": null,
+      "model": "ANZ50",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T18:57:21.070085+00:00",
+          "retailer": "$7.50/Mo or $30/Yr (Was $15/ $60) Code ANZ50",
+          "price": 7.5,
+          "deal_id": "ozbargain-469b4b435e06a3c4",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-18T13:08:37.260537+00:00"
+  "updated_at": "2026-08-18T18:57:31.704645+00:00"
 }
