@@ -16,7 +16,7 @@
       ]
     },
     "product-147fabe4fb05b7c81a4b": {
-      "title": "82% off Secret Premium Coonawarra Shiraz 2015 12-Pack $180 ($15/Bottle, RRP $1,020) Delivered @ Dozen Deals",
+      "title": "Best of The Best Shiraz & Mixed Reds Dozen 12-Pack $123.50 ($10.30/Bottle, RRP $798) Delivered @ Dozen Deals",
       "brand": null,
       "model": "12-PACK",
       "observations": [
@@ -39,6 +39,13 @@
           "retailer": "Dozen Deals",
           "price": 180.0,
           "deal_id": "ozbargain-4c874b0c15189711",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T07:04:37.223660+00:00",
+          "retailer": "Dozen Deals",
+          "price": 123.5,
+          "deal_id": "ozbargain-8b7848f35c8895f9",
           "source": "OzBargain"
         }
       ]
@@ -7096,6 +7103,13 @@
           "price": 35.0,
           "deal_id": "ozbargain-a83c89d02f76a63b",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T07:04:37.224196+00:00",
+          "retailer": "Target via Kmart",
+          "price": 35.0,
+          "deal_id": "ozbargain-a83c89d02f76a63b",
+          "source": "OzBargain"
         }
       ]
     },
@@ -7120,6 +7134,13 @@
       "observations": [
         {
           "timestamp": "2026-08-18T01:51:09.309869+00:00",
+          "retailer": "Centre Com",
+          "price": 179.0,
+          "deal_id": "ozbargain-11e94f7860c5b23d",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T07:04:37.224317+00:00",
           "retailer": "Centre Com",
           "price": 179.0,
           "deal_id": "ozbargain-11e94f7860c5b23d",
@@ -7152,6 +7173,13 @@
           "price": 10.0,
           "deal_id": "ozbargain-23669395c6259ffb",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T07:04:37.224445+00:00",
+          "retailer": "Myer",
+          "price": 10.0,
+          "deal_id": "ozbargain-23669395c6259ffb",
+          "source": "OzBargain"
         }
       ]
     },
@@ -7180,11 +7208,18 @@
           "price": 150.17,
           "deal_id": "ozbargain-5c0204ab9dc7868d",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T07:04:37.224575+00:00",
+          "retailer": "HIFIMAN Local AliExpress",
+          "price": 150.17,
+          "deal_id": "ozbargain-5c0204ab9dc7868d",
+          "source": "OzBargain"
         }
       ]
     },
     "product-ccfce604be94190b41f1": {
-      "title": "Pioneer DJ DDJ-FLX4 2-Channel DJ Controller $469 + Free Shipping @ DJ City (Bonus $90 VISA Gift Card via Redemption)",
+      "title": "Pioneer DJ DDJ-FLX4 2-Channel DJ Controller $469 Delivered + Bonus $90 Visa Gift Card via Redemption @ DJ City",
       "brand": null,
       "model": "2-CHANNEL",
       "observations": [
@@ -7193,6 +7228,13 @@
           "retailer": "DJ City (Bonus $90 VISA Gift Card via Redemption)",
           "price": 469.0,
           "deal_id": "ozbargain-6bad342cdb9fe898",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-18T07:04:37.224639+00:00",
+          "retailer": "DJ City",
+          "price": 469.0,
+          "deal_id": "ozbargain-597c988d8e6140e9",
           "source": "OzBargain"
         }
       ]
@@ -7280,7 +7322,287 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-e3c8e571063a399cf777": {
+      "title": "[QLD] Classic Tonkotsu Ramen $1 for First 400 Customers on Saturday 29 August @ Motto Motto, Harbour Town, Gold Coast",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.222710+00:00",
+          "retailer": "Motto Motto, Harbour Town, Gold Coast",
+          "price": 1.0,
+          "deal_id": "ozbargain-ddcdba28f92fa1b5",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f2d88798cb15a6db907d": {
+      "title": "8 Wicked Boneless for $8.95 Pickup @ KFC (App/Online Order Only)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.222858+00:00",
+          "retailer": "KFC (App/Online Order Only)",
+          "price": 8.95,
+          "deal_id": "ozbargain-9cfea44d40fccc80",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f2fc4f84f3224ff0ad12": {
+      "title": "Laser Ultra Slim Cat6 Ethernet Cables from $1 (e.g. 0.5m $1, 1m $1.79, 5m $2.99) + Delivery ($0 with $30+ Order) @ Laser",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.223021+00:00",
+          "retailer": "Laser",
+          "price": 1.0,
+          "deal_id": "ozbargain-1a0dc99241ff58ee",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-66e48e075abd52c5ffcc": {
+      "title": "Citizen Promaster 41mm NY0125-08W $279 ($254 with Sign up Bonus, RRP $650) Delivered / NSW C&C @ StarBuy",
+      "brand": null,
+      "model": "NY0125-08W",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.223216+00:00",
+          "retailer": "StarBuy",
+          "price": 279.0,
+          "deal_id": "ozbargain-5fbc3e48f5be2211",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-657f4884e7c95c70acd6": {
+      "title": "Boost Mobile: $70 Cashback on $305 365GB 12-Month SIM (Was $365) @ TopCashback AU",
+      "brand": null,
+      "model": "12-MONTH",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.223278+00:00",
+          "retailer": "TopCashback AU",
+          "price": 70.0,
+          "deal_id": "ozbargain-4514ee4e3f181988",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-26d6b154aa4fa5c3a236": {
+      "title": "Zeroll Ice Cream Scoop (2.5 Ounce) $22.16 (RRP $41) + Delivery ($0 Prime/$59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.223343+00:00",
+          "retailer": "Amazon AU",
+          "price": 22.16,
+          "deal_id": "ozbargain-c95ae25a12554342",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d01f0eb0460f9897c438": {
+      "title": "837 Clothing Styles Under $25 incl. adidas, HOKA, Puma, Reebok, Umbro & More + $10 Delivery ($0 with $150 Order) @ Sports Direct",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.223416+00:00",
+          "retailer": "Sports Direct",
+          "price": 25.0,
+          "deal_id": "ozbargain-d28c76382db6b6c8",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ee97029b853d56098bcc": {
+      "title": "[Skye Club] Premium Coonawarra Cabernet 2020 Dozen $143.88 ($11.99/Bottle) Delivered @ Skye Cellars",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.223477+00:00",
+          "retailer": "Skye Cellars",
+          "price": 143.88,
+          "deal_id": "ozbargain-230e081dd8ed265e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2b934979ae5a0a332e3a": {
+      "title": "BSC High Protein Powder 800g $30 (was $60) @ Coles",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.223531+00:00",
+          "retailer": "Coles",
+          "price": 30.0,
+          "deal_id": "ozbargain-71268f0193ac2c19",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f0c75ff5305c866cc902": {
+      "title": "Oates Microfibre Cloth 4-Pack $3.75 @ Woolworths",
+      "brand": null,
+      "model": "4-PACK",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.223584+00:00",
+          "retailer": "Woolworths",
+          "price": 3.75,
+          "deal_id": "ozbargain-94c07edb009808c6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-662b53377748163e3acf": {
+      "title": "Discovery Microscope Starter Kit $70 ($20 off) + $9.95 Delivery ($5 on $100 Order/ Free on $200 Order) @ Professor Plums",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.223729+00:00",
+          "retailer": "Professor Plums",
+          "price": 70.0,
+          "deal_id": "ozbargain-ed4d1e5ed2e86d1a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f65eea3ec0cc62f00115": {
+      "title": "[Refurb] Ecovacs Goat G1 Robot Lawn Mower $550 Delivered @ Clearance Kingdom via Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.223793+00:00",
+          "retailer": "Clearance Kingdom via Amazon AU",
+          "price": 550.0,
+          "deal_id": "ozbargain-aae6a37dbf8f0eb0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-72d8faeac46c6af8284f": {
+      "title": "Hush Puppies Shoes: Crown Navy $69, Union Black $99, Zavier Brown $79 + $9.95 Shipping ($0 C&C/ In-Store/ $99 Spend) @ MYER",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.223867+00:00",
+          "retailer": "MYER",
+          "price": 69.0,
+          "deal_id": "ozbargain-63332ba91399dd05",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-70310013938ca11c8aea": {
+      "title": "[NSW, ACT] Electrolux 60cm Pyrolytic Stainless Steel Double Oven with Steambake (EVEP626DSE) $1595 Delivered @ Bing Lee",
+      "brand": null,
+      "model": "EVEP626DSE",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.223935+00:00",
+          "retailer": "Bing Lee",
+          "price": 1595.0,
+          "deal_id": "ozbargain-e075cc2e64ffab84",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-135691312be718cf2507": {
+      "title": "6-Pack Bonds Men's Core Trunks Underwear Black $33.72 (RRP $60.00) Delivered @ Zasel",
+      "brand": null,
+      "model": "6-PACK",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.224000+00:00",
+          "retailer": "Zasel",
+          "price": 33.72,
+          "deal_id": "ozbargain-ec53b0d48e05d4d9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b6a4217fd55ff64a86c6": {
+      "title": "Referrer & Referee Each Get $1000 Credit for Loan Settling at $350k & above, or $250 Each for Settling below @ Athena Home Loan",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.224073+00:00",
+          "retailer": "Athena Home Loan",
+          "price": 1000.0,
+          "deal_id": "ozbargain-cb3eb21d002dc613",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c60f9aa8b2d9435816ed": {
+      "title": "Sony WH-1000XM5SA Wireless Noise Cancelling Headphones $299.99 Delivered @ Costco (Membership Required)",
+      "brand": "Sony",
+      "model": "WH-1000XM5SA",
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.224134+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 299.99,
+          "deal_id": "ozbargain-0424c9fb340bb794",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a3198f65acfe526021a9": {
+      "title": "$5-$20 off When You Dine out for The First Time with Dine In Deals @ CommBank Yello",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.224255+00:00",
+          "retailer": "CommBank Yello",
+          "price": 5.0,
+          "deal_id": "ozbargain-12ab2656069ad189",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-303dbee2c1c06b555258": {
+      "title": "Muscle Nation Daily Greens Tropical Crush or Mixed Berry 180g $15 (Min Order: 4) + Del ($0 Prime/ $59+) @ Amazon AU (Excl. NT)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.224379+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 15.0,
+          "deal_id": "ozbargain-92bebc3ad80cffcb",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6ad46e75e31dbf743a1e": {
+      "title": "AmEx Statement Offer: Spend $170 or More at Woolworths (Online or App) in 1 Transaction, Get 3% Credit ($50 Cap) @ AmEx",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-18T07:04:37.224507+00:00",
+          "retailer": "AmEx",
+          "price": 170.0,
+          "deal_id": "ozbargain-f996b81fe096bb2e",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-18T01:51:40.177085+00:00"
+  "updated_at": "2026-08-18T07:04:47.785768+00:00"
 }
