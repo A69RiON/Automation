@@ -6890,7 +6890,7 @@
       ]
     },
     "product-671dd62f71b49cc1fb29": {
-      "title": "AliExpress: 28% Upsized Cashback (New Customers Only), 12% for Existing Customers (Capped at A$50 Per Order) via ShopBack",
+      "title": "AliExpress: 30% Upsized Cashback (New Customers Only), 12% for Existing Customers (Capped at A$50 Per Order) @ ShopBack",
       "brand": null,
       "model": null,
       "observations": [
@@ -6906,6 +6906,13 @@
           "retailer": "OzBargain-listed deal",
           "price": 50.0,
           "deal_id": "ozbargain-02ff4d00cb3ba027",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-19T01:53:19.333286+00:00",
+          "retailer": "ShopBack",
+          "price": 50.0,
+          "deal_id": "ozbargain-b2d1cf7b15addc4e",
           "source": "OzBargain"
         }
       ]
@@ -7663,6 +7670,13 @@
           "price": 100.0,
           "deal_id": "ozbargain-d13bcb2eed3efe57",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-19T01:53:19.335971+00:00",
+          "retailer": "BIG W",
+          "price": 100.0,
+          "deal_id": "ozbargain-d13bcb2eed3efe57",
+          "source": "OzBargain"
         }
       ]
     },
@@ -7684,11 +7698,18 @@
           "price": 660.0,
           "deal_id": "ozbargain-1ce109203b28ba01",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-19T01:53:19.336102+00:00",
+          "retailer": "Bing Lee",
+          "price": 660.0,
+          "deal_id": "ozbargain-1ce109203b28ba01",
+          "source": "OzBargain"
         }
       ]
     },
     "product-fef773eabda9509813d8": {
-      "title": "Youyeetoo Nest Disk NAS Mini PC w/ N150 & 12GB LPDDR5 US$260.36 (~A$367) Delivered @ AliExpress",
+      "title": "Youyeetoo Nest Disk NAS Mini PC w/ N150 & 12GB LPDDR5 US$260.36 with PayPal (~A$367) Delivered @ youyeetoo Official AliExpress",
       "brand": null,
       "model": "LPDDR5",
       "observations": [
@@ -7704,6 +7725,13 @@
           "retailer": "AliExpress",
           "price": 260.36,
           "deal_id": "ozbargain-5183c1224ec6f4bc",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-19T01:53:19.336242+00:00",
+          "retailer": "youyeetoo Official AliExpress",
+          "price": 260.36,
+          "deal_id": "ozbargain-df340cf84853baea",
           "source": "OzBargain"
         }
       ]
@@ -7961,7 +7989,7 @@
       ]
     },
     "product-41caa5f82a3fdfbb6a82": {
-      "title": "Lenovo Legion Y900 (11.1\" 4K 144Hz, 8GB/256GB, Dimensity 9500s) US$320.77 (~A$454.03) Delivered @ Lenovo Smart Store AliExpress",
+      "title": "Lenovo Xiaoxin Pad Pro GT (11.1\" 144Hz, 8GB/256GB, Snapdragon 8 Gen3) US$221.79 (~A$313.93) Delivered @ Goldway AliExpress",
       "brand": "Lenovo",
       "model": "144HZ",
       "observations": [
@@ -7984,6 +8012,13 @@
           "retailer": "Lenovo Smart Store AliExpress",
           "price": 320.77,
           "deal_id": "ozbargain-a66f8af9a966ab94",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-19T01:53:19.335724+00:00",
+          "retailer": "Goldway AliExpress",
+          "price": 221.79,
+          "deal_id": "ozbargain-b8bd12f43bebfd51",
           "source": "OzBargain"
         }
       ]
@@ -8122,7 +8157,7 @@
       ]
     },
     "product-418bbbce34a2dfeae921": {
-      "title": "Get $30 off your first Deliver More order @Coles",
+      "title": "Get $30 off Your First Deliver More Order @ Coles",
       "brand": null,
       "model": null,
       "observations": [
@@ -8131,6 +8166,13 @@
           "retailer": "OzBargain-listed deal",
           "price": 30.0,
           "deal_id": "ozbargain-0b516f62c92b1440",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-19T01:53:19.335435+00:00",
+          "retailer": "Coles",
+          "price": 30.0,
+          "deal_id": "ozbargain-89cb3ca329a9d079",
           "source": "OzBargain"
         }
       ]
@@ -8160,6 +8202,13 @@
           "price": 999.0,
           "deal_id": "ozbargain-781f01591d26541e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-19T01:53:19.335844+00:00",
+          "retailer": "Roborockstore AU",
+          "price": 999.0,
+          "deal_id": "ozbargain-781f01591d26541e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -8176,7 +8225,301 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-bdca7aaa96b7c1f52e22": {
+      "title": "[Kogan First] Heavy Duty 410mm Hard Base Tool Bag $11.99 Delivered @ Kogan",
+      "brand": null,
+      "model": "410MM",
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.332641+00:00",
+          "retailer": "Kogan",
+          "price": 11.99,
+          "deal_id": "ozbargain-9afc74e211163509",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0f7ef3de0ee360305cb1": {
+      "title": "HP OmniBook 5 NG AI OLED Copilot+ 16\" Laptop (Snapdragon X Plus, 32GB RAM, 512GB SSD) $999 Delivered @ Hub by Triforce",
+      "brand": "HP",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.332806+00:00",
+          "retailer": "Hub by Triforce",
+          "price": 999.0,
+          "deal_id": "ozbargain-a9863b420a5e6e24",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f698610d2101c554386a": {
+      "title": "Nike ACG Gear Tote Bag Black (55L) $49.99 + $10 Delivery ($0 with $150 Order) @ Sports Direct",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.332921+00:00",
+          "retailer": "Sports Direct",
+          "price": 49.99,
+          "deal_id": "ozbargain-01edd8a411c93a12",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5d0b52607e39f7da1cec": {
+      "title": "Tegel Take Outs Nashville or Louisiana Chicken Tenders 500g $8.40 @ Woolworths",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.333005+00:00",
+          "retailer": "Woolworths",
+          "price": 8.4,
+          "deal_id": "ozbargain-a6ec2c45bee6db05",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c20af4079d2c61e5119f": {
+      "title": "Glen Scotia 7 Year Old Campbeltown Festival 2026 $119 ($50 off) + Delivery ($0 with $200 Order / VIC C&C) @ Skull & Barrel",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.333157+00:00",
+          "retailer": "Skull & Barrel",
+          "price": 119.0,
+          "deal_id": "ozbargain-629cd93a5bee12e2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0692092c41f1d73a781b": {
+      "title": "Arctic P12 Pro PST 120mm Fan 5-Pack $39 + Delivery ($0 C&C VIC, C&C WA/ in-Store) @ PLE Computers",
+      "brand": null,
+      "model": "5-PACK",
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.333428+00:00",
+          "retailer": "PLE Computers",
+          "price": 39.0,
+          "deal_id": "ozbargain-c86111d620c4b428",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-13a7aed3b7318e073db2": {
+      "title": "½ Price Core Powerfoods Frozen Meal 350g $4.75 @ Coles",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.333540+00:00",
+          "retailer": "Coles",
+          "price": 4.75,
+          "deal_id": "ozbargain-347414a6bac79573",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a52cef54d46cbc78feea": {
+      "title": "Bosch 1500W Electric High Pressure Washer Cleaner 1813 PSI $169 (RRP $199) Delivered @ Amazon AU (Excl. NT)",
+      "brand": null,
+      "model": "1500W",
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.333697+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 169.0,
+          "deal_id": "ozbargain-f45b8191dfd48355",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-27f0655aee56d027393a": {
+      "title": "Double Credits: Load $60 & Get $120, $100 & Get $200, $150 & Get $300, $200 & Get $400, $250 & Get $500 @ Timezone",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.333840+00:00",
+          "retailer": "Timezone",
+          "price": 60.0,
+          "deal_id": "ozbargain-4b3d60518b90576c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-227d8e0bec11a40da865": {
+      "title": "Pure Creatine Monohydrate 1kg (Micronized) $29.99 (RRP $59) + Delivery ($0 Prime/$59 Spend) @ BlackBelt Protein Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.333965+00:00",
+          "retailer": "BlackBelt Protein Amazon AU",
+          "price": 29.99,
+          "deal_id": "ozbargain-62078619400531a2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-eec059ceb482f2377766": {
+      "title": "AmEx Qantas Business Rewards Card: 190k Qantas Points via Referral, $200 Travel Fund, $6,000 Spend in 3mo, $450 Ann Fee @ AmEx",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.334090+00:00",
+          "retailer": "AmEx",
+          "price": 200.0,
+          "deal_id": "ozbargain-ae4b279d74407334",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a305354827f9eb3bd8cf": {
+      "title": "Bauhn 50\" QLED WebOS 4K TV $399 @ ALDI",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.334192+00:00",
+          "retailer": "ALDI",
+          "price": 399.0,
+          "deal_id": "ozbargain-9a3af0c91fc2e7fa",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-dd46cfff5502ab72ed41": {
+      "title": "Philips 5000 Series Induction Cooker 2000W $49 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+      "brand": "Philips",
+      "model": "2000W",
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.334410+00:00",
+          "retailer": "Amazon AU",
+          "price": 49.0,
+          "deal_id": "ozbargain-d4d88147f127c00f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-01355825baf8c2e4c098": {
+      "title": "[QLD] Mitsubishi Electric 2.6kW Air Conditioner Reverse Cycle MSZ-GS Series $998 + Del ($0 Pickup) @ Aussie Air Conditioning",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.334523+00:00",
+          "retailer": "Aussie Air Conditioning",
+          "price": 998.0,
+          "deal_id": "ozbargain-71cc2697aa449359",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8c8b0e4be248a1d28a2a": {
+      "title": "Ubiquiti UniFi Gateway Lite Router (UXG-LITE-AU) $49 + Delivery ($0 C&C) @ Umart",
+      "brand": "Ubiquiti",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.334671+00:00",
+          "retailer": "Umart",
+          "price": 49.0,
+          "deal_id": "ozbargain-715a94b836fc662a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-54b1a73a55150f16707a": {
+      "title": "Project Blueprint for Mac (Bluebeam Revu Alternative) US$19 (Was US$79) Founder Licence, First 100 Only @ Blueprint for Mac",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.334799+00:00",
+          "retailer": "Blueprint for Mac",
+          "price": 19.0,
+          "deal_id": "ozbargain-8963f6d0c1b7a53f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-586c704ec56325d93bc4": {
+      "title": "[QLD] Mercure Townsville $22/Night, Aug 28-29 (Normally ~$200/Night) @ Accor",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.334910+00:00",
+          "retailer": "Accor",
+          "price": 22.0,
+          "deal_id": "ozbargain-eaeebd14043ef65d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2d333fd5ea9d690d8cb7": {
+      "title": "[XB1, XSX] Sonic Mania $6.73 @ Xbox",
+      "brand": "Xbox",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.335089+00:00",
+          "retailer": "Xbox",
+          "price": 6.73,
+          "deal_id": "ozbargain-9bfa18dd80aefcb5",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8449de6bfda4f478d4b8": {
+      "title": "Canon MAXIFY GX7160 Megatank Multifunction Printer $699 + Delivery ($0 to Metro/ OnePass/ C&C/ in Limited Stores) @ Officeworks",
+      "brand": null,
+      "model": "GX7160",
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.335200+00:00",
+          "retailer": "Officeworks",
+          "price": 699.0,
+          "deal_id": "ozbargain-4f70f9d6e48f2d49",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c63a1edcd76bf7d95529": {
+      "title": "[Refurbished] Apple iPhone SE 3 2022 64GB + Boost $39 28-Day SIM $189 (& up to $40 off with Online/App Coupons) + Fees @ Coles",
+      "brand": "Apple",
+      "model": "28-DAY",
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.335330+00:00",
+          "retailer": "Coles",
+          "price": 39.0,
+          "deal_id": "ozbargain-9570fc1d463e6c08",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c8a62375d6c79b2fdf09": {
+      "title": "Nothing Phone (3) (6.7\", Snapdragon 8S Gen4, 12/256) US$438.19 (~ A$616.01) Delivered @ Nothing Online Store AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T01:53:19.335591+00:00",
+          "retailer": "Nothing Online Store AliExpress",
+          "price": 438.19,
+          "deal_id": "ozbargain-44f7b151e42aa56b",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-18T18:57:31.704645+00:00"
+  "updated_at": "2026-08-19T01:53:30.696288+00:00"
 }
