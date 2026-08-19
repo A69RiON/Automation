@@ -6253,7 +6253,7 @@
       ]
     },
     "product-0afdeaeaece6232cc6c1": {
-      "title": "AliExpress: 22% Cashback on Affiliated Products ($30 Cap Per Transaction) @ TopCashback AU",
+      "title": "AliExpress: 20% Cashback on Affiliated Products ($30 Cap Per Transaction) @ TopCashback AU",
       "brand": null,
       "model": null,
       "observations": [
@@ -6276,6 +6276,13 @@
           "retailer": "TopCashback AU",
           "price": 30.0,
           "deal_id": "ozbargain-b49f3f26055bc28e",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-19T07:05:41.001464+00:00",
+          "retailer": "TopCashback AU",
+          "price": 30.0,
+          "deal_id": "ozbargain-251b1a28da101a23",
           "source": "OzBargain"
         }
       ]
@@ -6910,6 +6917,13 @@
         },
         {
           "timestamp": "2026-08-19T01:53:19.333286+00:00",
+          "retailer": "ShopBack",
+          "price": 50.0,
+          "deal_id": "ozbargain-b2d1cf7b15addc4e",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-19T07:05:41.004253+00:00",
           "retailer": "ShopBack",
           "price": 50.0,
           "deal_id": "ozbargain-b2d1cf7b15addc4e",
@@ -8237,6 +8251,13 @@
           "price": 11.99,
           "deal_id": "ozbargain-9afc74e211163509",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-19T07:05:41.003666+00:00",
+          "retailer": "Kogan",
+          "price": 11.99,
+          "deal_id": "ozbargain-9afc74e211163509",
+          "source": "OzBargain"
         }
       ]
     },
@@ -8247,6 +8268,13 @@
       "observations": [
         {
           "timestamp": "2026-08-19T01:53:19.332806+00:00",
+          "retailer": "Hub by Triforce",
+          "price": 999.0,
+          "deal_id": "ozbargain-a9863b420a5e6e24",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-19T07:05:41.003787+00:00",
           "retailer": "Hub by Triforce",
           "price": 999.0,
           "deal_id": "ozbargain-a9863b420a5e6e24",
@@ -8265,6 +8293,13 @@
           "price": 49.99,
           "deal_id": "ozbargain-01edd8a411c93a12",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-19T07:05:41.003912+00:00",
+          "retailer": "Sports Direct",
+          "price": 49.99,
+          "deal_id": "ozbargain-01edd8a411c93a12",
+          "source": "OzBargain"
         }
       ]
     },
@@ -8275,6 +8310,13 @@
       "observations": [
         {
           "timestamp": "2026-08-19T01:53:19.333005+00:00",
+          "retailer": "Woolworths",
+          "price": 8.4,
+          "deal_id": "ozbargain-a6ec2c45bee6db05",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-19T07:05:41.003997+00:00",
           "retailer": "Woolworths",
           "price": 8.4,
           "deal_id": "ozbargain-a6ec2c45bee6db05",
@@ -8293,6 +8335,13 @@
           "price": 119.0,
           "deal_id": "ozbargain-629cd93a5bee12e2",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-19T07:05:41.004137+00:00",
+          "retailer": "Skull & Barrel",
+          "price": 119.0,
+          "deal_id": "ozbargain-629cd93a5bee12e2",
+          "source": "OzBargain"
         }
       ]
     },
@@ -8303,6 +8352,13 @@
       "observations": [
         {
           "timestamp": "2026-08-19T01:53:19.333428+00:00",
+          "retailer": "PLE Computers",
+          "price": 39.0,
+          "deal_id": "ozbargain-c86111d620c4b428",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-19T07:05:41.004380+00:00",
           "retailer": "PLE Computers",
           "price": 39.0,
           "deal_id": "ozbargain-c86111d620c4b428",
@@ -8519,7 +8575,259 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-0c43e16a081c27576643": {
+      "title": "30% off Minimum $50 Spend ($22 Discount Cap) @ Dan Murphy's via DoorDash",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T07:05:41.000785+00:00",
+          "retailer": "Dan Murphy's via DoorDash",
+          "price": 50.0,
+          "deal_id": "ozbargain-9e7f979507267983",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d72459826de56189cd80": {
+      "title": "Maxsun Intel Arc B580 Milestone 12GB Graphics Card $369 + Delivery ($0 NSW C&C/ $20 off with mVIP) @ Mwave",
+      "brand": "Intel",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T07:05:41.000975+00:00",
+          "retailer": "Mwave",
+          "price": 369.0,
+          "deal_id": "ozbargain-d3c1e63d2d60c044",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8536c65de05a99ef4a16": {
+      "title": "Airtasker: $50 Voucher off a Task (Min. $200 Task Price), for Tasks Posted via The Airtasker ChatGPT Plugin or MCP Server",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T07:05:41.001351+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 50.0,
+          "deal_id": "ozbargain-7335a0498cef9a23",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-3d6fb17d91de4af4ee20": {
+      "title": "45-80% off All Madison Boxing Gloves (from $10) + Delivery (from $12, $0 QLD C&C) @ Madison Sport",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T07:05:41.001584+00:00",
+          "retailer": "Madison Sport",
+          "price": 10.0,
+          "deal_id": "ozbargain-192b094e10f4bc0f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c6e1fc30e9456b1cf412": {
+      "title": "[VIC] HOTO Cordless Spin Scrubber $49.97 @ Costco, Epping (Membership Required)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T07:05:41.001703+00:00",
+          "retailer": "Costco, Epping (Membership Required)",
+          "price": 49.97,
+          "deal_id": "ozbargain-6ca08866552da2ac",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-65ec440d71f2e9f924de": {
+      "title": "30% off All Coffee Beans (250g, 500g & 1kg): from $49/kg + Shipping ($0 with $75 Order) @ Cupid Coffee",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T07:05:41.001821+00:00",
+          "retailer": "Cupid Coffee",
+          "price": 49.0,
+          "deal_id": "ozbargain-5488666642238320",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-817bd444e34945b4c6fd": {
+      "title": "[NSW] Pylontech 5kW Inverter + 20kWh Battery from $3,999 Installed @ Tenet Tech",
+      "brand": null,
+      "model": "20KWH",
+      "observations": [
+        {
+          "timestamp": "2026-08-19T07:05:41.001953+00:00",
+          "retailer": "Tenet Tech",
+          "price": 3999.0,
+          "deal_id": "ozbargain-d5863724068af812",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5595fb92e2f756b73af6": {
+      "title": "Amazon Basics Hardside Expandable Spinner Suitcase 3-Piece (55cm, 68cm, 78cm) Light Blue $140.32 Delivered @ Amazon AU",
+      "brand": null,
+      "model": "3-PIECE",
+      "observations": [
+        {
+          "timestamp": "2026-08-19T07:05:41.002079+00:00",
+          "retailer": "Amazon AU",
+          "price": 140.32,
+          "deal_id": "ozbargain-cbc731462694edf6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ecc6e5ac6a115655b479": {
+      "title": "DJI Osmo Mobile 7P Gimbal $108 + Delivery ($0 C&C/ In-Store) @ JB Hi-Fi",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T07:05:41.002205+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 108.0,
+          "deal_id": "ozbargain-bed8bdb891de510a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-142766dcdef46459f464": {
+      "title": "Register for Redmi Note 17 Series Launch Event & Get Free 500 Mi Points (Worth $5) and Bonus Redmi Earbuds 8 Lite @ Xiaomi AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T07:05:41.002471+00:00",
+          "retailer": "Xiaomi AU",
+          "price": 5.0,
+          "deal_id": "ozbargain-e2325e062e6066ac",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a9fefcf745e73c7c1aea": {
+      "title": "20% off Pro Plan for 1 Year: A$103.99 (New & Existing Users) @ Seats.aero",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T07:05:41.002596+00:00",
+          "retailer": "Seats.aero",
+          "price": 103.99,
+          "deal_id": "ozbargain-a6fb9cdfab27f100",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-dc22be42ef1a78a7c1dc": {
+      "title": "Piksters Interdental Brushes 120 Pack (Size 0, 1 or 3 Only) $29.99 in-Store, $34.99 Delivered @ Costco (Membership Required)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T07:05:41.002720+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 29.99,
+          "deal_id": "ozbargain-08d67a3e75a5bf0b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-aaa76828bde612e95991": {
+      "title": "Thursday Plantation Tea Tree Skin Care Soap 125g $2.19 in-Store / C&C Only @ Good Price Pharmacy Warehouse",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T07:05:41.002830+00:00",
+          "retailer": "Good Price Pharmacy Warehouse",
+          "price": 2.19,
+          "deal_id": "ozbargain-53b97f07578dd593",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2c7b6b5aa8ec70c9b2b5": {
+      "title": "Li-Ning Men's Feidian 6 Challenger Racing Running Shoes US$81.93 (~A$116.85) Delivered @ LINING Official Store AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T07:05:41.003099+00:00",
+          "retailer": "LINING Official Store AliExpress",
+          "price": 81.93,
+          "deal_id": "ozbargain-0278eac8076ed0e0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f533276de37acbae0703": {
+      "title": "Irwin 75mm T25 Magnetic Drive Bits 2 Pk $1 + Delivery ($0 OnePass/ C&C/ in Limited Stores) @ Bunnings",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T07:05:41.003225+00:00",
+          "retailer": "Bunnings",
+          "price": 1.0,
+          "deal_id": "ozbargain-4e48b5b580beee28",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b0615d6178df561eae46": {
+      "title": "Panasonic Eneloop AA 2000mAh Rechargeable Batteries 8 Pack $28.15 + Delivery ($0 with Prime/$59 Spend) @ Amazon UK via AU",
+      "brand": "Panasonic",
+      "model": "2000MAH",
+      "observations": [
+        {
+          "timestamp": "2026-08-19T07:05:41.003349+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 28.15,
+          "deal_id": "ozbargain-1aeb0304e6671e26",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a10fecd3a29b65bc7834": {
+      "title": "$20 off $100 Spend @ Coles on Uber Eats (Exc Delivery and Service Fees)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T07:05:41.003447+00:00",
+          "retailer": "Coles on Uber Eats (Exc Delivery and Service Fees)",
+          "price": 20.0,
+          "deal_id": "ozbargain-401a905d72ee1892",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-767f4beb100f60df9e2f": {
+      "title": "[iOS] BuildTab Pro - Free Lifetime Unlock (Was $12.99) @ Apple App Store",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-19T07:05:41.003558+00:00",
+          "retailer": "Apple App Store",
+          "price": 12.99,
+          "deal_id": "ozbargain-531c5adcad84504e",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-19T01:53:30.696288+00:00"
+  "updated_at": "2026-08-19T07:05:50.292413+00:00"
 }
