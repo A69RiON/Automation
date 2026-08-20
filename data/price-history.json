@@ -4720,7 +4720,7 @@
       ]
     },
     "product-8c3921ce0cf1cd26b2b7": {
-      "title": "Vention 165W 20000mAh Power Bank with CCC Certification US$45.77 (~A$64.54) Delivered @ Vention Official Store AliExpress",
+      "title": "Vention 165W 20000mAh Power Bank with CCC Certification US$45.77 (~A$64.54) Delivered @ VEnTIOn Official Store AliExpress",
       "brand": null,
       "model": "20000MAH",
       "observations": [
@@ -4748,6 +4748,13 @@
         {
           "timestamp": "2026-08-19T18:54:06.238322+00:00",
           "retailer": "Vention Official Store AliExpress",
+          "price": 45.77,
+          "deal_id": "ozbargain-0e1880bc93cafaa3",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T01:52:13.243084+00:00",
+          "retailer": "VEnTIOn Official Store AliExpress",
           "price": 45.77,
           "deal_id": "ozbargain-0e1880bc93cafaa3",
           "source": "OzBargain"
@@ -9336,6 +9343,13 @@
           "price": 20.0,
           "deal_id": "ozbargain-0aea0a4325cbc512",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T01:52:13.242995+00:00",
+          "retailer": "American Express",
+          "price": 20.0,
+          "deal_id": "ozbargain-0aea0a4325cbc512",
+          "source": "OzBargain"
         }
       ]
     },
@@ -9422,7 +9436,301 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-251702e284a92973b263": {
+      "title": "Melissa & Doug Wooden Vehicle Stamp Set $15 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU / Officeworks ($0 C&C/One Pass)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.240281+00:00",
+          "retailer": "Amazon AU / Officeworks ($0 C&C/One Pass)",
+          "price": 15.0,
+          "deal_id": "ozbargain-aa920c0aa86d877f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7326ec1015831f11d713": {
+      "title": "Citizen Zenshin Chronograph 42.5mm CA4610-85Z $379 Delivered @ StarBuy",
+      "brand": null,
+      "model": "CA4610-85Z",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.240372+00:00",
+          "retailer": "StarBuy",
+          "price": 379.0,
+          "deal_id": "ozbargain-79b091e20b587055",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-63239e3ff3218cf2b16a": {
+      "title": "Roborock Saros Z70 Robotic Vacuum Cleaner with OmniGrip Mechanical Arm $997 + Delivery @ BIG W via Everyday Market",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.240493+00:00",
+          "retailer": "BIG W via Everyday Market",
+          "price": 997.0,
+          "deal_id": "ozbargain-5f97bd4f25294ac7",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9bf731e20e6487377aa2": {
+      "title": "Dreame H15 Pro Heat Wet and Dry Vacuum and Mop in One $584 (via Price Check Button) + Delivery ($0 C&C) @ The Good Guys",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.240607+00:00",
+          "retailer": "The Good Guys",
+          "price": 584.0,
+          "deal_id": "ozbargain-db6cf5e4cad8729f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c873f823b4544b2caa92": {
+      "title": "Wolfbox DF100 Electric Air Duster US$33.16 (~A$51.99) Delivered @ Wolfbox Global Store AliExpress",
+      "brand": null,
+      "model": "DF100",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.240714+00:00",
+          "retailer": "Wolfbox Global Store AliExpress",
+          "price": 33.16,
+          "deal_id": "ozbargain-29ac26c4ef9a0e3e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9bf9661fde723adb3971": {
+      "title": "Pioneer 6.5\" 2-Way Car Speakers $19.99, ToolPRO 100-Piece Screwdriver Set $41.99, Car Tool Kit $198 C&C /+ Del @ Supercheap Auto",
+      "brand": null,
+      "model": "100-PIECE",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.240860+00:00",
+          "retailer": "Supercheap Auto",
+          "price": 19.99,
+          "deal_id": "ozbargain-25b6b6ad6897698e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-fcabebf25e5c50348759": {
+      "title": "[VIC] E10 $0.899/L, U91 $0.999/L, Diesel $0.999/L, 7:30pm-10pm Daily @ Metro Petroleum Brunswick N-Tech (Brunswick West)",
+      "brand": null,
+      "model": "30PM-10PM",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.241030+00:00",
+          "retailer": "Metro Petroleum Brunswick N-Tech (Brunswick West)",
+          "price": 0.89,
+          "deal_id": "ozbargain-0ed7d361f11cbb60",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f1856a48919be09ce552": {
+      "title": "50% off Mobile Plan Fees for First 4 Months - from $15/mth (30GB) to $30/mth (160GB) on 5G @ Tangerine Mobile",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.241201+00:00",
+          "retailer": "Tangerine Mobile",
+          "price": 15.0,
+          "deal_id": "ozbargain-36ba0e931cbda735",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-842cbdf675bd99f0f7f9": {
+      "title": "Up to 50% off RRP Longines Watches (e.g. L49104116 $1,875) + Delivery (Free C&C NSW) @ Peter's of Kensington",
+      "brand": null,
+      "model": "L49104116",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.241296+00:00",
+          "retailer": "Peter's of Kensington",
+          "price": 1875.0,
+          "deal_id": "ozbargain-e2af3efb0a6412ba",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d17a4ab0d74cb14384ff": {
+      "title": "Philips Handheld Steamer 5000 Series $58 Delivered (STH5020/20, Celestial Blue) @ Amazon AU",
+      "brand": "Philips",
+      "model": "STH5020",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.241379+00:00",
+          "retailer": "Amazon AU",
+          "price": 58.0,
+          "deal_id": "ozbargain-bfba2302b5627b0e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b4ccc2643ed14ab5fe71": {
+      "title": "20% - 60% OFF AC Milan and Perth 'Calcio Italiano' 2026 Merch | Derby Tee $19.99 (RRP$49.99) + $9.99 Post ($0 WA C&C) @ Jim Kidd",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.241492+00:00",
+          "retailer": "Jim Kidd",
+          "price": 19.99,
+          "deal_id": "ozbargain-4dedb3a8cee36b22",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e85784e659d2bd676747": {
+      "title": "Hexa Black Obsidian Combi Lightweight Plywood 12x1250x2500 mm $105 (Was $208) + 20% off Shipping ($0 VIC C&C) @ Ply Online",
+      "brand": null,
+      "model": "12X1250X2500",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.241573+00:00",
+          "retailer": "Ply Online",
+          "price": 105.0,
+          "deal_id": "ozbargain-a374da4326c04eff",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-78275382f7c884c3f899": {
+      "title": "Sharpie Rub a Dub Laundry Marker, Black (Pack of 1) $1.87 ($1.68 Sub & Save) + Delivery ($0 with Prime/$59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.241665+00:00",
+          "retailer": "Amazon AU",
+          "price": 1.87,
+          "deal_id": "ozbargain-626be2a8745fdeba",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-006899940c0ac7ce411b": {
+      "title": "Legion Pro 7 16\" OLED 240hz | Ultra 9 275hx | RTX 5070 Ti 12GB | 32GB | 1TB - $3,499 ($2,000 off RRP) @ Centre Com",
+      "brand": null,
+      "model": "RTX 5070",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.241757+00:00",
+          "retailer": "Centre Com",
+          "price": 3499.0,
+          "deal_id": "ozbargain-05975f7d0c6429a7",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-50c27eeb4b0874ed7255": {
+      "title": "Philips Airfryer 5000 Series with Steam and EasySlide Rail 7.2L $249 Delivered @ Amazon AU",
+      "brand": "Philips",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.241837+00:00",
+          "retailer": "Amazon AU",
+          "price": 249.0,
+          "deal_id": "ozbargain-c2c522daeaffdad1",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1b791f5b1cc42e60eb17": {
+      "title": "3 Months Study Arena Supporter Free (Normally US$60) @ Study Arena",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.241990+00:00",
+          "retailer": "Study Arena",
+          "price": 60.0,
+          "deal_id": "ozbargain-1280500799679e72",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4b85b3375b4628ae8ea2": {
+      "title": "40% off 1 / 45% off 2–3 / 50% off 4+ China & Vietnam eSIMs - China 10GB/30-Day $11.01-$9.18 @ BambooSIM",
+      "brand": null,
+      "model": "30-DAY",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.242094+00:00",
+          "retailer": "BambooSIM",
+          "price": 11.01,
+          "deal_id": "ozbargain-2f0ab3b0a098a2c1",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ed18641231b3e5769127": {
+      "title": "Bosch Accessories 91-Piece V-Line Titanium Drill Bit & Screwdriver Bit Set $35 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": "91-PIECE",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.242197+00:00",
+          "retailer": "Amazon AU",
+          "price": 35.0,
+          "deal_id": "ozbargain-e2198f05c9668fc8",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5950db95168f835ca543": {
+      "title": "Parker's Baked Mini Pretzels 8pk 200g $3 ($2.70 via Sub & Save, 2 for $2.55ea) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.242389+00:00",
+          "retailer": "Amazon AU",
+          "price": 3.0,
+          "deal_id": "ozbargain-c2d4a4b212a0e2c0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b6e5048d11c866849b2f": {
+      "title": "Thule Notus 20L Backpack (Blue) $89 + Delivery ($0 C&C/ in-Store) @ JB Hi-Fi",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.242491+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 89.0,
+          "deal_id": "ozbargain-c3fc318d57b3ab6a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ad96f04327c646e8f6c7": {
+      "title": "Google AI Pro (5TB Storage) $8.49/M, with YouTube Premium $15.49/M for Eligible University Students (up to 4 Years) @ Google",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T01:52:13.242739+00:00",
+          "retailer": "Google",
+          "price": 8.49,
+          "deal_id": "ozbargain-ccccbbe7936c03cb",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-19T18:54:16.241476+00:00"
+  "updated_at": "2026-08-20T01:52:24.577150+00:00"
 }
