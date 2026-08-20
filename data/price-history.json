@@ -4639,6 +4639,13 @@
           "price": 117.0,
           "deal_id": "ozbargain-549a00a7329da669",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T18:59:52.833604+00:00",
+          "retailer": "Dan Murphy's",
+          "price": 117.0,
+          "deal_id": "ozbargain-549a00a7329da669",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4670,6 +4677,13 @@
         },
         {
           "timestamp": "2026-08-20T13:11:53.365916+00:00",
+          "retailer": "Autobarn",
+          "price": 59.99,
+          "deal_id": "ozbargain-8f0dffd899ed53ec",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T18:59:52.834180+00:00",
           "retailer": "Autobarn",
           "price": 59.99,
           "deal_id": "ozbargain-8f0dffd899ed53ec",
@@ -4775,6 +4789,13 @@
         },
         {
           "timestamp": "2026-08-20T13:11:53.366000+00:00",
+          "retailer": "VEnTIOn Flagship Store AliExpress",
+          "price": 21.29,
+          "deal_id": "ozbargain-2070c0b519cc9cb8",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T18:59:52.834298+00:00",
           "retailer": "VEnTIOn Flagship Store AliExpress",
           "price": 21.29,
           "deal_id": "ozbargain-2070c0b519cc9cb8",
@@ -10141,6 +10162,13 @@
           "price": 2000.0,
           "deal_id": "ozbargain-a8549fcf4621c75b",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T18:59:52.832679+00:00",
+          "retailer": "Lending Workshop",
+          "price": 2000.0,
+          "deal_id": "ozbargain-a8549fcf4621c75b",
+          "source": "OzBargain"
         }
       ]
     },
@@ -10151,6 +10179,13 @@
       "observations": [
         {
           "timestamp": "2026-08-20T13:11:53.364927+00:00",
+          "retailer": "70mai Official Store AliExpress",
+          "price": 97.49,
+          "deal_id": "ozbargain-af74cd28da31efc4",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T18:59:52.832810+00:00",
           "retailer": "70mai Official Store AliExpress",
           "price": 97.49,
           "deal_id": "ozbargain-af74cd28da31efc4",
@@ -10169,6 +10204,13 @@
           "price": 663.09,
           "deal_id": "ozbargain-1046741dcd570a5a",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T18:59:52.832941+00:00",
+          "retailer": "Mobileciti",
+          "price": 663.09,
+          "deal_id": "ozbargain-1046741dcd570a5a",
+          "source": "OzBargain"
         }
       ]
     },
@@ -10179,6 +10221,13 @@
       "observations": [
         {
           "timestamp": "2026-08-20T13:11:53.365101+00:00",
+          "retailer": "Samsung Education",
+          "price": 1429.4,
+          "deal_id": "ozbargain-23555a9e971895ae",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T18:59:52.833049+00:00",
           "retailer": "Samsung Education",
           "price": 1429.4,
           "deal_id": "ozbargain-23555a9e971895ae",
@@ -10197,6 +10246,13 @@
           "price": 4.5,
           "deal_id": "ozbargain-1180eddf0fca9700",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T18:59:52.833144+00:00",
+          "retailer": "FadedServers",
+          "price": 4.5,
+          "deal_id": "ozbargain-1180eddf0fca9700",
+          "source": "OzBargain"
         }
       ]
     },
@@ -10207,6 +10263,13 @@
       "observations": [
         {
           "timestamp": "2026-08-20T13:11:53.365243+00:00",
+          "retailer": "Harvey Norman",
+          "price": 2098.0,
+          "deal_id": "ozbargain-1cfa5ac2b3ab224f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T18:59:52.833238+00:00",
           "retailer": "Harvey Norman",
           "price": 2098.0,
           "deal_id": "ozbargain-1cfa5ac2b3ab224f",
@@ -10225,6 +10288,13 @@
           "price": 121.24,
           "deal_id": "ozbargain-77fc6cfecb1b16e4",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T18:59:52.833356+00:00",
+          "retailer": "Amazon Japan via AU",
+          "price": 121.24,
+          "deal_id": "ozbargain-77fc6cfecb1b16e4",
+          "source": "OzBargain"
         }
       ]
     },
@@ -10235,6 +10305,13 @@
       "observations": [
         {
           "timestamp": "2026-08-20T13:11:53.365410+00:00",
+          "retailer": "Amazon AU",
+          "price": 13.2,
+          "deal_id": "ozbargain-e580895c0dbc19b0",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T18:59:52.833473+00:00",
           "retailer": "Amazon AU",
           "price": 13.2,
           "deal_id": "ozbargain-e580895c0dbc19b0",
@@ -10253,6 +10330,13 @@
           "price": 32.99,
           "deal_id": "ozbargain-19c6bf98d9575468",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T18:59:52.833720+00:00",
+          "retailer": "PharmacySavings",
+          "price": 32.99,
+          "deal_id": "ozbargain-19c6bf98d9575468",
+          "source": "OzBargain"
         }
       ]
     },
@@ -10263,6 +10347,13 @@
       "observations": [
         {
           "timestamp": "2026-08-20T13:11:53.365688+00:00",
+          "retailer": "Arctel",
+          "price": 79.99,
+          "deal_id": "ozbargain-4e7202ce97ed7329",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T18:59:52.833857+00:00",
           "retailer": "Arctel",
           "price": 79.99,
           "deal_id": "ozbargain-4e7202ce97ed7329",
@@ -10281,6 +10372,13 @@
           "price": 46.32,
           "deal_id": "ozbargain-4c82a8bc89a1b54b",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T18:59:52.834073+00:00",
+          "retailer": "amoudo Overseas Store AliExpress",
+          "price": 46.32,
+          "deal_id": "ozbargain-4c82a8bc89a1b54b",
+          "source": "OzBargain"
         }
       ]
     },
@@ -10291,6 +10389,13 @@
       "observations": [
         {
           "timestamp": "2026-08-20T13:11:53.366084+00:00",
+          "retailer": "Amazon AU",
+          "price": 149.0,
+          "deal_id": "ozbargain-b1195832fb5e5025",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T18:59:52.834408+00:00",
           "retailer": "Amazon AU",
           "price": 149.0,
           "deal_id": "ozbargain-b1195832fb5e5025",
@@ -10309,6 +10414,13 @@
           "price": 154.52,
           "deal_id": "ozbargain-f8327f7be224e6a3",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T18:59:52.834519+00:00",
+          "retailer": "Amazon AU",
+          "price": 154.52,
+          "deal_id": "ozbargain-f8327f7be224e6a3",
+          "source": "OzBargain"
         }
       ]
     },
@@ -10319,6 +10431,13 @@
       "observations": [
         {
           "timestamp": "2026-08-20T13:11:53.366231+00:00",
+          "retailer": "KFC (Pick Up Only)",
+          "price": 11.95,
+          "deal_id": "ozbargain-dab65fcd36e11de5",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T18:59:52.834620+00:00",
           "retailer": "KFC (Pick Up Only)",
           "price": 11.95,
           "deal_id": "ozbargain-dab65fcd36e11de5",
@@ -10337,6 +10456,13 @@
           "price": 49.0,
           "deal_id": "ozbargain-9d55af3208091b71",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T18:59:52.834744+00:00",
+          "retailer": "Spotlight",
+          "price": 49.0,
+          "deal_id": "ozbargain-9d55af3208091b71",
+          "source": "OzBargain"
         }
       ]
     },
@@ -10347,6 +10473,13 @@
       "observations": [
         {
           "timestamp": "2026-08-20T13:11:53.366394+00:00",
+          "retailer": "Amazon AU",
+          "price": 26.72,
+          "deal_id": "ozbargain-477a713bc9bee81a",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T18:59:52.834876+00:00",
           "retailer": "Amazon AU",
           "price": 26.72,
           "deal_id": "ozbargain-477a713bc9bee81a",
@@ -10381,7 +10514,105 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-6304b2b6d5ec53590359": {
+      "title": "HP 14a-nf0007TU 14\" HD Chromebook Laptop (Intel N100)[64GB] $299 + Delivery ($0 C&C / In-Store) @ JB Hi-Fi",
+      "brand": "Intel",
+      "model": "14A-NF0007TU",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T18:59:52.831582+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 299.0,
+          "deal_id": "ozbargain-80843a8f9abe3f12",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0108b8cfa5c71c583c52": {
+      "title": "Lenovo 14M8911 14\" WUXGA Chromebook [128GB/4GB] $349 + Delivery ($0 C&C / In-Store) @ JB Hi-Fi",
+      "brand": "Lenovo",
+      "model": "14M8911",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T18:59:52.831745+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 349.0,
+          "deal_id": "ozbargain-5a91d4ba5647b52f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7f599e3e878268daa0af": {
+      "title": "Bulova Men's Classic Sutton 4-Hand Automatic Watch, 24-Hour Sub … $134.98 (RRP $220.08) Delivered @ Amazon AU",
+      "brand": null,
+      "model": "24-HOUR",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T18:59:52.831908+00:00",
+          "retailer": "Amazon AU",
+          "price": 134.98,
+          "deal_id": "ozbargain-0cb8a3577db5615f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-fc688026aa1caa570804": {
+      "title": "Upsized Gift Card Cashbacks: AmpolCash 6%, Priceline 7%, Cotton On 15%, HelloFresh 15%, Shein 15% + More @ ShopBack",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T18:59:52.832030+00:00",
+          "retailer": "ShopBack",
+          "price": 25.0,
+          "deal_id": "ozbargain-6edf5c46552df115",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7b31b16a6de4a4800c37": {
+      "title": "Laifen P3 Pro 3-Blade Shaver $169.99 Delivered @ Costco Wholesale",
+      "brand": null,
+      "model": "3-BLADE",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T18:59:52.832241+00:00",
+          "retailer": "Costco Wholesale",
+          "price": 169.99,
+          "deal_id": "ozbargain-bb795d9f5181c96a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c16a2bb0ec7c95ec9c11": {
+      "title": "Bamper Unbleached Bamboo Toilet Paper 24 Rolls $20, 36 Rolls $28 + Shipping @ Urban Ethos",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T18:59:52.832461+00:00",
+          "retailer": "Urban Ethos",
+          "price": 20.0,
+          "deal_id": "ozbargain-e115c8f646b1bacc",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2a4d92f9c224dbe9da6d": {
+      "title": "Macpac Men’s Burke Jacket $99 Delivered @ Macpac",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T18:59:52.832565+00:00",
+          "retailer": "Macpac",
+          "price": 99.0,
+          "deal_id": "ozbargain-139451cc0adc3a3a",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-20T13:12:04.651994+00:00"
+  "updated_at": "2026-08-20T19:00:03.525247+00:00"
 }
