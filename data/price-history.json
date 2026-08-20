@@ -4608,7 +4608,7 @@
       ]
     },
     "product-19b38a7d3e0daae04813": {
-      "title": "Johnnie Walker Double Black Blended Scotch Whisky 700ml $45.99 In-Store Only @ Costco (Membership Required)",
+      "title": "Aberlour A'Bunadh Single Malt Scotch Whisky 700ml $117 (Member's Price) + Del ($0 C&C/ to Metro with $149 Order) @ Dan Murphy's",
       "brand": null,
       "model": "700ML",
       "observations": [
@@ -4632,11 +4632,18 @@
           "price": 45.99,
           "deal_id": "ozbargain-9a96834b90a024dc",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T13:11:53.365515+00:00",
+          "retailer": "Dan Murphy's",
+          "price": 117.0,
+          "deal_id": "ozbargain-549a00a7329da669",
+          "source": "OzBargain"
         }
       ]
     },
     "product-04d0e7b38a8c67832586": {
-      "title": "Nulon Protect Full Synthetic 5W-30 Premium Engine Oil 5L $36.99 In-Store Only @ Costco (Membership Required)",
+      "title": "Valvoline Restore & Protect 5W-30 Premium Full Synthetic Engine Oil 6L $59.99 + Delivery ($0 C&C/ in-Store) @ Autobarn",
       "brand": null,
       "model": "5W-30",
       "observations": [
@@ -4659,6 +4666,13 @@
           "retailer": "Costco (Membership Required)",
           "price": 36.99,
           "deal_id": "ozbargain-611beaf395cb7d91",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T13:11:53.365916+00:00",
+          "retailer": "Autobarn",
+          "price": 59.99,
+          "deal_id": "ozbargain-8f0dffd899ed53ec",
           "source": "OzBargain"
         }
       ]
@@ -4720,7 +4734,7 @@
       ]
     },
     "product-8c3921ce0cf1cd26b2b7": {
-      "title": "Vention 165W 20000mAh Power Bank with CCC Certification US$45.77 (~A$64.54) Delivered @ VEnTIOn Official Store AliExpress",
+      "title": "Vention 45W 20000mAh CCC Certified Power Bank with Built-in Cable US$21.29 (~A$29.89) @ VEnTIOn Flagship Store AliExpress",
       "brand": null,
       "model": "20000MAH",
       "observations": [
@@ -4757,6 +4771,13 @@
           "retailer": "VEnTIOn Official Store AliExpress",
           "price": 45.77,
           "deal_id": "ozbargain-0e1880bc93cafaa3",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T13:11:53.366000+00:00",
+          "retailer": "VEnTIOn Flagship Store AliExpress",
+          "price": 21.29,
+          "deal_id": "ozbargain-2070c0b519cc9cb8",
           "source": "OzBargain"
         }
       ]
@@ -9777,6 +9798,13 @@
           "price": 20.0,
           "deal_id": "ozbargain-0a67e1a2dd0201d9",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T13:11:53.366823+00:00",
+          "retailer": "Finder",
+          "price": 20.0,
+          "deal_id": "ozbargain-0a67e1a2dd0201d9",
+          "source": "OzBargain"
         }
       ]
     },
@@ -9787,6 +9815,13 @@
       "observations": [
         {
           "timestamp": "2026-08-20T07:06:59.384790+00:00",
+          "retailer": "Amazon AU",
+          "price": 10.22,
+          "deal_id": "ozbargain-e4ce0d3998af16b9",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T13:11:53.366909+00:00",
           "retailer": "Amazon AU",
           "price": 10.22,
           "deal_id": "ozbargain-e4ce0d3998af16b9",
@@ -9805,6 +9840,13 @@
           "price": 14.06,
           "deal_id": "ozbargain-e17b7447d4d4913a",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T13:11:53.367056+00:00",
+          "retailer": "Amazon AU",
+          "price": 14.06,
+          "deal_id": "ozbargain-e17b7447d4d4913a",
+          "source": "OzBargain"
         }
       ]
     },
@@ -9819,6 +9861,13 @@
           "price": 23.9,
           "deal_id": "ozbargain-8bc55cf2a7c94a32",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T13:11:53.367134+00:00",
+          "retailer": "Inkbirdau",
+          "price": 23.9,
+          "deal_id": "ozbargain-8bc55cf2a7c94a32",
+          "source": "OzBargain"
         }
       ]
     },
@@ -9829,6 +9878,13 @@
       "observations": [
         {
           "timestamp": "2026-08-20T07:06:59.385251+00:00",
+          "retailer": "Amazon AU",
+          "price": 8.58,
+          "deal_id": "ozbargain-0a834ab53a5e62a7",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-20T13:11:53.367212+00:00",
           "retailer": "Amazon AU",
           "price": 8.58,
           "deal_id": "ozbargain-0a834ab53a5e62a7",
@@ -10073,7 +10129,259 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-b552e6027be1cf1cc8bf": {
+      "title": "$2,000 - $6,000 Mortgage Broker Cashback (Minimum Loan $500,000) @ Lending Workshop",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T13:11:53.364800+00:00",
+          "retailer": "Lending Workshop",
+          "price": 2000.0,
+          "deal_id": "ozbargain-a8549fcf4621c75b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a8c9839eddbde20483d2": {
+      "title": "70mai A900 4K Dash Cam US$97.49 (~A$138), Front + 4K Rear US$123.49 (~A$174.82) Delivered @ 70mai Official Store AliExpress",
+      "brand": null,
+      "model": "70MAI",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T13:11:53.364927+00:00",
+          "retailer": "70mai Official Store AliExpress",
+          "price": 97.49,
+          "deal_id": "ozbargain-af74cd28da31efc4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-dbc9e59da5363ecc12ff": {
+      "title": "Up to 40% off Lenovo Tablets + Extra 5% off Code (e.g. Lenovo Tab Pro Gen 2 256GB for $663.09 Delivered) @ Mobileciti",
+      "brand": "Lenovo",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T13:11:53.365020+00:00",
+          "retailer": "Mobileciti",
+          "price": 663.09,
+          "deal_id": "ozbargain-1046741dcd570a5a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a3fd5b195c6a75eac790": {
+      "title": "Samsung 32\" Odyssey G8 G80HS 6K-165Hz / 3K-330Hz Fast IPS Gaming Monitor $1429.40 (RRP $2199) + Delivery @ Samsung Education",
+      "brand": "Samsung",
+      "model": "6K-165HZ",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T13:11:53.365101+00:00",
+          "retailer": "Samsung Education",
+          "price": 1429.4,
+          "deal_id": "ozbargain-23555a9e971895ae",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f1b0d8d17adde9fd208b": {
+      "title": "Palworld Server Sydney Hosting 40% off First Bill (from A$4.50/Week, Ongoing A$7.50/Week), No Lock-in @ FadedServers",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T13:11:53.365172+00:00",
+          "retailer": "FadedServers",
+          "price": 4.5,
+          "deal_id": "ozbargain-1180eddf0fca9700",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2ebb4905b5c58bcd435f": {
+      "title": "Lenovo LOQ 15.6\" i7-13650HX/24GB/1TB SSD/RTX 5060 8GB Laptop - Luna Grey $2098 + Delivery ($0 C&C/ in-Store) @ Harvey Norman",
+      "brand": "Lenovo",
+      "model": "RTX 5060",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T13:11:53.365243+00:00",
+          "retailer": "Harvey Norman",
+          "price": 2098.0,
+          "deal_id": "ozbargain-1cfa5ac2b3ab224f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d3aac646661de9d9a5d3": {
+      "title": "Dunlop Tennis Hard Tennis Racquet 22sx300 Tour G3 (Frame Only) $121.24 Delivered @ Amazon Japan via AU",
+      "brand": null,
+      "model": "22SX300",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T13:11:53.365327+00:00",
+          "retailer": "Amazon Japan via AU",
+          "price": 121.24,
+          "deal_id": "ozbargain-77fc6cfecb1b16e4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-fdc998e558a35309c75d": {
+      "title": "PlayStation: God of War Ragnarök 15cm Kratos Action Figure $13.20 (RRP $49.99) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
+      "brand": "Playstation",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T13:11:53.365410+00:00",
+          "retailer": "Amazon AU",
+          "price": 13.2,
+          "deal_id": "ozbargain-e580895c0dbc19b0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-03003db5b7aca7e43e09": {
+      "title": "Dr. Reddy's Lorazol Loratadine 10mg 400 Tablets $32.99 / 600 Tablets $42.99 Delivered @ PharmacySavings",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T13:11:53.365601+00:00",
+          "retailer": "PharmacySavings",
+          "price": 32.99,
+          "deal_id": "ozbargain-19c6bf98d9575468",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d3af04f0ae936feacc44": {
+      "title": "nbn FTTP or HFC 500/50 $79.99/M, 750/50 $89.99/M, 1000/100 $99.99/M for 24 Months | eero 7 Router $99 + $10 Delivery @ Arctel",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T13:11:53.365688+00:00",
+          "retailer": "Arctel",
+          "price": 79.99,
+          "deal_id": "ozbargain-4e7202ce97ed7329",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-413750bb7b0bbb342bd8": {
+      "title": "Amoudo 15.6\" 1920x1080 IPS Portable Monitor US$46.32 (~A$65.57) AU Stock Delivered @ amoudo Overseas Store AliExpress",
+      "brand": null,
+      "model": "1920X1080",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T13:11:53.365841+00:00",
+          "retailer": "amoudo Overseas Store AliExpress",
+          "price": 46.32,
+          "deal_id": "ozbargain-4c82a8bc89a1b54b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-04f7b73624e5083381c6": {
+      "title": "Philips Shaver Series 5000 S5880/20 Wet & Dry SkinIQ Electric Shaver $149 (RRP $209) Delivered @ Amazon AU",
+      "brand": "Philips",
+      "model": "S5880",
+      "observations": [
+        {
+          "timestamp": "2026-08-20T13:11:53.366084+00:00",
+          "retailer": "Amazon AU",
+          "price": 149.0,
+          "deal_id": "ozbargain-b1195832fb5e5025",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ad4147c94b2f324f88f3": {
+      "title": "Osprey Farpoint Wheeled Backpack 65l, Blue $154.52 Delivered @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T13:11:53.366160+00:00",
+          "retailer": "Amazon AU",
+          "price": 154.52,
+          "deal_id": "ozbargain-f8327f7be224e6a3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1534693924cc13d0410d": {
+      "title": "Double Tender Burger Combo for Two: 2 Burgers, 2 Regular Chips & 2 Regular Drinks $11.95 @ KFC (Pick Up Only)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T13:11:53.366231+00:00",
+          "retailer": "KFC (Pick Up Only)",
+          "price": 11.95,
+          "deal_id": "ozbargain-dab65fcd36e11de5",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-51082fa9e9e0c2eff8f1": {
+      "title": "Sunbeam Digital Air Fryer Black 4L $49 + Delivery ($0 C&C/ in-Store/ $120 Order) @ Spotlight",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T13:11:53.366318+00:00",
+          "retailer": "Spotlight",
+          "price": 49.0,
+          "deal_id": "ozbargain-9d55af3208091b71",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-102b5bb474c5fac6ae3f": {
+      "title": "Vice Pro Plus Golf Balls White 12pk - $26.72 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T13:11:53.366394+00:00",
+          "retailer": "Amazon AU",
+          "price": 26.72,
+          "deal_id": "ozbargain-477a713bc9bee81a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e2a71dd03fcd541975d9": {
+      "title": "Sunbeam 10 Litre FlexiFry Air Fryer Oven $149 ($144 with Price Check Button) + Delivery ($0 C&C/ in-Store) @ The Good Guys",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T13:11:53.366570+00:00",
+          "retailer": "The Good Guys",
+          "price": 149.0,
+          "deal_id": "ozbargain-a90bcb9c7bea125b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4bd1890722e4b4c350a4": {
+      "title": "Typhoon Viper XL PU Gaming Chair $129 + Delivery ($0 to Metro/ OnePass/ C&C/ in Limited Store) @ Officeworks",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-20T13:11:53.366654+00:00",
+          "retailer": "Officeworks",
+          "price": 129.0,
+          "deal_id": "ozbargain-72d46630ef7585e0",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-20T07:07:11.148621+00:00"
+  "updated_at": "2026-08-20T13:12:04.651994+00:00"
 }
