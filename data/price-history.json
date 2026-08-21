@@ -5147,7 +5147,7 @@
       ]
     },
     "product-e17c864ad7a3019591fc": {
-      "title": "Whispers Sauvignon Blanc 750ml 2 for $6 (Extra 10% off for 6+ Bottles) + Del ($0 C&C/ in-Store) @ Liquorland",
+      "title": "TROPA Tequila Reposado 750ml $300 Delivered (RRP $330) @ BoozeTime Australia",
       "brand": null,
       "model": "750ML",
       "observations": [
@@ -5170,6 +5170,13 @@
           "retailer": "Liquorland",
           "price": 6.0,
           "deal_id": "ozbargain-687450c682f5878e",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-21T07:08:37.219330+00:00",
+          "retailer": "BoozeTime Australia",
+          "price": 300.0,
+          "deal_id": "ozbargain-94e70c6b64fb5035",
           "source": "OzBargain"
         }
       ]
@@ -7604,7 +7611,7 @@
       ]
     },
     "product-f0c75ff5305c866cc902": {
-      "title": "Oates Microfibre Cloth 4-Pack $3.75 @ Woolworths",
+      "title": "Nongshim Shin Ramyun Noodles 4-Pack 480g $4.99 @ ALDI",
       "brand": null,
       "model": "4-PACK",
       "observations": [
@@ -7613,6 +7620,13 @@
           "retailer": "Woolworths",
           "price": 3.75,
           "deal_id": "ozbargain-94c07edb009808c6",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-21T07:08:37.220779+00:00",
+          "retailer": "ALDI",
+          "price": 4.99,
+          "deal_id": "ozbargain-81968bfc64dac67d",
           "source": "OzBargain"
         }
       ]
@@ -10976,7 +10990,301 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-355e27e431784a625248": {
+      "title": "ASA 1KG 3D Printer Filament $17.99 + Shipping @ Siddament",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.217999+00:00",
+          "retailer": "Siddament",
+          "price": 17.99,
+          "deal_id": "ozbargain-212e40d5cd862d91",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a9ab0265881d5bfc3301": {
+      "title": "Seiko Prospex Speedtimer SSC915P $599 (RRP $1100) Delivered @ WatchDepot",
+      "brand": null,
+      "model": "SSC915P",
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.218310+00:00",
+          "retailer": "WatchDepot",
+          "price": 599.0,
+          "deal_id": "ozbargain-0149d4070228f56e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7e689cbaa54b8dca3d33": {
+      "title": "FUZRR FR17B+ True RMS Digital Multimeter US$38.49 / A$55.08 Delivered @ Banggood",
+      "brand": null,
+      "model": "FR17B",
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.218801+00:00",
+          "retailer": "Banggood",
+          "price": 38.49,
+          "deal_id": "ozbargain-1663fa0d7e96cff2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6be56df476e5dc9eb124": {
+      "title": "Telstra $395 Pre-Paid SIM Kit 12-Month Expiry 180GB (+ 165GB Activation Bonus) $349 Shipped @ mobilexpress AU",
+      "brand": null,
+      "model": "12-MONTH",
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.218899+00:00",
+          "retailer": "mobilexpress AU",
+          "price": 395.0,
+          "deal_id": "ozbargain-a567975a990216b4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-37623dacf74a2e40314b": {
+      "title": "Bahco 1/4\" Drive Socket with Metric Bits 39-Piece Set SBS39MH $34.95 (Was $64.95) + Delivery ($0 C&C/ $99 Order) @ Total Tools",
+      "brand": null,
+      "model": "39-PIECE",
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.219033+00:00",
+          "retailer": "Total Tools",
+          "price": 34.95,
+          "deal_id": "ozbargain-5a386b09bb297f06",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-fe23cdb95f3a7541237b": {
+      "title": "The Super Mario Galaxy Movie 4K Ultra HD $9.99 @ Prime Video",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.219409+00:00",
+          "retailer": "Prime Video",
+          "price": 9.99,
+          "deal_id": "ozbargain-e45ede757513aed6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-476836a5183f9f9b87c7": {
+      "title": "$10 IGA Cash for New IGA Rewards Members (Limit 5,000 Customers) @ IGA Rewards",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.219505+00:00",
+          "retailer": "IGA Rewards",
+          "price": 10.0,
+          "deal_id": "ozbargain-2789ec239b5106bd",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9556e3fe9022c14e0e4b": {
+      "title": "Motorola Signature 256GB $947.15 Delivered @ Mobileciti",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.219577+00:00",
+          "retailer": "Mobileciti",
+          "price": 947.15,
+          "deal_id": "ozbargain-daf84e83727f7b34",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ca2ee3a39a7b1a33af2a": {
+      "title": "Hoka Clifton 10 Mens Road Running Shoes $140.00 (was $279.99) Delivered @ Wild Earth",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.219678+00:00",
+          "retailer": "Wild Earth",
+          "price": 140.0,
+          "deal_id": "ozbargain-6928fcde94bc00b8",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-32e8505e5d4ca802eb7b": {
+      "title": "[NSW] 20% off Sydney Airport Parking (Minimum $100 Spend) + Surcharge @ Sydney Airport",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.219768+00:00",
+          "retailer": "Sydney Airport",
+          "price": 100.0,
+          "deal_id": "ozbargain-f29a4bc511dfbc0c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e064028d4a0938d14a2f": {
+      "title": "Ring Intercom (2024) $113 Delivered @ Ring",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.219855+00:00",
+          "retailer": "Ring",
+          "price": 113.0,
+          "deal_id": "ozbargain-7fcf52578c5cebd5",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-bb25cae97e47e4ba9194": {
+      "title": "Kayo Customer Retention Offer: $20 off Monthly Subscription ($9.99/Month Minimum Spend) for 5 Months @ Kayo via Hubbl",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.219962+00:00",
+          "retailer": "Kayo via Hubbl",
+          "price": 20.0,
+          "deal_id": "ozbargain-5966726c9d25e31a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1a47368df84695b327e6": {
+      "title": "Sofar Solar Battery 25kWh + 5kW Inverter from $4500, 30kWh Upgrade $499, 10kW Inverter Upgrade $1300 @ Solar Battery (Excl NT)",
+      "brand": null,
+      "model": "25KWH",
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.220076+00:00",
+          "retailer": "Solar Battery (Excl NT)",
+          "price": 4500.0,
+          "deal_id": "ozbargain-3e06b0dcdec7c45b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6e5d50e00fdcae090938": {
+      "title": "ASUS TUF Gaming BE9400 Wi-Fi 7 Tri-Band Router $349 (RRP $599) + Delivery ($0 to Metro Areas/ C&C/ in-Store) @ Scorptec",
+      "brand": "Asus",
+      "model": "BE9400",
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.220182+00:00",
+          "retailer": "Scorptec",
+          "price": 349.0,
+          "deal_id": "ozbargain-0422d50168e11b38",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-80b1ff0bc54257211556": {
+      "title": "Cusu NVMe 256GB SSD US$26.74 / A$39.99 Delivered - New Users Only @ AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.220382+00:00",
+          "retailer": "AliExpress",
+          "price": 26.74,
+          "deal_id": "ozbargain-952907881077d19c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2ad9a8c2718f83c24da4": {
+      "title": "Samsung Galaxy SmartTag2: Black or White $19 + $8.95 Delivery @ digiDirect (Price Beat $26.55 @ Officeworks)",
+      "brand": "Samsung",
+      "model": "SMARTTAG2",
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.220483+00:00",
+          "retailer": "digiDirect (Price Beat $26.55 @ Officeworks)",
+          "price": 19.0,
+          "deal_id": "ozbargain-a4f708abc038b1c7",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-cbc89680f8a5a9db4ab4": {
+      "title": "Philips Air Fryer 3000 Series, 7.2L $149 (RRP $193) Delivered @ Amazon AU (Excl. NT)",
+      "brand": "Philips",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.220581+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 149.0,
+          "deal_id": "ozbargain-aee548029f904c6f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a1981ae1a4c29c345c1d": {
+      "title": "$25 off Your First Purchase (Minimum Spend of $150) @ Toys R Us",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.220690+00:00",
+          "retailer": "Toys R Us",
+          "price": 25.0,
+          "deal_id": "ozbargain-c5e77246c0cbdff0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f24af3d72f6124f6e07d": {
+      "title": "Maxwell & Williams Cashmere Round Sauce Dish 7.5cm (Fine Bone China) $1.78ea + Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.220884+00:00",
+          "retailer": "Amazon AU",
+          "price": 1.78,
+          "deal_id": "ozbargain-db5226fa96e5c785",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-68bbbd88dee77a3c629d": {
+      "title": "Indiana Jones 1 - 4 Box Set (4K UHD) $64.94 Delivered @ Amazon US via AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.220992+00:00",
+          "retailer": "Amazon US via AU",
+          "price": 64.94,
+          "deal_id": "ozbargain-cb8f28d50f7636cc",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a4e792f18593fc93984a": {
+      "title": "[NSW, VIC] Snack Hamper (SOLO 4pk, Skittles, Nature Valley + More) $12.49 (Was $25) + Delivery (Free w/ Referral) @ Black Box",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T07:08:37.221097+00:00",
+          "retailer": "Black Box",
+          "price": 12.49,
+          "deal_id": "ozbargain-dd3ebdfa9503269f",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-21T01:58:08.238043+00:00"
+  "updated_at": "2026-08-21T07:08:48.105050+00:00"
 }
