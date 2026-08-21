@@ -3897,6 +3897,13 @@
           "price": 50.0,
           "deal_id": "ozbargain-41a0bcd70c9e4471",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-21T13:11:24.783918+00:00",
+          "retailer": "Flybuys",
+          "price": 50.0,
+          "deal_id": "ozbargain-16b2815f536cd9f4",
+          "source": "OzBargain"
         }
       ]
     },
@@ -10992,12 +10999,19 @@
       ]
     },
     "product-355e27e431784a625248": {
-      "title": "ASA 1KG 3D Printer Filament $17.99 + Shipping @ Siddament",
+      "title": "ASA 1kg 3D Printer Filament $17.99 + Shipping @ Siddament",
       "brand": null,
       "model": null,
       "observations": [
         {
           "timestamp": "2026-08-21T07:08:37.217999+00:00",
+          "retailer": "Siddament",
+          "price": 17.99,
+          "deal_id": "ozbargain-212e40d5cd862d91",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-21T13:11:24.784770+00:00",
           "retailer": "Siddament",
           "price": 17.99,
           "deal_id": "ozbargain-212e40d5cd862d91",
@@ -11016,6 +11030,13 @@
           "price": 599.0,
           "deal_id": "ozbargain-0149d4070228f56e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-21T13:11:24.785041+00:00",
+          "retailer": "WatchDepot",
+          "price": 599.0,
+          "deal_id": "ozbargain-0149d4070228f56e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -11026,6 +11047,13 @@
       "observations": [
         {
           "timestamp": "2026-08-21T07:08:37.218801+00:00",
+          "retailer": "Banggood",
+          "price": 38.49,
+          "deal_id": "ozbargain-1663fa0d7e96cff2",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-21T13:11:24.785390+00:00",
           "retailer": "Banggood",
           "price": 38.49,
           "deal_id": "ozbargain-1663fa0d7e96cff2",
@@ -11044,6 +11072,13 @@
           "price": 395.0,
           "deal_id": "ozbargain-a567975a990216b4",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-21T13:11:24.785502+00:00",
+          "retailer": "mobilexpress AU",
+          "price": 395.0,
+          "deal_id": "ozbargain-a567975a990216b4",
+          "source": "OzBargain"
         }
       ]
     },
@@ -11054,6 +11089,13 @@
       "observations": [
         {
           "timestamp": "2026-08-21T07:08:37.219033+00:00",
+          "retailer": "Total Tools",
+          "price": 34.95,
+          "deal_id": "ozbargain-5a386b09bb297f06",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-21T13:11:24.785640+00:00",
           "retailer": "Total Tools",
           "price": 34.95,
           "deal_id": "ozbargain-5a386b09bb297f06",
@@ -11284,7 +11326,203 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-70f1077816375f25abfa": {
+      "title": "Marquee 7 Piece Steel Sling Back Outdoor Setting $99 @ Bunnings",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T13:11:24.782249+00:00",
+          "retailer": "Bunnings",
+          "price": 99.0,
+          "deal_id": "ozbargain-187e2fe26d712c07",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8f60e8b65730a20e587b": {
+      "title": "[Back Order] TP-Link Tapo RV50 Pro Omni Robot Vacuum & Mop $499 (RRP $1,099) Delivered @ Amazon AU (Excl. NT)",
+      "brand": "Tp-Link",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T13:11:24.782394+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 499.0,
+          "deal_id": "ozbargain-ae0d7c56b1d5dfc4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-642485804baec9ab9298": {
+      "title": "LEGO Technic Ferrari FXX K 42212 $63 Delivered @ Amazon AU (Excl. NT)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T13:11:24.782508+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 63.0,
+          "deal_id": "ozbargain-921fcea155972112",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-cbaac41193e8f3cb6522": {
+      "title": "JBL Live Free 2 $59.95 (Was $199) + $12 Regional Delivery ($0 to Metro/ C&C/ in-Store/ $99 Regional Order) @ BIG W",
+      "brand": "JBL",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T13:11:24.782650+00:00",
+          "retailer": "BIG W",
+          "price": 59.95,
+          "deal_id": "ozbargain-72d9c1c287c94748",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-399737070a57d3f7ab67": {
+      "title": "MyHeritage DNA Kit + 30-Day Complete Free Trial $20.41 Shipped (RRP $159) @ MyHeritage",
+      "brand": null,
+      "model": "30-DAY",
+      "observations": [
+        {
+          "timestamp": "2026-08-21T13:11:24.782869+00:00",
+          "retailer": "MyHeritage",
+          "price": 20.41,
+          "deal_id": "ozbargain-83c6c9a9db32ccd2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-aa50ad7997b0f49e8ecb": {
+      "title": "Royal Purple 18000 Max Atomizer Fuel Injector Cleaner - 6oz $12.69 + Delivery ($0 with Prime/ $59 Spend) @ Amazon US via AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T13:11:24.783032+00:00",
+          "retailer": "Amazon US via AU",
+          "price": 12.69,
+          "deal_id": "ozbargain-2a1b269a198b67f0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-759139067fa24f9cf802": {
+      "title": "50% off Most Products - eg: Endura Boots $109.50 + $15 Delivery (Free above $300 Spend) @ Rossi Boots",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T13:11:24.783424+00:00",
+          "retailer": "Rossi Boots",
+          "price": 109.5,
+          "deal_id": "ozbargain-6196004647cdfb70",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0aadaca9dc9b3d5c6e81": {
+      "title": "Sunbeam Multi Zone Air Fryer Oven - Convertible Dual 5.5L to Single 11.4L Zone - $179 (RRP $299) Delivered @ Amazon AU (Exc. NT)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T13:11:24.783664+00:00",
+          "retailer": "Amazon AU (Exc. NT)",
+          "price": 179.0,
+          "deal_id": "ozbargain-63edc1a52b88fd2c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-65a16723d8f048e0e265": {
+      "title": "FitVille Men's and Women's Shoes Collection from US$22.01 (~A$30.85) Delivered @ FitVille",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T13:11:24.783779+00:00",
+          "retailer": "FitVille",
+          "price": 22.01,
+          "deal_id": "ozbargain-8993d8dd4c2b12c3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9fb4d4729f140d0724d3": {
+      "title": "4 for $40 Vrewards Adult eVouchers @ Village Cinemas",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T13:11:24.784031+00:00",
+          "retailer": "Village Cinemas",
+          "price": 40.0,
+          "deal_id": "ozbargain-4fec914f1a718a1e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-98ee065c1216a004742b": {
+      "title": "$1,000 Cashback on Novated Lease of BYD Sealion 7 & ZeekrX, $500 Cashback on MG MG4 @ Novated Lease Australia",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T13:11:24.784154+00:00",
+          "retailer": "Novated Lease Australia",
+          "price": 1000.0,
+          "deal_id": "ozbargain-503009b08f05c857",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5938ccd6c8032b70c0f6": {
+      "title": "LEGO SC Time Machine from Back to the Future $29 + Delivery ($0 Prime/ $59) @ Amazon AU / (C&C/ in-Store/ OnePass/ $60) @ Target",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T13:11:24.784300+00:00",
+          "retailer": "Amazon AU / (C&C/ in-Store/ OnePass/ $60) @ Target",
+          "price": 29.0,
+          "deal_id": "ozbargain-69da9bdc45704ec8",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f3e0de0bc80de3639fb5": {
+      "title": "JBL Boombox 3 Bluetooth + Wi-Fi Speaker $399.95 Delivered @ Amazon AU",
+      "brand": "JBL",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T13:11:24.784408+00:00",
+          "retailer": "Amazon AU",
+          "price": 399.95,
+          "deal_id": "ozbargain-15f03c92b522a3bf",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-540b3e529dbb44f7259c": {
+      "title": "Lavazza a Modo Mio Tiny Black Coffee Machine & 64 Capsule Bundle $59 + Delivery ($0 C&C/ in-Store/ OnePass) @ Bunnings Warehouse",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T13:11:24.784654+00:00",
+          "retailer": "Bunnings Warehouse",
+          "price": 59.0,
+          "deal_id": "ozbargain-54ef6a255a95182e",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-21T07:08:48.105050+00:00"
+  "updated_at": "2026-08-21T13:11:34.465840+00:00"
 }
