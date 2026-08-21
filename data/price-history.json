@@ -474,6 +474,13 @@
           "price": 60.0,
           "deal_id": "ozbargain-f7e2ba573a2e9a15",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-21T01:57:57.604495+00:00",
+          "retailer": "ShopBack",
+          "price": 60.0,
+          "deal_id": "ozbargain-d48a0a2c058a4699",
+          "source": "OzBargain"
         }
       ]
     },
@@ -1381,7 +1388,7 @@
       ]
     },
     "product-34a52ce1560994533c16": {
-      "title": "[VIC] 30kWh Battery+10kW Inverter $5,799, 26.6kWh+5kW Inverter $5,299 (Garage Installation Recommended) @ PA Power",
+      "title": "[NSW] VoltX 30kWh Battery + 5kW Inverter $4,999 SYD Installed (save $701) / Hinen 45kWh + 10kW $11,000 (save $1,401) @ VoltX",
       "brand": null,
       "model": "30KWH",
       "observations": [
@@ -1390,6 +1397,13 @@
           "retailer": "PA Power",
           "price": 5799.0,
           "deal_id": "ozbargain-a6108212bc7daa28",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-21T01:57:57.605729+00:00",
+          "retailer": "VoltX",
+          "price": 4999.0,
+          "deal_id": "ozbargain-df7e81ebbce61262",
           "source": "OzBargain"
         }
       ]
@@ -3544,7 +3558,7 @@
       ]
     },
     "product-6f302a770fcd8366297a": {
-      "title": "Samsung Galaxy Watch8 Bluetooth, 40 mm, Sport Band $318 Delivered @ Amazon AU",
+      "title": "Samsung Galaxy Watch8 Bluetooth 40mm - $299 + Delivery ($0 to Metro/ C&C/ in-Store/ OnePass) @ Officeworks",
       "brand": "Samsung",
       "model": "WATCH8",
       "observations": [
@@ -3567,6 +3581,13 @@
           "retailer": "Amazon AU",
           "price": 318.0,
           "deal_id": "ozbargain-a1763d83fc3a915b",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-21T01:57:57.606582+00:00",
+          "retailer": "Officeworks",
+          "price": 299.0,
+          "deal_id": "ozbargain-e0befece09023d85",
           "source": "OzBargain"
         }
       ]
@@ -10257,7 +10278,7 @@
       ]
     },
     "product-2ebb4905b5c58bcd435f": {
-      "title": "Lenovo LOQ 15.6\" i7-13650HX/24GB/1TB SSD/RTX 5060 8GB Laptop - Luna Grey $2098 + Delivery ($0 C&C/ in-Store) @ Harvey Norman",
+      "title": "Lenovo Legion Pro 5i Gaming Laptop (i7-14650HX, 24GB RAM, 1TB SSD, RTX 5060) $1997 + Delivery ($0 to Metro/ C&C) @ Officeworks",
       "brand": "Lenovo",
       "model": "RTX 5060",
       "observations": [
@@ -10273,6 +10294,13 @@
           "retailer": "Harvey Norman",
           "price": 2098.0,
           "deal_id": "ozbargain-1cfa5ac2b3ab224f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-21T01:57:57.606062+00:00",
+          "retailer": "Officeworks",
+          "price": 1997.0,
+          "deal_id": "ozbargain-68663108d6b9c020",
           "source": "OzBargain"
         }
       ]
@@ -10612,7 +10640,343 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-332892b38121f666f458": {
+      "title": "Li-Ning Men's RED Hare 9 Racing Running Shoes US$40.14 (~A$57) Delivered @Li-Ning Official Store AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.604055+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 40.14,
+          "deal_id": "ozbargain-cc05e474b5375dd5",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8b5ec36e748b1853d265": {
+      "title": "8BitDo Ultimate 2C Wireless Controller Transparent Black US$21.01 (~A$29.98) Delivered @ 8BitDo Official AliExpress",
+      "brand": null,
+      "model": "8BITDO",
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.604177+00:00",
+          "retailer": "8BitDo Official AliExpress",
+          "price": 21.01,
+          "deal_id": "ozbargain-8fffa046d577b9a5",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-dcf496ee5239447ebdc2": {
+      "title": "68% off Nautica Hoodies (from $44.80, Was $139.99) + Delivery ($10, Free over $150) @ Sports Direct",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.604293+00:00",
+          "retailer": "Sports Direct",
+          "price": 44.8,
+          "deal_id": "ozbargain-8eff27b1b3ed03d0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-003b09724b689590d5ee": {
+      "title": "[VIC] Emerald Energy 300l Hot Water Heat Pump Unit — $1,699 Installed (w/ Solar Vic Rebate) @ iPromise Australia",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.604401+00:00",
+          "retailer": "iPromise Australia",
+          "price": 1699.0,
+          "deal_id": "ozbargain-d15a0bd62100c7db",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-40187d205c5d3273cfb4": {
+      "title": "Amazon Fire TV Stick 4K Select Streaming Device (Newest Gen) $39 (RRP $87) Delivered @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.604583+00:00",
+          "retailer": "Amazon AU",
+          "price": 39.0,
+          "deal_id": "ozbargain-31f6abec1916f792",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-03fc71051332c8460736": {
+      "title": "Springfree FlexrStep 50% off $64.5 incl delivery",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.604650+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 64.5,
+          "deal_id": "ozbargain-9a96d74388a520e9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-978889ab656888d9a640": {
+      "title": "[VIC, NSW, QLD, SA] $50 Credit for Gas or Electricity for Both Referee & Referrer When Switching @ Globird Energy",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.604745+00:00",
+          "retailer": "Globird Energy",
+          "price": 50.0,
+          "deal_id": "ozbargain-8d95315a2141fd47",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-dd20ecae74f30e9287df": {
+      "title": "Anycubic Filament 1KG Roll from $11.59 Delivered, Resin 1KG Bottle from $15.94 Delivered @ Anycubic AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.604829+00:00",
+          "retailer": "Anycubic AU",
+          "price": 11.59,
+          "deal_id": "ozbargain-7e141928058eff19",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2f2f1c69183e3f2bc433": {
+      "title": "Up to 56% off RRP Sukin Skincare and Haircare (Prices Start from $5.99) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.604910+00:00",
+          "retailer": "Amazon AU",
+          "price": 5.99,
+          "deal_id": "ozbargain-de2968c25b075d21",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-39ce2aad8efb3baf9a2f": {
+      "title": "Free Number Link with your Smart Watch on SIM plans $40 and above @ amaysim",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.604992+00:00",
+          "retailer": "amaysim",
+          "price": 40.0,
+          "deal_id": "ozbargain-5d195807dd09c382",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c58be447e2e6f8bbeae1": {
+      "title": "Alienware AW3426DW 34\" 280hz QD-OLED Ultrawide Gaming Monitor - $1333.38 Delivered @ Dell",
+      "brand": "Dell",
+      "model": "AW3426DW",
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.605080+00:00",
+          "retailer": "Dell",
+          "price": 1333.38,
+          "deal_id": "ozbargain-90bd7a0ccec40aaf",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9945037e27210ffd810f": {
+      "title": "Unlabelled McLaren Vale Grenache Rosé 2026 $73.50 / 6 Bottles Delivered ($0 SA C&C, RRP $180) @ Bec Hardy Wines",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.605275+00:00",
+          "retailer": "Bec Hardy Wines",
+          "price": 73.5,
+          "deal_id": "ozbargain-709f0f6d19903a4b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-85eb7f36d752275237d1": {
+      "title": "[Refurbished] Apple iPhone SE 2020 64GB (Good Condition): + $180 6M SIM $299, + $300 12M SIM $409 Delivered @ Boost Mobile",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.605374+00:00",
+          "retailer": "Boost Mobile",
+          "price": 180.0,
+          "deal_id": "ozbargain-0b229678e22932ad",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-66f4107f225355e0e9b8": {
+      "title": "Sign Up with Code as New Customer, Make 5 Eligible Card Transactions within 30 Days, Get $50 Back @ ubank",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.605469+00:00",
+          "retailer": "ubank",
+          "price": 50.0,
+          "deal_id": "ozbargain-50f8be144b7158fd",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e4548d2ecd88de2c1b76": {
+      "title": "Samsung Galaxy S26 256GB $787.93 Delivered (with $100 off Code & 5% off First Order) @ Samsung Education Store",
+      "brand": "Samsung",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.605556+00:00",
+          "retailer": "Samsung Education Store",
+          "price": 787.93,
+          "deal_id": "ozbargain-fdc0159bf12e1e10",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-871968ccba494c503699": {
+      "title": "PlayStation Ghost of Tsushima Jin Sakai 6\" Deluxe Figure $18.02 (RRP $49.99) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+      "brand": "Playstation",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.605635+00:00",
+          "retailer": "Amazon AU",
+          "price": 18.02,
+          "deal_id": "ozbargain-eca1ba8905a74119",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2920e3d5699cb6b8517b": {
+      "title": "Alienware AW2725D 26.7\" 1440p 280Hz QD-OLED Gaming Monitor $532.55 Delivered @ Dell",
+      "brand": "Dell",
+      "model": "AW2725D",
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.605812+00:00",
+          "retailer": "Dell",
+          "price": 532.55,
+          "deal_id": "ozbargain-1c4eea7e65cde107",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-897e4886a5f0ec390a82": {
+      "title": "Apple iPhone 16 128GB - Ultramarine & Other Colours $1099 Delivered @ BIG W",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.605893+00:00",
+          "retailer": "BIG W",
+          "price": 1099.0,
+          "deal_id": "ozbargain-5a1fb2b55325b21e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ee35ee6f7c5b0ee1ceb1": {
+      "title": "[Steam, PC] iRacing 1 Year Subscription NT$1458 (~A$64.30, 24% off) @ Steam Taiwan",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.605967+00:00",
+          "retailer": "Steam Taiwan",
+          "price": 1458.0,
+          "deal_id": "ozbargain-4ea76eb4ad1f1069",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b93bc85da03099b4dd4e": {
+      "title": "N8Nitro n8n Automation Hosting Annual Plan US$35.70 (~A$49, Was US$71.40) @ N8nitro",
+      "brand": null,
+      "model": "N8NITRO",
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.606144+00:00",
+          "retailer": "N8nitro",
+          "price": 35.7,
+          "deal_id": "ozbargain-638975db409ac0f4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d6a2c20fde611461b987": {
+      "title": "Ballina to Sydney One Way: Jetstar from $34 , Virgin Australia from $49, Qantas from $99 + More Deals @ BTF",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.606239+00:00",
+          "retailer": "BTF",
+          "price": 34.0,
+          "deal_id": "ozbargain-102421dcdf2e4c8d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8c9c50fecbb5e1837499": {
+      "title": "Travelpro Maxlite5 Softside Expandable Checked 29\" $115.60, Rockland Wheeled Underseat Carry-on 16\" $30.38 (SoldOut) @ Amazon AU",
+      "brand": null,
+      "model": "MAXLITE5",
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.606329+00:00",
+          "retailer": "Amazon AU",
+          "price": 115.6,
+          "deal_id": "ozbargain-54faf58afde1da95",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7694a46eb11a5d88e7c2": {
+      "title": "Travelpro Platinum Elite Hardside Compact Carry-on with Laptop Pocket 20-Inch $86.14 (RRP $161.51) Delivered @ Amazon AU",
+      "brand": null,
+      "model": "20-INCH",
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.606411+00:00",
+          "retailer": "Amazon AU",
+          "price": 86.14,
+          "deal_id": "ozbargain-d2c07bfc3fb7fc89",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1119cfb0a3dde35b8677": {
+      "title": "China Airlines: Sydney - Taipei Premium Economy Class Direct Return from $1,732 @ flightfinderau",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-21T01:57:57.606489+00:00",
+          "retailer": "flightfinderau",
+          "price": 1732.0,
+          "deal_id": "ozbargain-63383c294e768709",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-20T19:00:03.525247+00:00"
+  "updated_at": "2026-08-21T01:58:08.238043+00:00"
 }
