@@ -11856,6 +11856,13 @@
           "price": 49.99,
           "deal_id": "ozbargain-46be72f7bc13c236",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.557920+00:00",
+          "retailer": "Amazon AU",
+          "price": 49.99,
+          "deal_id": "ozbargain-46be72f7bc13c236",
+          "source": "OzBargain"
         }
       ]
     },
@@ -11880,6 +11887,13 @@
         },
         {
           "timestamp": "2026-08-22T13:01:09.987441+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 170.06,
+          "deal_id": "ozbargain-9fab6fc08fb29109",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.558018+00:00",
           "retailer": "Amazon UK via AU",
           "price": 170.06,
           "deal_id": "ozbargain-9fab6fc08fb29109",
@@ -12087,6 +12101,13 @@
           "price": 20.2,
           "deal_id": "ozbargain-12f37646f0500ac6",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.556632+00:00",
+          "retailer": "Humble Bundle",
+          "price": 20.2,
+          "deal_id": "ozbargain-12f37646f0500ac6",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12104,6 +12125,13 @@
         },
         {
           "timestamp": "2026-08-22T13:01:09.986103+00:00",
+          "retailer": "BTF",
+          "price": 775.0,
+          "deal_id": "ozbargain-2b2711c0ce34af38",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.556848+00:00",
           "retailer": "BTF",
           "price": 775.0,
           "deal_id": "ozbargain-2b2711c0ce34af38",
@@ -12129,6 +12157,13 @@
           "price": 1.0,
           "deal_id": "ozbargain-304c6d1a245a0745",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.556961+00:00",
+          "retailer": "Domino's (Saturdays)",
+          "price": 1.0,
+          "deal_id": "ozbargain-304c6d1a245a0745",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12146,6 +12181,13 @@
         },
         {
           "timestamp": "2026-08-22T13:01:09.986495+00:00",
+          "retailer": "TopCashback AU",
+          "price": 76.92,
+          "deal_id": "ozbargain-c6783ebfbd1106fe",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.557183+00:00",
           "retailer": "TopCashback AU",
           "price": 76.92,
           "deal_id": "ozbargain-c6783ebfbd1106fe",
@@ -12171,6 +12213,13 @@
           "price": 10.0,
           "deal_id": "ozbargain-521b0a4a0c5bc9a4",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.557371+00:00",
+          "retailer": "NAB",
+          "price": 10.0,
+          "deal_id": "ozbargain-521b0a4a0c5bc9a4",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12192,6 +12241,13 @@
           "price": 2.9,
           "deal_id": "ozbargain-704d4455a30c27d7",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.557465+00:00",
+          "retailer": "Steam",
+          "price": 2.9,
+          "deal_id": "ozbargain-704d4455a30c27d7",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12209,6 +12265,13 @@
         },
         {
           "timestamp": "2026-08-22T13:01:09.986937+00:00",
+          "retailer": "Amazon AU",
+          "price": 100.95,
+          "deal_id": "ozbargain-d10d38dae02e1810",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.557574+00:00",
           "retailer": "Amazon AU",
           "price": 100.95,
           "deal_id": "ozbargain-d10d38dae02e1810",
@@ -12248,6 +12311,13 @@
           "price": 1149.0,
           "deal_id": "ozbargain-2b88a8e01d2f3db4",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.557811+00:00",
+          "retailer": "Harvey Norman",
+          "price": 1149.0,
+          "deal_id": "ozbargain-2b88a8e01d2f3db4",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12258,6 +12328,13 @@
       "observations": [
         {
           "timestamp": "2026-08-22T13:01:09.984234+00:00",
+          "retailer": "Dell Australia",
+          "price": 105.71,
+          "deal_id": "ozbargain-32b8693be5f799ad",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.555252+00:00",
           "retailer": "Dell Australia",
           "price": 105.71,
           "deal_id": "ozbargain-32b8693be5f799ad",
@@ -12276,6 +12353,13 @@
           "price": 129.99,
           "deal_id": "ozbargain-faa0187ef9e3fedc",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.555351+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 129.99,
+          "deal_id": "ozbargain-faa0187ef9e3fedc",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12286,6 +12370,13 @@
       "observations": [
         {
           "timestamp": "2026-08-22T13:01:09.984505+00:00",
+          "retailer": "Amazon AU",
+          "price": 123.35,
+          "deal_id": "ozbargain-ea2c3df218c4b6a7",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.555464+00:00",
           "retailer": "Amazon AU",
           "price": 123.35,
           "deal_id": "ozbargain-ea2c3df218c4b6a7",
@@ -12304,6 +12395,13 @@
           "price": 132.0,
           "deal_id": "ozbargain-ff3266de4d778cb0",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.555576+00:00",
+          "retailer": "RATIO",
+          "price": 132.0,
+          "deal_id": "ozbargain-ff3266de4d778cb0",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12314,6 +12412,13 @@
       "observations": [
         {
           "timestamp": "2026-08-22T13:01:09.984852+00:00",
+          "retailer": "Amazon AU",
+          "price": 613.0,
+          "deal_id": "ozbargain-4407bc8f05335fb6",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.555783+00:00",
           "retailer": "Amazon AU",
           "price": 613.0,
           "deal_id": "ozbargain-4407bc8f05335fb6",
@@ -12332,6 +12437,13 @@
           "price": 799.84,
           "deal_id": "ozbargain-addc73bc04f948e6",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.555895+00:00",
+          "retailer": "Everyday Marketplace via Ryda",
+          "price": 799.84,
+          "deal_id": "ozbargain-addc73bc04f948e6",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12342,6 +12454,13 @@
       "observations": [
         {
           "timestamp": "2026-08-22T13:01:09.985068+00:00",
+          "retailer": "Sanity",
+          "price": 1.5,
+          "deal_id": "ozbargain-3c41a77b8ca48e9f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.555974+00:00",
           "retailer": "Sanity",
           "price": 1.5,
           "deal_id": "ozbargain-3c41a77b8ca48e9f",
@@ -12360,6 +12479,13 @@
           "price": 20.79,
           "deal_id": "ozbargain-0679fea73c1d4f4d",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.556086+00:00",
+          "retailer": "Vodafone. Min Cost $748.44 / 36 months.",
+          "price": 20.79,
+          "deal_id": "ozbargain-0679fea73c1d4f4d",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12370,6 +12496,13 @@
       "observations": [
         {
           "timestamp": "2026-08-22T13:01:09.985362+00:00",
+          "retailer": "Mr Bargain",
+          "price": 24.99,
+          "deal_id": "ozbargain-7b6bc838fbce8647",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.556203+00:00",
           "retailer": "Mr Bargain",
           "price": 24.99,
           "deal_id": "ozbargain-7b6bc838fbce8647",
@@ -12388,6 +12521,13 @@
           "price": 502.0,
           "deal_id": "ozbargain-568ad45ca2988d6f",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.556311+00:00",
+          "retailer": "Harvey Norman (RRP $749)",
+          "price": 502.0,
+          "deal_id": "ozbargain-568ad45ca2988d6f",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12398,6 +12538,13 @@
       "observations": [
         {
           "timestamp": "2026-08-22T13:01:09.985614+00:00",
+          "retailer": "Nothing Online Store AliExpress",
+          "price": 61.2,
+          "deal_id": "ozbargain-b6363a5c27ae9a2e",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.556419+00:00",
           "retailer": "Nothing Online Store AliExpress",
           "price": 61.2,
           "deal_id": "ozbargain-b6363a5c27ae9a2e",
@@ -12416,6 +12563,13 @@
           "price": 0.48,
           "deal_id": "ozbargain-d7b3b17cdabcb4e9",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.556517+00:00",
+          "retailer": "Google Play",
+          "price": 0.48,
+          "deal_id": "ozbargain-d7b3b17cdabcb4e9",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12430,9 +12584,58 @@
           "price": 51.96,
           "deal_id": "ozbargain-22da2a8447d133fd",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T18:49:25.557675+00:00",
+          "retailer": "Amazon AU",
+          "price": 51.96,
+          "deal_id": "ozbargain-22da2a8447d133fd",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-808172aa2e6a7ebdc433": {
+      "title": "\"Ox Alpha\" Agentic Coding LLM Free with $10 ($5 for First Month) OpenCode Go Subscription",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-22T18:49:25.554886+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 10.0,
+          "deal_id": "ozbargain-3a02a519a41d2e94",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d90cc2beddc90566eb69": {
+      "title": "[PC, Steam] Catherine Classic $6.23 @ Steam or $5.62 @ GreenManGaming",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-22T18:49:25.555021+00:00",
+          "retailer": "Steam or $5.62 @ GreenManGaming",
+          "price": 6.23,
+          "deal_id": "ozbargain-a455beb1a41aeef3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-3588e27bd9314a8bbd6e": {
+      "title": "Department of Injustice, Unredacted Roll - Novelty Toilet Paper … $0.14 +Delivery ($0 Prime/$59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-22T18:49:25.555160+00:00",
+          "retailer": "Amazon AU",
+          "price": 0.14,
+          "deal_id": "ozbargain-4232cea19f13db2c",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-08-22T13:01:21.053849+00:00"
+  "updated_at": "2026-08-22T18:49:37.742221+00:00"
 }
