@@ -11709,6 +11709,13 @@
           "price": 40.0,
           "deal_id": "ozbargain-e1c90d994ae14f08",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T06:59:35.893046+00:00",
+          "retailer": "Aicarlife eBay",
+          "price": 40.0,
+          "deal_id": "ozbargain-e1c90d994ae14f08",
+          "source": "OzBargain"
         }
       ]
     },
@@ -11726,6 +11733,13 @@
         },
         {
           "timestamp": "2026-08-22T01:50:42.350342+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 27.0,
+          "deal_id": "ozbargain-c32689fb966e8e5c",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T06:59:35.893160+00:00",
           "retailer": "OzBargain-listed deal",
           "price": 27.0,
           "deal_id": "ozbargain-c32689fb966e8e5c",
@@ -11751,6 +11765,13 @@
           "price": 596.98,
           "deal_id": "ozbargain-71786ccbc622960d",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T06:59:35.893287+00:00",
+          "retailer": "Amazon AU",
+          "price": 596.98,
+          "deal_id": "ozbargain-71786ccbc622960d",
+          "source": "OzBargain"
         }
       ]
     },
@@ -11768,6 +11789,13 @@
         },
         {
           "timestamp": "2026-08-22T01:50:42.350513+00:00",
+          "retailer": "TopCashback AU",
+          "price": 50.0,
+          "deal_id": "ozbargain-16a66f0cb0d40894",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T06:59:35.893416+00:00",
           "retailer": "TopCashback AU",
           "price": 50.0,
           "deal_id": "ozbargain-16a66f0cb0d40894",
@@ -11793,6 +11821,13 @@
           "price": 99.0,
           "deal_id": "ozbargain-2c3dd1730a25a968",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T06:59:35.893645+00:00",
+          "retailer": "Bunnings",
+          "price": 99.0,
+          "deal_id": "ozbargain-2c3dd1730a25a968",
+          "source": "OzBargain"
         }
       ]
     },
@@ -11803,6 +11838,13 @@
       "observations": [
         {
           "timestamp": "2026-08-22T01:50:42.349131+00:00",
+          "retailer": "Amazon AU",
+          "price": 49.99,
+          "deal_id": "ozbargain-46be72f7bc13c236",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T06:59:35.891583+00:00",
           "retailer": "Amazon AU",
           "price": 49.99,
           "deal_id": "ozbargain-46be72f7bc13c236",
@@ -11821,6 +11863,13 @@
           "price": 170.06,
           "deal_id": "ozbargain-9fab6fc08fb29109",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T06:59:35.891696+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 170.06,
+          "deal_id": "ozbargain-9fab6fc08fb29109",
+          "source": "OzBargain"
         }
       ]
     },
@@ -11831,6 +11880,13 @@
       "observations": [
         {
           "timestamp": "2026-08-22T01:50:42.349456+00:00",
+          "retailer": "Mwave",
+          "price": 1249.0,
+          "deal_id": "ozbargain-c41afb0b5fd6a86a",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T06:59:35.891979+00:00",
           "retailer": "Mwave",
           "price": 1249.0,
           "deal_id": "ozbargain-c41afb0b5fd6a86a",
@@ -11849,6 +11905,13 @@
           "price": 4.49,
           "deal_id": "ozbargain-eb6a438d3a35af6a",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T06:59:35.892098+00:00",
+          "retailer": "GOG",
+          "price": 4.49,
+          "deal_id": "ozbargain-eb6a438d3a35af6a",
+          "source": "OzBargain"
         }
       ]
     },
@@ -11859,6 +11922,13 @@
       "observations": [
         {
           "timestamp": "2026-08-22T01:50:42.349758+00:00",
+          "retailer": "Amazon JP via AU",
+          "price": 54.99,
+          "deal_id": "ozbargain-7f632ebf451de244",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T06:59:35.892344+00:00",
           "retailer": "Amazon JP via AU",
           "price": 54.99,
           "deal_id": "ozbargain-7f632ebf451de244",
@@ -11877,6 +11947,13 @@
           "price": 500.0,
           "deal_id": "ozbargain-6b2d4cbed79f01dd",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T06:59:35.892467+00:00",
+          "retailer": "Harvey Norman",
+          "price": 500.0,
+          "deal_id": "ozbargain-6b2d4cbed79f01dd",
+          "source": "OzBargain"
         }
       ]
     },
@@ -11887,6 +11964,13 @@
       "observations": [
         {
           "timestamp": "2026-08-22T01:50:42.349949+00:00",
+          "retailer": "Felix Mobile (New Customers)",
+          "price": 20.0,
+          "deal_id": "ozbargain-484de4c0a7d6b401",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T06:59:35.892586+00:00",
           "retailer": "Felix Mobile (New Customers)",
           "price": 20.0,
           "deal_id": "ozbargain-484de4c0a7d6b401",
@@ -11905,6 +11989,13 @@
           "price": 220.0,
           "deal_id": "ozbargain-801a2d3031ee705d",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T06:59:35.892694+00:00",
+          "retailer": "Appliance Central",
+          "price": 220.0,
+          "deal_id": "ozbargain-801a2d3031ee705d",
+          "source": "OzBargain"
         }
       ]
     },
@@ -11915,6 +12006,13 @@
       "observations": [
         {
           "timestamp": "2026-08-22T01:50:42.350094+00:00",
+          "retailer": "Volkswagen",
+          "price": 28990.0,
+          "deal_id": "ozbargain-af146c62fe27b468",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T06:59:35.892804+00:00",
           "retailer": "Volkswagen",
           "price": 28990.0,
           "deal_id": "ozbargain-af146c62fe27b468",
@@ -11933,9 +12031,142 @@
           "price": 65.99,
           "deal_id": "ozbargain-754b1fc88469284c",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-22T06:59:35.892925+00:00",
+          "retailer": "LEGO.com",
+          "price": 65.99,
+          "deal_id": "ozbargain-754b1fc88469284c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-63d8837bf653777da247": {
+      "title": "[PC, Steam] Ready Player One, Two Bundle (Killing Floor 3, Streets of Rage 4, Mimesis, Vellum and more) $20.20 @ Humble Bundle",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-22T06:59:35.890060+00:00",
+          "retailer": "Humble Bundle",
+          "price": 20.2,
+          "deal_id": "ozbargain-12f37646f0500ac6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7ecfc7588bcd18c6e7f3": {
+      "title": "Turkish Airlines Direct to Singapore: Sydney from $775 Return, Melbourne from $788 - Aug 2026 to Jun 2027 @ BTF",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-22T06:59:35.890349+00:00",
+          "retailer": "BTF",
+          "price": 775.0,
+          "deal_id": "ozbargain-2b2711c0ce34af38",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f2c13e55a84296c1bd8a": {
+      "title": "Buy 1 Premium/Traditional Pizza & Get 1 Premium/Traditional/Max/Value Pizza for $1 @ Domino's (Saturdays)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-22T06:59:35.890477+00:00",
+          "retailer": "Domino's (Saturdays)",
+          "price": 1.0,
+          "deal_id": "ozbargain-304c6d1a245a0745",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0aa76fa941b29a8a6499": {
+      "title": "amaysim: $76.92 Cashback on 365 Days 200GB (+20GB Bonus) Prepaid Plan for $175 (Ongoing $270) @ Topcashback AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-22T06:59:35.890716+00:00",
+          "retailer": "Topcashback AU",
+          "price": 76.92,
+          "deal_id": "ozbargain-c6783ebfbd1106fe",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4e4e3f59d285e4487afe": {
+      "title": "[NAB customers] $10 General Admission Ticket to 2026 NAB Aflw Season Matches @ NAB",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-22T06:59:35.890954+00:00",
+          "retailer": "NAB",
+          "price": 10.0,
+          "deal_id": "ozbargain-521b0a4a0c5bc9a4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-656896f254ff1610e066": {
+      "title": "[PC, Steam] Blade Runner: Enhanced Edition $2.90 @ Steam",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-22T06:59:35.891070+00:00",
+          "retailer": "Steam",
+          "price": 2.9,
+          "deal_id": "ozbargain-704d4455a30c27d7",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b348500776ac020242bd": {
+      "title": "Casio G-Shock Ana/Digi (MIP LCD) $100.95, Green Ana/Digi GA700SC $76.52 Delivered @ Amazon AU",
+      "brand": null,
+      "model": "GA700SC",
+      "observations": [
+        {
+          "timestamp": "2026-08-22T06:59:35.891202+00:00",
+          "retailer": "Amazon AU",
+          "price": 100.95,
+          "deal_id": "ozbargain-d10d38dae02e1810",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f886566ec0f72ac812b2": {
+      "title": "Nioh 3 - Steelbook Launch Edition [PS5] $51.96 +Delivery ($0 Prime/$59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-22T06:59:35.891316+00:00",
+          "retailer": "Amazon AU",
+          "price": 51.96,
+          "deal_id": "ozbargain-c8432b8dad79fb5d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0ee5c9022fa00586101f": {
+      "title": "Bambu Lab P2S C $1,149 & X2D C $1349 H2S C $2199 & 10% Bonus Gift Card + Delivery ($0 C&C/ in-Store) @ Harvey Norman",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-22T06:59:35.891456+00:00",
+          "retailer": "Harvey Norman",
+          "price": 1149.0,
+          "deal_id": "ozbargain-2b88a8e01d2f3db4",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-08-22T01:50:53.893717+00:00"
+  "updated_at": "2026-08-22T06:59:45.165393+00:00"
 }
