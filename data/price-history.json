@@ -628,6 +628,13 @@
           "price": 39.99,
           "deal_id": "ozbargain-28a3393157f623f5",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.913662+00:00",
+          "retailer": "ALDI",
+          "price": 39.99,
+          "deal_id": "ozbargain-28a3393157f623f5",
+          "source": "OzBargain"
         }
       ]
     },
@@ -13011,6 +13018,13 @@
           "price": 3.45,
           "deal_id": "ozbargain-b293a6f07a4e542e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.913523+00:00",
+          "retailer": "Woolworths",
+          "price": 3.45,
+          "deal_id": "ozbargain-b293a6f07a4e542e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -13028,6 +13042,13 @@
         },
         {
           "timestamp": "2026-08-23T13:02:35.535179+00:00",
+          "retailer": "Coles",
+          "price": 2.25,
+          "deal_id": "ozbargain-f9c6e1e6f199ed71",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.913743+00:00",
           "retailer": "Coles",
           "price": 2.25,
           "deal_id": "ozbargain-f9c6e1e6f199ed71",
@@ -13053,6 +13074,13 @@
           "price": 55.48,
           "deal_id": "ozbargain-dc84d377fd118728",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.913818+00:00",
+          "retailer": "Amazon DE via AU",
+          "price": 55.48,
+          "deal_id": "ozbargain-dc84d377fd118728",
+          "source": "OzBargain"
         }
       ]
     },
@@ -13070,6 +13098,13 @@
         },
         {
           "timestamp": "2026-08-23T13:02:35.535385+00:00",
+          "retailer": "South East Clearance",
+          "price": 129.0,
+          "deal_id": "ozbargain-7e3131c445b7029d",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.913905+00:00",
           "retailer": "South East Clearance",
           "price": 129.0,
           "deal_id": "ozbargain-7e3131c445b7029d",
@@ -13095,6 +13130,13 @@
           "price": 49.5,
           "deal_id": "ozbargain-088dea06f8f27c55",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.914062+00:00",
+          "retailer": "Woolworths",
+          "price": 49.5,
+          "deal_id": "ozbargain-088dea06f8f27c55",
+          "source": "OzBargain"
         }
       ]
     },
@@ -13112,6 +13154,13 @@
         },
         {
           "timestamp": "2026-08-23T13:02:35.535749+00:00",
+          "retailer": "Amazon DE via AU",
+          "price": 569.54,
+          "deal_id": "ozbargain-42990fa6c50ad969",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.914207+00:00",
           "retailer": "Amazon DE via AU",
           "price": 569.54,
           "deal_id": "ozbargain-42990fa6c50ad969",
@@ -13137,6 +13186,13 @@
           "price": 12.9,
           "deal_id": "ozbargain-2fa81b75e6de11ae",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.914295+00:00",
+          "retailer": "PappaRich (Excludes Sydney Airport)",
+          "price": 12.9,
+          "deal_id": "ozbargain-2fa81b75e6de11ae",
+          "source": "OzBargain"
         }
       ]
     },
@@ -13154,6 +13210,13 @@
         },
         {
           "timestamp": "2026-08-23T13:02:35.535953+00:00",
+          "retailer": "X",
+          "price": 72.0,
+          "deal_id": "ozbargain-d395b61a8c00fd03",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.914376+00:00",
           "retailer": "X",
           "price": 72.0,
           "deal_id": "ozbargain-d395b61a8c00fd03",
@@ -13235,6 +13298,13 @@
           "price": 20.58,
           "deal_id": "ozbargain-75cc7dd6e1b62efa",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.912404+00:00",
+          "retailer": "Amazon AU",
+          "price": 20.58,
+          "deal_id": "ozbargain-75cc7dd6e1b62efa",
+          "source": "OzBargain"
         }
       ]
     },
@@ -13245,6 +13315,13 @@
       "observations": [
         {
           "timestamp": "2026-08-23T13:02:35.533594+00:00",
+          "retailer": "Amazon AU",
+          "price": 59.99,
+          "deal_id": "ozbargain-d947c8ef5dc3a7d9",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.912487+00:00",
           "retailer": "Amazon AU",
           "price": 59.99,
           "deal_id": "ozbargain-d947c8ef5dc3a7d9",
@@ -13263,6 +13340,13 @@
           "price": 15.0,
           "deal_id": "ozbargain-d79b6681de027551",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.912581+00:00",
+          "retailer": "Kmart",
+          "price": 15.0,
+          "deal_id": "ozbargain-d79b6681de027551",
+          "source": "OzBargain"
         }
       ]
     },
@@ -13273,6 +13357,13 @@
       "observations": [
         {
           "timestamp": "2026-08-23T13:02:35.533824+00:00",
+          "retailer": "Wallace Bishop",
+          "price": 2799.0,
+          "deal_id": "ozbargain-c8acff5c3de404b4",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.912659+00:00",
           "retailer": "Wallace Bishop",
           "price": 2799.0,
           "deal_id": "ozbargain-c8acff5c3de404b4",
@@ -13291,6 +13382,13 @@
           "price": 17.98,
           "deal_id": "ozbargain-1b7ccd388b32d69a",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.912754+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 17.98,
+          "deal_id": "ozbargain-1b7ccd388b32d69a",
+          "source": "OzBargain"
         }
       ]
     },
@@ -13301,6 +13399,13 @@
       "observations": [
         {
           "timestamp": "2026-08-23T13:02:35.534060+00:00",
+          "retailer": "Bunnings Warehouse",
+          "price": 36.46,
+          "deal_id": "ozbargain-84b99d060137f4e1",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.912838+00:00",
           "retailer": "Bunnings Warehouse",
           "price": 36.46,
           "deal_id": "ozbargain-84b99d060137f4e1",
@@ -13319,6 +13424,13 @@
           "price": 56.95,
           "deal_id": "ozbargain-8a22470f97c83740",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.912931+00:00",
+          "retailer": "MBOSS Official Store AliExpress",
+          "price": 56.95,
+          "deal_id": "ozbargain-8a22470f97c83740",
+          "source": "OzBargain"
         }
       ]
     },
@@ -13329,6 +13441,13 @@
       "observations": [
         {
           "timestamp": "2026-08-23T13:02:35.534297+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 34.59,
+          "deal_id": "ozbargain-b72576aea60769fb",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.913014+00:00",
           "retailer": "OzBargain-listed deal",
           "price": 34.59,
           "deal_id": "ozbargain-b72576aea60769fb",
@@ -13347,6 +13466,13 @@
           "price": 3363.0,
           "deal_id": "ozbargain-28e4dda8455326e3",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.913104+00:00",
+          "retailer": "BTF",
+          "price": 3363.0,
+          "deal_id": "ozbargain-28e4dda8455326e3",
+          "source": "OzBargain"
         }
       ]
     },
@@ -13357,6 +13483,13 @@
       "observations": [
         {
           "timestamp": "2026-08-23T13:02:35.534511+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 34.98,
+          "deal_id": "ozbargain-c0d4defb656e936c",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.913186+00:00",
           "retailer": "OzBargain-listed deal",
           "price": 34.98,
           "deal_id": "ozbargain-c0d4defb656e936c",
@@ -13375,6 +13508,13 @@
           "price": 161.0,
           "deal_id": "ozbargain-8c75bbe220edbeaa",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.913262+00:00",
+          "retailer": "Sky Spy",
+          "price": 161.0,
+          "deal_id": "ozbargain-8c75bbe220edbeaa",
+          "source": "OzBargain"
         }
       ]
     },
@@ -13385,6 +13525,13 @@
       "observations": [
         {
           "timestamp": "2026-08-23T13:02:35.534703+00:00",
+          "retailer": "Officeworks",
+          "price": 2397.0,
+          "deal_id": "ozbargain-3ec9279699e2c73b",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.913345+00:00",
           "retailer": "Officeworks",
           "price": 2397.0,
           "deal_id": "ozbargain-3ec9279699e2c73b",
@@ -13403,9 +13550,86 @@
           "price": 75.0,
           "deal_id": "ozbargain-51ea43a5a0f0557e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T18:48:56.913452+00:00",
+          "retailer": "Best Beds",
+          "price": 75.0,
+          "deal_id": "ozbargain-51ea43a5a0f0557e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2f7bdbca59374d3878ee": {
+      "title": "ASUS ROG Falchion Ace HFX ZywOo Edition Analog Gaming Keyboard w… $169 (RRP $329) Delivered @ Amazon AU",
+      "brand": "Asus",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T18:48:56.911948+00:00",
+          "retailer": "Amazon AU",
+          "price": 169.0,
+          "deal_id": "ozbargain-eae0badd7570996e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ad59479348551c1cd1dd": {
+      "title": "Xiaomi Mijia Multifunctional IH Rice Cooker 3L $91.20 (40% Off)+ Free Delivery @ Xiaomi Australia",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T18:48:56.912048+00:00",
+          "retailer": "Xiaomi Australia",
+          "price": 91.2,
+          "deal_id": "ozbargain-2c993c37d7b16d66",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8ce5f7d7760297ffa90a": {
+      "title": "nbn FTTP or HFC 25/10 $30/Month for 6 Months, 750/50 $60/Month for 6 Months (New Customers) @ amaysim",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T18:48:56.912149+00:00",
+          "retailer": "amaysim",
+          "price": 30.0,
+          "deal_id": "ozbargain-1e31da87dd1dd62b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-67913e187dd42ed44234": {
+      "title": "eBay Australia: 10% Cashback ($20 Cap Per Member Per Day, Excludes Coupons) @ TopCashback AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T18:48:56.912241+00:00",
+          "retailer": "TopCashback AU",
+          "price": 20.0,
+          "deal_id": "ozbargain-8d0b22d891919407",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f32a5d2cc6e1a2474367": {
+      "title": "Luminar Neo Produces 20% off Ends 31 August 2026",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T18:48:56.912313+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 192.0,
+          "deal_id": "ozbargain-f09de6725bf02330",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-08-23T13:02:45.459272+00:00"
+  "updated_at": "2026-08-23T18:49:06.132140+00:00"
 }
