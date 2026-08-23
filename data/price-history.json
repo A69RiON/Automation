@@ -597,7 +597,7 @@
       ]
     },
     "product-370a28bf1ea258d6fe20": {
-      "title": "20MP 4K Digital Camera $15 (Was $79), 2-in-1 Pod Speakers $15, Desk Lamp Bluetooth Speaker $15 + Del ($0 OnePass/ C&C) @ Kmart",
+      "title": "Workzone 2-in-1 Workshop Creeper/Stool $39.99 @ ALDI",
       "brand": null,
       "model": "2-IN-1",
       "observations": [
@@ -613,6 +613,13 @@
           "retailer": "Kmart",
           "price": 15.0,
           "deal_id": "ozbargain-654bb93379306680",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T07:01:27.022500+00:00",
+          "retailer": "ALDI",
+          "price": 39.99,
+          "deal_id": "ozbargain-28a3393157f623f5",
           "source": "OzBargain"
         }
       ]
@@ -5244,6 +5251,13 @@
         },
         {
           "timestamp": "2026-08-23T02:00:15.564396+00:00",
+          "retailer": "Bec Hardy Wines",
+          "price": 119.5,
+          "deal_id": "ozbargain-57c9c73e70ee8215",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T07:01:27.024129+00:00",
           "retailer": "Bec Hardy Wines",
           "price": 119.5,
           "deal_id": "ozbargain-57c9c73e70ee8215",
@@ -12388,6 +12402,13 @@
           "price": 105.71,
           "deal_id": "ozbargain-32b8693be5f799ad",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T07:01:27.025036+00:00",
+          "retailer": "Dell Australia",
+          "price": 105.71,
+          "deal_id": "ozbargain-32b8693be5f799ad",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12444,6 +12465,13 @@
           "price": 123.35,
           "deal_id": "ozbargain-ea2c3df218c4b6a7",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T07:01:27.025254+00:00",
+          "retailer": "Amazon AU",
+          "price": 123.35,
+          "deal_id": "ozbargain-ea2c3df218c4b6a7",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12468,6 +12496,13 @@
         },
         {
           "timestamp": "2026-08-23T02:00:15.565767+00:00",
+          "retailer": "RATIO",
+          "price": 132.0,
+          "deal_id": "ozbargain-ff3266de4d778cb0",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T07:01:27.025371+00:00",
           "retailer": "RATIO",
           "price": 132.0,
           "deal_id": "ozbargain-ff3266de4d778cb0",
@@ -12500,6 +12535,13 @@
           "price": 613.0,
           "deal_id": "ozbargain-4407bc8f05335fb6",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T07:01:27.025584+00:00",
+          "retailer": "Amazon AU",
+          "price": 613.0,
+          "deal_id": "ozbargain-4407bc8f05335fb6",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12524,6 +12566,13 @@
         },
         {
           "timestamp": "2026-08-23T02:00:15.566062+00:00",
+          "retailer": "Everyday Marketplace via Ryda",
+          "price": 799.84,
+          "deal_id": "ozbargain-addc73bc04f948e6",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T07:01:27.025712+00:00",
           "retailer": "Everyday Marketplace via Ryda",
           "price": 799.84,
           "deal_id": "ozbargain-addc73bc04f948e6",
@@ -12759,11 +12808,18 @@
           "price": 6.23,
           "deal_id": "ozbargain-a455beb1a41aeef3",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T07:01:27.024835+00:00",
+          "retailer": "Steam or $5.62 @ GreenManGaming",
+          "price": 6.23,
+          "deal_id": "ozbargain-a455beb1a41aeef3",
+          "source": "OzBargain"
         }
       ]
     },
     "product-3588e27bd9314a8bbd6e": {
-      "title": "Department of Injustice, Unredacted Roll - Novelty Toilet Paper … $0.14 +Delivery ($0 Prime/$59 Spend) @ Amazon AU",
+      "title": "Department of Injustice, Unredacted Roll - Novelty Toilet Paper $0.14 + Delivery ($0 Prime/$59 Spend) @ Amazon AU",
       "brand": null,
       "model": null,
       "observations": [
@@ -12780,6 +12836,13 @@
           "price": 0.14,
           "deal_id": "ozbargain-4232cea19f13db2c",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T07:01:27.024954+00:00",
+          "retailer": "Amazon AU",
+          "price": 0.14,
+          "deal_id": "ozbargain-bc3130d9659268b7",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12790,6 +12853,13 @@
       "observations": [
         {
           "timestamp": "2026-08-23T02:00:15.563985+00:00",
+          "retailer": "TotalWellBeingDiet",
+          "price": 249.0,
+          "deal_id": "ozbargain-11107c8c21a9fe63",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T07:01:27.023754+00:00",
           "retailer": "TotalWellBeingDiet",
           "price": 249.0,
           "deal_id": "ozbargain-11107c8c21a9fe63",
@@ -12808,6 +12878,13 @@
           "price": 101.83,
           "deal_id": "ozbargain-605c5c4e3eede068",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T07:01:27.023876+00:00",
+          "retailer": "Amazon JP via AU",
+          "price": 101.83,
+          "deal_id": "ozbargain-605c5c4e3eede068",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12818,6 +12895,13 @@
       "observations": [
         {
           "timestamp": "2026-08-23T02:00:15.564245+00:00",
+          "retailer": "Grill'd",
+          "price": 12.81,
+          "deal_id": "ozbargain-d5c5189fb43ef2a4",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T07:01:27.023987+00:00",
           "retailer": "Grill'd",
           "price": 12.81,
           "deal_id": "ozbargain-d5c5189fb43ef2a4",
@@ -12864,9 +12948,184 @@
           "price": 69.99,
           "deal_id": "ozbargain-1588fbd4ea883cf0",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T07:01:27.024615+00:00",
+          "retailer": "TPG",
+          "price": 69.99,
+          "deal_id": "ozbargain-1588fbd4ea883cf0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-66063ca63213a42cd5de": {
+      "title": "Dishmatic Micro Soft Non Scratch Refills 4 pack $3.45 @ Woolworths",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T07:01:27.022236+00:00",
+          "retailer": "Woolworths",
+          "price": 3.45,
+          "deal_id": "ozbargain-b293a6f07a4e542e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-57c199963f5a93f362b0": {
+      "title": "½ Price: Kind Harvest Co Plain or Self Raising Flour 2kg $2.25 @ Coles",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T07:01:27.022659+00:00",
+          "retailer": "Coles",
+          "price": 2.25,
+          "deal_id": "ozbargain-f9c6e1e6f199ed71",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0685a7ac7febe904a2ee": {
+      "title": "Kärcher Eco! Booster 145 (Compatible with K5 Pressure Washers) $55.48 + Delivery ($0 with Prime/ $59 Spend) @ Amazon DE via AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T07:01:27.022776+00:00",
+          "retailer": "Amazon DE via AU",
+          "price": 55.48,
+          "deal_id": "ozbargain-dc84d377fd118728",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-747c39cdca467d90826e": {
+      "title": "3M P2 Respirator 9123 Disposable Face Mask (Carton of 400 Masks) $129 Delivered @ South East Clearance",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T07:01:27.022912+00:00",
+          "retailer": "South East Clearance",
+          "price": 129.0,
+          "deal_id": "ozbargain-7e3131c445b7029d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-eb99794ad5652c2ef9f6": {
+      "title": "Piksters HydroPik Ultra Water Flosser Set each $49.50 @ Woolworths",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T07:01:27.023139+00:00",
+          "retailer": "Woolworths",
+          "price": 49.5,
+          "deal_id": "ozbargain-088dea06f8f27c55",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-29284070cb1f1db479f0": {
+      "title": "AMD Ryzen 7 9800X3D 8-Core, 16-Thread Desktop Processor $569.54 Delivered @ Amazon DE via AU",
+      "brand": "AMD",
+      "model": "16-THREAD",
+      "observations": [
+        {
+          "timestamp": "2026-08-23T07:01:27.023354+00:00",
+          "retailer": "Amazon DE via AU",
+          "price": 569.54,
+          "deal_id": "ozbargain-42990fa6c50ad969",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d0c76806868870536405": {
+      "title": "Nasi Lemak $12.90, Aug 25 & 26 @ PappaRich (Excludes Sydney Airport)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T07:01:27.023477+00:00",
+          "retailer": "PappaRich (Excludes Sydney Airport)",
+          "price": 12.9,
+          "deal_id": "ozbargain-2fa81b75e6de11ae",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-fc2af99df4fe4dfa14ea": {
+      "title": "X Premium Retention Offer 1 Year $72 (Usually $120) @ X",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T07:01:27.023626+00:00",
+          "retailer": "X",
+          "price": 72.0,
+          "deal_id": "ozbargain-d395b61a8c00fd03",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1a65ab65789c126de97a": {
+      "title": "Samsung Galaxy Tab A11+ 128GB Wi-Fi $289 + Delivery ($0 to Metro Areas/ C&C/ in-Store) @ Officeworks",
+      "brand": "Samsung",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T07:01:27.024233+00:00",
+          "retailer": "Officeworks",
+          "price": 289.0,
+          "deal_id": "ozbargain-48d133b826df1641",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c137fc85d225f0b80a26": {
+      "title": "15% off 3 or More Bottles of Wine & Sparkling (Onda Sauv Blanc 750ml 3-Bottles $7.65) @ Liquorland (Excludes NT & South Hedland)",
+      "brand": null,
+      "model": "3-BOTTLES",
+      "observations": [
+        {
+          "timestamp": "2026-08-23T07:01:27.024362+00:00",
+          "retailer": "Liquorland (Excludes NT & South Hedland)",
+          "price": 7.65,
+          "deal_id": "ozbargain-54ad679ab333df06",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-caf1e1307023e50e1125": {
+      "title": "Free Ox Alpha Agentic Coding LLM + ClinePass US$5 (~A$7) @ Cline",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T07:01:27.024473+00:00",
+          "retailer": "Cline",
+          "price": 5.0,
+          "deal_id": "ozbargain-4693ae2d268c2958",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-30145f7a13e51fd75c36": {
+      "title": "beIN Sports Connect Yearly Pass AU$129.99 (RRP $203.88) @ beIN Sports",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T07:01:27.025142+00:00",
+          "retailer": "beIN Sports",
+          "price": 129.99,
+          "deal_id": "ozbargain-447e1cc5c79ee1fc",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-08-23T02:00:27.157505+00:00"
+  "updated_at": "2026-08-23T07:01:39.086839+00:00"
 }
