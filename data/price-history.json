@@ -5161,7 +5161,7 @@
       ]
     },
     "product-e17c864ad7a3019591fc": {
-      "title": "TROPA Tequila Reposado 750ml $300 Delivered (RRP $330) @ BoozeTime Australia",
+      "title": "15% off 3 or More Bottles of Wine & Sparkling (Onda Sauv Blanc 750ml -3 bottles for $7.65) @Liquorland (Some Excluded Locations)",
       "brand": null,
       "model": "750ML",
       "observations": [
@@ -5192,6 +5192,13 @@
           "price": 300.0,
           "deal_id": "ozbargain-94e70c6b64fb5035",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.564611+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 7.65,
+          "deal_id": "ozbargain-46a021caba9d65b9",
+          "source": "OzBargain"
         }
       ]
     },
@@ -5217,7 +5224,7 @@
       ]
     },
     "product-ab601c50354f6f8979b3": {
-      "title": "McLaren Vale Grenache 2025 6-Bottles $88 (RRP $180), 12-Bottles $144 (RRP $360) Delivered / SA C&C @ Bec Hardy Wines",
+      "title": "McLaren Vale Cabernet Sauvignon 2024 12-Bottles $119.50 Delivered (RRP $360, SA C&C $0) @ Bec Hardy Wines",
       "brand": null,
       "model": "12-BOTTLES",
       "observations": [
@@ -5233,6 +5240,13 @@
           "retailer": "Bec Hardy Wines",
           "price": 88.0,
           "deal_id": "ozbargain-33ec6f7e87fbe258",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.564396+00:00",
+          "retailer": "Bec Hardy Wines",
+          "price": 119.5,
+          "deal_id": "ozbargain-57c9c73e70ee8215",
           "source": "OzBargain"
         }
       ]
@@ -12108,6 +12122,13 @@
           "price": 20.2,
           "deal_id": "ozbargain-12f37646f0500ac6",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.566809+00:00",
+          "retailer": "Humble Bundle",
+          "price": 20.2,
+          "deal_id": "ozbargain-12f37646f0500ac6",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12132,6 +12153,13 @@
         },
         {
           "timestamp": "2026-08-22T18:49:25.556848+00:00",
+          "retailer": "BTF",
+          "price": 775.0,
+          "deal_id": "ozbargain-2b2711c0ce34af38",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.567013+00:00",
           "retailer": "BTF",
           "price": 775.0,
           "deal_id": "ozbargain-2b2711c0ce34af38",
@@ -12164,6 +12192,13 @@
           "price": 1.0,
           "deal_id": "ozbargain-304c6d1a245a0745",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.567124+00:00",
+          "retailer": "Domino's (Saturdays)",
+          "price": 1.0,
+          "deal_id": "ozbargain-304c6d1a245a0745",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12188,6 +12223,13 @@
         },
         {
           "timestamp": "2026-08-22T18:49:25.557183+00:00",
+          "retailer": "TopCashback AU",
+          "price": 76.92,
+          "deal_id": "ozbargain-c6783ebfbd1106fe",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.567352+00:00",
           "retailer": "TopCashback AU",
           "price": 76.92,
           "deal_id": "ozbargain-c6783ebfbd1106fe",
@@ -12339,11 +12381,18 @@
           "price": 105.71,
           "deal_id": "ozbargain-32b8693be5f799ad",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.565395+00:00",
+          "retailer": "Dell Australia",
+          "price": 105.71,
+          "deal_id": "ozbargain-32b8693be5f799ad",
+          "source": "OzBargain"
         }
       ]
     },
     "product-e2ad94b8a7456b855ac5": {
-      "title": "Yearly Pass - AU$129.99 (RRP $203.88, Save $70+) @BeIn",
+      "title": "Yearly Pass - AU$129.99 (RRP $203.88, Save $70+) @ BeIn",
       "brand": null,
       "model": null,
       "observations": [
@@ -12359,6 +12408,13 @@
           "retailer": "OzBargain-listed deal",
           "price": 129.99,
           "deal_id": "ozbargain-faa0187ef9e3fedc",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.565525+00:00",
+          "retailer": "BeIn",
+          "price": 129.99,
+          "deal_id": "ozbargain-7426ebe0074cd4a2",
           "source": "OzBargain"
         }
       ]
@@ -12377,6 +12433,13 @@
         },
         {
           "timestamp": "2026-08-22T18:49:25.555464+00:00",
+          "retailer": "Amazon AU",
+          "price": 123.35,
+          "deal_id": "ozbargain-ea2c3df218c4b6a7",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.565640+00:00",
           "retailer": "Amazon AU",
           "price": 123.35,
           "deal_id": "ozbargain-ea2c3df218c4b6a7",
@@ -12402,6 +12465,13 @@
           "price": 132.0,
           "deal_id": "ozbargain-ff3266de4d778cb0",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.565767+00:00",
+          "retailer": "RATIO",
+          "price": 132.0,
+          "deal_id": "ozbargain-ff3266de4d778cb0",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12419,6 +12489,13 @@
         },
         {
           "timestamp": "2026-08-22T18:49:25.555783+00:00",
+          "retailer": "Amazon AU",
+          "price": 613.0,
+          "deal_id": "ozbargain-4407bc8f05335fb6",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.565954+00:00",
           "retailer": "Amazon AU",
           "price": 613.0,
           "deal_id": "ozbargain-4407bc8f05335fb6",
@@ -12444,6 +12521,13 @@
           "price": 799.84,
           "deal_id": "ozbargain-addc73bc04f948e6",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.566062+00:00",
+          "retailer": "Everyday Marketplace via Ryda",
+          "price": 799.84,
+          "deal_id": "ozbargain-addc73bc04f948e6",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12461,6 +12545,13 @@
         },
         {
           "timestamp": "2026-08-22T18:49:25.555974+00:00",
+          "retailer": "Sanity",
+          "price": 1.5,
+          "deal_id": "ozbargain-3c41a77b8ca48e9f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.566142+00:00",
           "retailer": "Sanity",
           "price": 1.5,
           "deal_id": "ozbargain-3c41a77b8ca48e9f",
@@ -12486,6 +12577,13 @@
           "price": 20.79,
           "deal_id": "ozbargain-0679fea73c1d4f4d",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.566252+00:00",
+          "retailer": "Vodafone. Min Cost $748.44 / 36 months.",
+          "price": 20.79,
+          "deal_id": "ozbargain-0679fea73c1d4f4d",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12503,6 +12601,13 @@
         },
         {
           "timestamp": "2026-08-22T18:49:25.556203+00:00",
+          "retailer": "Mr Bargain",
+          "price": 24.99,
+          "deal_id": "ozbargain-7b6bc838fbce8647",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.566370+00:00",
           "retailer": "Mr Bargain",
           "price": 24.99,
           "deal_id": "ozbargain-7b6bc838fbce8647",
@@ -12528,6 +12633,13 @@
           "price": 502.0,
           "deal_id": "ozbargain-568ad45ca2988d6f",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.566475+00:00",
+          "retailer": "Harvey Norman (RRP $749)",
+          "price": 502.0,
+          "deal_id": "ozbargain-568ad45ca2988d6f",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12549,6 +12661,13 @@
           "price": 61.2,
           "deal_id": "ozbargain-b6363a5c27ae9a2e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.566583+00:00",
+          "retailer": "Nothing Online Store AliExpress",
+          "price": 61.2,
+          "deal_id": "ozbargain-b6363a5c27ae9a2e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12566,6 +12685,13 @@
         },
         {
           "timestamp": "2026-08-22T18:49:25.556517+00:00",
+          "retailer": "Google Play",
+          "price": 0.48,
+          "deal_id": "ozbargain-d7b3b17cdabcb4e9",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.566680+00:00",
           "retailer": "Google Play",
           "price": 0.48,
           "deal_id": "ozbargain-d7b3b17cdabcb4e9",
@@ -12605,6 +12731,13 @@
           "price": 10.0,
           "deal_id": "ozbargain-3a02a519a41d2e94",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.565009+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 10.0,
+          "deal_id": "ozbargain-3a02a519a41d2e94",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12615,6 +12748,13 @@
       "observations": [
         {
           "timestamp": "2026-08-22T18:49:25.555021+00:00",
+          "retailer": "Steam or $5.62 @ GreenManGaming",
+          "price": 6.23,
+          "deal_id": "ozbargain-a455beb1a41aeef3",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.565163+00:00",
           "retailer": "Steam or $5.62 @ GreenManGaming",
           "price": 6.23,
           "deal_id": "ozbargain-a455beb1a41aeef3",
@@ -12633,9 +12773,100 @@
           "price": 0.14,
           "deal_id": "ozbargain-4232cea19f13db2c",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T02:00:15.565292+00:00",
+          "retailer": "Amazon AU",
+          "price": 0.14,
+          "deal_id": "ozbargain-4232cea19f13db2c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b7dca601b07f13c752aa": {
+      "title": "CSIRO Total Well Being Diet (Weight Loss Meal Planner) 12 Month Subscription $249 @ TotalWellBeingDiet",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T02:00:15.563985+00:00",
+          "retailer": "TotalWellBeingDiet",
+          "price": 249.0,
+          "deal_id": "ozbargain-11107c8c21a9fe63",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e4463682f1195f3c8502": {
+      "title": "Xiaomi Sound Party NS7, Portable Speaker with 26H Play $101.83 Delivered @ Amazon JP via AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T02:00:15.564129+00:00",
+          "retailer": "Amazon JP via AU",
+          "price": 101.83,
+          "deal_id": "ozbargain-605c5c4e3eede068",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-24dfa0796fb1369c6f72": {
+      "title": "$12.81 Oscar Piastri Chicken/Wagyu Burger on Sundays When Piastri Races @ Grill'd",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T02:00:15.564245+00:00",
+          "retailer": "Grill'd",
+          "price": 12.81,
+          "deal_id": "ozbargain-d5c5189fb43ef2a4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c86db1507536fc3b972b": {
+      "title": "Samsung Galaxy Tab a11+ 128gb Wi-Fi $289 + Delivery @ Officeworks",
+      "brand": "Samsung",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T02:00:15.564484+00:00",
+          "retailer": "Officeworks",
+          "price": 289.0,
+          "deal_id": "ozbargain-d2a8c697a1290661",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5b5849d09d5c131c2e42": {
+      "title": "Ox Alpha Agentic Coding LLM Free on Cline — Optional - ClinePass $5 USD per month Intro",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T02:00:15.564748+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 5.0,
+          "deal_id": "ozbargain-6d02e9564f4f7119",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-10139daadb535c30adbd": {
+      "title": "nbn FTTP or HFC 500/50 $69.99/Month for 12 Months (New Customers, $94.99/Month Ongoing) @ TPG",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T02:00:15.564867+00:00",
+          "retailer": "TPG",
+          "price": 69.99,
+          "deal_id": "ozbargain-1588fbd4ea883cf0",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-08-22T18:49:37.742221+00:00"
+  "updated_at": "2026-08-23T02:00:27.157505+00:00"
 }
