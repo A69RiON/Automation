@@ -621,6 +621,13 @@
           "price": 39.99,
           "deal_id": "ozbargain-28a3393157f623f5",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T13:02:35.535068+00:00",
+          "retailer": "ALDI",
+          "price": 39.99,
+          "deal_id": "ozbargain-28a3393157f623f5",
+          "source": "OzBargain"
         }
       ]
     },
@@ -5258,6 +5265,13 @@
         },
         {
           "timestamp": "2026-08-23T07:01:27.024129+00:00",
+          "retailer": "Bec Hardy Wines",
+          "price": 119.5,
+          "deal_id": "ozbargain-57c9c73e70ee8215",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T13:02:35.536391+00:00",
           "retailer": "Bec Hardy Wines",
           "price": 119.5,
           "deal_id": "ozbargain-57c9c73e70ee8215",
@@ -12864,6 +12878,13 @@
           "price": 249.0,
           "deal_id": "ozbargain-11107c8c21a9fe63",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T13:02:35.536054+00:00",
+          "retailer": "TotalWellBeingDiet",
+          "price": 249.0,
+          "deal_id": "ozbargain-11107c8c21a9fe63",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12885,6 +12906,13 @@
           "price": 101.83,
           "deal_id": "ozbargain-605c5c4e3eede068",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T13:02:35.536162+00:00",
+          "retailer": "Amazon JP via AU",
+          "price": 101.83,
+          "deal_id": "ozbargain-605c5c4e3eede068",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12902,6 +12930,13 @@
         },
         {
           "timestamp": "2026-08-23T07:01:27.023987+00:00",
+          "retailer": "Grill'd",
+          "price": 12.81,
+          "deal_id": "ozbargain-d5c5189fb43ef2a4",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T13:02:35.536259+00:00",
           "retailer": "Grill'd",
           "price": 12.81,
           "deal_id": "ozbargain-d5c5189fb43ef2a4",
@@ -12969,6 +13004,13 @@
           "price": 3.45,
           "deal_id": "ozbargain-b293a6f07a4e542e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T13:02:35.534901+00:00",
+          "retailer": "Woolworths",
+          "price": 3.45,
+          "deal_id": "ozbargain-b293a6f07a4e542e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12979,6 +13021,13 @@
       "observations": [
         {
           "timestamp": "2026-08-23T07:01:27.022659+00:00",
+          "retailer": "Coles",
+          "price": 2.25,
+          "deal_id": "ozbargain-f9c6e1e6f199ed71",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T13:02:35.535179+00:00",
           "retailer": "Coles",
           "price": 2.25,
           "deal_id": "ozbargain-f9c6e1e6f199ed71",
@@ -12997,6 +13046,13 @@
           "price": 55.48,
           "deal_id": "ozbargain-dc84d377fd118728",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T13:02:35.535278+00:00",
+          "retailer": "Amazon DE via AU",
+          "price": 55.48,
+          "deal_id": "ozbargain-dc84d377fd118728",
+          "source": "OzBargain"
         }
       ]
     },
@@ -13007,6 +13063,13 @@
       "observations": [
         {
           "timestamp": "2026-08-23T07:01:27.022912+00:00",
+          "retailer": "South East Clearance",
+          "price": 129.0,
+          "deal_id": "ozbargain-7e3131c445b7029d",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T13:02:35.535385+00:00",
           "retailer": "South East Clearance",
           "price": 129.0,
           "deal_id": "ozbargain-7e3131c445b7029d",
@@ -13025,6 +13088,13 @@
           "price": 49.5,
           "deal_id": "ozbargain-088dea06f8f27c55",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T13:02:35.535578+00:00",
+          "retailer": "Woolworths",
+          "price": 49.5,
+          "deal_id": "ozbargain-088dea06f8f27c55",
+          "source": "OzBargain"
         }
       ]
     },
@@ -13035,6 +13105,13 @@
       "observations": [
         {
           "timestamp": "2026-08-23T07:01:27.023354+00:00",
+          "retailer": "Amazon DE via AU",
+          "price": 569.54,
+          "deal_id": "ozbargain-42990fa6c50ad969",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T13:02:35.535749+00:00",
           "retailer": "Amazon DE via AU",
           "price": 569.54,
           "deal_id": "ozbargain-42990fa6c50ad969",
@@ -13053,6 +13130,13 @@
           "price": 12.9,
           "deal_id": "ozbargain-2fa81b75e6de11ae",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T13:02:35.535851+00:00",
+          "retailer": "PappaRich (Excludes Sydney Airport)",
+          "price": 12.9,
+          "deal_id": "ozbargain-2fa81b75e6de11ae",
+          "source": "OzBargain"
         }
       ]
     },
@@ -13067,6 +13151,13 @@
           "price": 72.0,
           "deal_id": "ozbargain-d395b61a8c00fd03",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T13:02:35.535953+00:00",
+          "retailer": "X",
+          "price": 72.0,
+          "deal_id": "ozbargain-d395b61a8c00fd03",
+          "source": "OzBargain"
         }
       ]
     },
@@ -13077,6 +13168,13 @@
       "observations": [
         {
           "timestamp": "2026-08-23T07:01:27.024233+00:00",
+          "retailer": "Officeworks",
+          "price": 289.0,
+          "deal_id": "ozbargain-48d133b826df1641",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-23T13:02:35.536481+00:00",
           "retailer": "Officeworks",
           "price": 289.0,
           "deal_id": "ozbargain-48d133b826df1641",
@@ -13125,7 +13223,189 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-e3d5d34dc63ddb58588d": {
+      "title": "Clarks Harrisons Kid's Indy Senior School Shoe $20.58 (RRP $139.95) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T13:02:35.533462+00:00",
+          "retailer": "Amazon AU",
+          "price": 20.58,
+          "deal_id": "ozbargain-75cc7dd6e1b62efa",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7aea80d635c1129f91c7": {
+      "title": "Klein Tools Pinless Moisture Meter with EMF Technology, $59.99 (RRP $73.32) Delivered @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T13:02:35.533594+00:00",
+          "retailer": "Amazon AU",
+          "price": 59.99,
+          "deal_id": "ozbargain-d947c8ef5dc3a7d9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b8d20b5c91a97ac8e023": {
+      "title": "Funnel Neck Puffer Jacket $15 + Delivery ($0 OnePass/C&C/in Store) @ Kmart",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T13:02:35.533724+00:00",
+          "retailer": "Kmart",
+          "price": 15.0,
+          "deal_id": "ozbargain-d79b6681de027551",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e11f139dbeecc0e1a676": {
+      "title": "Longines Conquest Women's Automatic Watch L3.430.4.99.6 $2,799 @ Wallace Bishop",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T13:02:35.533824+00:00",
+          "retailer": "Wallace Bishop",
+          "price": 2799.0,
+          "deal_id": "ozbargain-c8acff5c3de404b4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f7b9fda6c51a8c835b9e": {
+      "title": "Build Your Own Medication Bundle: Allergy, Pain, Fungas Relief Ie 100x Lorazol 10mg $17.98 Delivered w/Tracking @PharmacySavings",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T13:02:35.533951+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 17.98,
+          "deal_id": "ozbargain-1b7ccd388b32d69a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7558a58473664171ad63": {
+      "title": "Lifetime 6ft Bi-Fold Blow Mould Trestle Table $36.46 @ Bunnings Warehouse [WA only]",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T13:02:35.534060+00:00",
+          "retailer": "Bunnings Warehouse",
+          "price": 36.46,
+          "deal_id": "ozbargain-84b99d060137f4e1",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-81e9c09c19d960ca83f6": {
+      "title": "5\" Display Camera Baby Monitor with Temperature Sensor US$56.95 (~$87.21) Delivered @ MBOSS Official Store AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T13:02:35.534189+00:00",
+          "retailer": "MBOSS Official Store AliExpress",
+          "price": 56.95,
+          "deal_id": "ozbargain-8a22470f97c83740",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f5bcd191e1481906f384": {
+      "title": "4 x Meross Matter Smart Wi-Fi Plug with Energy Monitoring. $34.59 USD Delivered. (~ $48.25 AUD) @Meross AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T13:02:35.534297+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 34.59,
+          "deal_id": "ozbargain-b72576aea60769fb",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-bb13fb25c6c22d4b4d53": {
+      "title": "Malaysia Airlines Business to Japan: Ex BNE $3363, ADL $3601, PER $3682, MEL $3689, SYD $3828 Return (Aug 26-Jul 27) @ BTF",
+      "brand": null,
+      "model": "26-JUL",
+      "observations": [
+        {
+          "timestamp": "2026-08-23T13:02:35.534410+00:00",
+          "retailer": "BTF",
+          "price": 3363.0,
+          "deal_id": "ozbargain-28e4dda8455326e3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1525129702dea477bd18": {
+      "title": "4 x Meross Matter Smart Wi-Fi Plug with Energy Monitoring. $34.98 USD Delivered. (~ $48.90 AUD) @Meross AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T13:02:35.534511+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 34.98,
+          "deal_id": "ozbargain-c0d4defb656e936c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9962899cb59de0add21e": {
+      "title": "Jetstar One-Way Direct: Bali from $161 (PER), Auckland $287 (SYD), Queenstown $309 (MEL) @ Sky Spy",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T13:02:35.534604+00:00",
+          "retailer": "Sky Spy",
+          "price": 161.0,
+          "deal_id": "ozbargain-8c75bbe220edbeaa",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5e1b5d5a82413af8d55d": {
+      "title": "Lenovo Legion Pro 5 Laptop: i9-14900HX, 24GB RAM, 1TB SSD, RTX 5070 $2397 + Delivery ($0 to Metro/ C&C/ in-Store) @ Officeworks",
+      "brand": "Lenovo",
+      "model": "RTX 5070",
+      "observations": [
+        {
+          "timestamp": "2026-08-23T13:02:35.534703+00:00",
+          "retailer": "Officeworks",
+          "price": 2397.0,
+          "deal_id": "ozbargain-3ec9279699e2c73b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ea4e82fce57c7ae70002": {
+      "title": "Mlily Sensi Health Copper Pillow (Traditional/Contour) $75, 2 for $130 + $19/$28 Delivery Per Pillow ($0 VIC C&C) @ Best Beds",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-23T13:02:35.534819+00:00",
+          "retailer": "Best Beds",
+          "price": 75.0,
+          "deal_id": "ozbargain-51ea43a5a0f0557e",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-23T07:01:39.086839+00:00"
+  "updated_at": "2026-08-23T13:02:45.459272+00:00"
 }
