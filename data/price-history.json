@@ -1377,6 +1377,13 @@
           "price": 59.95,
           "deal_id": "ozbargain-ba712b94d084cd91",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.026052+00:00",
+          "retailer": "SportsPro",
+          "price": 59.95,
+          "deal_id": "ozbargain-ba712b94d084cd91",
+          "source": "OzBargain"
         }
       ]
     },
@@ -6169,7 +6176,7 @@
       ]
     },
     "product-554a3228778196936654": {
-      "title": "INIU 45W 10000mAh Power Bank $16.81 + Delivery ($0 with Prime/ $59 Spend) @ INIU AU via Amazon AU",
+      "title": "INIU 45W 10000mAh Power Bank $15.29 + Delivery ($0 with Prime/ $59 Spend) @ INIU AU via Amazon AU",
       "brand": null,
       "model": "10000MAH",
       "observations": [
@@ -6192,6 +6199,13 @@
           "retailer": "INIU AU via Amazon AU",
           "price": 16.81,
           "deal_id": "ozbargain-5ba13addfbe0d4cd",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.024742+00:00",
+          "retailer": "INIU AU via Amazon AU",
+          "price": 15.29,
+          "deal_id": "ozbargain-1a58475df8923c6e",
           "source": "OzBargain"
         }
       ]
@@ -7722,6 +7736,13 @@
         },
         {
           "timestamp": "2026-08-24T13:13:35.259472+00:00",
+          "retailer": "Ugreen via Amazon AU",
+          "price": 41.32,
+          "deal_id": "ozbargain-1ecb5663ebee4df1",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.026727+00:00",
           "retailer": "Ugreen via Amazon AU",
           "price": 41.32,
           "deal_id": "ozbargain-1ecb5663ebee4df1",
@@ -14390,6 +14411,13 @@
           "price": 8.25,
           "deal_id": "ozbargain-d392994547f9e19f",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.025298+00:00",
+          "retailer": "Coles Online Only",
+          "price": 8.25,
+          "deal_id": "ozbargain-d392994547f9e19f",
+          "source": "OzBargain"
         }
       ]
     },
@@ -14400,6 +14428,13 @@
       "observations": [
         {
           "timestamp": "2026-08-24T13:13:35.257338+00:00",
+          "retailer": "UGREEN Direct Store AliExpress",
+          "price": 31.81,
+          "deal_id": "ozbargain-418ede2c207c04c4",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.025412+00:00",
           "retailer": "UGREEN Direct Store AliExpress",
           "price": 31.81,
           "deal_id": "ozbargain-418ede2c207c04c4",
@@ -14418,6 +14453,13 @@
           "price": 94.98,
           "deal_id": "ozbargain-eba8d40588996c78",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.025483+00:00",
+          "retailer": "Amazon AU",
+          "price": 94.98,
+          "deal_id": "ozbargain-eba8d40588996c78",
+          "source": "OzBargain"
         }
       ]
     },
@@ -14428,6 +14470,13 @@
       "observations": [
         {
           "timestamp": "2026-08-24T13:13:35.257568+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 50.0,
+          "deal_id": "ozbargain-2e1f0637506ba5fd",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.025546+00:00",
           "retailer": "OzBargain-listed deal",
           "price": 50.0,
           "deal_id": "ozbargain-2e1f0637506ba5fd",
@@ -14446,6 +14495,13 @@
           "price": 22.99,
           "deal_id": "ozbargain-676a357b02dce5fa",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.025629+00:00",
+          "retailer": "Amazon AU",
+          "price": 22.99,
+          "deal_id": "ozbargain-676a357b02dce5fa",
+          "source": "OzBargain"
         }
       ]
     },
@@ -14456,6 +14512,13 @@
       "observations": [
         {
           "timestamp": "2026-08-24T13:13:35.257817+00:00",
+          "retailer": "Mobileciti",
+          "price": 181.0,
+          "deal_id": "ozbargain-6a117e6fd084e1b7",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.025692+00:00",
           "retailer": "Mobileciti",
           "price": 181.0,
           "deal_id": "ozbargain-6a117e6fd084e1b7",
@@ -14474,6 +14537,13 @@
           "price": 2.5,
           "deal_id": "ozbargain-2fdc6185aa93b877",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.025752+00:00",
+          "retailer": "Pasadena Foodland",
+          "price": 2.5,
+          "deal_id": "ozbargain-2fdc6185aa93b877",
+          "source": "OzBargain"
         }
       ]
     },
@@ -14484,6 +14554,13 @@
       "observations": [
         {
           "timestamp": "2026-08-24T13:13:35.258061+00:00",
+          "retailer": "Revolut",
+          "price": 100000.0,
+          "deal_id": "ozbargain-526fca173d7cdaec",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.025832+00:00",
           "retailer": "Revolut",
           "price": 100000.0,
           "deal_id": "ozbargain-526fca173d7cdaec",
@@ -14502,6 +14579,13 @@
           "price": 16.53,
           "deal_id": "ozbargain-15a4aeadfb7af395",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.025907+00:00",
+          "retailer": "Sanda-Watch AliExpress",
+          "price": 16.53,
+          "deal_id": "ozbargain-15a4aeadfb7af395",
+          "source": "OzBargain"
         }
       ]
     },
@@ -14512,6 +14596,13 @@
       "observations": [
         {
           "timestamp": "2026-08-24T13:13:35.258291+00:00",
+          "retailer": "Amazon AU",
+          "price": 14.14,
+          "deal_id": "ozbargain-8d193f1264968209",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.025987+00:00",
           "retailer": "Amazon AU",
           "price": 14.14,
           "deal_id": "ozbargain-8d193f1264968209",
@@ -14530,6 +14621,13 @@
           "price": 5.99,
           "deal_id": "ozbargain-5bf5fe11712ef70f",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.026108+00:00",
+          "retailer": "Nintendo eShop",
+          "price": 5.99,
+          "deal_id": "ozbargain-5bf5fe11712ef70f",
+          "source": "OzBargain"
         }
       ]
     },
@@ -14540,6 +14638,13 @@
       "observations": [
         {
           "timestamp": "2026-08-24T13:13:35.258593+00:00",
+          "retailer": "Amazon AU",
+          "price": 134.68,
+          "deal_id": "ozbargain-2ddc12fa42dcecf6",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.026170+00:00",
           "retailer": "Amazon AU",
           "price": 134.68,
           "deal_id": "ozbargain-2ddc12fa42dcecf6",
@@ -14558,6 +14663,13 @@
           "price": 339.15,
           "deal_id": "ozbargain-a6dde84b39a2fc17",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.026242+00:00",
+          "retailer": "Breville Australia Outlet eBay",
+          "price": 339.15,
+          "deal_id": "ozbargain-a6dde84b39a2fc17",
+          "source": "OzBargain"
         }
       ]
     },
@@ -14568,6 +14680,13 @@
       "observations": [
         {
           "timestamp": "2026-08-24T13:13:35.258829+00:00",
+          "retailer": "Nothing Online AliExpress",
+          "price": 29.46,
+          "deal_id": "ozbargain-18c8a89f792d8189",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.026330+00:00",
           "retailer": "Nothing Online AliExpress",
           "price": 29.46,
           "deal_id": "ozbargain-18c8a89f792d8189",
@@ -14586,6 +14705,13 @@
           "price": 70.86,
           "deal_id": "ozbargain-429d1ba426ede325",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.026402+00:00",
+          "retailer": "Amazon AU",
+          "price": 70.86,
+          "deal_id": "ozbargain-429d1ba426ede325",
+          "source": "OzBargain"
         }
       ]
     },
@@ -14596,6 +14722,13 @@
       "observations": [
         {
           "timestamp": "2026-08-24T13:13:35.259047+00:00",
+          "retailer": "benssur",
+          "price": 199.0,
+          "deal_id": "ozbargain-1537293eb1d980a3",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.026460+00:00",
           "retailer": "benssur",
           "price": 199.0,
           "deal_id": "ozbargain-1537293eb1d980a3",
@@ -14614,6 +14747,13 @@
           "price": 398.64,
           "deal_id": "ozbargain-d466886a85c42ae8",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.026531+00:00",
+          "retailer": "Amazon Japan via AU",
+          "price": 398.64,
+          "deal_id": "ozbargain-d466886a85c42ae8",
+          "source": "OzBargain"
         }
       ]
     },
@@ -14628,6 +14768,13 @@
           "price": 3.75,
           "deal_id": "ozbargain-7bf1fbd5c64b7dfe",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.026590+00:00",
+          "retailer": "Bizzly",
+          "price": 3.75,
+          "deal_id": "ozbargain-7bf1fbd5c64b7dfe",
+          "source": "OzBargain"
         }
       ]
     },
@@ -14638,6 +14785,13 @@
       "observations": [
         {
           "timestamp": "2026-08-24T13:13:35.259356+00:00",
+          "retailer": "PlayStation Store",
+          "price": 69.95,
+          "deal_id": "ozbargain-d7d9bcdba05feeef",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T18:59:44.026653+00:00",
           "retailer": "PlayStation Store",
           "price": 69.95,
           "deal_id": "ozbargain-d7d9bcdba05feeef",
@@ -14742,7 +14896,77 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-09225de4dc7a4028b582": {
+      "title": "20% off All Travel eSIMs – Asia, Europe, USA, & UK from $2.13 @ eSimExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T18:59:44.024829+00:00",
+          "retailer": "eSimExpress",
+          "price": 2.13,
+          "deal_id": "ozbargain-d18d768e9e842206",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-56279e898efe8899a28c": {
+      "title": "Vitasoy Oat Milky 12x 1L Packs $17.95 ($16.15 Subscribe & Save) + Delivery ($0 Prime / $59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T18:59:44.024996+00:00",
+          "retailer": "Amazon AU",
+          "price": 17.95,
+          "deal_id": "ozbargain-63c88b1579637699",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-fac678f01fe8631a4325": {
+      "title": "5% off $50+ Spend in 1 Transaction on Eligible Items with Eligible NAB Visa Card ($10 Max Discount) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T18:59:44.025074+00:00",
+          "retailer": "Amazon AU",
+          "price": 50.0,
+          "deal_id": "ozbargain-f008c9fc2e06f20a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1edd2da70b5603d949f5": {
+      "title": "Masterfoods Dry Herbs, Spices & Seasonings Large Glass Jar $5.50/ $6.85 and get 50% IGA Cashback @ IGA (Excl. TAS, NT)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T18:59:44.025153+00:00",
+          "retailer": "IGA (Excl. TAS, NT)",
+          "price": 5.5,
+          "deal_id": "ozbargain-76193c9ed1459ca6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e41b378e23e453677ef2": {
+      "title": "[WA] Chicken Breast $6.99/kg @ IGA, Canning Vale",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T18:59:44.025218+00:00",
+          "retailer": "IGA, Canning Vale",
+          "price": 6.99,
+          "deal_id": "ozbargain-ef70afa8a5ca8623",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-24T13:13:45.725082+00:00"
+  "updated_at": "2026-08-24T18:59:55.779137+00:00"
 }
