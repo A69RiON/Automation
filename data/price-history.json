@@ -4664,7 +4664,7 @@
       ]
     },
     "product-19b38a7d3e0daae04813": {
-      "title": "Aberlour A'Bunadh Single Malt Scotch Whisky 700ml $117 (Member's Price) + Del ($0 C&C/ to Metro with $149 Order) @ Dan Murphy's",
+      "title": "Macallan 12 Double Cask, Single Malt Scotch Whisky 700mL $120 + Delivery (Free over $199 Spend) @ The Whisky Station",
       "brand": null,
       "model": "700ML",
       "observations": [
@@ -4701,6 +4701,13 @@
           "retailer": "Dan Murphy's",
           "price": 117.0,
           "deal_id": "ozbargain-549a00a7329da669",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T07:29:15.272720+00:00",
+          "retailer": "The Whisky Station",
+          "price": 120.0,
+          "deal_id": "ozbargain-cefc011da39dde26",
           "source": "OzBargain"
         }
       ]
@@ -6750,7 +6757,7 @@
       ]
     },
     "product-3ef503e708e48b513355": {
-      "title": "Crucial P310 2TB 2280 PCIe Gen4 3D Nand NVMe M.2 Internal SSD $392.83 Delivered @ Amazon DE via AU",
+      "title": "Crucial P310 2TB 2280 PCIe Gen4 3D Nand NVMe M.2 Internal SSD $336.79 Delivered @ Amazon UK via AU",
       "brand": "Crucial",
       "model": null,
       "observations": [
@@ -6773,6 +6780,13 @@
           "retailer": "Amazon DE via AU",
           "price": 392.83,
           "deal_id": "ozbargain-9490e119844d9ddc",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T07:29:15.272210+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 336.79,
+          "deal_id": "ozbargain-c60921461c2c343b",
           "source": "OzBargain"
         }
       ]
@@ -13659,7 +13673,7 @@
       ]
     },
     "product-adb75476ddbe0fea1c2c": {
-      "title": "GL.iNet GL-BE6500 Flint 3e Wi-Fi 7 Router with VPN for Home and … $190.39 (RRP $288.99) Delivered @ Amazon AU",
+      "title": "GL.iNet GL-BE6500 Flint 3e Wi-Fi 7 Router with VPN $190.39 (RRP $288.99) Delivered @ GL Technologies via Amazon AU",
       "brand": null,
       "model": "GL-BE6500",
       "observations": [
@@ -13669,11 +13683,18 @@
           "price": 190.39,
           "deal_id": "ozbargain-6770bd120eaf7b49",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T07:29:15.273862+00:00",
+          "retailer": "GL Technologies via Amazon AU",
+          "price": 190.39,
+          "deal_id": "ozbargain-68313b0da05ec68d",
+          "source": "OzBargain"
         }
       ]
     },
     "product-d17e60ca5f90d459b77d": {
-      "title": "VoltX 1800W Portable Power Station 1030Wh @ $649 for ebay plus",
+      "title": "[eBay Plus] VoltX 1800W Portable Power Station 1030Wh $649 Delivered @ Fab Living eBay",
       "brand": null,
       "model": "1030WH",
       "observations": [
@@ -13682,6 +13703,13 @@
           "retailer": "$649 for ebay plus",
           "price": 649.0,
           "deal_id": "ozbargain-cae23912b76ca5ca",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T07:29:15.273940+00:00",
+          "retailer": "Fab Living eBay",
+          "price": 649.0,
+          "deal_id": "ozbargain-ca18a6a3de01abe0",
           "source": "OzBargain"
         }
       ]
@@ -13993,7 +14021,343 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-2e0146ea9a174e08fde9": {
+      "title": "$75 off Every $500 Spend for IKEA Family Members (Online Only, Exclusions Apply) @ IKEA",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.270996+00:00",
+          "retailer": "IKEA",
+          "price": 75.0,
+          "deal_id": "ozbargain-a01b9774ff701323",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-07f952144a8e40601a0b": {
+      "title": "Shark SteamSpot S2001 Steam Mop with Steam Blaster $149.99 RRP $214.99 @Harris Scarfe",
+      "brand": null,
+      "model": "S2001",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.271122+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 149.99,
+          "deal_id": "ozbargain-3a6ea6172ed891b7",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6cebf71c87eb2845b2f7": {
+      "title": "SodaKING Adventurer Red Soda Maker $39.95 + Shipping @SodaKing",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.271228+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 39.95,
+          "deal_id": "ozbargain-9b7bed0c5cb2022d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b0dc347fa0612f76008f": {
+      "title": "Free Delivery Now or Direct to Boot Now with $100+ Spend @ Woolworths",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.271302+00:00",
+          "retailer": "Woolworths",
+          "price": 100.0,
+          "deal_id": "ozbargain-c7c97fbfaa87f190",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-aaaed2e5968de7e79de7": {
+      "title": "Switch with Econnex & Stay 45 Days for Cashback: $150 Electricity, $120 Gas, $100 nbn, $370 All 3 Services @ TopCashback AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.271442+00:00",
+          "retailer": "TopCashback AU",
+          "price": 150.0,
+          "deal_id": "ozbargain-40b7840a3913a4fb",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-deb1499427f72b0cf75b": {
+      "title": "$100 for Referrer (1st Referral Only, Then $30) & Referee for New Signups (5 Eligible Purchases in 30 Days Required) @ ubank",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.271557+00:00",
+          "retailer": "ubank",
+          "price": 100.0,
+          "deal_id": "ozbargain-6ebe64c078a0fc9f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8c3c997854d869973a09": {
+      "title": "$7 Cashback on Optus 45GB 28-Day Prepaid eSIM / SIM for $13 Delivered (Ongoing $39, 45GB for First 3 Recharges) @ ShopBack",
+      "brand": null,
+      "model": "28-DAY",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.271764+00:00",
+          "retailer": "ShopBack",
+          "price": 7.0,
+          "deal_id": "ozbargain-298fdb70d63a091e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-68d707f5d02f692658fb": {
+      "title": "$20 Paid to Your Bank for Uploading Your Car Loan Details @ RealRates",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.271855+00:00",
+          "retailer": "RealRates",
+          "price": 20.0,
+          "deal_id": "ozbargain-f2365cf14b05f164",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e2585ba90537d4d40fca": {
+      "title": "Garmin Forerunner 965 $699 (RRP $999) Delivered @ Garmin",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.271927+00:00",
+          "retailer": "Garmin",
+          "price": 699.0,
+          "deal_id": "ozbargain-77f8781bd9f4fd11",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-261e981b2aa050f69a6e": {
+      "title": "AFUL Performer 5+2/7 HiFi IEM Earphones $252.44 (RRP $339.99) Delivered @ Hiresgo via Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.272017+00:00",
+          "retailer": "Hiresgo via Amazon AU",
+          "price": 252.44,
+          "deal_id": "ozbargain-068e139a224cbae2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6bd2b1fe43542f3d41aa": {
+      "title": "[eBay Plus] Razer BlackShark V3 Pro Wireless Esports Gaming Headset - 2XKO Edition $223.44 Delivered @ Razer eBay",
+      "brand": "Razer",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.272123+00:00",
+          "retailer": "Razer eBay",
+          "price": 223.44,
+          "deal_id": "ozbargain-5ac832eaca5f441d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-64e4aaa7be4ef74a838c": {
+      "title": "Southmer Australian Merino Wool Socks 3-Pack Bundle $34 (Was $49) + $12 Flat Delivery ($0 Orders > $65) @ Southmer",
+      "brand": null,
+      "model": "3-PACK",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.272303+00:00",
+          "retailer": "Southmer",
+          "price": 34.0,
+          "deal_id": "ozbargain-b905b6654969ff99",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-dd8135b7322f98c456ec": {
+      "title": "[eBay Plus] Apple AirPods Pro 3rd Gen ANC MFHP4X/a $311 Delivered @ Techciti eBay",
+      "brand": "Apple",
+      "model": "MFHP4X",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.272393+00:00",
+          "retailer": "Techciti eBay",
+          "price": 311.0,
+          "deal_id": "ozbargain-6dd15c0fc8f13040",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-291523b6180d0d214031": {
+      "title": "Salomon X-Adventure Recon GTX Hiking Shoes $75 + $9.99 Delivery ($0 Order > $120, Club Membership Required) @ Anaconda",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.272515+00:00",
+          "retailer": "Anaconda",
+          "price": 75.0,
+          "deal_id": "ozbargain-5a758b0c26ecb214",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-583e4bec32f678ce4468": {
+      "title": "DexShell Waterproof Hytherm Pro Socks $145.80 for 3 Pairs or $55 Each + Delivery (2 Colours Available) @ Outdoor Nature",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.272620+00:00",
+          "retailer": "Outdoor Nature",
+          "price": 145.8,
+          "deal_id": "ozbargain-0cf806f0430cfb01",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-389cab2c74dcc7b12810": {
+      "title": "Bosch 18V Professional Mower + Blower $888.50 Inc. 2x 5.5Ah Batteries + Dual Fast Charger + Delivery ($0 C&C) @ Total Tools",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.272842+00:00",
+          "retailer": "Total Tools",
+          "price": 888.5,
+          "deal_id": "ozbargain-977c48c414c88907",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0129b3f3d0a71f6da4b4": {
+      "title": "[eBay Plus] Pokemon TCG Mega Evolution Pitch Black Booster Box (36 Packs) $269.01 Delivered @ Rips Vault eBay",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.272945+00:00",
+          "retailer": "Rips Vault eBay",
+          "price": 269.01,
+          "deal_id": "ozbargain-1a4ed5a68c3cac1c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-3ec345186e1174a0e07a": {
+      "title": "10% off NWT Smart Dehumidifiers 12L $287.1 (Was $319), 20L $377.1 (Was $419), 30L $476.1 (Was $529) Delivered @ NWT Australia",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.273125+00:00",
+          "retailer": "NWT Australia",
+          "price": 287.1,
+          "deal_id": "ozbargain-cb79df4f691b2360",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4c298ff7c42c3a611f96": {
+      "title": "$20 off $100 Minimum Spend (Excludes Clearance, Club Membership Required) @ Anaconda",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.273216+00:00",
+          "retailer": "Anaconda",
+          "price": 20.0,
+          "deal_id": "ozbargain-c31159d9460c967c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d0afd73a38aa10fc38c9": {
+      "title": "Ninja Foodi Everyday Possible Pro Cooker, 6L Multi-Cooker $159.98 (RRP $249.99) Delivered @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.273306+00:00",
+          "retailer": "Amazon AU",
+          "price": 159.98,
+          "deal_id": "ozbargain-45016a4571d35143",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4f030b207fd96a6251b1": {
+      "title": "[eBay Plus, Box Damaged] Dyson V8 Cyclone $279.30, V10 Konical + Auto-Empty Dok $489.30 Delivered @ Dyson eBay",
+      "brand": "Dyson",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.273414+00:00",
+          "retailer": "Dyson eBay",
+          "price": 279.3,
+          "deal_id": "ozbargain-63c848b210f052f7",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-250597237a13b19c5e8a": {
+      "title": "Ryobi 18V ONE+ 2Ah Battery & Charger Kit $49 + Delivery ($0 C&C/In-Store/OnePass) @ Ryobi via Bunnings",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.273524+00:00",
+          "retailer": "Ryobi via Bunnings",
+          "price": 49.0,
+          "deal_id": "ozbargain-29212349168c03bc",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6574fceec6596f72ff2d": {
+      "title": "Bundanoon Classic Mug Set Nautical Stripes Royal Blue 400ml 4pce $17 + Delivery (Free C&C NSW) @ Peter's of Kensington",
+      "brand": null,
+      "model": "400ML",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.273643+00:00",
+          "retailer": "Peter's of Kensington",
+          "price": 17.0,
+          "deal_id": "ozbargain-d28beffbc1abaca9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0e1e129c917b5f60cdc1": {
+      "title": "[VIC] Zagg and PanzerGlass Screen Protectors for iPhones, iPads and Samsung Phones $5 (C&C Only) @ Phonebot, Reservoir",
+      "brand": "Samsung",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T07:29:15.273766+00:00",
+          "retailer": "Phonebot, Reservoir",
+          "price": 5.0,
+          "deal_id": "ozbargain-a94b3d87a51f5c82",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-24T01:58:22.191540+00:00"
+  "updated_at": "2026-08-24T07:29:26.484812+00:00"
 }
