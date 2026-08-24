@@ -1339,7 +1339,7 @@
       ]
     },
     "product-618a7f0d51cd0565c3bf": {
-      "title": "Armor All Ultra Shield Protect & Shine Ceramic Wax 500mL $8 + Delivery ($0 C&C/In-Store) @ Supercheap Auto",
+      "title": "SportsPro Recovery Bundle (500ml Physio Cream + 15ml Roll-on) $59.95 (Was $104.90) Delivered @ SportsPro",
       "brand": null,
       "model": "500ML",
       "observations": [
@@ -1369,6 +1369,13 @@
           "retailer": "Supercheap Auto",
           "price": 8.0,
           "deal_id": "ozbargain-19a392bdaa1503ff",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T13:13:35.258395+00:00",
+          "retailer": "SportsPro",
+          "price": 59.95,
+          "deal_id": "ozbargain-ba712b94d084cd91",
           "source": "OzBargain"
         }
       ]
@@ -7695,7 +7702,7 @@
       ]
     },
     "product-f0c75ff5305c866cc902": {
-      "title": "Nongshim Shin Ramyun Noodles 4-Pack 480g $4.99 @ ALDI",
+      "title": "[Prime] Ugreen FineTrack Rechargeable Smart Tag 4-Pack Duo $41.32, iOS $38.93 Delivered @ Ugreen via Amazon AU",
       "brand": null,
       "model": "4-PACK",
       "observations": [
@@ -7711,6 +7718,13 @@
           "retailer": "ALDI",
           "price": 4.99,
           "deal_id": "ozbargain-81968bfc64dac67d",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T13:13:35.259472+00:00",
+          "retailer": "Ugreen via Amazon AU",
+          "price": 41.32,
+          "deal_id": "ozbargain-1ecb5663ebee4df1",
           "source": "OzBargain"
         }
       ]
@@ -14033,6 +14047,13 @@
           "price": 75.0,
           "deal_id": "ozbargain-a01b9774ff701323",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T13:13:35.260338+00:00",
+          "retailer": "IKEA",
+          "price": 75.0,
+          "deal_id": "ozbargain-a01b9774ff701323",
+          "source": "OzBargain"
         }
       ]
     },
@@ -14357,7 +14378,371 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-fdab58d65ea1c04ca7cd": {
+      "title": "1/2 Price: Heinz Big Red Tomato Sauce 4L $8.25 @ Coles Online Only",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.257115+00:00",
+          "retailer": "Coles Online Only",
+          "price": 8.25,
+          "deal_id": "ozbargain-d392994547f9e19f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-dcc6339f61800910b8d5": {
+      "title": "UGREEN Studio Pro ANC Wireless Headphones US$31.81 (~A$44.78) Delivered @ UGREEN Direct Store AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.257338+00:00",
+          "retailer": "UGREEN Direct Store AliExpress",
+          "price": 31.81,
+          "deal_id": "ozbargain-418ede2c207c04c4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-242d922e18560db45af4": {
+      "title": "SOUNDPEATS Air5 Pro+ Hybrid Driver ANC Wireless Earbuds $94.98 Delivered (Was $136.99) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.257464+00:00",
+          "retailer": "Amazon AU",
+          "price": 94.98,
+          "deal_id": "ozbargain-eba8d40588996c78",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c1ea495c6366fa907148": {
+      "title": "Qota 5 Samplers for 50% off (20 Meals for $50) [Chocolate, Vanilla, Vegan, Caramel, Coffee]",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.257568+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 50.0,
+          "deal_id": "ozbargain-2e1f0637506ba5fd",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b0c2354c5dd67c556f52": {
+      "title": "Extra Strawberry Sugar Free Chewing Gum 64g (6 Pack) $22.99 ($20.69 S&S, RRP $30) + Delivery ($0 Prime/ $39 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.257710+00:00",
+          "retailer": "Amazon AU",
+          "price": 22.99,
+          "deal_id": "ozbargain-676a357b02dce5fa",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5d8f81236d7baad918e8": {
+      "title": "Xiaomi Watch S5 46mm Silver $181 Delivered @ Mobileciti",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.257817+00:00",
+          "retailer": "Mobileciti",
+          "price": 181.0,
+          "deal_id": "ozbargain-6a117e6fd084e1b7",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e2adf2e5a98743ff6450": {
+      "title": "[SA] French Fries Salt & Vinegar 175gm $2.50 @ Pasadena Foodland",
+      "brand": null,
+      "model": "175GM",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.257920+00:00",
+          "retailer": "Pasadena Foodland",
+          "price": 2.5,
+          "deal_id": "ozbargain-2fdc6185aa93b877",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4a338c1d5c451d132c33": {
+      "title": "Instant Access Savings: 5.50% p.a. Variable for 3 Months on up to $100,000, Interest Paid Daily (New Customers) @ Revolut",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.258061+00:00",
+          "retailer": "Revolut",
+          "price": 100000.0,
+          "deal_id": "ozbargain-526fca173d7cdaec",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f75fd863dc3cd4a7876f": {
+      "title": "Sanda 3192 Digital Temperature Stainless Steel Watch US$16.53 (~A$23.29) Delivered @ Sanda-Watch AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.258186+00:00",
+          "retailer": "Sanda-Watch AliExpress",
+          "price": 16.53,
+          "deal_id": "ozbargain-15a4aeadfb7af395",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d0247c6bd30470e8c156": {
+      "title": "Amartisan 10-Piece Magnetic Screwdrivers Set $14.14 (RRP $18.41) + Delivery ($0 Prime/$59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": "10-PIECE",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.258291+00:00",
+          "retailer": "Amazon AU",
+          "price": 14.14,
+          "deal_id": "ozbargain-8d193f1264968209",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-bb4069f955ecd006a97f": {
+      "title": "[Switch] Mega Man 11 $5.99 @ Nintendo eShop",
+      "brand": "Nintendo",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.258487+00:00",
+          "retailer": "Nintendo eShop",
+          "price": 5.99,
+          "deal_id": "ozbargain-5bf5fe11712ef70f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-dc06aff45b398661a024": {
+      "title": "Raynox DCR250 Super Macro Lens $134.68 Delivered @ Amazon AU",
+      "brand": null,
+      "model": "DCR250",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.258593+00:00",
+          "retailer": "Amazon AU",
+          "price": 134.68,
+          "deal_id": "ozbargain-2ddc12fa42dcecf6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d3ae8add080f5da5d2b5": {
+      "title": "[Refurb] Breville Barista Express BES870 Espresso Machine (Salted Liquorice) $339.15 Delivered @ Breville Australia Outlet eBay",
+      "brand": null,
+      "model": "BES870",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.258707+00:00",
+          "retailer": "Breville Australia Outlet eBay",
+          "price": 339.15,
+          "deal_id": "ozbargain-a6dde84b39a2fc17",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c378b6f48e57e9f04260": {
+      "title": "Nothing CMF Watch 2 Pro Blue/Orange US$29.46 (~A$41.47), Dark Grey US$32.35 (~A$45.54) Delivered @ Nothing Online AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.258829+00:00",
+          "retailer": "Nothing Online AliExpress",
+          "price": 29.46,
+          "deal_id": "ozbargain-18c8a89f792d8189",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-20f76da4cd408dbee44f": {
+      "title": "CORSAIR 3200D RS Mid-Tower PC Case – Black $70.86 Delivered @ Amazon AU",
+      "brand": "Corsair",
+      "model": "3200D",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.258938+00:00",
+          "retailer": "Amazon AU",
+          "price": 70.86,
+          "deal_id": "ozbargain-429d1ba426ede325",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5b526ece09e9997a4470": {
+      "title": "Dining Chair Stock Clearance: 7 Designs from $199 (40% Off) + Fixed Shipping from $66/Order @ benssur",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.259047+00:00",
+          "retailer": "benssur",
+          "price": 199.0,
+          "deal_id": "ozbargain-1537293eb1d980a3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-bfdfc152cbf0d2ba2b47": {
+      "title": "[Back Order] OM SYSTEM M.Zuiko Digital ED 60mm F2.8 Macro Lens $398.64 Delivered @ Amazon Japan via AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.259164+00:00",
+          "retailer": "Amazon Japan via AU",
+          "price": 398.64,
+          "deal_id": "ozbargain-d466886a85c42ae8",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5786f3e51eb44f83a6a7": {
+      "title": "25% off Select Aussie VPS + WebHosting Plans: WebHosting from $3.75/Month, VPS from $9/Month @ Bizzly",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.259255+00:00",
+          "retailer": "Bizzly",
+          "price": 3.75,
+          "deal_id": "ozbargain-7bf1fbd5c64b7dfe",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-cc80695bc618d4f3e7af": {
+      "title": "[Pre Order, PS5] Metal Gear Solid: Master Collection Vol.2 $69.95 @ PlayStation Store",
+      "brand": "Playstation",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.259356+00:00",
+          "retailer": "PlayStation Store",
+          "price": 69.95,
+          "deal_id": "ozbargain-d7d9bcdba05feeef",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-807b2f393e2c8bbdb3fe": {
+      "title": "Razer BlackWidow V4 75% Mechanical Gaming Keyboard: Hot-Swappable Design $140.54 (RRP $359.95) Delivered @ Amazon DE via AU",
+      "brand": "Razer",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.259565+00:00",
+          "retailer": "Amazon DE via AU",
+          "price": 140.54,
+          "deal_id": "ozbargain-a3ae1405843805a9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9c53d72df12878f44c61": {
+      "title": "JBL Quantum 100M2 Over-Ear Gaming Headset (Black) $27.60 (Online Only) + $6 Delivery ($0 C&C) @ Bing Lee",
+      "brand": "JBL",
+      "model": "100M2",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.259692+00:00",
+          "retailer": "Bing Lee",
+          "price": 27.6,
+          "deal_id": "ozbargain-c2c6ff95562a63d6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-13a9bb2a329b664e2c94": {
+      "title": "SteelSeries Arctis Nova 7 Wireless Gen 2 $214.77 (RRP $265.37) Delivered @ Amazon DE via AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.259794+00:00",
+          "retailer": "Amazon DE via AU",
+          "price": 214.77,
+          "deal_id": "ozbargain-af784fdcef0cc7b1",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-25b8cd236f0e8ce1b3d7": {
+      "title": "KORG NTS-1 MK2 Programmable Synth Kit $190.28 (RRP $217.79) Delivered @ Amazon DE via AU",
+      "brand": null,
+      "model": "NTS-1",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.259895+00:00",
+          "retailer": "Amazon DE via AU",
+          "price": 190.28,
+          "deal_id": "ozbargain-5addc18b62e074b4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-22bb126feeb4296a47d4": {
+      "title": "[eBay Plus, Refurb] Breville The Oracle Coffee Machine BES980 $1149 Delivered @ Breville eBay",
+      "brand": null,
+      "model": "BES980",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.259984+00:00",
+          "retailer": "Breville eBay",
+          "price": 1149.0,
+          "deal_id": "ozbargain-967b7849f04ba8ec",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-37ae81e2171219552b16": {
+      "title": "30% off 300GB Asia Local 5 eSIM – 30 Days $24.49 (Normally $34.99) @ EscapeSIM",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.260101+00:00",
+          "retailer": "EscapeSIM",
+          "price": 24.49,
+          "deal_id": "ozbargain-dd95be820432c981",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1ad67b93e80c975e797b": {
+      "title": "½ Price: Coles Tasmanian Fresh Salmon Portions Skin Off $21.00/kg @ Coles & 188 More @ Coles & Woolworths",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T13:13:35.260231+00:00",
+          "retailer": "Coles & 188 More @ Coles & Woolworths",
+          "price": 21.0,
+          "deal_id": "ozbargain-a3a19e1773378f00",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-24T07:29:26.484812+00:00"
+  "updated_at": "2026-08-24T13:13:45.725082+00:00"
 }
