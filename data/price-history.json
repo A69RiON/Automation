@@ -6155,7 +6155,7 @@
       ]
     },
     "product-554a3228778196936654": {
-      "title": "INIU 45W 10000mAh Power Bank with Built-in Cable $18.20 + Delivery ($0 with Prime/ $59 Spend) @ INIU AU via Amazon AU",
+      "title": "INIU 45W 10000mAh Power Bank $16.81 + Delivery ($0 with Prime/ $59 Spend) @ INIU AU via Amazon AU",
       "brand": null,
       "model": "10000MAH",
       "observations": [
@@ -6171,6 +6171,13 @@
           "retailer": "INIU AU via Amazon AU",
           "price": 18.2,
           "deal_id": "ozbargain-09a6bdb6a2e40e7f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T01:58:11.069683+00:00",
+          "retailer": "INIU AU via Amazon AU",
+          "price": 16.81,
+          "deal_id": "ozbargain-5ba13addfbe0d4cd",
           "source": "OzBargain"
         }
       ]
@@ -13561,7 +13568,7 @@
       ]
     },
     "product-2f7bdbca59374d3878ee": {
-      "title": "ASUS ROG Falchion Ace HFX ZywOo Edition Analog Gaming Keyboard w… $169 (RRP $329) Delivered @ Amazon AU",
+      "title": "ASUS ROG Falchion Ace HFX ZywOo Edition Analog Gaming Keyboard $169 (RRP $329) Delivered @ Amazon AU",
       "brand": "Asus",
       "model": null,
       "observations": [
@@ -13570,6 +13577,13 @@
           "retailer": "Amazon AU",
           "price": 169.0,
           "deal_id": "ozbargain-eae0badd7570996e",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T01:58:11.069746+00:00",
+          "retailer": "Amazon AU",
+          "price": 169.0,
+          "deal_id": "ozbargain-a24454f7cb173301",
           "source": "OzBargain"
         }
       ]
@@ -13581,6 +13595,13 @@
       "observations": [
         {
           "timestamp": "2026-08-23T18:48:56.912048+00:00",
+          "retailer": "Xiaomi Australia",
+          "price": 91.2,
+          "deal_id": "ozbargain-2c993c37d7b16d66",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T01:58:11.069814+00:00",
           "retailer": "Xiaomi Australia",
           "price": 91.2,
           "deal_id": "ozbargain-2c993c37d7b16d66",
@@ -13613,6 +13634,13 @@
           "price": 20.0,
           "deal_id": "ozbargain-8d0b22d891919407",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-24T01:58:11.069990+00:00",
+          "retailer": "TopCashback AU",
+          "price": 20.0,
+          "deal_id": "ozbargain-8d0b22d891919407",
+          "source": "OzBargain"
         }
       ]
     },
@@ -13629,7 +13657,343 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-adb75476ddbe0fea1c2c": {
+      "title": "GL.iNet GL-BE6500 Flint 3e Wi-Fi 7 Router with VPN for Home and … $190.39 (RRP $288.99) Delivered @ Amazon AU",
+      "brand": null,
+      "model": "GL-BE6500",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.067827+00:00",
+          "retailer": "Amazon AU",
+          "price": 190.39,
+          "deal_id": "ozbargain-6770bd120eaf7b49",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d17e60ca5f90d459b77d": {
+      "title": "VoltX 1800W Portable Power Station 1030Wh @ $649 for ebay plus",
+      "brand": null,
+      "model": "1030WH",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.067919+00:00",
+          "retailer": "$649 for ebay plus",
+          "price": 649.0,
+          "deal_id": "ozbargain-cae23912b76ca5ca",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-3bbe4db0ef65ca6a6cd1": {
+      "title": "Epos Adapt 660 ANC over Ear Headphones $229 Delivered @ Mwave Australia",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.068003+00:00",
+          "retailer": "Mwave Australia",
+          "price": 229.0,
+          "deal_id": "ozbargain-3e785e1998e96be4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c60fa69a0a5c19ee0ebe": {
+      "title": "20% off Eligible LEGO (Max Discount $1000) @ eBay",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.068073+00:00",
+          "retailer": "eBay",
+          "price": 1000.0,
+          "deal_id": "ozbargain-860d3a2ae0449151",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ed95f5ae2f7685932acf": {
+      "title": "10% off The DAD Gift Card (Digital or Physical) + $2.95 Physical Delivery @ Card.Gift",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.068146+00:00",
+          "retailer": "Card.Gift",
+          "price": 2.95,
+          "deal_id": "ozbargain-f4e30a53dca152f2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b973085b8c677857e18d": {
+      "title": "La Pavoni Cellini Classic V2 $2,590 (Save $600) + Free $995 Cilindro Grinder @ Prestige Coffee",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.068221+00:00",
+          "retailer": "Prestige Coffee",
+          "price": 2590.0,
+          "deal_id": "ozbargain-65cb2ea3f3f6d303",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-28b87a24c33e523bbdbd": {
+      "title": "Inkbird ISV-100 Wi-Fi Sous Vide Precision Cooker (Australian Plug) $48.30 Delivered @ Inkbird via Amazon AU",
+      "brand": null,
+      "model": "ISV-100",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.068362+00:00",
+          "retailer": "Inkbird via Amazon AU",
+          "price": 48.3,
+          "deal_id": "ozbargain-82d736cbf727dce0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e0c6a4981d59aea4d66b": {
+      "title": "Bonus $10 Myer Gift Card (3 Month Expiry) for Every $100 You Spend on Myer Gift Cards @ Myer",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.068425+00:00",
+          "retailer": "Myer",
+          "price": 10.0,
+          "deal_id": "ozbargain-0ea971e2d1f612d0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f26c47e66c6a3c5f029e": {
+      "title": "Suntory Boss Iced Coffee Varieties 237ml - 2 for $5 @ Woolworths",
+      "brand": null,
+      "model": "237ML",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.068506+00:00",
+          "retailer": "Woolworths",
+          "price": 5.0,
+          "deal_id": "ozbargain-8530267583350a8d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c9d57f169258cb8612ee": {
+      "title": "[Refurb, eBay Plus] Nvidia GeForce RTX 3070 8GB Graphics Card $280 Delivered @ Australian Computer Traders eBay",
+      "brand": "Nvidia",
+      "model": "RTX 3070",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.068591+00:00",
+          "retailer": "Australian Computer Traders eBay",
+          "price": 280.0,
+          "deal_id": "ozbargain-a25423f7d8abe8da",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0696f6c19af3195f696b": {
+      "title": "Beauty of Joseon Ginseng Skincare Set $69.99 @ Costco Wholesale",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.068652+00:00",
+          "retailer": "Costco Wholesale",
+          "price": 69.99,
+          "deal_id": "ozbargain-905feb4b02a633df",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-568de0c5970181373717": {
+      "title": "Braun Series 9 PRO+ Shaver 9667cc $487.08 Delivered @ PB Tech",
+      "brand": null,
+      "model": "9667CC",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.068722+00:00",
+          "retailer": "PB Tech",
+          "price": 487.08,
+          "deal_id": "ozbargain-d4557f612f68cf8f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5a1e3b8128b5257f822c": {
+      "title": "15% off Eligible Items, 20% for eBay Plus (Max Discount $150) @ eBay",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.068787+00:00",
+          "retailer": "eBay",
+          "price": 150.0,
+          "deal_id": "ozbargain-af94e8bfa00779a8",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9dd90a17b50372540037": {
+      "title": "[eBay Plus] adidas Men's Galaxy 7 Running Sneakers, Women's Runfalcon 5 Running Sneakers $36 Delivered @ adidas eBay",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.068871+00:00",
+          "retailer": "adidas eBay",
+          "price": 36.0,
+          "deal_id": "ozbargain-602e72f384656b98",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-609da516c23113a1b3ee": {
+      "title": "Bonds Men's 12 Pairs No Hole Work Quarter Crew Socks $32.22 (RRP $119.96) Delivered @ Zasel",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.068963+00:00",
+          "retailer": "Zasel",
+          "price": 32.22,
+          "deal_id": "ozbargain-341c508fc08350df",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9614a7c27cc7956ce4f4": {
+      "title": "[VIC] Beefeater 4 Burner BBQ & Trolly 1200 Series Black Enamel $749.99 @ Costco, Ringwood (Membership Required)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.069048+00:00",
+          "retailer": "Costco, Ringwood (Membership Required)",
+          "price": 749.99,
+          "deal_id": "ozbargain-b378d883327aba14",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d64a1952229369a3ba55": {
+      "title": "Google Pixel Watch 4 Wi-Fi 41mm Black/Obsidian $377 + Delivery @ Officeworks",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.069122+00:00",
+          "retailer": "Officeworks",
+          "price": 377.0,
+          "deal_id": "ozbargain-dddb30ee574afd82",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c07868ea92044d32546e": {
+      "title": "Sony WH-CH720N Wireless Noise Cancelling Headphones $129 Delivered @ Telstra",
+      "brand": "Sony",
+      "model": "WH-CH720N",
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.069190+00:00",
+          "retailer": "Telstra",
+          "price": 129.0,
+          "deal_id": "ozbargain-fdbdb8a24feb9066",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-19ff1d0b3ab80bf7fbda": {
+      "title": "adidas Performance AU Women Core Black Runfalcon 5 Running Sneakers $50 @ adidas eBay",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.069271+00:00",
+          "retailer": "adidas eBay",
+          "price": 50.0,
+          "deal_id": "ozbargain-f67918fc7d61b801",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-eb342f82c900042ef936": {
+      "title": "40% off Asia Regional eSIM (e.g. 300GB 30 Days $27) | 25% off All Travel SIM (Japan, China, Europe, Global) fr $2.40 @ TravelKon",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.069366+00:00",
+          "retailer": "TravelKon",
+          "price": 27.0,
+          "deal_id": "ozbargain-d6abe84762270dbd",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-03a80a0450bab53bb04c": {
+      "title": "[Prime] Meross Smart Garage Door Opener Remote (Homekit Compatible) $58.49 Delivered @Meross AU Direct via Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.069446+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 58.49,
+          "deal_id": "ozbargain-1069e517b07bd4f0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-67c9ff93b76974254198": {
+      "title": "Baby Bristlenose Pleco $6.00 Each (Was $12) + $14 Express Postage ($0 SYD C&C) @ Sydney Aquascapes",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.069533+00:00",
+          "retailer": "Sydney Aquascapes",
+          "price": 6.0,
+          "deal_id": "ozbargain-402c93f61e8c7a8d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7c4ff18d39bbadaf7da2": {
+      "title": "Logitech Z623 2.1ch Speakers $119.99 Delivered @ Amazon AU (Excl. NT)",
+      "brand": "Logitech",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.069609+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 119.99,
+          "deal_id": "ozbargain-fee0c6b500acd7e3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f43e5d27267707ffe37c": {
+      "title": "nbn 25/10 $30/Month for 6 Months, nbn FTTP or HFC 750/50 $60/Month for 6 Months (New Customers) @ amaysim",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-24T01:58:11.069910+00:00",
+          "retailer": "amaysim",
+          "price": 30.0,
+          "deal_id": "ozbargain-914ea3f2899ce78b",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-23T18:49:06.132140+00:00"
+  "updated_at": "2026-08-24T01:58:22.191540+00:00"
 }
