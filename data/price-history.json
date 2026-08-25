@@ -2875,6 +2875,13 @@
           "price": 50.0,
           "deal_id": "ozbargain-a87d57829a7e1ce9",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.009796+00:00",
+          "retailer": "TopCashback AU",
+          "price": 50.0,
+          "deal_id": "ozbargain-a87d57829a7e1ce9",
+          "source": "OzBargain"
         }
       ]
     },
@@ -6228,6 +6235,13 @@
           "price": 15.29,
           "deal_id": "ozbargain-1a58475df8923c6e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.006406+00:00",
+          "retailer": "INIU AU via Amazon AU",
+          "price": 15.29,
+          "deal_id": "ozbargain-95571f5e5127669d",
+          "source": "OzBargain"
         }
       ]
     },
@@ -6805,6 +6819,13 @@
         },
         {
           "timestamp": "2026-08-25T13:12:04.631346+00:00",
+          "retailer": "Netac Official Store AliExpress",
+          "price": 167.99,
+          "deal_id": "ozbargain-d9cb6287b92216ad",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.007689+00:00",
           "retailer": "Netac Official Store AliExpress",
           "price": 167.99,
           "deal_id": "ozbargain-d9cb6287b92216ad",
@@ -7792,6 +7813,13 @@
         },
         {
           "timestamp": "2026-08-25T13:12:04.631438+00:00",
+          "retailer": "Device Deal",
+          "price": 1199.0,
+          "deal_id": "ozbargain-f31b2f7bcc7f4fae",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.007779+00:00",
           "retailer": "Device Deal",
           "price": 1199.0,
           "deal_id": "ozbargain-f31b2f7bcc7f4fae",
@@ -10851,6 +10879,13 @@
         },
         {
           "timestamp": "2026-08-25T13:12:04.630798+00:00",
+          "retailer": "8BitDo Official AliExpress",
+          "price": 19.23,
+          "deal_id": "ozbargain-3b9630f3e6504ece",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.007186+00:00",
           "retailer": "8BitDo Official AliExpress",
           "price": 19.23,
           "deal_id": "ozbargain-3b9630f3e6504ece",
@@ -15636,6 +15671,13 @@
           "price": 132.52,
           "deal_id": "ozbargain-070cbf9cabcb413f",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.007421+00:00",
+          "retailer": "HIFIMAN Local Store AliExpress",
+          "price": 132.52,
+          "deal_id": "ozbargain-070cbf9cabcb413f",
+          "source": "OzBargain"
         }
       ]
     },
@@ -15646,6 +15688,13 @@
       "observations": [
         {
           "timestamp": "2026-08-25T13:12:04.631237+00:00",
+          "retailer": "Mova",
+          "price": 498.0,
+          "deal_id": "ozbargain-1c3488485cb850fa",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.007583+00:00",
           "retailer": "Mova",
           "price": 498.0,
           "deal_id": "ozbargain-1c3488485cb850fa",
@@ -15664,6 +15713,13 @@
           "price": 107.99,
           "deal_id": "ozbargain-c23360427107f773",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.007888+00:00",
+          "retailer": "Amazon AU",
+          "price": 107.99,
+          "deal_id": "ozbargain-c23360427107f773",
+          "source": "OzBargain"
         }
       ]
     },
@@ -15674,6 +15730,13 @@
       "observations": [
         {
           "timestamp": "2026-08-25T13:12:04.631740+00:00",
+          "retailer": "Google Flights",
+          "price": 1383.0,
+          "deal_id": "ozbargain-e89bbb3ed6a95b9a",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.008030+00:00",
           "retailer": "Google Flights",
           "price": 1383.0,
           "deal_id": "ozbargain-e89bbb3ed6a95b9a",
@@ -15692,6 +15755,13 @@
           "price": 2.0,
           "deal_id": "ozbargain-6cf334819d99ef73",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.008155+00:00",
+          "retailer": "Reddy Express",
+          "price": 2.0,
+          "deal_id": "ozbargain-6cf334819d99ef73",
+          "source": "OzBargain"
         }
       ]
     },
@@ -15702,6 +15772,13 @@
       "observations": [
         {
           "timestamp": "2026-08-25T13:12:04.632037+00:00",
+          "retailer": "LG Partners",
+          "price": 2051.14,
+          "deal_id": "ozbargain-39022e7805790c84",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.008273+00:00",
           "retailer": "LG Partners",
           "price": 2051.14,
           "deal_id": "ozbargain-39022e7805790c84",
@@ -15720,6 +15797,13 @@
           "price": 11.72,
           "deal_id": "ozbargain-eeb55c955f47684b",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.008370+00:00",
+          "retailer": "Amazon AU",
+          "price": 11.72,
+          "deal_id": "ozbargain-eeb55c955f47684b",
+          "source": "OzBargain"
         }
       ]
     },
@@ -15730,6 +15814,13 @@
       "observations": [
         {
           "timestamp": "2026-08-25T13:12:04.632291+00:00",
+          "retailer": "SuXiangVac via AliExpress",
+          "price": 43.18,
+          "deal_id": "ozbargain-4ba634b5d252183e",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.008508+00:00",
           "retailer": "SuXiangVac via AliExpress",
           "price": 43.18,
           "deal_id": "ozbargain-4ba634b5d252183e",
@@ -15748,6 +15839,13 @@
           "price": 784.6,
           "deal_id": "ozbargain-f32d826de9b1c49d",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.008665+00:00",
+          "retailer": "JB Hi-Fi Commercial (Membership Required)",
+          "price": 784.6,
+          "deal_id": "ozbargain-f32d826de9b1c49d",
+          "source": "OzBargain"
         }
       ]
     },
@@ -15758,6 +15856,13 @@
       "observations": [
         {
           "timestamp": "2026-08-25T13:12:04.632560+00:00",
+          "retailer": "Amazon AU",
+          "price": 19.0,
+          "deal_id": "ozbargain-179c762a24f5869a",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.008778+00:00",
           "retailer": "Amazon AU",
           "price": 19.0,
           "deal_id": "ozbargain-179c762a24f5869a",
@@ -15776,6 +15881,13 @@
           "price": 329.0,
           "deal_id": "ozbargain-9d5c0ec64b3759d7",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.008867+00:00",
+          "retailer": "Emporium Electronics (Price Beat $312 @ OfficeWorks)",
+          "price": 329.0,
+          "deal_id": "ozbargain-9d5c0ec64b3759d7",
+          "source": "OzBargain"
         }
       ]
     },
@@ -15786,6 +15898,13 @@
       "observations": [
         {
           "timestamp": "2026-08-25T13:12:04.632761+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 362.99,
+          "deal_id": "ozbargain-d96283d53ed09a3e",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.009012+00:00",
           "retailer": "OzBargain-listed deal",
           "price": 362.99,
           "deal_id": "ozbargain-d96283d53ed09a3e",
@@ -15804,6 +15923,13 @@
           "price": 27.37,
           "deal_id": "ozbargain-815c052d484d9fd2",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.009155+00:00",
+          "retailer": "Wurkkos Local Store AliExpress",
+          "price": 27.37,
+          "deal_id": "ozbargain-815c052d484d9fd2",
+          "source": "OzBargain"
         }
       ]
     },
@@ -15814,6 +15940,13 @@
       "observations": [
         {
           "timestamp": "2026-08-25T13:12:04.633037+00:00",
+          "retailer": "SkySpy",
+          "price": 715.0,
+          "deal_id": "ozbargain-22cb0ad1d50b4e8e",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.009292+00:00",
           "retailer": "SkySpy",
           "price": 715.0,
           "deal_id": "ozbargain-22cb0ad1d50b4e8e",
@@ -15832,6 +15965,13 @@
           "price": 85.0,
           "deal_id": "ozbargain-ef121b91211f09af",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.009426+00:00",
+          "retailer": "Alstra E",
+          "price": 85.0,
+          "deal_id": "ozbargain-ef121b91211f09af",
+          "source": "OzBargain"
         }
       ]
     },
@@ -15842,6 +15982,13 @@
       "observations": [
         {
           "timestamp": "2026-08-25T13:12:04.633295+00:00",
+          "retailer": "Ooshman (Melrose, Thornleigh, San Souci, Mosman)",
+          "price": 15.0,
+          "deal_id": "ozbargain-d1c113503be4e5e2",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.009566+00:00",
           "retailer": "Ooshman (Melrose, Thornleigh, San Souci, Mosman)",
           "price": 15.0,
           "deal_id": "ozbargain-d1c113503be4e5e2",
@@ -15860,6 +16007,13 @@
           "price": 447.0,
           "deal_id": "ozbargain-0bf98b389b2fc8c7",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.009680+00:00",
+          "retailer": "Amazon AU",
+          "price": 447.0,
+          "deal_id": "ozbargain-0bf98b389b2fc8c7",
+          "source": "OzBargain"
         }
       ]
     },
@@ -15874,6 +16028,13 @@
           "price": 300.0,
           "deal_id": "ozbargain-c5d0632e41e6953a",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.009926+00:00",
+          "retailer": "Finder",
+          "price": 300.0,
+          "deal_id": "ozbargain-c5d0632e41e6953a",
+          "source": "OzBargain"
         }
       ]
     },
@@ -15884,6 +16045,13 @@
       "observations": [
         {
           "timestamp": "2026-08-25T13:12:04.633801+00:00",
+          "retailer": "Hallensteins",
+          "price": 9.99,
+          "deal_id": "ozbargain-a8545125c3d60044",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T18:57:38.010066+00:00",
           "retailer": "Hallensteins",
           "price": 9.99,
           "deal_id": "ozbargain-a8545125c3d60044",
@@ -15918,7 +16086,49 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-fd82ea6520ee2d649f3b": {
+      "title": "Google Pixel 11 Pro XL 256GB $2097, Redeem $300 Officeworks Gift Card @ Officeworks",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T18:57:38.006829+00:00",
+          "retailer": "Officeworks",
+          "price": 2097.0,
+          "deal_id": "ozbargain-1b854b726f58637c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1317cc2f8a0711c183c8": {
+      "title": "Toyota Corolla Hybrid Weekly Car Rental $204/Week (Was $240, 15% off, New Customers) @ Baraka Car Rentals, Tarneit VIC",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T18:57:38.006943+00:00",
+          "retailer": "Baraka Car Rentals, Tarneit VIC",
+          "price": 204.0,
+          "deal_id": "ozbargain-3e35d1f935e4c10c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0fa01b34db163acea4ed": {
+      "title": "[Pre Order] Apple Mac Mini M6 12‑Core CPU 12‑Core GPU 16GB RAM 256GB SSD from $1289 Delivered @ Apple Education Store",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T18:57:38.007046+00:00",
+          "retailer": "Apple Education Store",
+          "price": 1289.0,
+          "deal_id": "ozbargain-149da2e85e5d3833",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-25T13:12:13.748905+00:00"
+  "updated_at": "2026-08-25T18:57:46.780351+00:00"
 }
