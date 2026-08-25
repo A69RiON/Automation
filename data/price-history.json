@@ -6207,6 +6207,13 @@
           "price": 15.29,
           "deal_id": "ozbargain-1a58475df8923c6e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T01:53:03.494735+00:00",
+          "retailer": "INIU AU via Amazon AU",
+          "price": 15.29,
+          "deal_id": "ozbargain-1a58475df8923c6e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -7716,7 +7723,7 @@
       ]
     },
     "product-f0c75ff5305c866cc902": {
-      "title": "[Prime] Ugreen FineTrack Rechargeable Smart Tag 4-Pack Duo $41.32, iOS $38.93 Delivered @ Ugreen via Amazon AU",
+      "title": "Meross Mini Smart Plug with Energy Monitor - 4-Pack $48.99 + Delivery ($0 with Prime/$59 Spend) @ Meross Smart Home Amazon AU",
       "brand": null,
       "model": "4-PACK",
       "observations": [
@@ -7746,6 +7753,13 @@
           "retailer": "Ugreen via Amazon AU",
           "price": 41.32,
           "deal_id": "ozbargain-1ecb5663ebee4df1",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T01:53:03.494270+00:00",
+          "retailer": "Meross Smart Home Amazon AU",
+          "price": 48.99,
+          "deal_id": "ozbargain-ed4b84613b58da5b",
           "source": "OzBargain"
         }
       ]
@@ -14418,6 +14432,13 @@
           "price": 8.25,
           "deal_id": "ozbargain-d392994547f9e19f",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T01:53:03.495586+00:00",
+          "retailer": "Coles Online Only",
+          "price": 8.25,
+          "deal_id": "ozbargain-d392994547f9e19f",
+          "source": "OzBargain"
         }
       ]
     },
@@ -14439,11 +14460,18 @@
           "price": 31.81,
           "deal_id": "ozbargain-418ede2c207c04c4",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T01:53:03.495797+00:00",
+          "retailer": "UGREEN Direct Store AliExpress",
+          "price": 31.81,
+          "deal_id": "ozbargain-418ede2c207c04c4",
+          "source": "OzBargain"
         }
       ]
     },
     "product-242d922e18560db45af4": {
-      "title": "SOUNDPEATS Air5 Pro+ Hybrid Driver ANC Wireless Earbuds $94.98 Delivered (Was $136.99) @ Amazon AU",
+      "title": "SOUNDPEATS Air5 Pro+ Hybrid Driver ANC Wireless Earbuds $94.98 Delivered (Was $136.99) @ ZeYuan-AU via Amazon AU",
       "brand": null,
       "model": null,
       "observations": [
@@ -14459,6 +14487,13 @@
           "retailer": "Amazon AU",
           "price": 94.98,
           "deal_id": "ozbargain-eba8d40588996c78",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T01:53:03.495914+00:00",
+          "retailer": "ZeYuan-AU via Amazon AU",
+          "price": 94.98,
+          "deal_id": "ozbargain-19836a6e87b86b0a",
           "source": "OzBargain"
         }
       ]
@@ -14481,11 +14516,18 @@
           "price": 50.0,
           "deal_id": "ozbargain-2e1f0637506ba5fd",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T01:53:03.496017+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 50.0,
+          "deal_id": "ozbargain-2e1f0637506ba5fd",
+          "source": "OzBargain"
         }
       ]
     },
     "product-b0c2354c5dd67c556f52": {
-      "title": "Extra Strawberry Sugar Free Chewing Gum 64g (6 Pack) $22.99 ($20.69 S&S, RRP $30) + Delivery ($0 Prime/ $39 Spend) @ Amazon AU",
+      "title": "Extra Strawberry Sugar Free Chewing Gum 64g (6 Pack) $22.99 ($20.69 S&S, RRP $30) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
       "brand": null,
       "model": null,
       "observations": [
@@ -14501,6 +14543,13 @@
           "retailer": "Amazon AU",
           "price": 22.99,
           "deal_id": "ozbargain-676a357b02dce5fa",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T01:53:03.496151+00:00",
+          "retailer": "Amazon AU",
+          "price": 22.99,
+          "deal_id": "ozbargain-8f0e7f1d840beb99",
           "source": "OzBargain"
         }
       ]
@@ -14523,6 +14572,13 @@
           "price": 181.0,
           "deal_id": "ozbargain-6a117e6fd084e1b7",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T01:53:03.496263+00:00",
+          "retailer": "Mobileciti",
+          "price": 181.0,
+          "deal_id": "ozbargain-6a117e6fd084e1b7",
+          "source": "OzBargain"
         }
       ]
     },
@@ -14540,6 +14596,13 @@
         },
         {
           "timestamp": "2026-08-24T18:59:44.025752+00:00",
+          "retailer": "Pasadena Foodland",
+          "price": 2.5,
+          "deal_id": "ozbargain-2fdc6185aa93b877",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T01:53:03.496363+00:00",
           "retailer": "Pasadena Foodland",
           "price": 2.5,
           "deal_id": "ozbargain-2fdc6185aa93b877",
@@ -14908,11 +14971,18 @@
           "price": 2.13,
           "deal_id": "ozbargain-d18d768e9e842206",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T01:53:03.494861+00:00",
+          "retailer": "eSimExpress",
+          "price": 2.13,
+          "deal_id": "ozbargain-d18d768e9e842206",
+          "source": "OzBargain"
         }
       ]
     },
     "product-56279e898efe8899a28c": {
-      "title": "Vitasoy Oat Milky 12x 1L Packs $17.95 ($16.15 Subscribe & Save) + Delivery ($0 Prime / $59 Spend) @ Amazon AU",
+      "title": "Vitasoy Oat Milky 12x 1L Packs $17.95 ($16.15 Subscribe & Save) + Delivery ($0 Prime / $59 Spend) @ Amazon AU (Excl. NT)",
       "brand": null,
       "model": null,
       "observations": [
@@ -14921,6 +14991,13 @@
           "retailer": "Amazon AU",
           "price": 17.95,
           "deal_id": "ozbargain-63c88b1579637699",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T01:53:03.495127+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 17.95,
+          "deal_id": "ozbargain-5b06be6cc6d71320",
           "source": "OzBargain"
         }
       ]
@@ -14932,6 +15009,13 @@
       "observations": [
         {
           "timestamp": "2026-08-24T18:59:44.025074+00:00",
+          "retailer": "Amazon AU",
+          "price": 50.0,
+          "deal_id": "ozbargain-f008c9fc2e06f20a",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T01:53:03.495248+00:00",
           "retailer": "Amazon AU",
           "price": 50.0,
           "deal_id": "ozbargain-f008c9fc2e06f20a",
@@ -14950,6 +15034,13 @@
           "price": 5.5,
           "deal_id": "ozbargain-76193c9ed1459ca6",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T01:53:03.495376+00:00",
+          "retailer": "IGA (Excl. TAS, NT)",
+          "price": 5.5,
+          "deal_id": "ozbargain-76193c9ed1459ca6",
+          "source": "OzBargain"
         }
       ]
     },
@@ -14964,9 +15055,170 @@
           "price": 6.99,
           "deal_id": "ozbargain-ef70afa8a5ca8623",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T01:53:03.495485+00:00",
+          "retailer": "IGA, Canning Vale",
+          "price": 6.99,
+          "deal_id": "ozbargain-ef70afa8a5ca8623",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ef43e561214bf2f59d86": {
+      "title": "EV Novated Lease 7.66% p.a. (1% off Standard Interest Rate, Save up to $1734), include EV charger for $35 p/m @ MillarX",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T01:53:03.492856+00:00",
+          "retailer": "MillarX",
+          "price": 1734.0,
+          "deal_id": "ozbargain-99acd7ed48b0b63f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5285be0f3112ebb59083": {
+      "title": "Ryobi One+ 18V 5Ah High Performance Battery 2 Pack $179 with Old Battery Trade in @ Bunnings",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T01:53:03.492993+00:00",
+          "retailer": "Bunnings",
+          "price": 179.0,
+          "deal_id": "ozbargain-978bf4cc5d039879",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d42db1229242c4ff37af": {
+      "title": "[PC, Mac, Steam] Control Ultimate Edition $4.99 @ Steam",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T01:53:03.493115+00:00",
+          "retailer": "Steam",
+          "price": 4.99,
+          "deal_id": "ozbargain-6ee6bba5cc54c027",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-dafde7b7296bd6c19082": {
+      "title": "[Refurb] Dell OptiPlex 7080 Micro i5 10500T 16GB RAM 256GB SSD $339.15 ($319.20 eBay Plus) Delivered @ ACT eBay",
+      "brand": "Dell",
+      "model": "10500T",
+      "observations": [
+        {
+          "timestamp": "2026-08-25T01:53:03.493255+00:00",
+          "retailer": "ACT eBay",
+          "price": 339.15,
+          "deal_id": "ozbargain-94ec27e1090d12b4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2ec0e99ecf7005914e77": {
+      "title": "[NSW] 40% off Pork, $363 + Delivery to Selected Areas of NSW Metro / Dubbo or $0 C&C) @ Farmer to Fridge",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T01:53:03.493395+00:00",
+          "retailer": "Farmer to Fridge",
+          "price": 363.0,
+          "deal_id": "ozbargain-0d1d656e71bf1840",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-098314b4b07050720d5f": {
+      "title": "Spalding The Beast 54 Portable Basketball Hoop $1199 (Members Price, RRP $1599) Delivered @ rebel",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T01:53:03.493633+00:00",
+          "retailer": "rebel",
+          "price": 1199.0,
+          "deal_id": "ozbargain-13ba72f95cee14f0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ee8f8850ab89f5d5c797": {
+      "title": "[eBay Plus] adidas Performance AU Men Runfalcon 5 Running Sneakers $38 Delivered @ adidas eBay",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T01:53:03.493750+00:00",
+          "retailer": "adidas eBay",
+          "price": 38.0,
+          "deal_id": "ozbargain-d7ccf462f087dc99",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-56ae1082754c5d549f5b": {
+      "title": "Braun 4.3L Air Fryer with Toaster & Kettle Bundle Plus 2,000 Points $119 Delivered @ DeLonghi ANZ via Everyday Market",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T01:53:03.493882+00:00",
+          "retailer": "DeLonghi ANZ via Everyday Market",
+          "price": 119.0,
+          "deal_id": "ozbargain-6076b763517a6f41",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-788605ea3413c58acf24": {
+      "title": "ID-Cooling DX360 Max 360mm AIO CPU Cooler $49 + Delivery ($0 C&C VIC, C&C WA/ in-Store) @ PLE Computers",
+      "brand": null,
+      "model": "DX360",
+      "observations": [
+        {
+          "timestamp": "2026-08-25T01:53:03.494018+00:00",
+          "retailer": "PLE Computers",
+          "price": 49.0,
+          "deal_id": "ozbargain-946f7c0e0d3a5697",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-73a3ed087f161d27baa6": {
+      "title": "Sherrin Precision Leather Football, Yellow $39.99 (RRP $149.99) + Delivery ($0 Prime/$59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T01:53:03.494137+00:00",
+          "retailer": "Amazon AU",
+          "price": 39.99,
+          "deal_id": "ozbargain-977763204ca27f52",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b7d34e0e2998073e6633": {
+      "title": "dreame Hair Gleam Hair Dryer, 110000 RPM High-Speed Brushless Motor $67.94 (RRP $169) Delivered @ Dreame via Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T01:53:03.494491+00:00",
+          "retailer": "Dreame via Amazon AU",
+          "price": 67.94,
+          "deal_id": "ozbargain-57a2038ae650b946",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-08-24T18:59:55.779137+00:00"
+  "updated_at": "2026-08-25T01:53:13.150648+00:00"
 }
