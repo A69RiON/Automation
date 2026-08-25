@@ -2868,6 +2868,13 @@
           "price": 50.0,
           "deal_id": "ozbargain-ce22f5cc84854641",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T13:12:04.633517+00:00",
+          "retailer": "TopCashback AU",
+          "price": 50.0,
+          "deal_id": "ozbargain-a87d57829a7e1ce9",
+          "source": "OzBargain"
         }
       ]
     },
@@ -6771,7 +6778,7 @@
       ]
     },
     "product-2e2b5be932c9cbb02952": {
-      "title": "Netac Shadow III DDR4 32GB (2x16GB) 3200MHz CL16 RAM US$137.49 (~A$195.02) Delivered @ Netac Official Store AliExpress",
+      "title": "Netac Shadow III DDR4 32GB (2x16gb) 3200MHz Cl16 RAM $167.99 Delivered @ Netac Official Store AliExpress",
       "brand": null,
       "model": "3200MHZ",
       "observations": [
@@ -6794,6 +6801,13 @@
           "retailer": "Netac Official Store AliExpress",
           "price": 137.49,
           "deal_id": "ozbargain-daabadadd875df2f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T13:12:04.631346+00:00",
+          "retailer": "Netac Official Store AliExpress",
+          "price": 167.99,
+          "deal_id": "ozbargain-d9cb6287b92216ad",
           "source": "OzBargain"
         }
       ]
@@ -7737,7 +7751,7 @@
       ]
     },
     "product-f0c75ff5305c866cc902": {
-      "title": "Meross Mini Smart Plug with Energy Monitor - 4-Pack $48.99 + Delivery ($0 with Prime/$59 Spend) @ Meross Smart Home Amazon AU",
+      "title": "Eufy Security eufyCam S3 Pro 4K Wire-Free Smart Solar Camera Kit (4-Pack) $1199 + Delivery @ Device Deal",
       "brand": null,
       "model": "4-PACK",
       "observations": [
@@ -7774,6 +7788,13 @@
           "retailer": "Meross Smart Home Amazon AU",
           "price": 48.99,
           "deal_id": "ozbargain-ed4b84613b58da5b",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T13:12:04.631438+00:00",
+          "retailer": "Device Deal",
+          "price": 1199.0,
+          "deal_id": "ozbargain-f31b2f7bcc7f4fae",
           "source": "OzBargain"
         }
       ]
@@ -10817,7 +10838,7 @@
       ]
     },
     "product-8b5ec36e748b1853d265": {
-      "title": "8BitDo Ultimate 2C Wireless Controller Transparent Black US$21.01 (~A$29.98) Delivered @ 8BitDo Official AliExpress",
+      "title": "8BitDo Ultimate 2C Wireless Controller Transparent Black, Green US$19.23 (~A$26.91) Delivered @ 8BitDo Official AliExpress",
       "brand": null,
       "model": "8BITDO",
       "observations": [
@@ -10826,6 +10847,13 @@
           "retailer": "8BitDo Official AliExpress",
           "price": 21.01,
           "deal_id": "ozbargain-8fffa046d577b9a5",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T13:12:04.630798+00:00",
+          "retailer": "8BitDo Official AliExpress",
+          "price": 19.23,
+          "deal_id": "ozbargain-3b9630f3e6504ece",
           "source": "OzBargain"
         }
       ]
@@ -15258,6 +15286,13 @@
           "price": 85.5,
           "deal_id": "ozbargain-308dd1591fbc340b",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T13:12:04.634035+00:00",
+          "retailer": "Amazon AU",
+          "price": 85.5,
+          "deal_id": "ozbargain-308dd1591fbc340b",
+          "source": "OzBargain"
         }
       ]
     },
@@ -15272,6 +15307,13 @@
           "price": 13.99,
           "deal_id": "ozbargain-122ba9f39ea39958",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T13:12:04.634166+00:00",
+          "retailer": "Rebel",
+          "price": 13.99,
+          "deal_id": "ozbargain-122ba9f39ea39958",
+          "source": "OzBargain"
         }
       ]
     },
@@ -15282,6 +15324,13 @@
       "observations": [
         {
           "timestamp": "2026-08-25T07:08:59.984741+00:00",
+          "retailer": "amaysim",
+          "price": 17.0,
+          "deal_id": "ozbargain-0534fd57f3551bb6",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T13:12:04.634292+00:00",
           "retailer": "amaysim",
           "price": 17.0,
           "deal_id": "ozbargain-0534fd57f3551bb6",
@@ -15310,6 +15359,13 @@
       "observations": [
         {
           "timestamp": "2026-08-25T07:08:59.985008+00:00",
+          "retailer": "Runners Shop",
+          "price": 150.0,
+          "deal_id": "ozbargain-1991c5edcda39c99",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-25T13:12:04.634520+00:00",
           "retailer": "Runners Shop",
           "price": 150.0,
           "deal_id": "ozbargain-1991c5edcda39c99",
@@ -15568,7 +15624,301 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-95f56dd332b1b7504616": {
+      "title": "HIFIMAN Sundara Hi-Fi Headphones US$132.52 (~A$185.42) AU Stock Delivered @ HIFIMAN Local Store AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.631090+00:00",
+          "retailer": "HIFIMAN Local Store AliExpress",
+          "price": 132.52,
+          "deal_id": "ozbargain-070cbf9cabcb413f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0b9b398303aa97735931": {
+      "title": "Mova All-in-One Clean Bundle | Wet-Dry & Stick Vacuum Combo - M10&I10 $498 Delivered @ Mova",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.631237+00:00",
+          "retailer": "Mova",
+          "price": 498.0,
+          "deal_id": "ozbargain-1c3488485cb850fa",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ad91e83160a5c2df86e6": {
+      "title": "American Tourister Applite 5 Suitcase, 50cm $107.99 (RRP $220) Delivered @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.631560+00:00",
+          "retailer": "Amazon AU",
+          "price": 107.99,
+          "deal_id": "ozbargain-c23360427107f773",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7ee79e20eb825ef722c9": {
+      "title": "Qatar Airways: Adelaide Return to Rome $1383, Milan $1401, Paris $1419, Barcelona $1475 + More (2x 23kg Bags) @ Google Flights",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.631740+00:00",
+          "retailer": "Google Flights",
+          "price": 1383.0,
+          "deal_id": "ozbargain-e89bbb3ed6a95b9a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-120f65eab90ecafb1c46": {
+      "title": "1,000 Bonus Flybuys Points When You Buy Any Size Hot Coffee, Iced Coffee, Tea, Hot Chocolate or Chai Latte @ Reddy Express",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.631894+00:00",
+          "retailer": "Reddy Express",
+          "price": 2.0,
+          "deal_id": "ozbargain-6cf334819d99ef73",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-22f303751befcd6de3e6": {
+      "title": "[Pre Order] LG 45-Inch UltraGear Evo GX9 OLED Dual-Mode 5k2k Gaming Monitor $2051.14 Delivered @ LG Partners",
+      "brand": "LG",
+      "model": "45-INCH",
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.632037+00:00",
+          "retailer": "LG Partners",
+          "price": 2051.14,
+          "deal_id": "ozbargain-39022e7805790c84",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-896dfab93f36f28b8d94": {
+      "title": "You Can't Say UMM Party Game $11.72 (RRP $39.95) + Delivery ($0 Prime/$59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.632151+00:00",
+          "retailer": "Amazon AU",
+          "price": 11.72,
+          "deal_id": "ozbargain-eeb55c955f47684b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-dd76306cdb7698207a39": {
+      "title": "SuXiangVac Cordless Vaccum Cleaner 55kpa/55min US$43.18 / A$60.69 Shipped @ SuXiangVac via AliExpress",
+      "brand": null,
+      "model": "55KPA",
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.632291+00:00",
+          "retailer": "SuXiangVac via AliExpress",
+          "price": 43.18,
+          "deal_id": "ozbargain-4ba634b5d252183e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d14412bed0fd9ebed120": {
+      "title": "Sony WH1000XX THE COLLEXION Noise Cancelling Headphones $784.60 + Delivery ($0 C&C) @ JB Hi-Fi Commercial (Membership Required)",
+      "brand": "Sony",
+      "model": "WH1000XX",
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.632445+00:00",
+          "retailer": "JB Hi-Fi Commercial (Membership Required)",
+          "price": 784.6,
+          "deal_id": "ozbargain-f32d826de9b1c49d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7f6c4c1097ddba282f91": {
+      "title": "The Nature of Things: Pocket Hardbacks $19 Delivered @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.632560+00:00",
+          "retailer": "Amazon AU",
+          "price": 19.0,
+          "deal_id": "ozbargain-179c762a24f5869a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a79c354bf64250d97b7c": {
+      "title": "Apple AirPods Pro 3 $329 (RRP $429) @ Emporium Electronics (Price Beat $312 @ OfficeWorks)",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.632650+00:00",
+          "retailer": "Emporium Electronics (Price Beat $312 @ OfficeWorks)",
+          "price": 329.0,
+          "deal_id": "ozbargain-9d5c0ec64b3759d7",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-239e0250b8dfacf540d5": {
+      "title": "eufy Security FamiLock S3 Max Video Smart Lock $362.99USD ($508 Aud) Delivered",
+      "brand": null,
+      "model": "99USD",
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.632761+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 362.99,
+          "deal_id": "ozbargain-d96283d53ed09a3e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b4cf9ae4b9ea0dfb5954": {
+      "title": "Wurkkos TS28 EDC 3200lm Torch US$27.37 (~A$38.30) AU Stock Delivered @ Wurkkos Local Store AliExpress",
+      "brand": null,
+      "model": "3200LM",
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.632898+00:00",
+          "retailer": "Wurkkos Local Store AliExpress",
+          "price": 27.37,
+          "deal_id": "ozbargain-815c052d484d9fd2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6df01b7f97b0063dc8ac": {
+      "title": "Eithad: Oktoberfest: Melbourne & Sydney → Munich $715 One-Way, 1 Stop. Sydney Return $1,638 @ SkySpy",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.633037+00:00",
+          "retailer": "SkySpy",
+          "price": 715.0,
+          "deal_id": "ozbargain-22cb0ad1d50b4e8e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d37a5ea94fe2d72c4754": {
+      "title": "O'air 1200mm AC Ceiling Fan with Wall Controller $85 / 1400mm $90 (Was $95/ $105) + Free Shipping on Orders over $250 @ Alstra E",
+      "brand": null,
+      "model": "1200MM",
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.633175+00:00",
+          "retailer": "Alstra E",
+          "price": 85.0,
+          "deal_id": "ozbargain-ef121b91211f09af",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7a3ec60932b1b4d0f7f3": {
+      "title": "$15 Discount Voucher (Excludes Combo / Promo Menu Items) @ Ooshman (Melrose, Thornleigh, San Souci, Mosman)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.633295+00:00",
+          "retailer": "Ooshman (Melrose, Thornleigh, San Souci, Mosman)",
+          "price": 15.0,
+          "deal_id": "ozbargain-d1c113503be4e5e2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4065c559d7448eabf175": {
+      "title": "Breville the Bambino Plus Coffee Machine (Pomodoro Rosso) $447 (RRP $729) Delivered @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.633402+00:00",
+          "retailer": "Amazon AU",
+          "price": 447.0,
+          "deal_id": "ozbargain-0bf98b389b2fc8c7",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-22b7ee1106a0fc77dead": {
+      "title": "New eToro Customers: Deposit $300 & Trade within 60 Days, Get $150 Digital Visa Gift Card @ Finder",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.633641+00:00",
+          "retailer": "Finder",
+          "price": 300.0,
+          "deal_id": "ozbargain-c5d0632e41e6953a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d1b80cc34ed889cfc62d": {
+      "title": "Hallensteins 100% Cotton 220gsm T-Shirts $9.99 + $11.99 Delivery ($0 QLD C&C/ $110 Order) @ Hallensteins",
+      "brand": null,
+      "model": "220GSM",
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.633801+00:00",
+          "retailer": "Hallensteins",
+          "price": 9.99,
+          "deal_id": "ozbargain-a8545125c3d60044",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-04d353e3a7763cbdacc8": {
+      "title": "[VIC, NSW, ACT] Adams Zaytoona Extra Virgin Olive Oil 1L $10 @ Ten Tops",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.633921+00:00",
+          "retailer": "Ten Tops",
+          "price": 10.0,
+          "deal_id": "ozbargain-c29d5cb7eaeb037b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-df32579e01fbfb16dc92": {
+      "title": "[iOS, Android] ShopAround Premium - Was $2.99/Month, Now Free for Everyone (Ad-Supported) @ ShopAround",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-25T13:12:04.634407+00:00",
+          "retailer": "ShopAround",
+          "price": 2.99,
+          "deal_id": "ozbargain-85ac700ecc9983cd",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-25T07:09:08.878513+00:00"
+  "updated_at": "2026-08-25T13:12:13.748905+00:00"
 }
