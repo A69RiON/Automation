@@ -1,5 +1,17 @@
 {
   "schema_version": 1,
-  "alerts": {},
-  "updated_at": "2026-08-26T07:09:32.436462+00:00"
+  "alerts": {
+    "ozbargain-f44fa846c9fa465f": {
+      "deal_id": "ozbargain-f44fa846c9fa465f",
+      "product_key": "product-f0c75ff5305c866cc902",
+      "title": "Little Creatures Hazy IPA Beer 375ml 4-Pack $10 (RRP $26) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+      "retailer": "Amazon AU",
+      "last_alert_price": 10.0,
+      "last_alert_score": 89,
+      "last_alert_reason": "new_good_deal",
+      "last_alert_at": "2026-08-26T13:17:22.286256+00:00",
+      "alert_count": 1
+    }
+  },
+  "updated_at": "2026-08-26T13:17:22.287281+00:00"
 }
