@@ -4720,7 +4720,7 @@
       ]
     },
     "product-19b38a7d3e0daae04813": {
-      "title": "Macallan 12 Double Cask, Single Malt Scotch Whisky 700mL $120 + Delivery (Free over $199 Spend) @ The Whisky Station",
+      "title": "Aberlour A'Bunadh Single Malt Scotch Whisky 700ml $108 (Member's Price) + Del ($0 C&C/ to Metro with $149 Order) @ Dan Murphy's",
       "brand": null,
       "model": "700ML",
       "observations": [
@@ -4764,6 +4764,13 @@
           "retailer": "The Whisky Station",
           "price": 120.0,
           "deal_id": "ozbargain-cefc011da39dde26",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-28T22:21:01.101713+00:00",
+          "retailer": "Dan Murphy's",
+          "price": 108.0,
+          "deal_id": "ozbargain-68c79cd906e2c478",
           "source": "OzBargain"
         }
       ]
@@ -17918,6 +17925,13 @@
           "price": 1.0,
           "deal_id": "ozbargain-fc29649534ef68e0",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-28T22:21:01.101952+00:00",
+          "retailer": "Sealife Melbourne",
+          "price": 1.0,
+          "deal_id": "ozbargain-fc29649534ef68e0",
+          "source": "OzBargain"
         }
       ]
     },
@@ -17928,6 +17942,13 @@
       "observations": [
         {
           "timestamp": "2026-08-28T11:24:39.640374+00:00",
+          "retailer": "BWS",
+          "price": 5.9,
+          "deal_id": "ozbargain-439dfb74f3bb6d7d",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-28T22:21:01.102074+00:00",
           "retailer": "BWS",
           "price": 5.9,
           "deal_id": "ozbargain-439dfb74f3bb6d7d",
@@ -17946,6 +17967,13 @@
           "price": 149.0,
           "deal_id": "ozbargain-36a9edec21636211",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-28T22:21:01.102179+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 149.0,
+          "deal_id": "ozbargain-36a9edec21636211",
+          "source": "OzBargain"
         }
       ]
     },
@@ -17956,6 +17984,13 @@
       "observations": [
         {
           "timestamp": "2026-08-28T11:24:39.640696+00:00",
+          "retailer": "Bunnings",
+          "price": 69.0,
+          "deal_id": "ozbargain-7cc9272d07991e0f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-28T22:21:01.102300+00:00",
           "retailer": "Bunnings",
           "price": 69.0,
           "deal_id": "ozbargain-7cc9272d07991e0f",
@@ -17974,6 +18009,13 @@
           "price": 7.99,
           "deal_id": "ozbargain-f6364a4ead770f35",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-28T22:21:01.102429+00:00",
+          "retailer": "LISEN Space Amazon AU",
+          "price": 7.99,
+          "deal_id": "ozbargain-f6364a4ead770f35",
+          "source": "OzBargain"
         }
       ]
     },
@@ -17984,6 +18026,13 @@
       "observations": [
         {
           "timestamp": "2026-08-28T11:24:39.640985+00:00",
+          "retailer": "Afterpay (App & Digital Wallet Required)",
+          "price": 30.0,
+          "deal_id": "ozbargain-7d21ed0704adbd67",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-28T22:21:01.102566+00:00",
           "retailer": "Afterpay (App & Digital Wallet Required)",
           "price": 30.0,
           "deal_id": "ozbargain-7d21ed0704adbd67",
@@ -18002,6 +18051,13 @@
           "price": 152.52,
           "deal_id": "ozbargain-87d9edc002df8852",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-28T22:21:01.102682+00:00",
+          "retailer": "Amazon US via AU",
+          "price": 152.52,
+          "deal_id": "ozbargain-87d9edc002df8852",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18012,6 +18068,13 @@
       "observations": [
         {
           "timestamp": "2026-08-28T11:24:39.641263+00:00",
+          "retailer": "AliExpress",
+          "price": 2.0,
+          "deal_id": "ozbargain-3164fd4066c7c76b",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-28T22:21:01.102810+00:00",
           "retailer": "AliExpress",
           "price": 2.0,
           "deal_id": "ozbargain-3164fd4066c7c76b",
@@ -18030,6 +18093,13 @@
           "price": 178.45,
           "deal_id": "ozbargain-70934e7035c56c24",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-28T22:21:01.102910+00:00",
+          "retailer": "Amazon US via AU",
+          "price": 178.45,
+          "deal_id": "ozbargain-70934e7035c56c24",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18040,6 +18110,13 @@
       "observations": [
         {
           "timestamp": "2026-08-28T11:24:39.641498+00:00",
+          "retailer": "Techlyte",
+          "price": 399.0,
+          "deal_id": "ozbargain-54e9432cb184debb",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-28T22:21:01.103011+00:00",
           "retailer": "Techlyte",
           "price": 399.0,
           "deal_id": "ozbargain-54e9432cb184debb",
@@ -18058,6 +18135,13 @@
           "price": 8.99,
           "deal_id": "ozbargain-469f3aafb6f79108",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-28T22:21:01.103107+00:00",
+          "retailer": "Steam",
+          "price": 8.99,
+          "deal_id": "ozbargain-469f3aafb6f79108",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18068,6 +18152,13 @@
       "observations": [
         {
           "timestamp": "2026-08-28T11:24:39.641893+00:00",
+          "retailer": "WattCycle",
+          "price": 1380.0,
+          "deal_id": "ozbargain-b4931d6243c77f83",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-28T22:21:01.103339+00:00",
           "retailer": "WattCycle",
           "price": 1380.0,
           "deal_id": "ozbargain-b4931d6243c77f83",
@@ -18086,6 +18177,13 @@
           "price": 120.54,
           "deal_id": "ozbargain-625bb3deb4cf15ff",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-28T22:21:01.103431+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 120.54,
+          "deal_id": "ozbargain-625bb3deb4cf15ff",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18096,6 +18194,13 @@
       "observations": [
         {
           "timestamp": "2026-08-28T11:24:39.642232+00:00",
+          "retailer": "RSEA Safety",
+          "price": 35.0,
+          "deal_id": "ozbargain-48a24e6c6f36c813",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-28T22:21:01.103636+00:00",
           "retailer": "RSEA Safety",
           "price": 35.0,
           "deal_id": "ozbargain-48a24e6c6f36c813",
@@ -18298,7 +18403,161 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-0a9514d0e468b56b8dd9": {
+      "title": "Turkish Airlines: Stockholm SYD $1220/MEL $1257, Warsaw SYD $1250/MEL $1252, Zurich SYD $1279/MEL $1298 Return @ Google Flights",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-28T22:21:01.100265+00:00",
+          "retailer": "Google Flights",
+          "price": 1220.0,
+          "deal_id": "ozbargain-25c997c1fb3346b5",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-42edaa71b69ee893f868": {
+      "title": "Pedal Bandit 20'' E6 Electric Fat Tyre Bike $1499 + Delivery ($0 C&C / in-Store) @ 99 Bikes",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-28T22:21:01.100431+00:00",
+          "retailer": "99 Bikes",
+          "price": 1499.0,
+          "deal_id": "ozbargain-65bb1ae5fc8e7ef9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-dd4a13dd68831d39bcc2": {
+      "title": "10% Cashback on $100, $250 & $500 Uber eGift Cards (Also Redeemable at Uber eats, Limited Stock) @ ShopBack",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-28T22:21:01.100569+00:00",
+          "retailer": "ShopBack",
+          "price": 100.0,
+          "deal_id": "ozbargain-5edd31808a443c2b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ecb57e076c3b2100cf10": {
+      "title": "meross Matter Presence Sensor, mmWave Radar & PIR & Light Motion… $39.99 (RRP $69.99) +Delivery ($0 Prime/$59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-28T22:21:01.100712+00:00",
+          "retailer": "Amazon AU",
+          "price": 39.99,
+          "deal_id": "ozbargain-4a3191d2832d93b8",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-52b84ca335e68ec95b01": {
+      "title": "Powerwave Game Card Case for Nintendo Switch 2 $4 (RRP $19.95) +Delivery ($0 Prime/$59 Spend) @ Amazon AU",
+      "brand": "Nintendo",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-28T22:21:01.100826+00:00",
+          "retailer": "Amazon AU",
+          "price": 4.0,
+          "deal_id": "ozbargain-c850229a03daf8b7",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-dac9013f79517be6a0c8": {
+      "title": "Apple iPad Air 11 Inch (2026) M4 128GB $999.99, 256GB $1,199.99 @ Costco (Membership Required)",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-28T22:21:01.101046+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 999.99,
+          "deal_id": "ozbargain-c11494d7033ad75a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8c6ca0cf8e41572eb283": {
+      "title": "Apple iPhone 17 Pro 256GB Cosmic Orange or Silver $1699 ($1689 with NAB Payment, RRP $1999) Delivered @ Amazon AU",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-28T22:21:01.101270+00:00",
+          "retailer": "Amazon AU",
+          "price": 1699.0,
+          "deal_id": "ozbargain-bc336bbe6bb148db",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-33865841ac4e6a3de1e7": {
+      "title": "Ratio Quest Field Watch Sapphire 316L Steel Seiko Quartz 100m (Various Colours) $103.95 Shipped @ Ratio Watches",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-28T22:21:01.101383+00:00",
+          "retailer": "Ratio Watches",
+          "price": 103.95,
+          "deal_id": "ozbargain-205bec8cbf2b4096",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c8fea081ec6537426a02": {
+      "title": "[eBay Plus] Samsung Galaxy A17 4G (128GB/4GB, 6.7'', SM-A175FZ) - Black $167 Delivered @ Mobileciti eBay",
+      "brand": "Samsung",
+      "model": "SM-A175FZ",
+      "observations": [
+        {
+          "timestamp": "2026-08-28T22:21:01.101471+00:00",
+          "retailer": "Mobileciti eBay",
+          "price": 167.0,
+          "deal_id": "ozbargain-7467016520e7e04f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f9ae9fa6f89d5fbc4749": {
+      "title": "Thermalright Aqua Elite 240 V6 ARGB White CPU Liquid Cooler $46.83 + Delivery ($0 with Prime/ $59 Spend) @ suomole Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-28T22:21:01.101604+00:00",
+          "retailer": "suomole Amazon AU",
+          "price": 46.83,
+          "deal_id": "ozbargain-f830dd48ba548f7e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f5d02994a45381d65532": {
+      "title": "KitchenAid Compact Dish-Drying Rack - Charcoal Grey $69.70 (RRP $119.95) Delivered @ Amazon AU (Excl. NT)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-28T22:21:01.101823+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 69.7,
+          "deal_id": "ozbargain-349a6e438f10fb3f",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-28T11:24:55.077088+00:00"
+  "updated_at": "2026-08-28T22:21:10.600163+00:00"
 }
