@@ -1353,7 +1353,7 @@
       ]
     },
     "product-618a7f0d51cd0565c3bf": {
-      "title": "SportsPro Recovery Bundle (500ml Physio Cream + 15ml Roll-on) $59.95 (Was $104.90) Delivered @ SportsPro",
+      "title": "[VIC] Monster Energy Drink (Original, Zero Ultra) 500ml 9pk $9.90 @ Coles Clayton",
       "brand": null,
       "model": "500ML",
       "observations": [
@@ -1397,6 +1397,13 @@
           "retailer": "SportsPro",
           "price": 59.95,
           "deal_id": "ozbargain-ba712b94d084cd91",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T07:05:38.971656+00:00",
+          "retailer": "Coles Clayton",
+          "price": 9.9,
+          "deal_id": "ozbargain-817d28085b04eafa",
           "source": "OzBargain"
         }
       ]
@@ -5315,7 +5322,7 @@
       ]
     },
     "product-ab601c50354f6f8979b3": {
-      "title": "McLaren Vale Cabernet Sauvignon 2024 12-Bottles $119.50 Delivered (RRP $360, SA C&C $0) @ Bec Hardy Wines",
+      "title": "Pertaringa ‘Lakeside’ McLaren Vale Shiraz 2024 $107.50 / 12-Bottles Delivered ($0 SA C&C, RRP $264) @ Bec Hardy Wines",
       "brand": null,
       "model": "12-BOTTLES",
       "observations": [
@@ -5352,6 +5359,13 @@
           "retailer": "Bec Hardy Wines",
           "price": 119.5,
           "deal_id": "ozbargain-57c9c73e70ee8215",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T07:05:38.973615+00:00",
+          "retailer": "Bec Hardy Wines",
+          "price": 107.5,
+          "deal_id": "ozbargain-38b8a3bbb43f1f15",
           "source": "OzBargain"
         }
       ]
@@ -18415,6 +18429,13 @@
           "price": 1220.0,
           "deal_id": "ozbargain-25c997c1fb3346b5",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T07:05:38.973739+00:00",
+          "retailer": "Google Flights",
+          "price": 1220.0,
+          "deal_id": "ozbargain-25c997c1fb3346b5",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18429,6 +18450,13 @@
           "price": 1499.0,
           "deal_id": "ozbargain-65bb1ae5fc8e7ef9",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T07:05:38.973858+00:00",
+          "retailer": "99 Bikes",
+          "price": 1499.0,
+          "deal_id": "ozbargain-65bb1ae5fc8e7ef9",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18439,6 +18467,13 @@
       "observations": [
         {
           "timestamp": "2026-08-28T22:21:01.100569+00:00",
+          "retailer": "ShopBack",
+          "price": 100.0,
+          "deal_id": "ozbargain-5edd31808a443c2b",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T07:05:38.973962+00:00",
           "retailer": "ShopBack",
           "price": 100.0,
           "deal_id": "ozbargain-5edd31808a443c2b",
@@ -18557,7 +18592,329 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-4a3286c9186d50663712": {
+      "title": "Free DashPass for You and a Mate for 6 Months from McDonald’s",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.970713+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 59.0,
+          "deal_id": "ozbargain-d84589b54c87ec46",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a8e8ed10fc9330b73d5b": {
+      "title": "Sofirn SE1 Quick-Release Pocket Light US$12.99 (~A$18.12) Delivered @ Sofirn",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.970836+00:00",
+          "retailer": "Sofirn",
+          "price": 12.99,
+          "deal_id": "ozbargain-81980f782ab180f1",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-31107b2b0e1444578813": {
+      "title": "50% off K9 Natural Freeze Dried Dog Food Chicken 3.6kg X 4 $579.98 + Delivery ($0 SYD C&C/ with $200 Metro Order) @ Peek-a-Paw",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.970981+00:00",
+          "retailer": "Peek-a-Paw",
+          "price": 579.98,
+          "deal_id": "ozbargain-a14ff67ac8c04196",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-27306ec4bb9457fa9eed": {
+      "title": "TCL 75\" C7L Premium SQD-Mini LED $1818 (via Price Check) @ The Good Guys",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.971119+00:00",
+          "retailer": "The Good Guys",
+          "price": 1818.0,
+          "deal_id": "ozbargain-34653a6a2050d392",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b4626402e83b9fb76780": {
+      "title": "Motorola Signature 12GB RAM/256GB Storage $897.30, Edge 70 8GB/256GB $539.10 Delivered @ Mobileciti",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.971232+00:00",
+          "retailer": "Mobileciti",
+          "price": 897.3,
+          "deal_id": "ozbargain-e27626e2a59c7082",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-3af7f3bf834474cdb017": {
+      "title": "Valvoline Engine Oil Restore n Protect 5w30 $62.95 @Auto 1",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.971311+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 62.95,
+          "deal_id": "ozbargain-01f793880fc40a8f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-78721990acc076b7128b": {
+      "title": "Whittaker's Chocolate Block Varieties 200g-250g $7.00 @ BIG W",
+      "brand": null,
+      "model": "200G-250G",
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.971419+00:00",
+          "retailer": "BIG W",
+          "price": 7.0,
+          "deal_id": "ozbargain-668577e10d1c8e4f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-565e29927a751c1380c3": {
+      "title": "Microsoft Surface Pro 12\" Snapdragon X Plus (8 Core), Wi-Fi, 16GB RAM, 512GB SSD [2025] $1699.15 Shipped @ Microsoft",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.971542+00:00",
+          "retailer": "Microsoft",
+          "price": 1699.15,
+          "deal_id": "ozbargain-34f98f2ae2f9a98a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d4b4d50f3cd173a8aa8e": {
+      "title": "Earn up to $1,000 to Invest When You Transfer Your Portfolio to Betashares Direct ($100k Transfer for $1k to Invest)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.971772+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 1000.0,
+          "deal_id": "ozbargain-265d2eb1c1e3ab7b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-81f307a31a3e4436b2d7": {
+      "title": "Samsung Galaxy S26 Ultra 256GB $1400, S26+ $1149, S26 $849 Delivered @ Phonex AU",
+      "brand": "Samsung",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.971883+00:00",
+          "retailer": "Phonex AU",
+          "price": 1400.0,
+          "deal_id": "ozbargain-0cb23aee7a0c8141",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8157056cd7ddc2750858": {
+      "title": "10% off Blu-Ray, CDs, Books + Sales + $7.99 Flat Shipping @ Rarewaves",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.971981+00:00",
+          "retailer": "Rarewaves",
+          "price": 7.99,
+          "deal_id": "ozbargain-10eb28d9ccc5e35e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f643aef5dc01fc63e01d": {
+      "title": "[NSW] Assorted Beef Meat Tray (5KG) from Fat Boys Farm $149 (25% off) + Sydney Delivery @ Farmer to fridge",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.972107+00:00",
+          "retailer": "Farmer to fridge",
+          "price": 149.0,
+          "deal_id": "ozbargain-b3666b8612872d60",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-63a3fe47155e953cdf58": {
+      "title": "Apple MacBook Pro 16\" 2021 M1 Pro 16GB/512GB $1,649 + Shipping and 60 discount on purchase $2000 @ SwiftBuy",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.972224+00:00",
+          "retailer": "SwiftBuy",
+          "price": 1649.0,
+          "deal_id": "ozbargain-c600f78b3dde04db",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2bc4289a7221d1f6fab4": {
+      "title": "Mistral 60cm 4 Zone Induction Cooktop $149+ Delivery ($0 C&C/ in-Store/ OnePass) @ Bunnings",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.972335+00:00",
+          "retailer": "Bunnings",
+          "price": 149.0,
+          "deal_id": "ozbargain-8cbec71c984ec57f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-fa69a13585358d0df40e": {
+      "title": "Snapmaker U1 4-Toolhead 3D Printer US$829 + $50 Shipping (~A$1226) @ Snapmaker",
+      "brand": null,
+      "model": "4-TOOLHEAD",
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.972447+00:00",
+          "retailer": "Snapmaker",
+          "price": 829.0,
+          "deal_id": "ozbargain-94f4845019e6911e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-97e3033fc20c785dbae1": {
+      "title": "Canon EOS R6 Mark III Body Only $3,399.96 + $9.95 Standard Delivery ($0 C&C) @ Ted's Camera",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.972563+00:00",
+          "retailer": "Ted's Camera",
+          "price": 3399.96,
+          "deal_id": "ozbargain-cdb38c3f37e1d85c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0beec2d5d3aa23f74c5f": {
+      "title": "Pedal Lynx 3C eBike bicycle electric mountain bike hardtail eMTB $1999 @ 99bikes",
+      "brand": null,
+      "model": "99BIKES",
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.972671+00:00",
+          "retailer": "99bikes",
+          "price": 1999.0,
+          "deal_id": "ozbargain-c13c130be083195c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2d5fa3ddb951d1769633": {
+      "title": "[NSW] Dad for $1 (Choice of 8 Attractions) with a Full Price Adult/Child Ticket 6-10 Sep, Booking Required @ Sealife Sydney",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.972793+00:00",
+          "retailer": "Sealife Sydney",
+          "price": 1.0,
+          "deal_id": "ozbargain-5e9e6e81c881c588",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-04519252ff5a4ec9016c": {
+      "title": "Estée Lauder Nighttime Experts Skincare Set $158 (+ Bonus 6pc Gift Pack) Delivered @ MYER",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.973027+00:00",
+          "retailer": "MYER",
+          "price": 158.0,
+          "deal_id": "ozbargain-1fdb611ce01fa0fb",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-72c22293efcafa58a331": {
+      "title": "Get 2 Pairs of Glasses for $199 (Exclusions Apply) @ Specsavers",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.973140+00:00",
+          "retailer": "Specsavers",
+          "price": 199.0,
+          "deal_id": "ozbargain-72939ecf6177152d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-3ef0525e5d5f6b97082b": {
+      "title": "Personalised Text/Image caps – 1 for $18.99, 2 for $29.99, 3 for $42.99 Delivered @ O’Mango",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.973260+00:00",
+          "retailer": "O’Mango",
+          "price": 18.99,
+          "deal_id": "ozbargain-3e36faf0b894e544",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f9e82a555f023085c9bd": {
+      "title": "Pure Creatine Monohydrate 1kg $29.99 (RRP $59) + Delivery ($0 Prime/ $59 Spend) @ BlackBelt Protein Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.973363+00:00",
+          "retailer": "BlackBelt Protein Amazon AU",
+          "price": 29.99,
+          "deal_id": "ozbargain-07fa8fedd913f4aa",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-84b997a384c5091f0110": {
+      "title": "TCL 75\" C8L Premium SQD-Mini LED 4K UHD Google TV with Gemini [2026] $2,368 @ JB Hi-Fi",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T07:05:38.973477+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 2368.0,
+          "deal_id": "ozbargain-a87ed369862e20e1",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-28T22:21:10.600163+00:00"
+  "updated_at": "2026-08-29T07:05:50.533486+00:00"
 }
