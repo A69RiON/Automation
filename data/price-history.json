@@ -1412,6 +1412,13 @@
           "price": 9.9,
           "deal_id": "ozbargain-817d28085b04eafa",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.891314+00:00",
+          "retailer": "Coles Clayton",
+          "price": 9.9,
+          "deal_id": "ozbargain-817d28085b04eafa",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18618,6 +18625,13 @@
           "price": 59.0,
           "deal_id": "ozbargain-d84589b54c87ec46",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.890064+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 59.0,
+          "deal_id": "ozbargain-d84589b54c87ec46",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18667,6 +18681,13 @@
           "price": 1818.0,
           "deal_id": "ozbargain-34653a6a2050d392",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.890293+00:00",
+          "retailer": "The Good Guys",
+          "price": 1818.0,
+          "deal_id": "ozbargain-34653a6a2050d392",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18684,6 +18705,13 @@
         },
         {
           "timestamp": "2026-08-29T16:43:38.922512+00:00",
+          "retailer": "Mobileciti",
+          "price": 897.3,
+          "deal_id": "ozbargain-e27626e2a59c7082",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.890485+00:00",
           "retailer": "Mobileciti",
           "price": 897.3,
           "deal_id": "ozbargain-e27626e2a59c7082",
@@ -18723,6 +18751,13 @@
           "price": 7.0,
           "deal_id": "ozbargain-668577e10d1c8e4f",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.890861+00:00",
+          "retailer": "BIG W",
+          "price": 7.0,
+          "deal_id": "ozbargain-668577e10d1c8e4f",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18740,6 +18775,13 @@
         },
         {
           "timestamp": "2026-08-29T16:43:38.922843+00:00",
+          "retailer": "Microsoft",
+          "price": 1699.15,
+          "deal_id": "ozbargain-34f98f2ae2f9a98a",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.891080+00:00",
           "retailer": "Microsoft",
           "price": 1699.15,
           "deal_id": "ozbargain-34f98f2ae2f9a98a",
@@ -18765,6 +18807,13 @@
           "price": 1000.0,
           "deal_id": "ozbargain-265d2eb1c1e3ab7b",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.891528+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 1000.0,
+          "deal_id": "ozbargain-265d2eb1c1e3ab7b",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18782,6 +18831,13 @@
         },
         {
           "timestamp": "2026-08-29T16:43:38.923244+00:00",
+          "retailer": "Phonex AU",
+          "price": 1400.0,
+          "deal_id": "ozbargain-0cb23aee7a0c8141",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.891721+00:00",
           "retailer": "Phonex AU",
           "price": 1400.0,
           "deal_id": "ozbargain-0cb23aee7a0c8141",
@@ -18807,6 +18863,13 @@
           "price": 7.99,
           "deal_id": "ozbargain-10eb28d9ccc5e35e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.891912+00:00",
+          "retailer": "Rarewaves",
+          "price": 7.99,
+          "deal_id": "ozbargain-10eb28d9ccc5e35e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18824,6 +18887,13 @@
         },
         {
           "timestamp": "2026-08-29T16:43:38.923479+00:00",
+          "retailer": "Farmer to fridge",
+          "price": 149.0,
+          "deal_id": "ozbargain-b3666b8612872d60",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.892123+00:00",
           "retailer": "Farmer to fridge",
           "price": 149.0,
           "deal_id": "ozbargain-b3666b8612872d60",
@@ -19010,6 +19080,13 @@
           "price": 230.97,
           "deal_id": "ozbargain-c7a684f9e4801c48",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.886371+00:00",
+          "retailer": "Paddy Pallin",
+          "price": 230.97,
+          "deal_id": "ozbargain-c7a684f9e4801c48",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19020,6 +19097,13 @@
       "observations": [
         {
           "timestamp": "2026-08-29T16:43:38.920289+00:00",
+          "retailer": "Anaconda",
+          "price": 60.0,
+          "deal_id": "ozbargain-7d51f0ceedd47921",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.886636+00:00",
           "retailer": "Anaconda",
           "price": 60.0,
           "deal_id": "ozbargain-7d51f0ceedd47921",
@@ -19052,6 +19136,13 @@
           "price": 45.0,
           "deal_id": "ozbargain-306e18b076a2b3dc",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.887075+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 45.0,
+          "deal_id": "ozbargain-306e18b076a2b3dc",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19062,6 +19153,13 @@
       "observations": [
         {
           "timestamp": "2026-08-29T16:43:38.920666+00:00",
+          "retailer": "Dyson Australia eBay",
+          "price": 674.1,
+          "deal_id": "ozbargain-182f9dbcba5f695a",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.887350+00:00",
           "retailer": "Dyson Australia eBay",
           "price": 674.1,
           "deal_id": "ozbargain-182f9dbcba5f695a",
@@ -19080,6 +19178,13 @@
           "price": 500.0,
           "deal_id": "ozbargain-5aa595a14acbb672",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.887578+00:00",
+          "retailer": "DJI",
+          "price": 500.0,
+          "deal_id": "ozbargain-5aa595a14acbb672",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19090,6 +19195,13 @@
       "observations": [
         {
           "timestamp": "2026-08-29T16:43:38.920925+00:00",
+          "retailer": "Amazon AU",
+          "price": 55.0,
+          "deal_id": "ozbargain-7a2f428b0da583e1",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.887803+00:00",
           "retailer": "Amazon AU",
           "price": 55.0,
           "deal_id": "ozbargain-7a2f428b0da583e1",
@@ -19108,6 +19220,13 @@
           "price": 354.4,
           "deal_id": "ozbargain-27de267503841719",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.888007+00:00",
+          "retailer": "Retravision",
+          "price": 354.4,
+          "deal_id": "ozbargain-27de267503841719",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19118,6 +19237,13 @@
       "observations": [
         {
           "timestamp": "2026-08-29T16:43:38.921176+00:00",
+          "retailer": "PlayStation Store",
+          "price": 79.96,
+          "deal_id": "ozbargain-3c52e1e9c3132c4f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.888204+00:00",
           "retailer": "PlayStation Store",
           "price": 79.96,
           "deal_id": "ozbargain-3c52e1e9c3132c4f",
@@ -19136,6 +19262,13 @@
           "price": 250.0,
           "deal_id": "ozbargain-5fbf3d4ff5b8a2ff",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.888427+00:00",
+          "retailer": "Nectr",
+          "price": 250.0,
+          "deal_id": "ozbargain-5fbf3d4ff5b8a2ff",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19146,6 +19279,13 @@
       "observations": [
         {
           "timestamp": "2026-08-29T16:43:38.921434+00:00",
+          "retailer": "Amazon Business",
+          "price": 3.5,
+          "deal_id": "ozbargain-c660147c8d86cdb8",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.888649+00:00",
           "retailer": "Amazon Business",
           "price": 3.5,
           "deal_id": "ozbargain-c660147c8d86cdb8",
@@ -19164,6 +19304,13 @@
           "price": 10.0,
           "deal_id": "ozbargain-1fb7507908717bc4",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.888869+00:00",
+          "retailer": "TopCashback)",
+          "price": 10.0,
+          "deal_id": "ozbargain-1fb7507908717bc4",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19174,6 +19321,13 @@
       "observations": [
         {
           "timestamp": "2026-08-29T16:43:38.921680+00:00",
+          "retailer": "Amazon AU",
+          "price": 128.92,
+          "deal_id": "ozbargain-defe96cb7809fa02",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.889086+00:00",
           "retailer": "Amazon AU",
           "price": 128.92,
           "deal_id": "ozbargain-defe96cb7809fa02",
@@ -19192,6 +19346,13 @@
           "price": 0.3,
           "deal_id": "ozbargain-5488deab16c60eb4",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.889288+00:00",
+          "retailer": "Google Play",
+          "price": 0.3,
+          "deal_id": "ozbargain-5488deab16c60eb4",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19202,6 +19363,13 @@
       "observations": [
         {
           "timestamp": "2026-08-29T16:43:38.921897+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 59.99,
+          "deal_id": "ozbargain-caca8cfe525f747a",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.889478+00:00",
           "retailer": "Costco (Membership Required)",
           "price": 59.99,
           "deal_id": "ozbargain-caca8cfe525f747a",
@@ -19220,6 +19388,13 @@
           "price": 199.0,
           "deal_id": "ozbargain-7394a0b81634b026",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.889655+00:00",
+          "retailer": "Bunnings Warehouse",
+          "price": 199.0,
+          "deal_id": "ozbargain-7394a0b81634b026",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19230,6 +19405,13 @@
       "observations": [
         {
           "timestamp": "2026-08-29T16:43:38.922147+00:00",
+          "retailer": "TopCashback AU",
+          "price": 0.33,
+          "deal_id": "ozbargain-546bf6e61621605e",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.889856+00:00",
           "retailer": "TopCashback AU",
           "price": 0.33,
           "deal_id": "ozbargain-546bf6e61621605e",
@@ -19248,9 +19430,58 @@
           "price": 62.95,
           "deal_id": "ozbargain-280bdb1ec8a61122",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T20:55:49.890656+00:00",
+          "retailer": "Auto One",
+          "price": 62.95,
+          "deal_id": "ozbargain-280bdb1ec8a61122",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a614e973f77cd9b740b6": {
+      "title": "Fanatec CSL Elite Pedals V2 $359.90 @Fanatec Free shipping",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T20:55:49.885877+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 359.9,
+          "deal_id": "ozbargain-2ae19e34fc5ba3f1",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-bb19ddc895fb96cf88c0": {
+      "title": "Bosch Professional 103pc Drill & Screwdriver Bit Set $49.12 +Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU",
+      "brand": null,
+      "model": "103PC",
+      "observations": [
+        {
+          "timestamp": "2026-08-29T20:55:49.886165+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 49.12,
+          "deal_id": "ozbargain-409fe49eb490bb35",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-39eb014a172510df847a": {
+      "title": "$15 off $30 Spend (New Customers) @ DoorDash",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T20:55:49.886820+00:00",
+          "retailer": "DoorDash",
+          "price": 15.0,
+          "deal_id": "ozbargain-e6fc998e5b3645e2",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-08-29T16:43:49.789448+00:00"
+  "updated_at": "2026-08-29T20:56:00.373104+00:00"
 }
