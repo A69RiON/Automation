@@ -1405,6 +1405,13 @@
           "price": 9.9,
           "deal_id": "ozbargain-817d28085b04eafa",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T16:43:38.922957+00:00",
+          "retailer": "Coles Clayton",
+          "price": 9.9,
+          "deal_id": "ozbargain-817d28085b04eafa",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18604,6 +18611,13 @@
           "price": 59.0,
           "deal_id": "ozbargain-d84589b54c87ec46",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T16:43:38.922274+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 59.0,
+          "deal_id": "ozbargain-d84589b54c87ec46",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18646,6 +18660,13 @@
           "price": 1818.0,
           "deal_id": "ozbargain-34653a6a2050d392",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T16:43:38.922397+00:00",
+          "retailer": "The Good Guys",
+          "price": 1818.0,
+          "deal_id": "ozbargain-34653a6a2050d392",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18656,6 +18677,13 @@
       "observations": [
         {
           "timestamp": "2026-08-29T07:05:38.971232+00:00",
+          "retailer": "Mobileciti",
+          "price": 897.3,
+          "deal_id": "ozbargain-e27626e2a59c7082",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T16:43:38.922512+00:00",
           "retailer": "Mobileciti",
           "price": 897.3,
           "deal_id": "ozbargain-e27626e2a59c7082",
@@ -18688,6 +18716,13 @@
           "price": 7.0,
           "deal_id": "ozbargain-668577e10d1c8e4f",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T16:43:38.922722+00:00",
+          "retailer": "BIG W",
+          "price": 7.0,
+          "deal_id": "ozbargain-668577e10d1c8e4f",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18698,6 +18733,13 @@
       "observations": [
         {
           "timestamp": "2026-08-29T07:05:38.971542+00:00",
+          "retailer": "Microsoft",
+          "price": 1699.15,
+          "deal_id": "ozbargain-34f98f2ae2f9a98a",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T16:43:38.922843+00:00",
           "retailer": "Microsoft",
           "price": 1699.15,
           "deal_id": "ozbargain-34f98f2ae2f9a98a",
@@ -18716,6 +18758,13 @@
           "price": 1000.0,
           "deal_id": "ozbargain-265d2eb1c1e3ab7b",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T16:43:38.923117+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 1000.0,
+          "deal_id": "ozbargain-265d2eb1c1e3ab7b",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18726,6 +18775,13 @@
       "observations": [
         {
           "timestamp": "2026-08-29T07:05:38.971883+00:00",
+          "retailer": "Phonex AU",
+          "price": 1400.0,
+          "deal_id": "ozbargain-0cb23aee7a0c8141",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T16:43:38.923244+00:00",
           "retailer": "Phonex AU",
           "price": 1400.0,
           "deal_id": "ozbargain-0cb23aee7a0c8141",
@@ -18744,6 +18800,13 @@
           "price": 7.99,
           "deal_id": "ozbargain-10eb28d9ccc5e35e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T16:43:38.923357+00:00",
+          "retailer": "Rarewaves",
+          "price": 7.99,
+          "deal_id": "ozbargain-10eb28d9ccc5e35e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18754,6 +18817,13 @@
       "observations": [
         {
           "timestamp": "2026-08-29T07:05:38.972107+00:00",
+          "retailer": "Farmer to fridge",
+          "price": 149.0,
+          "deal_id": "ozbargain-b3666b8612872d60",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T16:43:38.923479+00:00",
           "retailer": "Farmer to fridge",
           "price": 149.0,
           "deal_id": "ozbargain-b3666b8612872d60",
@@ -18772,6 +18842,13 @@
           "price": 1649.0,
           "deal_id": "ozbargain-c600f78b3dde04db",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T16:43:38.923611+00:00",
+          "retailer": "SwiftBuy",
+          "price": 1649.0,
+          "deal_id": "ozbargain-c600f78b3dde04db",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18782,6 +18859,13 @@
       "observations": [
         {
           "timestamp": "2026-08-29T07:05:38.972335+00:00",
+          "retailer": "Bunnings",
+          "price": 149.0,
+          "deal_id": "ozbargain-8cbec71c984ec57f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-29T16:43:38.923733+00:00",
           "retailer": "Bunnings",
           "price": 149.0,
           "deal_id": "ozbargain-8cbec71c984ec57f",
@@ -18914,7 +18998,259 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-9e7e34bd0a8fe1cf28e1": {
+      "title": "Patagonia Black Hole Mini MLC 30L Travel Pack $230.97 (RRP $329) Delivered @ Paddy Pallin",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T16:43:38.920104+00:00",
+          "retailer": "Paddy Pallin",
+          "price": 230.97,
+          "deal_id": "ozbargain-c7a684f9e4801c48",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6738e3dc1fc121c032bc": {
+      "title": "Oztrail Getaway Camping Chair 2 for $60 (Members Price) + $9.99 Delivery ($0 C&C/ in-Store/ $120 Order) @ Anaconda",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T16:43:38.920289+00:00",
+          "retailer": "Anaconda",
+          "price": 60.0,
+          "deal_id": "ozbargain-7d51f0ceedd47921",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e7989d5adf51fcf40bfb": {
+      "title": "$15 off $30 first order @Doordash (New customer)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T16:43:38.920391+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 15.0,
+          "deal_id": "ozbargain-2ee61e44f7eb731b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e6c3c9b16d8c43abd90e": {
+      "title": "L'OR Espresso Ultimo Intensity 12 Coffee Capsules 100pk $45 ($40.50 S&S) + Delivery ($0 Prime/$59 Spend) @ Amazon AU (Excl. NT)",
+      "brand": null,
+      "model": "100PK",
+      "observations": [
+        {
+          "timestamp": "2026-08-29T16:43:38.920538+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 45.0,
+          "deal_id": "ozbargain-306e18b076a2b3dc",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-cdd04aeb2ea50fc573bc": {
+      "title": "Dyson BP03 Air Purifier Big+Quiet Formaldehyde $674.10 Delivered @ Dyson Australia eBay",
+      "brand": "Dyson",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T16:43:38.920666+00:00",
+          "retailer": "Dyson Australia eBay",
+          "price": 674.1,
+          "deal_id": "ozbargain-182f9dbcba5f695a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c408865aec5b08864837": {
+      "title": "Subscribe to Newletter & Receive $500 Discount Voucher on DJI Romo 2 Series Robotic Mop / Vac @ DJI",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T16:43:38.920798+00:00",
+          "retailer": "DJI",
+          "price": 500.0,
+          "deal_id": "ozbargain-5aa595a14acbb672",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e1f4bf5ecaf190cc126e": {
+      "title": "Logitech G502 Hero Wired Gaming Mouse $55 + Delivery ($0 with Prime / $59 Spend) @ Amazon AU",
+      "brand": "Logitech",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T16:43:38.920925+00:00",
+          "retailer": "Amazon AU",
+          "price": 55.0,
+          "deal_id": "ozbargain-7a2f428b0da583e1",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8a94701c6f0b901db343": {
+      "title": "Phillips Baristina Espresso Machine $354.40 + Delivery ($0 C&C/ In-Store) @ Retravision",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T16:43:38.921065+00:00",
+          "retailer": "Retravision",
+          "price": 354.4,
+          "deal_id": "ozbargain-27de267503841719",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-44af2dcc9e8b37624374": {
+      "title": "[PS5] 007 First Light $79.96 @ PlayStation Store",
+      "brand": "Playstation",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T16:43:38.921176+00:00",
+          "retailer": "PlayStation Store",
+          "price": 79.96,
+          "deal_id": "ozbargain-3c52e1e9c3132c4f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7bc46fd97276898f9424": {
+      "title": "[NSW, QLD] $250 Sign up Credit (12 Month Min.) & $150 Credit for Referrer & Referee @ Nectr",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T16:43:38.921309+00:00",
+          "retailer": "Nectr",
+          "price": 250.0,
+          "deal_id": "ozbargain-5fbf3d4ff5b8a2ff",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ab3cf22c5ffc092af565": {
+      "title": "Sensodyne Sensitivity & Enamel Fluoride Toothpaste, Whitening & Fresh mint $3.50 RRP ($13.50) Delivered @ Amazon Business",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T16:43:38.921434+00:00",
+          "retailer": "Amazon Business",
+          "price": 3.5,
+          "deal_id": "ozbargain-c660147c8d86cdb8",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-be66e5c3d452ecc04661": {
+      "title": "Specsavers: $10 off $99 on Contact Lenses Plus Free Delivery (Stack with up to 18% Cashback @ TopCashback)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T16:43:38.921554+00:00",
+          "retailer": "TopCashback)",
+          "price": 10.0,
+          "deal_id": "ozbargain-1fb7507908717bc4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9057f1b88d8ba36fc058": {
+      "title": "Bulova Men's 3-Hand Quartz Watch with Diamond Dial and Edge to Edge Crystal $128.92 (RRP $459.00) Delivered @ Amazon AU",
+      "brand": null,
+      "model": "3-HAND",
+      "observations": [
+        {
+          "timestamp": "2026-08-29T16:43:38.921680+00:00",
+          "retailer": "Amazon AU",
+          "price": 128.92,
+          "deal_id": "ozbargain-defe96cb7809fa02",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e3554eefd34d67cbc7cc": {
+      "title": "[Android, WearOS] DADAM120: Digital Watch Face A$0.3 (Was A$1.49) @ Google Play",
+      "brand": null,
+      "model": "DADAM120",
+      "observations": [
+        {
+          "timestamp": "2026-08-29T16:43:38.921781+00:00",
+          "retailer": "Google Play",
+          "price": 0.3,
+          "deal_id": "ozbargain-5488deab16c60eb4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6c38d8f400622a1c13a1": {
+      "title": "DeWALT 150 Piece Toughgrip Screwdriving Bit Set $59.99 Delivered @ Costco (Membership Required)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T16:43:38.921897+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 59.99,
+          "deal_id": "ozbargain-caca8cfe525f747a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2591741b55661e93700f": {
+      "title": "DeWALT 18V XR 5.0Ah Power Pruner Kit - DCMPP568P1-XE $199 @ Bunnings Warehouse",
+      "brand": null,
+      "model": "DCMPP568P1-XE",
+      "observations": [
+        {
+          "timestamp": "2026-08-29T16:43:38.922007+00:00",
+          "retailer": "Bunnings Warehouse",
+          "price": 199.0,
+          "deal_id": "ozbargain-7394a0b81634b026",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e512e8efb1bbc5b8df9f": {
+      "title": "Free $0.33 Cashback for Hotel Click at Trivago (1 Transaction Every 7 Days Per Member) @ TopCashback AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T16:43:38.922147+00:00",
+          "retailer": "TopCashback AU",
+          "price": 0.33,
+          "deal_id": "ozbargain-546bf6e61621605e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-442a8617187d08c1f6d1": {
+      "title": "Valvoline Engine Oil Restore n Protect 5w30 6L $62.95 ($0 C&C/ in-Store) @ Auto One",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-29T16:43:38.922610+00:00",
+          "retailer": "Auto One",
+          "price": 62.95,
+          "deal_id": "ozbargain-280bdb1ec8a61122",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-29T07:05:50.533486+00:00"
+  "updated_at": "2026-08-29T16:43:49.789448+00:00"
 }
