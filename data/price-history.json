@@ -14523,6 +14523,13 @@
           "price": 50.51,
           "deal_id": "ozbargain-788c2e47882c4238",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T11:55:48.588067+00:00",
+          "retailer": "Rips Vault eBay",
+          "price": 50.51,
+          "deal_id": "ozbargain-788c2e47882c4238",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19591,6 +19598,13 @@
           "price": 35.99,
           "deal_id": "ozbargain-31495d652ad64492",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T11:55:48.587104+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 35.99,
+          "deal_id": "ozbargain-31495d652ad64492",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19619,6 +19633,13 @@
           "price": 9.99,
           "deal_id": "ozbargain-7a905d01268142e9",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T11:55:48.587393+00:00",
+          "retailer": "Amazon AU",
+          "price": 9.99,
+          "deal_id": "ozbargain-7a905d01268142e9",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19629,6 +19650,13 @@
       "observations": [
         {
           "timestamp": "2026-08-30T05:25:19.172897+00:00",
+          "retailer": "Brand House Direct",
+          "price": 39.95,
+          "deal_id": "ozbargain-0f7b34e2780714f8",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T11:55:48.587478+00:00",
           "retailer": "Brand House Direct",
           "price": 39.95,
           "deal_id": "ozbargain-0f7b34e2780714f8",
@@ -19647,6 +19675,13 @@
           "price": 7.0,
           "deal_id": "ozbargain-4cd0df0a78a5aed9",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T11:55:48.587564+00:00",
+          "retailer": "Pizza Hut (Participating Restaurants Only)",
+          "price": 7.0,
+          "deal_id": "ozbargain-4cd0df0a78a5aed9",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19657,6 +19692,13 @@
       "observations": [
         {
           "timestamp": "2026-08-30T05:25:19.173111+00:00",
+          "retailer": "Supercheap Auto",
+          "price": 10.0,
+          "deal_id": "ozbargain-af2913176a400c78",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T11:55:48.587636+00:00",
           "retailer": "Supercheap Auto",
           "price": 10.0,
           "deal_id": "ozbargain-af2913176a400c78",
@@ -19675,6 +19717,13 @@
           "price": 1.0,
           "deal_id": "ozbargain-859d88531123ae9e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T11:55:48.587728+00:00",
+          "retailer": "Sacca's Fine Foods (Broadmeadows)",
+          "price": 1.0,
+          "deal_id": "ozbargain-859d88531123ae9e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19689,6 +19738,13 @@
           "price": 85.83,
           "deal_id": "ozbargain-8428ed5d2a64b72d",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T11:55:48.587901+00:00",
+          "retailer": "GoodPricePeople eBay",
+          "price": 85.83,
+          "deal_id": "ozbargain-8428ed5d2a64b72d",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19699,6 +19755,13 @@
       "observations": [
         {
           "timestamp": "2026-08-30T05:25:19.173598+00:00",
+          "retailer": "Camera House eBay",
+          "price": 151.2,
+          "deal_id": "ozbargain-fe753493489f8e95",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T11:55:48.587982+00:00",
           "retailer": "Camera House eBay",
           "price": 151.2,
           "deal_id": "ozbargain-fe753493489f8e95",
@@ -19731,6 +19794,13 @@
           "price": 129.0,
           "deal_id": "ozbargain-5c7acc757c8e25a6",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T11:55:48.588227+00:00",
+          "retailer": "Bunnings",
+          "price": 129.0,
+          "deal_id": "ozbargain-5c7acc757c8e25a6",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19741,6 +19811,13 @@
       "observations": [
         {
           "timestamp": "2026-08-30T05:25:19.174041+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 139.0,
+          "deal_id": "ozbargain-2c4e6b0f9d2ef88e",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T11:55:48.588317+00:00",
           "retailer": "OzBargain-listed deal",
           "price": 139.0,
           "deal_id": "ozbargain-2c4e6b0f9d2ef88e",
@@ -19775,7 +19852,217 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-414efe7ecd2b5fc84bdf": {
+      "title": "Watch and get $20 credit at The Good Guys",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-30T11:55:48.585757+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 20.0,
+          "deal_id": "ozbargain-ff51874e2b920eb4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d17c1cd50c5e48389b8c": {
+      "title": "Blaupunkt 55\" 4K UHD LED Tizen Smart TV $449 + Delivery ($0 C&C/in-Store) @ JB Hi-Fi",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-30T11:55:48.585890+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 449.0,
+          "deal_id": "ozbargain-b0472385df82eba4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-622e03c0eb02b7fab8ff": {
+      "title": "Motorola Signature 256GB for $468 using $600 bonus trade-in credit when purchasing on 12 month plan @ Telstra",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-30T11:55:48.585998+00:00",
+          "retailer": "Telstra",
+          "price": 468.0,
+          "deal_id": "ozbargain-0a19ab8c857d38b9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ef1e6fcc265aa804ac24": {
+      "title": "[NSW] 8kw + 21.2kwh for $3550 & 6.65kw PV for $3399. Free Solar Panel Replacement",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-30T11:55:48.586081+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 3550.0,
+          "deal_id": "ozbargain-0cfea885355cdb22",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-81064a901afc0922797b": {
+      "title": "Fitbit Inspire 3 Midnight Zen/Black ($89 via Price-Check Button) @ The Good Guys",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-30T11:55:48.586156+00:00",
+          "retailer": "The Good Guys",
+          "price": 89.0,
+          "deal_id": "ozbargain-74445a5f762f7b04",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-557bd703e63b9cf1f87d": {
+      "title": "20x Stomach Ease Forte (Hyoscine Butylbromide 20mg) $9.99 Delivered @PharmacySavings",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-30T11:55:48.586243+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 9.99,
+          "deal_id": "ozbargain-93a8f912bec8a3e0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-817ddf3856e4acdd842d": {
+      "title": "Google Fitbit Air - Obsidian $199 ($187 via Price-Check Button) ($0 C&C) @ The Good Guys",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-30T11:55:48.586337+00:00",
+          "retailer": "The Good Guys",
+          "price": 199.0,
+          "deal_id": "ozbargain-4fece0da4ec43c6a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a4f6704ec367f8b8c3da": {
+      "title": "Direct O/W: Bali Ex PER $146, ADL $259, BNE $260, MEL $274, SYD $297; Singapore Ex PER $182, SYD $256, MEL $274 (Nov-Jun) @ Sky",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-30T11:55:48.586452+00:00",
+          "retailer": "Sky",
+          "price": 146.0,
+          "deal_id": "ozbargain-c4f626c4860356bd",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1122f125606c40a525cc": {
+      "title": "TP-Link Tapo C200P2 Wi-Fi Security Camera 2-Pack $45.90 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+      "brand": "Tp-Link",
+      "model": "2-PACK",
+      "observations": [
+        {
+          "timestamp": "2026-08-30T11:55:48.586558+00:00",
+          "retailer": "Amazon AU",
+          "price": 45.9,
+          "deal_id": "ozbargain-5b3507ccef95720c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2a206ee2faa7572ad418": {
+      "title": "Instax Fujifilm Mini 13 Instant Camera, Clay White $109 (RRP $139) Delivered @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-30T11:55:48.586643+00:00",
+          "retailer": "Amazon AU",
+          "price": 109.0,
+          "deal_id": "ozbargain-1dad553babd7ee79",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-33844d5902611c123629": {
+      "title": "Hooded Sports Puffer Jacket $99 (Was $229) Delivered @ Superdry",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-30T11:55:48.586715+00:00",
+          "retailer": "Superdry",
+          "price": 99.0,
+          "deal_id": "ozbargain-e4b99c94721c6545",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-66ab35f20a8f77bedb40": {
+      "title": "Masseuse Therapeutica V2 Massage Chair $1999.98 in-store @ Costco (Membership Required)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-30T11:55:48.586789+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 1999.98,
+          "deal_id": "ozbargain-5114c3adb7bf5570",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-78f51ba250f89f22313a": {
+      "title": "Endgame Gear OP1we/XM2we Wireless Gaming Mouse $29 + Delivery ($0 MEL C&C) @ PCCaseGear",
+      "brand": null,
+      "model": "OP1WE",
+      "observations": [
+        {
+          "timestamp": "2026-08-30T11:55:48.586875+00:00",
+          "retailer": "PCCaseGear",
+          "price": 29.0,
+          "deal_id": "ozbargain-bdf9f9bc207b73e2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-47504cf7b010bb307a6e": {
+      "title": "Windscribe Pro VPN US$39 / ~A$54 Per Year (Same Renewal Price) @ Windscribe",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-30T11:55:48.587281+00:00",
+          "retailer": "Windscribe",
+          "price": 39.0,
+          "deal_id": "ozbargain-492aa97e618f4cfd",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e5b44a12afd38dea8c86": {
+      "title": "[PS5] Anno 117: Pax Romana $34 + $10 Delivery @ Target",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-30T11:55:48.588142+00:00",
+          "retailer": "Target",
+          "price": 34.0,
+          "deal_id": "ozbargain-1fad900225e156b6",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-30T05:25:30.114549+00:00"
+  "updated_at": "2026-08-30T11:55:57.130599+00:00"
 }
