@@ -3236,7 +3236,7 @@
       ]
     },
     "product-79c657b6be1365d210b8": {
-      "title": "Round Lab 1025 Dokdo Toner Set 2 x 200ml + 1 x 100ml $39.99 Delivered @ Costco (Membership Required)",
+      "title": "Selsun Blue Deep Cleansing Anti-Dandruff Shampoo, Fights Dandruff While Keeping Your Hair Feeling Soft, 200ml $3.59 @ Amazon s&s",
       "brand": null,
       "model": "200ML",
       "observations": [
@@ -3259,6 +3259,13 @@
           "retailer": "Costco (Membership Required)",
           "price": 39.99,
           "deal_id": "ozbargain-06140775509e9eb8",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T16:41:52.432857+00:00",
+          "retailer": "Amazon s&s",
+          "price": 3.59,
+          "deal_id": "ozbargain-48c461e36f4477e8",
           "source": "OzBargain"
         }
       ]
@@ -9774,7 +9781,7 @@
       ]
     },
     "product-219417f5111691f29e11": {
-      "title": "BWS: 25% Cashback ($30 Cap Per Member, Exclusions Apply) @ TopCashback AU",
+      "title": "BWS: 27% Cashback ($30 Cap Per Member, Exclusions Apply) @ TopCashback AU",
       "brand": null,
       "model": null,
       "observations": [
@@ -9783,6 +9790,13 @@
           "retailer": "TopCashback AU",
           "price": 30.0,
           "deal_id": "ozbargain-1dd35a8717c3556f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T16:41:52.432954+00:00",
+          "retailer": "TopCashback AU",
+          "price": 30.0,
+          "deal_id": "ozbargain-0ef004cd5130b85b",
           "source": "OzBargain"
         }
       ]
@@ -19605,6 +19619,13 @@
           "price": 35.99,
           "deal_id": "ozbargain-31495d652ad64492",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T16:41:52.434306+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 35.99,
+          "deal_id": "ozbargain-31495d652ad64492",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19661,6 +19682,13 @@
           "price": 39.95,
           "deal_id": "ozbargain-0f7b34e2780714f8",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T16:41:52.434625+00:00",
+          "retailer": "Brand House Direct",
+          "price": 39.95,
+          "deal_id": "ozbargain-0f7b34e2780714f8",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19678,6 +19706,13 @@
         },
         {
           "timestamp": "2026-08-30T11:55:48.587564+00:00",
+          "retailer": "Pizza Hut (Participating Restaurants Only)",
+          "price": 7.0,
+          "deal_id": "ozbargain-4cd0df0a78a5aed9",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T16:41:52.434693+00:00",
           "retailer": "Pizza Hut (Participating Restaurants Only)",
           "price": 7.0,
           "deal_id": "ozbargain-4cd0df0a78a5aed9",
@@ -19703,6 +19738,13 @@
           "price": 10.0,
           "deal_id": "ozbargain-af2913176a400c78",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T16:41:52.434753+00:00",
+          "retailer": "Supercheap Auto",
+          "price": 10.0,
+          "deal_id": "ozbargain-af2913176a400c78",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19724,6 +19766,13 @@
           "price": 1.0,
           "deal_id": "ozbargain-859d88531123ae9e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T16:41:52.434827+00:00",
+          "retailer": "Sacca's Fine Foods (Broadmeadows)",
+          "price": 1.0,
+          "deal_id": "ozbargain-859d88531123ae9e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19741,6 +19790,13 @@
         },
         {
           "timestamp": "2026-08-30T11:55:48.587901+00:00",
+          "retailer": "GoodPricePeople eBay",
+          "price": 85.83,
+          "deal_id": "ozbargain-8428ed5d2a64b72d",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T16:41:52.434963+00:00",
           "retailer": "GoodPricePeople eBay",
           "price": 85.83,
           "deal_id": "ozbargain-8428ed5d2a64b72d",
@@ -19878,16 +19934,30 @@
           "price": 449.0,
           "deal_id": "ozbargain-b0472385df82eba4",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T16:41:52.433408+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 449.0,
+          "deal_id": "ozbargain-b0472385df82eba4",
+          "source": "OzBargain"
         }
       ]
     },
     "product-622e03c0eb02b7fab8ff": {
-      "title": "Motorola Signature 256GB for $468 using $600 bonus trade-in credit when purchasing on 12 month plan @ Telstra",
+      "title": "Motorola Signature 256GB for $468 Using $600 Bonus Trade-in Credit When Purchasing on 12 Month Plan @ Telstra",
       "brand": null,
       "model": null,
       "observations": [
         {
           "timestamp": "2026-08-30T11:55:48.585998+00:00",
+          "retailer": "Telstra",
+          "price": 468.0,
+          "deal_id": "ozbargain-0a19ab8c857d38b9",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T16:41:52.433500+00:00",
           "retailer": "Telstra",
           "price": 468.0,
           "deal_id": "ozbargain-0a19ab8c857d38b9",
@@ -19910,7 +19980,7 @@
       ]
     },
     "product-81064a901afc0922797b": {
-      "title": "Fitbit Inspire 3 Midnight Zen/Black ($89 via Price-Check Button) @ The Good Guys",
+      "title": "Fitbit Inspire 3 - Midnight Zen/Black $89 via Price-Check Button + Delivery ($0 C&C) @ The Good Guys",
       "brand": null,
       "model": null,
       "observations": [
@@ -19919,6 +19989,13 @@
           "retailer": "The Good Guys",
           "price": 89.0,
           "deal_id": "ozbargain-74445a5f762f7b04",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T16:41:52.433573+00:00",
+          "retailer": "The Good Guys",
+          "price": 89.0,
+          "deal_id": "ozbargain-2273724cc7af35ef",
           "source": "OzBargain"
         }
       ]
@@ -19934,11 +20011,18 @@
           "price": 9.99,
           "deal_id": "ozbargain-93a8f912bec8a3e0",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T16:41:52.433641+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 9.99,
+          "deal_id": "ozbargain-93a8f912bec8a3e0",
+          "source": "OzBargain"
         }
       ]
     },
     "product-817ddf3856e4acdd842d": {
-      "title": "Google Fitbit Air - Obsidian $199 ($187 via Price-Check Button) ($0 C&C) @ The Good Guys",
+      "title": "Google Fitbit Air - Obsidian $199 ($187 via Price Check Button) + Delivery ($0 C&C/ In-Store) @ The Good Guys",
       "brand": null,
       "model": null,
       "observations": [
@@ -19947,6 +20031,13 @@
           "retailer": "The Good Guys",
           "price": 199.0,
           "deal_id": "ozbargain-4fece0da4ec43c6a",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T16:41:52.433720+00:00",
+          "retailer": "The Good Guys",
+          "price": 199.0,
+          "deal_id": "ozbargain-b1ef72262c14fa09",
           "source": "OzBargain"
         }
       ]
@@ -19962,6 +20053,13 @@
           "price": 146.0,
           "deal_id": "ozbargain-c4f626c4860356bd",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T16:41:52.433796+00:00",
+          "retailer": "Sky",
+          "price": 146.0,
+          "deal_id": "ozbargain-c4f626c4860356bd",
+          "source": "OzBargain"
         }
       ]
     },
@@ -19972,6 +20070,13 @@
       "observations": [
         {
           "timestamp": "2026-08-30T11:55:48.586558+00:00",
+          "retailer": "Amazon AU",
+          "price": 45.9,
+          "deal_id": "ozbargain-5b3507ccef95720c",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T16:41:52.433873+00:00",
           "retailer": "Amazon AU",
           "price": 45.9,
           "deal_id": "ozbargain-5b3507ccef95720c",
@@ -20004,6 +20109,13 @@
           "price": 99.0,
           "deal_id": "ozbargain-e4b99c94721c6545",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T16:41:52.433993+00:00",
+          "retailer": "Superdry",
+          "price": 99.0,
+          "deal_id": "ozbargain-e4b99c94721c6545",
+          "source": "OzBargain"
         }
       ]
     },
@@ -20018,11 +20130,18 @@
           "price": 1999.98,
           "deal_id": "ozbargain-5114c3adb7bf5570",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T16:41:52.434052+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 1999.98,
+          "deal_id": "ozbargain-5114c3adb7bf5570",
+          "source": "OzBargain"
         }
       ]
     },
     "product-78f51ba250f89f22313a": {
-      "title": "Endgame Gear OP1we/XM2we Wireless Gaming Mouse $29 + Delivery ($0 MEL C&C) @ PCCaseGear",
+      "title": "Endgame Gear OP1we/XM2we Wireless Gaming Mouse $29 + Delivery ($0 MEL C&C) @ PC Case Gear",
       "brand": null,
       "model": "OP1WE",
       "observations": [
@@ -20031,6 +20150,13 @@
           "retailer": "PCCaseGear",
           "price": 29.0,
           "deal_id": "ozbargain-bdf9f9bc207b73e2",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T16:41:52.434122+00:00",
+          "retailer": "PC Case Gear",
+          "price": 29.0,
+          "deal_id": "ozbargain-a3705d597ebfcdc3",
           "source": "OzBargain"
         }
       ]
@@ -20042,6 +20168,13 @@
       "observations": [
         {
           "timestamp": "2026-08-30T11:55:48.587281+00:00",
+          "retailer": "Windscribe",
+          "price": 39.0,
+          "deal_id": "ozbargain-492aa97e618f4cfd",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-30T16:41:52.434465+00:00",
           "retailer": "Windscribe",
           "price": 39.0,
           "deal_id": "ozbargain-492aa97e618f4cfd",
@@ -20062,7 +20195,91 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-d4c85ffe8febc77c9425": {
+      "title": "Air Canada: Sydney to NYC $1284, Boston $1277, Orlando $1284 return (23kg bag, Oct & Nov) @Google Flights",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-30T16:41:52.433110+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 1284.0,
+          "deal_id": "ozbargain-8fcaf537c74b90d1",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-12f76b7920bee7135cba": {
+      "title": "Nothing Headphone (a) Adaptive Active Noise Cancelling Headphones $155.41 Delivered @ Amazon UK via AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-30T16:41:52.433184+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 155.41,
+          "deal_id": "ozbargain-906fcfc1c5c9b27e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c124b7f3884ab83c119e": {
+      "title": "Pay with EatClub Digital Card at BWS Online, Receive 13-15% Back in Dining Credit (Up to $150) @ EatClub (Excludes NT)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-30T16:41:52.433255+00:00",
+          "retailer": "EatClub (Excludes NT)",
+          "price": 150.0,
+          "deal_id": "ozbargain-53a584628e524de9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5b453efcd8e23aa5551f": {
+      "title": "Watch A Video, Provide Email & Mobile Number & Receive $20 90-Day StoreCash @ The Good Guys",
+      "brand": null,
+      "model": "90-DAY",
+      "observations": [
+        {
+          "timestamp": "2026-08-30T16:41:52.433331+00:00",
+          "retailer": "The Good Guys",
+          "price": 20.0,
+          "deal_id": "ozbargain-783193dcab2cd8cd",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-81ebdcab16db431c680d": {
+      "title": "Fujifilm Instax Mini 13 Instant Camera - Clay White $109 (RRP $139) Delivered @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-30T16:41:52.433932+00:00",
+          "retailer": "Amazon AU",
+          "price": 109.0,
+          "deal_id": "ozbargain-02033981da547079",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b8e890dddbf7f2607a6a": {
+      "title": "Smarcute Floral Curtains 160cm Length 2 Panels Set $9.99 (RRP $49.49) + Delivery ($0 Prime/$59 Spend) @ Cozy Plus via Amazon AU",
+      "brand": null,
+      "model": "160CM",
+      "observations": [
+        {
+          "timestamp": "2026-08-30T16:41:52.434553+00:00",
+          "retailer": "Cozy Plus via Amazon AU",
+          "price": 9.99,
+          "deal_id": "ozbargain-8474dc27648635ab",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-30T11:55:57.130599+00:00"
+  "updated_at": "2026-08-30T16:42:02.404186+00:00"
 }
