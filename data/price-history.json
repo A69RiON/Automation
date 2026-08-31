@@ -6354,6 +6354,13 @@
           "price": 19.59,
           "deal_id": "ozbargain-ef17746194470fb4",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T22:51:27.433127+00:00",
+          "retailer": "Humifo-AU via Amazon AU",
+          "price": 19.59,
+          "deal_id": "ozbargain-ef17746194470fb4",
+          "source": "OzBargain"
         }
       ]
     },
@@ -7967,6 +7974,13 @@
         },
         {
           "timestamp": "2026-08-31T13:52:37.638668+00:00",
+          "retailer": "Woolworths, McCain Airfryer Chips 750g $2.75 @ Coles + 222 More",
+          "price": 5.25,
+          "deal_id": "ozbargain-dfdebac5cc5bf3a1",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T22:51:27.433814+00:00",
           "retailer": "Woolworths, McCain Airfryer Chips 750g $2.75 @ Coles + 222 More",
           "price": 5.25,
           "deal_id": "ozbargain-dfdebac5cc5bf3a1",
@@ -14523,6 +14537,13 @@
           "price": 8.99,
           "deal_id": "ozbargain-0ccce77da32465ea",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T22:51:27.433575+00:00",
+          "retailer": "Cricnix",
+          "price": 8.99,
+          "deal_id": "ozbargain-0ccce77da32465ea",
+          "source": "OzBargain"
         }
       ]
     },
@@ -15030,6 +15051,13 @@
         },
         {
           "timestamp": "2026-08-31T13:52:37.638876+00:00",
+          "retailer": "Breville Australia Outlet eBay",
+          "price": 399.0,
+          "deal_id": "ozbargain-61c5f8ddb2457977",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T22:51:27.434030+00:00",
           "retailer": "Breville Australia Outlet eBay",
           "price": 399.0,
           "deal_id": "ozbargain-61c5f8ddb2457977",
@@ -18436,6 +18464,13 @@
           "price": 20.0,
           "deal_id": "ozbargain-9babe49ec982c523",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T22:51:27.432333+00:00",
+          "retailer": "Woolworths",
+          "price": 20.0,
+          "deal_id": "ozbargain-9babe49ec982c523",
+          "source": "OzBargain"
         }
       ]
     },
@@ -20963,6 +20998,13 @@
           "price": 5.5,
           "deal_id": "ozbargain-9545ca1b424242fc",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T22:51:27.431996+00:00",
+          "retailer": "Woolworths; Big W",
+          "price": 5.5,
+          "deal_id": "ozbargain-9545ca1b424242fc",
+          "source": "OzBargain"
         }
       ]
     },
@@ -20973,6 +21015,13 @@
       "observations": [
         {
           "timestamp": "2026-08-31T13:52:37.636922+00:00",
+          "retailer": "Steam",
+          "price": 14.98,
+          "deal_id": "ozbargain-eb272319ff4f21d3",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T22:51:27.432101+00:00",
           "retailer": "Steam",
           "price": 14.98,
           "deal_id": "ozbargain-eb272319ff4f21d3",
@@ -20991,6 +21040,13 @@
           "price": 24.0,
           "deal_id": "ozbargain-ec89cfcf79e0a759",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T22:51:27.432246+00:00",
+          "retailer": "AliExpress",
+          "price": 24.0,
+          "deal_id": "ozbargain-ec89cfcf79e0a759",
+          "source": "OzBargain"
         }
       ]
     },
@@ -21001,6 +21057,13 @@
       "observations": [
         {
           "timestamp": "2026-08-31T13:52:37.637282+00:00",
+          "retailer": "Sony eBay (Excl. WA, TAS, NT)",
+          "price": 101.7,
+          "deal_id": "ozbargain-5348cea61694a372",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T22:51:27.432454+00:00",
           "retailer": "Sony eBay (Excl. WA, TAS, NT)",
           "price": 101.7,
           "deal_id": "ozbargain-5348cea61694a372",
@@ -21019,6 +21082,13 @@
           "price": 849.0,
           "deal_id": "ozbargain-60ee1bcdb29dff1d",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T22:51:27.432576+00:00",
+          "retailer": "Umart",
+          "price": 849.0,
+          "deal_id": "ozbargain-60ee1bcdb29dff1d",
+          "source": "OzBargain"
         }
       ]
     },
@@ -21029,6 +21099,13 @@
       "observations": [
         {
           "timestamp": "2026-08-31T13:52:37.637536+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 132.01,
+          "deal_id": "ozbargain-caf42ddd80fd1370",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T22:51:27.432684+00:00",
           "retailer": "Amazon UK via AU",
           "price": 132.01,
           "deal_id": "ozbargain-caf42ddd80fd1370",
@@ -21047,6 +21124,13 @@
           "price": 20.0,
           "deal_id": "ozbargain-1bc972150d91eb29",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T22:51:27.432800+00:00",
+          "retailer": "Medibank",
+          "price": 20.0,
+          "deal_id": "ozbargain-1bc972150d91eb29",
+          "source": "OzBargain"
         }
       ]
     },
@@ -21057,6 +21141,13 @@
       "observations": [
         {
           "timestamp": "2026-08-31T13:52:37.637756+00:00",
+          "retailer": "Zemismart",
+          "price": 26.4,
+          "deal_id": "ozbargain-ada091bb6d4e947c",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T22:51:27.432905+00:00",
           "retailer": "Zemismart",
           "price": 26.4,
           "deal_id": "ozbargain-ada091bb6d4e947c",
@@ -21075,6 +21166,13 @@
           "price": 179.0,
           "deal_id": "ozbargain-a9f8d3db6f30f957",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T22:51:27.433007+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 179.0,
+          "deal_id": "ozbargain-a9f8d3db6f30f957",
+          "source": "OzBargain"
         }
       ]
     },
@@ -21085,6 +21183,13 @@
       "observations": [
         {
           "timestamp": "2026-08-31T13:52:37.638085+00:00",
+          "retailer": "Humm90 Platinum Mastercard (Activation Required)",
+          "price": 200.0,
+          "deal_id": "ozbargain-a3bf58f142c3842a",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T22:51:27.433230+00:00",
           "retailer": "Humm90 Platinum Mastercard (Activation Required)",
           "price": 200.0,
           "deal_id": "ozbargain-a3bf58f142c3842a",
@@ -21103,6 +21208,13 @@
           "price": 337.5,
           "deal_id": "ozbargain-bc4c6e19d5fde2e3",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T22:51:27.433339+00:00",
+          "retailer": "Uwant Australia",
+          "price": 337.5,
+          "deal_id": "ozbargain-bc4c6e19d5fde2e3",
+          "source": "OzBargain"
         }
       ]
     },
@@ -21113,6 +21225,13 @@
       "observations": [
         {
           "timestamp": "2026-08-31T13:52:37.638329+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 7.5,
+          "deal_id": "ozbargain-51c3a4fd23624d58",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T22:51:27.433465+00:00",
           "retailer": "Amazon AU (Excl. NT)",
           "price": 7.5,
           "deal_id": "ozbargain-51c3a4fd23624d58",
@@ -21131,6 +21250,13 @@
           "price": 5.0,
           "deal_id": "ozbargain-ab8d35d651f2222e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T22:51:27.433680+00:00",
+          "retailer": "Participating IKEA Stores",
+          "price": 5.0,
+          "deal_id": "ozbargain-ab8d35d651f2222e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -21141,6 +21267,13 @@
       "observations": [
         {
           "timestamp": "2026-08-31T13:52:37.638773+00:00",
+          "retailer": "Good Price Pharmacy",
+          "price": 67.75,
+          "deal_id": "ozbargain-e5894664b724ae34",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T22:51:27.433924+00:00",
           "retailer": "Good Price Pharmacy",
           "price": 67.75,
           "deal_id": "ozbargain-e5894664b724ae34",
@@ -21189,7 +21322,147 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-c0de513616dfae70b211": {
+      "title": "$1000 off Vamos Electric Trikes, $800 off Amigo, $500 off Rapido, Doblez & Amigo Plus @ Vamos Bikes",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T22:51:27.430751+00:00",
+          "retailer": "Vamos Bikes",
+          "price": 1000.0,
+          "deal_id": "ozbargain-22d6318780ba1b86",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6921c6533c9bf8c78c18": {
+      "title": "[PC, Steam] City Car Driving 2.0 $25.17 (40% off) @ Steam",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T22:51:27.430965+00:00",
+          "retailer": "Steam",
+          "price": 25.17,
+          "deal_id": "ozbargain-0c88a63dd77019d1",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-55a02304d230581caeab": {
+      "title": "Singapore Airlines: Colombo Sri Lanka return PER $669, MEL $780, DRW $781, SYD $794, ADL $796, BNE $824, CNS $832 @IWTF",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T22:51:27.431106+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 669.0,
+          "deal_id": "ozbargain-99445e8b49ac300b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-99af32106fe5b93b5d6e": {
+      "title": "$5 off $100 Spend in 1 Transaction on Eligible Items with Mastercard @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T22:51:27.431222+00:00",
+          "retailer": "Amazon AU",
+          "price": 5.0,
+          "deal_id": "ozbargain-e700607e48784944",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9f99fa3591f8d009a7d9": {
+      "title": "Myer: 20% Cashback on Click & Collect Orders ($50 Cap Per Member, Exclusions Apply) @ TopCashback AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T22:51:27.431331+00:00",
+          "retailer": "TopCashback AU",
+          "price": 50.0,
+          "deal_id": "ozbargain-3fcb2d67211100e8",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c55ae8c0feedccc3dca9": {
+      "title": "Apple iPhone 17 Pro 512GB $2,099.99 Delivered @ Costco (Membership Required) (Price Beat $1,994.99 @ Officeworks)",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T22:51:27.431448+00:00",
+          "retailer": "Costco (Membership Required) (Price Beat $1,994.99 @ Officeworks)",
+          "price": 2099.99,
+          "deal_id": "ozbargain-2968fe74717fe1e2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2f0cc8ffddf3b90264aa": {
+      "title": "Sensodyne Repair & Protect Toothpaste 100g $6.05 ($5.44 Subscribe & Save) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T22:51:27.431556+00:00",
+          "retailer": "Amazon AU",
+          "price": 6.05,
+          "deal_id": "ozbargain-d691154a23fc80a1",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-65adcbc13c4066c58c15": {
+      "title": "eGift Cards: 3% off $200 Category Choice Tradie, $4 Promo Credit on $100 Amazon Gift Card Spend (First 1,500 Orders) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T22:51:27.431673+00:00",
+          "retailer": "Amazon AU",
+          "price": 200.0,
+          "deal_id": "ozbargain-5dfb99888bcb4489",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ebec837de864894f5bec": {
+      "title": "ProtonVPN VPN Plus 2 years R$294.96 (~A$79.43) @ ProtonVPN Brazil (New Accounts)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T22:51:27.431778+00:00",
+          "retailer": "ProtonVPN Brazil (New Accounts)",
+          "price": 294.96,
+          "deal_id": "ozbargain-73b8e3c61375c3cf",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e191ae1e6d9c089cb8df": {
+      "title": "NordVPN Basic 27 Months R$176.58 / A$47.55 @ NordVPN Brazil",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T22:51:27.431891+00:00",
+          "retailer": "NordVPN Brazil",
+          "price": 176.58,
+          "deal_id": "ozbargain-eeb295cc4c7bc650",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-31T13:52:48.445359+00:00"
+  "updated_at": "2026-08-31T22:51:39.538019+00:00"
 }
