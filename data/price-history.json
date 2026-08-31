@@ -5339,6 +5339,13 @@
           "price": 35.95,
           "deal_id": "ozbargain-f803d4551933f447",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T13:52:37.639314+00:00",
+          "retailer": "Tableworx via Lasoo",
+          "price": 35.95,
+          "deal_id": "ozbargain-f803d4551933f447",
+          "source": "OzBargain"
         }
       ]
     },
@@ -6295,7 +6302,7 @@
       ]
     },
     "product-554a3228778196936654": {
-      "title": "INIU 45W 10000mAh Power Bank $15.29 + Delivery ($0 with Prime/ $59 Spend) @ INIU AU via Amazon AU",
+      "title": "Camping Fan Rechargeable 10000mAh with Light $19.59 (RRP $27.99) + Delivery ($0 Prime/$59 Spend) @ Humifo-AU via Amazon AU",
       "brand": null,
       "model": "10000MAH",
       "observations": [
@@ -6339,6 +6346,13 @@
           "retailer": "INIU AU via Amazon AU",
           "price": 15.29,
           "deal_id": "ozbargain-95571f5e5127669d",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T13:52:37.637969+00:00",
+          "retailer": "Humifo-AU via Amazon AU",
+          "price": 19.59,
+          "deal_id": "ozbargain-ef17746194470fb4",
           "source": "OzBargain"
         }
       ]
@@ -7884,7 +7898,7 @@
       ]
     },
     "product-f0c75ff5305c866cc902": {
-      "title": "Little Creatures Hazy IPA Beer 375ml 4-Pack $10 (RRP $26) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+      "title": "½ Price: Four’N Twenty Traditional Pies 700g 4-Pack $5.25 @ Woolworths, McCain Airfryer Chips 750g $2.75 @ Coles + 222 More",
       "brand": null,
       "model": "4-PACK",
       "observations": [
@@ -7949,6 +7963,13 @@
           "retailer": "Amazon AU",
           "price": 10.0,
           "deal_id": "ozbargain-f44fa846c9fa465f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T13:52:37.638668+00:00",
+          "retailer": "Woolworths, McCain Airfryer Chips 750g $2.75 @ Coles + 222 More",
+          "price": 5.25,
+          "deal_id": "ozbargain-dfdebac5cc5bf3a1",
           "source": "OzBargain"
         }
       ]
@@ -14485,7 +14506,7 @@
       ]
     },
     "product-64e4aaa7be4ef74a838c": {
-      "title": "Southmer Australian Merino Wool Socks 3-Pack Bundle $34 (Was $49) + $12 Flat Delivery ($0 Orders > $65) @ Southmer",
+      "title": "Cricnix Sports/Cricket Socks 3-Pack (Adult $8.99, Youth $7.99) + $10 Delivery @ Cricnix",
       "brand": null,
       "model": "3-PACK",
       "observations": [
@@ -14494,6 +14515,13 @@
           "retailer": "Southmer",
           "price": 34.0,
           "deal_id": "ozbargain-b905b6654969ff99",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T13:52:37.638434+00:00",
+          "retailer": "Cricnix",
+          "price": 8.99,
+          "deal_id": "ozbargain-0ccce77da32465ea",
           "source": "OzBargain"
         }
       ]
@@ -14982,7 +15010,7 @@
       ]
     },
     "product-d3ae8add080f5da5d2b5": {
-      "title": "[Refurb] Breville Barista Express BES870 Espresso Machine (Salted Liquorice) $339.15 Delivered @ Breville Australia Outlet eBay",
+      "title": "[Refurb] Breville Barista Express BES870 Espresso Machine $399 Delivered @ Breville Australia Outlet eBay",
       "brand": null,
       "model": "BES870",
       "observations": [
@@ -14998,6 +15026,13 @@
           "retailer": "Breville Australia Outlet eBay",
           "price": 339.15,
           "deal_id": "ozbargain-a6dde84b39a2fc17",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T13:52:37.638876+00:00",
+          "retailer": "Breville Australia Outlet eBay",
+          "price": 399.0,
+          "deal_id": "ozbargain-61c5f8ddb2457977",
           "source": "OzBargain"
         }
       ]
@@ -18384,7 +18419,7 @@
       ]
     },
     "product-674ccd706aa069aa9934": {
-      "title": "Detroit 2000W Heat Gun $19.95 (RRP $49.95) + Delivery ($0 C&C/ $99 Spend) @ Total Tools",
+      "title": "Maxim 2000w Convection Heater Each $20 (Save $25) @ Woolworths",
       "brand": null,
       "model": "2000W",
       "observations": [
@@ -18393,6 +18428,13 @@
           "retailer": "Total Tools",
           "price": 19.95,
           "deal_id": "ozbargain-c6c9b5d2bc034790",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T13:52:37.637160+00:00",
+          "retailer": "Woolworths",
+          "price": 20.0,
+          "deal_id": "ozbargain-9babe49ec982c523",
           "source": "OzBargain"
         }
       ]
@@ -20508,6 +20550,13 @@
           "price": 10.0,
           "deal_id": "ozbargain-5dfdab399ef2fdfe",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T13:52:37.639434+00:00",
+          "retailer": "Coles on Uber Eats",
+          "price": 10.0,
+          "deal_id": "ozbargain-5dfdab399ef2fdfe",
+          "source": "OzBargain"
         }
       ]
     },
@@ -20550,6 +20599,13 @@
           "price": 1.0,
           "deal_id": "ozbargain-f8ab24a1c0488660",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T13:52:37.639548+00:00",
+          "retailer": "Webull",
+          "price": 1.0,
+          "deal_id": "ozbargain-f8ab24a1c0488660",
+          "source": "OzBargain"
         }
       ]
     },
@@ -20564,16 +20620,30 @@
           "price": 8.8,
           "deal_id": "ozbargain-82040f7bbef513b3",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T13:52:37.639653+00:00",
+          "retailer": "Coles",
+          "price": 8.8,
+          "deal_id": "ozbargain-82040f7bbef513b3",
+          "source": "OzBargain"
         }
       ]
     },
     "product-b5a1be37be603313d510": {
-      "title": "20% off storewide at Happy Valley Seeds (excludes $1 seed range)",
+      "title": "20% off Storewide at Happy Valley Seeds (Excludes $1 Seed Range)",
       "brand": null,
       "model": null,
       "observations": [
         {
           "timestamp": "2026-08-31T05:36:32.420910+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 1.0,
+          "deal_id": "ozbargain-9cc78274817e9cd6",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T13:52:37.639748+00:00",
           "retailer": "OzBargain-listed deal",
           "price": 1.0,
           "deal_id": "ozbargain-9cc78274817e9cd6",
@@ -20588,6 +20658,13 @@
       "observations": [
         {
           "timestamp": "2026-08-31T05:36:32.421039+00:00",
+          "retailer": "Ply Online",
+          "price": 390.0,
+          "deal_id": "ozbargain-e58b8370d15f3dd8",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T13:52:37.639854+00:00",
           "retailer": "Ply Online",
           "price": 390.0,
           "deal_id": "ozbargain-e58b8370d15f3dd8",
@@ -20846,7 +20923,273 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-bce19b5b330ea7cf6b2f": {
+      "title": "ProtonVPN Brazil VPN plus 2 years R$294.96 / A$79.43",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T13:52:37.636568+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 294.96,
+          "deal_id": "ozbargain-9782e4f61b14d613",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d7de105f3dcf070ce373": {
+      "title": "NordVPN Brazil Basic 27 months R$176.58 / A$47.55",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T13:52:37.636704+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 176.58,
+          "deal_id": "ozbargain-d0747013c1dc7430",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-574d878e1210380dc532": {
+      "title": "1/2 Price: Redwin Sorbolene Daily Moisturiser Vitamin E 1.1L $5.50 @ Woolworths; Big W",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T13:52:37.636822+00:00",
+          "retailer": "Woolworths; Big W",
+          "price": 5.5,
+          "deal_id": "ozbargain-9545ca1b424242fc",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-10c9ba946e9d89d73992": {
+      "title": "[PC, Steam] Fable Anniversary $14.98 @ Steam",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T13:52:37.636922+00:00",
+          "retailer": "Steam",
+          "price": 14.98,
+          "deal_id": "ozbargain-eb272319ff4f21d3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5c3efc7ea86a2b99e7d4": {
+      "title": "Pay with PayPal Pay in 4 (Buy Now, Pay Later) for ~A$24 off ~A$239, ~A$39 off ~A$388 Spend @ AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T13:52:37.637065+00:00",
+          "retailer": "AliExpress",
+          "price": 24.0,
+          "deal_id": "ozbargain-ec89cfcf79e0a759",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-3c71710b59bf47c5a23f": {
+      "title": "[Seconds] Sony INZONE H5 Wireless Gaming Headset (Black) $101.70 Delivered @ Sony eBay (Excl. WA, TAS, NT)",
+      "brand": "Sony",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T13:52:37.637282+00:00",
+          "retailer": "Sony eBay (Excl. WA, TAS, NT)",
+          "price": 101.7,
+          "deal_id": "ozbargain-5348cea61694a372",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5bb6ae7097f0722386e2": {
+      "title": "Asus Prime Radeon RX 9070 EVO OC 16GB Graphics Card $849 + Delivery ($0 C&C) @ Umart",
+      "brand": "Asus",
+      "model": "RX 9070",
+      "observations": [
+        {
+          "timestamp": "2026-08-31T13:52:37.637406+00:00",
+          "retailer": "Umart",
+          "price": 849.0,
+          "deal_id": "ozbargain-60ee1bcdb29dff1d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6a038dc05ffec9dcb3b3": {
+      "title": "[Prime] 2x Continental Grand Prix 5000 700x28c Folding Tyres - $132.01 Delivered @ Amazon UK via AU",
+      "brand": null,
+      "model": "700X28C",
+      "observations": [
+        {
+          "timestamp": "2026-08-31T13:52:37.637536+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 132.01,
+          "deal_id": "ozbargain-caf42ddd80fd1370",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-580c49847cfe523feba8": {
+      "title": "[VIC] $20 Peninsula Hot Springs Voucher for 0 Points (One Per Live Better Rewards Member) @ Medibank",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T13:52:37.637648+00:00",
+          "retailer": "Medibank",
+          "price": 20.0,
+          "deal_id": "ozbargain-1bc972150d91eb29",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-05ef1416570c0bffe737": {
+      "title": "Zigbee Neutral Dimmer Display Touch Switch with Custom Name US$26.4 + US$2 Delivery (~A$39.66) @ Zemismart",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T13:52:37.637756+00:00",
+          "retailer": "Zemismart",
+          "price": 26.4,
+          "deal_id": "ozbargain-ada091bb6d4e947c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-dee766134d6544d39d9c": {
+      "title": "Tefal Pure Air Compact Air Purifier $179 (Normally $249) + Bonus Food Slicer Valued at $129.99",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T13:52:37.637861+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 179.0,
+          "deal_id": "ozbargain-a9f8d3db6f30f957",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c432cbd492bafb374686": {
+      "title": "10% Cashback on Eligible Purchases (Capped at $200) @ Humm90 Platinum Mastercard (Activation Required)",
+      "brand": null,
+      "model": "HUMM90",
+      "observations": [
+        {
+          "timestamp": "2026-08-31T13:52:37.638085+00:00",
+          "retailer": "Humm90 Platinum Mastercard (Activation Required)",
+          "price": 200.0,
+          "deal_id": "ozbargain-a3bf58f142c3842a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-643410bfda8e009c1e12": {
+      "title": "Uwant Wet and Dry Vacuum D500 Pro $337.50, D700 Pro $450 Delivered @ Uwant Australia",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T13:52:37.638196+00:00",
+          "retailer": "Uwant Australia",
+          "price": 337.5,
+          "deal_id": "ozbargain-bc4c6e19d5fde2e3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-77b64e2049ed7833256e": {
+      "title": "Macleans Protect Fluoride Toothpaste 170g 3pk $7.50 ($6.75 Sub & Save) + Delivery ($0 Prime/$59 Spend) @ Amazon AU (Excl. NT)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T13:52:37.638329+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 7.5,
+          "deal_id": "ozbargain-51c3a4fd23624d58",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8f3cb679c6c6b013a968": {
+      "title": "$5 Selected Menu Meals for IKEA Family Members Every Friday @ Participating IKEA Stores",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T13:52:37.638536+00:00",
+          "retailer": "Participating IKEA Stores",
+          "price": 5.0,
+          "deal_id": "ozbargain-ab8d35d651f2222e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-545c56dc741a92cd1b5d": {
+      "title": "50% off RRP Musashi: e.g. Bulk Protein Vanilla 2kg $67.75 (Was $133.49) C&C / in-Store @ Good Price Pharmacy",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T13:52:37.638773+00:00",
+          "retailer": "Good Price Pharmacy",
+          "price": 67.75,
+          "deal_id": "ozbargain-e5894664b724ae34",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4164bc5ea4e42c87d2e3": {
+      "title": "FlexiSpot C7 Ergonomic Office Chair with Footrest (Foam Seat) $440.99 Delivered @FlexiSpot",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T13:52:37.638978+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 440.99,
+          "deal_id": "ozbargain-5b5fea27c9509cc4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f93d21ba4d38cf9057db": {
+      "title": "Winix True Hepa 4-Stage with Bonus Filter C610 $199.99 ($100 off) Delivered @ Costco (Membership Required)",
+      "brand": null,
+      "model": "4-STAGE",
+      "observations": [
+        {
+          "timestamp": "2026-08-31T13:52:37.639101+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 199.99,
+          "deal_id": "ozbargain-efec42bf9ec70077",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-08b2d96de09ded78fdfa": {
+      "title": "Adventure Kings 360w Folding Solar Blanket $185 + Delivery @ 4WD Supacentre via Everyday Marketplace",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T13:52:37.639215+00:00",
+          "retailer": "4WD Supacentre via Everyday Marketplace",
+          "price": 185.0,
+          "deal_id": "ozbargain-5dfe220c1af079fa",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-31T05:36:44.421551+00:00"
+  "updated_at": "2026-08-31T13:52:48.445359+00:00"
 }
