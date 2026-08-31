@@ -4755,7 +4755,7 @@
       ]
     },
     "product-19b38a7d3e0daae04813": {
-      "title": "Aberlour A'Bunadh Single Malt Scotch Whisky 700ml $108 (Member's Price) + Del ($0 C&C/ to Metro with $149 Order) @ Dan Murphy's",
+      "title": "Chivas Regal 18 Year Old Scotch Whisky 700ml $97.75 Delivered @ Amazon AU",
       "brand": null,
       "model": "700ML",
       "observations": [
@@ -4806,6 +4806,13 @@
           "retailer": "Dan Murphy's",
           "price": 108.0,
           "deal_id": "ozbargain-68c79cd906e2c478",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T05:36:32.421822+00:00",
+          "retailer": "Amazon AU",
+          "price": 97.75,
+          "deal_id": "ozbargain-89ef73f386eaa574",
           "source": "OzBargain"
         }
       ]
@@ -5287,7 +5294,7 @@
       ]
     },
     "product-e17c864ad7a3019591fc": {
-      "title": "15% off 3 or More Bottles of Wine & Sparkling (Onda Sauv Blanc 750ml -3 bottles for $7.65) @Liquorland (Some Excluded Locations)",
+      "title": "Krosno Legend 750ml Glass Whisky Liquor Decanter $35.95 + Delivery @ Tableworx via Lasoo",
       "brand": null,
       "model": "750ML",
       "observations": [
@@ -5324,6 +5331,13 @@
           "retailer": "OzBargain-listed deal",
           "price": 7.65,
           "deal_id": "ozbargain-46a021caba9d65b9",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T05:36:32.419985+00:00",
+          "retailer": "Tableworx via Lasoo",
+          "price": 35.95,
+          "deal_id": "ozbargain-f803d4551933f447",
           "source": "OzBargain"
         }
       ]
@@ -8766,7 +8780,7 @@
       ]
     },
     "product-0692092c41f1d73a781b": {
-      "title": "5-Pack 90° USB-C Charging Cables 1m $10.59 + Delivery ($0 Prime/ $59 Spend) @ Hexchuang AU Amazon AU",
+      "title": "Maxell UR-90 90 Minute Normal Bias Audio Cassettes 90 Minute 5-Pack $14.11 (RRP $50) + Delivery ($0 Prime/$59 Spend) @ Amazon AU",
       "brand": null,
       "model": "5-PACK",
       "observations": [
@@ -8789,6 +8803,13 @@
           "retailer": "Hexchuang AU Amazon AU",
           "price": 10.59,
           "deal_id": "ozbargain-a5ebdd8c795f1373",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-08-31T05:36:32.423229+00:00",
+          "retailer": "Amazon AU",
+          "price": 14.11,
+          "deal_id": "ozbargain-083d27b28c6e54c3",
           "source": "OzBargain"
         }
       ]
@@ -20475,7 +20496,357 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-c9be32f08d661308f73c": {
+      "title": "20% off Selected Meat & Seafood Products & $10 off When You Spend $30 on Selected Products @ Coles on Uber Eats",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.420171+00:00",
+          "retailer": "Coles on Uber Eats",
+          "price": 10.0,
+          "deal_id": "ozbargain-5dfdab399ef2fdfe",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9b99001114468d302183": {
+      "title": "Stirling 8kg Heat Pump Dryer $349 (RRP: $449) @ ALDI",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.420311+00:00",
+          "retailer": "ALDI",
+          "price": 349.0,
+          "deal_id": "ozbargain-16f1866d6ad49c5a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ef82f3ad79dca5105af6": {
+      "title": "[VIC] Tesla Powerwall 3 27kWh $18,188; 40kWh $25,088 (after CHBP rebate) @ PA Power",
+      "brand": null,
+      "model": "27KWH",
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.420484+00:00",
+          "retailer": "PA Power",
+          "price": 18188.0,
+          "deal_id": "ozbargain-5d1dc3096d490103",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-665df55e8b1f1e311e18": {
+      "title": "Earn 1 Qantas Point Per $1 Deposited or Transferred (Max 100k Points, Requires Hold to 31 July 2027) @ Webull",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.420643+00:00",
+          "retailer": "Webull",
+          "price": 1.0,
+          "deal_id": "ozbargain-f8ab24a1c0488660",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9e58ab605f1afb13b4f4": {
+      "title": "Suntory Boss Iced Coffee 4x237ml Varieties $8.80, Boss Ice Mocha Coffee 237mL $2 @ Coles",
+      "brand": null,
+      "model": "4X237ML",
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.420793+00:00",
+          "retailer": "Coles",
+          "price": 8.8,
+          "deal_id": "ozbargain-82040f7bbef513b3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b5a1be37be603313d510": {
+      "title": "20% off storewide at Happy Valley Seeds (excludes $1 seed range)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.420910+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 1.0,
+          "deal_id": "ozbargain-9cc78274817e9cd6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-db45ccec78a4c25cf55e": {
+      "title": "Architectural 3D MDF Wall Panel Basket Weave 2400x1200x16mm $390 (Was $715) +30% off Shipping ($0 VIC C&C) @ Ply Online",
+      "brand": null,
+      "model": "2400X1200X16MM",
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.421039+00:00",
+          "retailer": "Ply Online",
+          "price": 390.0,
+          "deal_id": "ozbargain-e58b8370d15f3dd8",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-594bb43a16c41008f198": {
+      "title": "GrowBig Backyard Bundle 4 x XL Heavy Duty Raised Garden Beds $549 + Shipping (was $899) @ Urban Green Farms",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.421296+00:00",
+          "retailer": "Urban Green Farms",
+          "price": 549.0,
+          "deal_id": "ozbargain-4712a5c2da6019b6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d3217094ed75222613f8": {
+      "title": "$30 Cashback for One Transaction of $120 or Higher at Specsavers in Store @ NAB Goodies (Activation Required)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.421451+00:00",
+          "retailer": "NAB Goodies (Activation Required)",
+          "price": 30.0,
+          "deal_id": "ozbargain-a455f8fa542f66a9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b6a96f2412eaea54ab0a": {
+      "title": "Reolink Argus 3 Pro 5MP Battery WiFi Cam w/ Colour Night Vision $99.95 Delivered (RRP $139.99) @ Reolink AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.421574+00:00",
+          "retailer": "Reolink AU",
+          "price": 99.95,
+          "deal_id": "ozbargain-6949fcd03394d15d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-23fcb8d7484eba5dd397": {
+      "title": "XU1 2000W Heat Gun XHG-504 $19.95 ($0 OnePass Delivery/$0 C&C or in Store) @ Bunnings Warehouse",
+      "brand": null,
+      "model": "XHG-504",
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.421717+00:00",
+          "retailer": "Bunnings Warehouse",
+          "price": 19.95,
+          "deal_id": "ozbargain-f7a6964b033049a0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7bbd378a42aca8927efc": {
+      "title": "Philips All-in-One Series 9000 16-in-1 Trimmer MG9532/15 $124 (via Price-Check Button) + Delivery ($0 C&C) @ The Good Guys",
+      "brand": "Philips",
+      "model": "16-IN-1",
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.421967+00:00",
+          "retailer": "The Good Guys",
+          "price": 124.0,
+          "deal_id": "ozbargain-ddc4a77e00bcb434",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-923cb093a208ce01e85a": {
+      "title": "Vitasoy Unsweetened Almond Milk 12x 1L Packs $16.83 ($15.15 Sub & Save) + Delivery ($0 with Prime/$59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.422069+00:00",
+          "retailer": "Amazon AU",
+          "price": 16.83,
+          "deal_id": "ozbargain-aa1acc824f00ed06",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-701ca25eef30fb2a47ef": {
+      "title": "Koss KSC75 Portable Stereophone Headphones $26.35 (RRP $31) + Delivery ($0 Prime/$59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": "KSC75",
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.422167+00:00",
+          "retailer": "Amazon AU",
+          "price": 26.35,
+          "deal_id": "ozbargain-c2ba3cb4451b74a3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ba7625bc52b44d6dabf5": {
+      "title": "10% off TCN Good Food Gift Cards (Digital or Physical) + $2.95 Physical Delivery @ Card.Gift",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.422276+00:00",
+          "retailer": "Card.Gift",
+          "price": 2.95,
+          "deal_id": "ozbargain-5793c6f1809c6c16",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9cf386e50b7bd5dfedc2": {
+      "title": "$10 Cashback When You Spend $100 or More at Myer @ NAB Goodies (Activation Required)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.422528+00:00",
+          "retailer": "NAB Goodies (Activation Required)",
+          "price": 10.0,
+          "deal_id": "ozbargain-fe5fd754ce9b0355",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-206d430cbad72552022b": {
+      "title": "Vrewards Gold Class eVoucher $35 @ Village Cinemas",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.422634+00:00",
+          "retailer": "Village Cinemas",
+          "price": 35.0,
+          "deal_id": "ozbargain-82990bf467d909b9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5ca65db30c989174670e": {
+      "title": "CMYK | Magical Athlete | Racing Board Game | 2-6 Players, Ages 6+ $35.98 (RRP $49.95) +Delivery ($0 Prime/$59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.422766+00:00",
+          "retailer": "Amazon AU",
+          "price": 35.98,
+          "deal_id": "ozbargain-69dd7746e14f80d6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6148183f555284e3b33e": {
+      "title": "Virgin Queensland: up to 25% off - eg Sydney to/from Gold Coast from $69 One Way, Brisbane to/From Whitsundays $79 & More @ BTF",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.422880+00:00",
+          "retailer": "BTF",
+          "price": 69.0,
+          "deal_id": "ozbargain-ca6b8a6433c47756",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1c54aeab5e03f229ab5f": {
+      "title": "Ryobi 18V ONE+ Trim Router - Tool Only $149 (Was $199) Delivered / C&C / in-Store @ Bunnings",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.422985+00:00",
+          "retailer": "Bunnings",
+          "price": 149.0,
+          "deal_id": "ozbargain-3c0ce98f82d7937a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b2b58254adde8a89ae3c": {
+      "title": "Kickass Car Towel Seat Cover - Sandy Taupe $29.95 (50% off RRP) @ Kickass +209 More Fathers Day Discounts",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.423105+00:00",
+          "retailer": "Kickass +209 More Fathers Day Discounts",
+          "price": 29.95,
+          "deal_id": "ozbargain-c64930d364d222bb",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-814dbb109214efe058f0": {
+      "title": "10% off Uber & Uber Eats eGift Cards (Minimum Spend $10, Exclusions Apply, Limit 10 Per Customer) @ Gift Card Exchange",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.423352+00:00",
+          "retailer": "Gift Card Exchange",
+          "price": 10.0,
+          "deal_id": "ozbargain-ba1f2838d472a1b7",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1c4bab800ec511d2f7bf": {
+      "title": "Centrum Men/Women 50+ Multivitamin & Minerals, 60 Tabs $5.62 ($5.06 Sub & Save) + Delivery ($0 Prime/$59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.423519+00:00",
+          "retailer": "Amazon AU",
+          "price": 5.62,
+          "deal_id": "ozbargain-fb89ca2d3b923db9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b39411359f38da756a1b": {
+      "title": "Singapore Airlines Rtn Flights To Hong Kong: PER $588, SYD $699, BNE $707, ADL $717, MEL $722 @ flightfinderau",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.423647+00:00",
+          "retailer": "flightfinderau",
+          "price": 588.0,
+          "deal_id": "ozbargain-0a344a9b1960b2ed",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-49b42d71a7ed46073981": {
+      "title": "PS5 PlayStation 5 Digital Edition Marvel’s Wolverine Battle Yellow Limited Edition (825GB) $999 + Delivery Only @ JB Hi-Fi",
+      "brand": "Playstation",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-08-31T05:36:32.423782+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 999.0,
+          "deal_id": "ozbargain-6ab1389287ad4882",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-30T21:07:11.630984+00:00"
+  "updated_at": "2026-08-31T05:36:44.421551+00:00"
 }
