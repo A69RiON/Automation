@@ -1353,7 +1353,7 @@
       ]
     },
     "product-618a7f0d51cd0565c3bf": {
-      "title": "[VIC] Monster Energy Drink (Original, Zero Ultra) 500ml 9pk $9.90 @ Coles Clayton",
+      "title": "Monster Energy Drink Zero Ultra 24 x 500ml $68.50 ($65.07 Subscribe & Save) Delivered @ Amazon AU",
       "brand": null,
       "model": "500ML",
       "observations": [
@@ -1418,6 +1418,13 @@
           "retailer": "Coles Clayton",
           "price": 9.9,
           "deal_id": "ozbargain-817d28085b04eafa",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-01T16:41:06.626758+00:00",
+          "retailer": "Amazon AU",
+          "price": 68.5,
+          "deal_id": "ozbargain-ac6f8cd36f4f2f9e",
           "source": "OzBargain"
         }
       ]
@@ -6610,7 +6617,7 @@
       ]
     },
     "product-0afdeaeaece6232cc6c1": {
-      "title": "AliExpress: 18% Cashback on Affiliated Products ($30 Cap Per Transaction) @ TopCashback AU",
+      "title": "AliExpress: 24% Cashback on Affiliated Products ($30 Cap Per Transaction) @ TopCashback AU",
       "brand": null,
       "model": null,
       "observations": [
@@ -6654,6 +6661,13 @@
           "retailer": "TopCashback AU",
           "price": 30.0,
           "deal_id": "ozbargain-a31e045b53d2f5e1",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-01T16:41:06.627724+00:00",
+          "retailer": "TopCashback AU",
+          "price": 30.0,
+          "deal_id": "ozbargain-7eac113259e303c7",
           "source": "OzBargain"
         }
       ]
@@ -9977,7 +9991,7 @@
       ]
     },
     "product-c873f823b4544b2caa92": {
-      "title": "Wolfbox DF100 Electric Air Duster US$33.16 (~A$51.99) Delivered @ Wolfbox Global Store AliExpress",
+      "title": "Wolfbox Electric Air Duster DF50 $31.99, DF60 $34.39, MF70 $53.19, DF100 $55.99, DF200 $83.16 Delivered @ Wolfbox eBay",
       "brand": null,
       "model": "DF100",
       "observations": [
@@ -9986,6 +10000,13 @@
           "retailer": "Wolfbox Global Store AliExpress",
           "price": 33.16,
           "deal_id": "ozbargain-29ac26c4ef9a0e3e",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-01T16:41:06.627293+00:00",
+          "retailer": "Wolfbox eBay",
+          "price": 31.99,
+          "deal_id": "ozbargain-84359ef5c41f0742",
           "source": "OzBargain"
         }
       ]
@@ -17418,7 +17439,7 @@
       ]
     },
     "product-8e4b7f2be5d561dfcf23": {
-      "title": "Buy Optus Flex Plus $350 300GB 365-Day Prepaid SIM for $199, Get $100cashback @Shop Back",
+      "title": "Optus 300GB 365-Day Prepaid SIM for $199 Delivered @ Optus",
       "brand": null,
       "model": "365-DAY",
       "observations": [
@@ -17427,6 +17448,13 @@
           "retailer": "OzBargain-listed deal",
           "price": 350.0,
           "deal_id": "ozbargain-0d2d47e2fedf0e28",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-01T16:41:06.626930+00:00",
+          "retailer": "Optus",
+          "price": 199.0,
+          "deal_id": "ozbargain-f8344c1109cf6125",
           "source": "OzBargain"
         }
       ]
@@ -21861,7 +21889,315 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-915ce69162af62a57352": {
+      "title": "Red Rock Deli Potato Chips 165g (Pack of 2) $6 ($5.40 S&S) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.625164+00:00",
+          "retailer": "Amazon AU",
+          "price": 6.0,
+          "deal_id": "ozbargain-7c7890e9be893aab",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b4ccc5c11690948140ab": {
+      "title": "10% off Google Play, Uber & Uber Eats eGift Cards ($150 Minimum Spend) @ Everyday Rewards",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.625266+00:00",
+          "retailer": "Everyday Rewards",
+          "price": 150.0,
+          "deal_id": "ozbargain-c40b47c45505039a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-01c856f2ab1e582e224f": {
+      "title": "Rapoo MT760 PRO + Rapoo E9550L $46.99 Delivered via Amazon AU",
+      "brand": null,
+      "model": "E9550L",
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.625452+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 46.99,
+          "deal_id": "ozbargain-dfc02458002648c2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-336b46fe5e0218884de9": {
+      "title": "Poco F9 Ultra 16GB/512GB $1199 Delivered @ Xiaomi (Preorder - Ships from 10th Sept)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.625546+00:00",
+          "retailer": "Xiaomi (Preorder - Ships from 10th Sept)",
+          "price": 1199.0,
+          "deal_id": "ozbargain-2c04be179b809ac0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0b1b487d66d5d2f0b833": {
+      "title": "Logitech MX Brio Ultra HD 4K Webcam $159.88 (Typical $225.56) Delivered @ Amazon AU",
+      "brand": "Logitech",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.625650+00:00",
+          "retailer": "Amazon AU",
+          "price": 159.88,
+          "deal_id": "ozbargain-f667318470b4869f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ace7e5c2f817788b8aba": {
+      "title": "INDIANA JONES: 4-Movie Collection [4K UHD] $65 Delivered @ Amazon AU",
+      "brand": null,
+      "model": "4-MOVIE",
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.625730+00:00",
+          "retailer": "Amazon AU",
+          "price": 65.0,
+          "deal_id": "ozbargain-b20900bd59700e6a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7758471b2b37fa497238": {
+      "title": "$10 off ($30 Minimum Spend) + Free Delivery with 3+ Items Purchase @ Amazon Haul",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.625878+00:00",
+          "retailer": "Amazon Haul",
+          "price": 10.0,
+          "deal_id": "ozbargain-08eb45d80b88aa08",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-22739c0bf4f2f9a87c7e": {
+      "title": "Asustor Flashtor 6 FS6706T, 6 Bay SSD NAS Storage $599 + Delivery ($0 C&C/ in-Store) @ PLE, Umart, Centre Com",
+      "brand": null,
+      "model": "FS6706T",
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.626065+00:00",
+          "retailer": "PLE, Umart, Centre Com",
+          "price": 599.0,
+          "deal_id": "ozbargain-e9e3ab73a179881d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-64668d68ed4f186e76ee": {
+      "title": "Chemical Guys Diablo Sprayable Wheel Cleaner, 473ml (Pack of 2) $30.39 (RRP $37.99) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": "473ML",
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.626160+00:00",
+          "retailer": "Amazon AU",
+          "price": 30.39,
+          "deal_id": "ozbargain-f710db9b506a40df",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e20484ed83af35023837": {
+      "title": "Ubiquiti Cloud Gateway Fiber 10G $457.30 Delivered @ Mwave",
+      "brand": "Ubiquiti",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.626239+00:00",
+          "retailer": "Mwave",
+          "price": 457.3,
+          "deal_id": "ozbargain-677c5083e965509d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-94d7930ce99c50df656f": {
+      "title": "Blackmores Bio Magnesium 50 Tablets $2 (RRP $19.99) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.626319+00:00",
+          "retailer": "Amazon AU",
+          "price": 2.0,
+          "deal_id": "ozbargain-bc15d080b4f2a819",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9b6db29642fe2f2e302c": {
+      "title": "Klevv FIT V 32GB (2x 16GB) DDR5 6000MHz CL28 Black RAM $588.30 Delivered @ Mwave",
+      "brand": null,
+      "model": "6000MHZ",
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.626477+00:00",
+          "retailer": "Mwave",
+          "price": 588.3,
+          "deal_id": "ozbargain-d645126bc7bc3e1e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-eec488a457f619130eb0": {
+      "title": "XFX AMD Radeon RX 9060 XT Swift OC Dual Fan Gaming Edition 16GB Graphics Card $588.30 Delivered @ Mwave",
+      "brand": "AMD",
+      "model": "RX 9060",
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.626566+00:00",
+          "retailer": "Mwave",
+          "price": 588.3,
+          "deal_id": "ozbargain-aa1b3fa11fda8ba1",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-845b2823d9673289f90a": {
+      "title": "Finish Ultimate Plus All-in-1 Lemon Sparkle 31-Pack $13 (Was $44) + $8/$12 Del ($0 C&C/ in-Store/ $59/$99 Order) @ BIG W",
+      "brand": null,
+      "model": "ALL-IN-1",
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.626668+00:00",
+          "retailer": "BIG W",
+          "price": 13.0,
+          "deal_id": "ozbargain-82c33d36e3c8303d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-fa14bab26653fe84496e": {
+      "title": "Ubiquiti U7 Pro XGS White Wireless Access Point, Wi-Fi 7, 10G PoE++ Port $493.30 Delivered @ Mwave",
+      "brand": "Ubiquiti",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.626844+00:00",
+          "retailer": "Mwave",
+          "price": 493.3,
+          "deal_id": "ozbargain-8fbe00a15efc5322",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ef6df905a50331074448": {
+      "title": "Garmin Forerunner 255 Smart Watch Gray ~A$218.39 (~US$154.29) with PayPal BNPL AU Stock Shipped @ Aussie Electron AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.627026+00:00",
+          "retailer": "Aussie Electron AliExpress",
+          "price": 218.39,
+          "deal_id": "ozbargain-e062cd7722cb59e2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-66b4e111b7d75b2b44e0": {
+      "title": "Jetstar/Batik Business Non-Stop Rtn: BNE-Osaka $1508, PER-KL $1560, BNE-Tokyo $1583, MEL-Sing $1743, SYD-Seoul $1822 @ Skyspy",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.627117+00:00",
+          "retailer": "Skyspy",
+          "price": 1508.0,
+          "deal_id": "ozbargain-bc09bfeb4c77c9a6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-cc7f90620044a972ac7f": {
+      "title": "Aqara 2K Doorbell Camera G400 (Wired/PoE, Supports Apple Homekit) $160.55 (with Newsletter Signup) Delivered @ Aqara",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.627202+00:00",
+          "retailer": "Aqara",
+          "price": 160.55,
+          "deal_id": "ozbargain-818acbf521623bb1",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-20688903bda609a09282": {
+      "title": "[WA] Free One-Day Bicycle, Helmet & Lock Hire (ID & $50 Refundable Bond Required) @ Fremantle Visitor Centre",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.627383+00:00",
+          "retailer": "Fremantle Visitor Centre",
+          "price": 50.0,
+          "deal_id": "ozbargain-01d46e6b54403db9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d02fe47a3702f6478ea4": {
+      "title": "Mahindra XUV700 AX7 $29,990, AX7L $33,990 Drive-Away (2025 Models) @ Mahindra",
+      "brand": null,
+      "model": "XUV700",
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.627465+00:00",
+          "retailer": "Mahindra",
+          "price": 29990.0,
+          "deal_id": "ozbargain-459a5a269cd3631d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c777f94884296155df68": {
+      "title": "Tommee Tippee FlexiPen Thermometer for Underarm or Under Tongue $2.50 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.627550+00:00",
+          "retailer": "Amazon AU",
+          "price": 2.5,
+          "deal_id": "ozbargain-8fe8e3eba4453ff2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ea4e1aa5b7a28a49c343": {
+      "title": "Woolworths Raw Banana Prawns Tail Off 500g $18 @ Woolworths",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T16:41:06.627646+00:00",
+          "retailer": "Woolworths",
+          "price": 18.0,
+          "deal_id": "ozbargain-209d1d9da32a7551",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-09-01T11:40:35.173709+00:00"
+  "updated_at": "2026-09-01T16:41:18.547476+00:00"
 }
