@@ -4755,7 +4755,7 @@
       ]
     },
     "product-19b38a7d3e0daae04813": {
-      "title": "Chivas Regal 18 Year Old Scotch Whisky 700ml $97.75 Delivered @ Amazon AU",
+      "title": "Clynelish 14 Year Old Scotch Whisky 700ml $84.98 (RRP $117.68) Delivered @ Amazon AU",
       "brand": null,
       "model": "700ML",
       "observations": [
@@ -4813,6 +4813,13 @@
           "retailer": "Amazon AU",
           "price": 97.75,
           "deal_id": "ozbargain-89ef73f386eaa574",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-01T05:10:02.701447+00:00",
+          "retailer": "Amazon AU",
+          "price": 84.98,
+          "deal_id": "ozbargain-58bb4dd35eb29fe5",
           "source": "OzBargain"
         }
       ]
@@ -21462,7 +21469,399 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-4f7dc69239ef35de31b9": {
+      "title": "[Skye Club] 100+ Year Old Vine Shiraz 2021 $135/Dozen ($11.25/bottle) Delivered @ Skye Cellars",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.699293+00:00",
+          "retailer": "Skye Cellars",
+          "price": 135.0,
+          "deal_id": "ozbargain-4b25b2b12e63fa6c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-3421c43da02e2bdcc2c2": {
+      "title": "5% Off $150 Minimum Spend on EV Chargers, Solar, battery, Accessories + Delivery @ ESQ Energy",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.699388+00:00",
+          "retailer": "ESQ Energy",
+          "price": 150.0,
+          "deal_id": "ozbargain-508fd11d0bb77dce",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-14cade2022b8d3e26148": {
+      "title": "Felix Mobile: 50% off Unlimited 5G Plan $20/Month for 4 Months (Stack with $11 Cashback @ TopCashback AU)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.699476+00:00",
+          "retailer": "TopCashback AU)",
+          "price": 20.0,
+          "deal_id": "ozbargain-15df6c82dcaf41aa",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-027f757f1bc22dacf443": {
+      "title": "Comac Floor Scrubber 50% off Antea 50bts Cylindrical Brush Automatic Traction $5775 Delivered / QLD C&C @ TCE Solutions",
+      "brand": null,
+      "model": "50BTS",
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.699585+00:00",
+          "retailer": "TCE Solutions",
+          "price": 5775.0,
+          "deal_id": "ozbargain-1989a4b3fdfabb9c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-51adde040f9d12009986": {
+      "title": "nbn FTTP or HFC 500/50 $65/M for 6 Months (New Customers, $84.99/M Ongoing) | eero 7 Router $99 + $10 Shipping @ Arctel",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.699710+00:00",
+          "retailer": "Arctel",
+          "price": 65.0,
+          "deal_id": "ozbargain-783a51bb3246e6c7",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ebc31e6fc8ac5e9db51f": {
+      "title": "Terramaster F4 4 Bay SSD NAS Storage $587.99 (RRP $839.99) Delivered @ TerraMaster via Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.699790+00:00",
+          "retailer": "TerraMaster via Amazon AU",
+          "price": 587.99,
+          "deal_id": "ozbargain-a7e5c28caea6f758",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-53bbc96cfa1ae9672bca": {
+      "title": "40-80% off Mens/Womens Clothing + Shipping (Free Shipping over $150) @ BRONZE SNAKE",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.699943+00:00",
+          "retailer": "BRONZE SNAKE",
+          "price": 150.0,
+          "deal_id": "ozbargain-4b17f7c1b3ea9b1a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-264c1f7d2a3aea07be9a": {
+      "title": "[Optus] Google Pixel 11 XL $1000 Discount + $20/Month off + $300 Finder Reward Giftcard @ Finder",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.700026+00:00",
+          "retailer": "Finder",
+          "price": 1000.0,
+          "deal_id": "ozbargain-39b8ac73f10fad92",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a8d50b22dc0dff3eccf6": {
+      "title": "½ Price Nongshim Shin Ramyun Black 4 Pack $6, Nongshim Big Bowls 105-115g $1.87 @ Woolworths",
+      "brand": null,
+      "model": "105-115G",
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.700120+00:00",
+          "retailer": "Woolworths",
+          "price": 6.0,
+          "deal_id": "ozbargain-3ca3a68f9a39255e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-cf875732fdad79a1e3b6": {
+      "title": "Buy One, Get One Free Bicycle Tyres (Selected Lines) eg. 2 x Butcher T9 MTB Tyres $90 + Shipping @ Specialized",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.700208+00:00",
+          "retailer": "Specialized",
+          "price": 90.0,
+          "deal_id": "ozbargain-fec570e8b9794454",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d488f80ce8ba98f7a312": {
+      "title": "Kogan Mobile Small 4G Prepaid Plan: 365 Days Expiry, 250GB Data $149 Delivered @ Kogan",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.700288+00:00",
+          "retailer": "Kogan",
+          "price": 149.0,
+          "deal_id": "ozbargain-1527f60c25f4823f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9090f7ae09c5b153ebf3": {
+      "title": "Sign up to Pepperstone Crypto, Complete a $150+ Cryptocurrency Trade within 30 Days & Get a $150 Digital Visa Gift Card @ Finder",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.700380+00:00",
+          "retailer": "Finder",
+          "price": 150.0,
+          "deal_id": "ozbargain-b96b7a48bcb055f5",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a885bed72fbf1619e37f": {
+      "title": "[PS4, PS5] Marvel's Midnight Suns Legendary Edition $29.99 @ PlayStation Store",
+      "brand": "Playstation",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.700453+00:00",
+          "retailer": "PlayStation Store",
+          "price": 29.99,
+          "deal_id": "ozbargain-629cf8e1e0d35f86",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-055533b7b72cfdecca9a": {
+      "title": "Reolink Argus Eco Ultra 4K Battery Cam w/ Dual-Band WiFi & Colour Night Vision $170.79 Delivered (RRP $243.99) @ Reolink AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.700540+00:00",
+          "retailer": "Reolink AU",
+          "price": 170.79,
+          "deal_id": "ozbargain-50ee51c8c89bbbb1",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-87ad32952ff84b3ad90e": {
+      "title": "50% off Domestic Bus Travel @ Flixbus via Trip.com",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.700607+00:00",
+          "retailer": "Flixbus via Trip.com",
+          "price": 58.99,
+          "deal_id": "ozbargain-70bd8e02aecb60de",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e0086e37a6b61bdd601d": {
+      "title": "[VIC] Social Event with Unlimited Lasagna and Glass of Wine Included - $30 (Wednesdays) @ AM PM Cafe & Bar (Brunswick)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.700712+00:00",
+          "retailer": "AM PM Cafe & Bar (Brunswick)",
+          "price": 30.0,
+          "deal_id": "ozbargain-d8de98cfd50d4a9f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e8dc7bf6c2b92b111e91": {
+      "title": "Place a $99 Min Order for Click & Collect, Get a $10 Gift Card Redeemable In-Store within 2 Days with $20 Min Purchase @ MYER",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.700806+00:00",
+          "retailer": "MYER",
+          "price": 99.0,
+          "deal_id": "ozbargain-28f907b72bb3871a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-46a9b44165c2e013348c": {
+      "title": "Kogan Mobile Large 4G Prepaid Plan: 365 Days Expiry, 400GB Data $179 Delivered ($174 with App Code) @ Kogan",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.700895+00:00",
+          "retailer": "Kogan",
+          "price": 179.0,
+          "deal_id": "ozbargain-ea5f5c54f73d87f8",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b98abb2396c527a41b59": {
+      "title": "Lyca Mobile: $15 Cashback for New Customers ($9 Profit) on 80GB 28 Days Prepaid SIM/eSIM for $6 Delivered @ TopCashback AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.700981+00:00",
+          "retailer": "TopCashback AU",
+          "price": 15.0,
+          "deal_id": "ozbargain-0e9a1c552d5cebe9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b28b2a8d0ed22f2e9869": {
+      "title": "Midea 34L 1200w Smart Inverter Microwave Black MMW12VT34B $109.99 Delivered @ Costco (Membership Required)",
+      "brand": null,
+      "model": "MMW12VT34B",
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.701044+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 109.99,
+          "deal_id": "ozbargain-60e4a7e8ae27689d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ee40ced5cfbfcf8ad659": {
+      "title": "Citizen Promaster Marine BN0260-54L $399 (RRP $899) Delivered @ StarBuy",
+      "brand": null,
+      "model": "BN0260-54L",
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.701122+00:00",
+          "retailer": "StarBuy",
+          "price": 399.0,
+          "deal_id": "ozbargain-69e87f8b140c904a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-81907ad44b59ae5f4124": {
+      "title": "Samsung Galaxy Tab S10 FE Wi-Fi 128GB Grey $648 + Delivery ($0 to Metro Areas/ C&C/ in-Store) @ Officeworks",
+      "brand": "Samsung",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.701199+00:00",
+          "retailer": "Officeworks",
+          "price": 648.0,
+          "deal_id": "ozbargain-088a51bd5fc4e738",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-cfefefaac361e641b155": {
+      "title": "HP OmniBook 7 Laptop 14\" 2.2k AMD AI 9 HX 475 32GB 512GB SSD AMD Radeon 890m $1,699.15 Delivered @ HP eBay",
+      "brand": "AMD",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.701287+00:00",
+          "retailer": "HP eBay",
+          "price": 1699.15,
+          "deal_id": "ozbargain-4605572e51a68baa",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f676ca916b454094eb3a": {
+      "title": "Puma Deviate Nitro 4 $118.97 (RRP $259.95) + $5 Delivery ($0 with $150 Order) & More @ Running Warehouse Australia",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.701370+00:00",
+          "retailer": "Running Warehouse Australia",
+          "price": 118.97,
+          "deal_id": "ozbargain-9d5c3c257f276a32",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-817b99c8a8f09c85a133": {
+      "title": "Dune 4WD Powered Battery Box with USB and 12 V Socket $20 + Postage / C&C (Bonus $5 Voucher for C&C) @ Anaconda",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.701549+00:00",
+          "retailer": "Anaconda",
+          "price": 20.0,
+          "deal_id": "ozbargain-a6e6d92d5163fc68",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-30730c448327fda2454a": {
+      "title": "Logitech K250 Bluetooth Keyboard $10, M196 Bluetooth Mouse $10 + Delivery ($0 on Select Logitech / C&C/ in-Store) @ Retravision",
+      "brand": "Logitech",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.701658+00:00",
+          "retailer": "Retravision",
+          "price": 10.0,
+          "deal_id": "ozbargain-a8030d79ee633023",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-557656a639c0941bf1fd": {
+      "title": "XTM Compact 4WD Awning 2x2m $50.00 + Delivery ($0 C&C) @ BCF",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.701745+00:00",
+          "retailer": "BCF",
+          "price": 50.0,
+          "deal_id": "ozbargain-9ab1159a0a69a596",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-183d80643b6a47216992": {
+      "title": "Flashforge Creator 5 Pro 3D Printer $999.20 Delivered @ Flashforge 3D Printer eBay",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-01T05:10:02.701826+00:00",
+          "retailer": "Flashforge 3D Printer eBay",
+          "price": 999.2,
+          "deal_id": "ozbargain-308cc5dc532c2407",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-08-31T22:51:39.538019+00:00"
+  "updated_at": "2026-09-01T05:10:13.057527+00:00"
 }
