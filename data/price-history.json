@@ -16,7 +16,7 @@
       ]
     },
     "product-147fabe4fb05b7c81a4b": {
-      "title": "Best of The Best Shiraz & Mixed Reds Dozen 12-Pack $123.50 ($10.30/Bottle, RRP $798) Delivered @ Dozen Deals",
+      "title": "'90+ Award Winners' Mixed Red & White 12-Pack $115 Delivered (RRP $264) @ Wine Shed Sale",
       "brand": null,
       "model": "12-PACK",
       "observations": [
@@ -46,6 +46,13 @@
           "retailer": "Dozen Deals",
           "price": 123.5,
           "deal_id": "ozbargain-8b7848f35c8895f9",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T04:35:29.177860+00:00",
+          "retailer": "Wine Shed Sale",
+          "price": 115.0,
+          "deal_id": "ozbargain-69bb83db73eac6ca",
           "source": "OzBargain"
         }
       ]
@@ -6323,7 +6330,7 @@
       ]
     },
     "product-554a3228778196936654": {
-      "title": "Camping Fan Rechargeable 10000mAh with Light $19.59 (RRP $27.99) + Delivery ($0 Prime/$59 Spend) @ Humifo-AU via Amazon AU",
+      "title": "Nitecore NB10000 Gen4 10000mAh Ultra Lightweight Power Bank $83.56 Delivered @ Wild Earth",
       "brand": null,
       "model": "10000MAH",
       "observations": [
@@ -6381,6 +6388,13 @@
           "retailer": "Humifo-AU via Amazon AU",
           "price": 19.59,
           "deal_id": "ozbargain-ef17746194470fb4",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T04:35:29.176130+00:00",
+          "retailer": "Wild Earth",
+          "price": 83.56,
+          "deal_id": "ozbargain-2e32219a20e25451",
           "source": "OzBargain"
         }
       ]
@@ -22377,6 +22391,13 @@
           "price": 34.99,
           "deal_id": "ozbargain-3f473222506c2f30",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T04:35:29.178194+00:00",
+          "retailer": "Lime Blue Coffee",
+          "price": 34.99,
+          "deal_id": "ozbargain-3f473222506c2f30",
+          "source": "OzBargain"
         }
       ]
     },
@@ -22407,7 +22428,329 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-8d77cb061795ded7104b": {
+      "title": "De'Longhi Evaporative Cooler EV250WH $71.49 (RRP $279) Delivered @ Amazon AU",
+      "brand": null,
+      "model": "EV250WH",
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.175019+00:00",
+          "retailer": "Amazon AU",
+          "price": 71.49,
+          "deal_id": "ozbargain-1491b2a96a5a0f85",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-659d41baf81b63dba2d5": {
+      "title": "GIGABYTE AERO X16 1WH 16\" WQXGA Ryzen AI 7 16GB RAM 1TB RTX 5070 Copilot+ Laptop - Lunar White $2063",
+      "brand": "Gigabyte",
+      "model": "RTX 5070",
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.175153+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 2063.0,
+          "deal_id": "ozbargain-b9fb650fa9377e5b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-39d641a77b3a0d2b368c": {
+      "title": "[VIC, NSW, QLD, WA] Foxess CQ7 Battery 14kWh $3,299, 28kWh from $5399, 42kWh from $8499 + Install Fees @ UnlimitedSolar",
+      "brand": null,
+      "model": "14KWH",
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.175282+00:00",
+          "retailer": "UnlimitedSolar",
+          "price": 3299.0,
+          "deal_id": "ozbargain-a4bceedad71208c9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-da33cec59fe4a9e4fc89": {
+      "title": "HAMILTON American Classic Automatic $786.09 Delivered @ Amazon Japan via AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.175390+00:00",
+          "retailer": "Amazon Japan via AU",
+          "price": 786.09,
+          "deal_id": "ozbargain-574553a1776f8763",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-69995f634552e2151266": {
+      "title": "Prusa MK4S Assembled 3D Printer $850 Delivered / NSW Pickup @ Siddament",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.175519+00:00",
+          "retailer": "Siddament",
+          "price": 850.0,
+          "deal_id": "ozbargain-53aa2a3185f2aa16",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-63aec3398a5c826f9c79": {
+      "title": "SPC Salt Reduced Canned Baked Beans in Rich Tomato Sauce, 4x425g $1.17 + Del ($0 Prime/$59+) @ Amazon AU (Excl. NT)",
+      "brand": null,
+      "model": "4X425G",
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.175657+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 1.17,
+          "deal_id": "ozbargain-dd563ad40a6b7e5c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-3e05b5ebaf33a69fb1d7": {
+      "title": "$30 off Minimum $99 Spend (Exclusions Apply, Free VIP Membership Required) @ Spotlight",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.175883+00:00",
+          "retailer": "Spotlight",
+          "price": 30.0,
+          "deal_id": "ozbargain-c5d8ba51196052da",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e6f5b862ec6c6e6984ee": {
+      "title": "$150 Cashback after You Create a Moomoo Account, Deposit at Least $1,000 and Complete 1 Buy Order within 30 Days @ ShopBack",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.176012+00:00",
+          "retailer": "ShopBack",
+          "price": 150.0,
+          "deal_id": "ozbargain-1715ac19ccb12b11",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-73fca7e06f14b828f6e0": {
+      "title": "$8.95 Small McChicken Meal & 6pc Chicken McNuggets (MyMacca's App Required) @ McDonald's",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.176343+00:00",
+          "retailer": "McDonald's",
+          "price": 8.95,
+          "deal_id": "ozbargain-1963d184c75763f2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-13d710668208fc15d5b1": {
+      "title": "10% off Sitewide + Delivery (Free on Orders over $100, Minimum $50 Order) @ Evergreen Table Co",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.176446+00:00",
+          "retailer": "Evergreen Table Co",
+          "price": 100.0,
+          "deal_id": "ozbargain-27274d5d53d76d96",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e29f1bd347a0d73b5eed": {
+      "title": "Sunlu 1.75mm 5KG Large Spool PLA Filament - $39.19 + Del ($0 to Eastern Metro) @ Sunlu Official Store eBay",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.176578+00:00",
+          "retailer": "Sunlu Official Store eBay",
+          "price": 39.19,
+          "deal_id": "ozbargain-81776d7b42330edf",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ee320001de99e8f0ea01": {
+      "title": "[SA] Glenfiddich Perpetual Collection VAT 01 Whisky Twin Pack 2x1L $141.10 (Pickup ADL International Airport) @ Aelia Duty Free",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.176701+00:00",
+          "retailer": "Aelia Duty Free",
+          "price": 141.1,
+          "deal_id": "ozbargain-82fcbe480deebe90",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-562c8d26466190cba11c": {
+      "title": "Batsanis Men's Garrett Brown Boots $74.97 (RRP $229), Libero Black Shoes $74.97 (RRP $209) & More Delivered @ Zasel",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.176812+00:00",
+          "retailer": "Zasel",
+          "price": 74.97,
+          "deal_id": "ozbargain-96449cce5566f840",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-3a420fb4270f0eae1129": {
+      "title": "[SA] $2 Muffins on Friday 4th September @ Muffin Break, Rundle Place",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.177047+00:00",
+          "retailer": "Muffin Break, Rundle Place",
+          "price": 2.0,
+          "deal_id": "ozbargain-25fabb934f0b4b5b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e7027e81fe2271079441": {
+      "title": "Irwin Magnetic 5/16 x 45mm Nutsetter $1 + Delivery ($0 C&C/ in-Store/ OnePass) @ Bunnings",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.177164+00:00",
+          "retailer": "Bunnings",
+          "price": 1.0,
+          "deal_id": "ozbargain-9d7924c0e671dac4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7426172dc1a60c335bbb": {
+      "title": "[Android, iOS] Until - Countdowns & Milestones Widget App - Lifetime Pro $0.99 (Was $4.99) @ Google Play, Apple App Store",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.177288+00:00",
+          "retailer": "Google Play, Apple App Store",
+          "price": 0.99,
+          "deal_id": "ozbargain-68308c59cd516633",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-23ef191af04bd1c6597d": {
+      "title": "Philips OneBlade Face (Original) 2 Combs 1 Blade $30 @ Coles",
+      "brand": "Philips",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.177370+00:00",
+          "retailer": "Coles",
+          "price": 30.0,
+          "deal_id": "ozbargain-334ca060bc11b1a9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6c39ff70e61144ebdeaf": {
+      "title": "[NSW, ACT, QLD] Wild Nectar Australian Honey 1kg $11.99 in-Store (+ $5 Service Fee C&C & Min. $50 Online Order) @ Harris Farm",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.177528+00:00",
+          "retailer": "Harris Farm",
+          "price": 11.99,
+          "deal_id": "ozbargain-f47d1a42cde40473",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a0a04b74c1bdbfbcb471": {
+      "title": "[QLD] HOTO 20V Cordless Leaf Blower 720CFM $99.98 (RRP $269.99) @ Costco Ipswich (Membership Required)",
+      "brand": null,
+      "model": "720CFM",
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.177629+00:00",
+          "retailer": "Costco Ipswich (Membership Required)",
+          "price": 99.98,
+          "deal_id": "ozbargain-943cb90f82e2d837",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-911b19edd07aa555b4ad": {
+      "title": "[VIC] Ixon Jackal 1 Piece Leather Suit - Black/White 3XL $699.95 in Store Only (Was $1349.95) @ MCAS Frankston",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.177742+00:00",
+          "retailer": "MCAS Frankston",
+          "price": 699.95,
+          "deal_id": "ozbargain-f76bf2c0ade37bac",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4b29dca83560e48dcd85": {
+      "title": "Wanderer Gear Storage Bag $20 (Save $30) + $10.99 Postage ($0 C&C) @ BCF",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.177980+00:00",
+          "retailer": "BCF",
+          "price": 20.0,
+          "deal_id": "ozbargain-399a8f7e0f3cf7d3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-73e4e2b1b894ee587432": {
+      "title": "[Backorder] Whittaker's 72% Dark Ghana Block 250g (Pack of 12) $9 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.178075+00:00",
+          "retailer": "Amazon AU",
+          "price": 9.0,
+          "deal_id": "ozbargain-b91d85c1eb70152c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f50e919325ec2bc4f812": {
+      "title": "$30 off Minimum $100 Spend for New Online User (Exclusions Apply) @ Coles",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T04:35:29.178308+00:00",
+          "retailer": "Coles",
+          "price": 30.0,
+          "deal_id": "ozbargain-9f4d0d3fb9a9f90e",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-09-01T21:03:13.637584+00:00"
+  "updated_at": "2026-09-02T04:35:38.734254+00:00"
 }
