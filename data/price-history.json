@@ -9735,6 +9735,13 @@
           "price": 53.33,
           "deal_id": "ozbargain-f50dc8bafdf36541",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.051456+00:00",
+          "retailer": "Wolfbox Global Store AliExpress",
+          "price": 53.33,
+          "deal_id": "ozbargain-f50dc8bafdf36541",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12223,6 +12230,13 @@
         },
         {
           "timestamp": "2026-09-02T16:35:36.161069+00:00",
+          "retailer": "Liquorland",
+          "price": 35.0,
+          "deal_id": "ozbargain-b2f086850b6dbafe",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.049946+00:00",
           "retailer": "Liquorland",
           "price": 35.0,
           "deal_id": "ozbargain-b2f086850b6dbafe",
@@ -22797,6 +22811,13 @@
           "price": 10.0,
           "deal_id": "ozbargain-cf7e3452deca5c1d",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.050053+00:00",
+          "retailer": "CTactical",
+          "price": 10.0,
+          "deal_id": "ozbargain-cf7e3452deca5c1d",
+          "source": "OzBargain"
         }
       ]
     },
@@ -22814,6 +22835,13 @@
         },
         {
           "timestamp": "2026-09-02T16:35:36.161332+00:00",
+          "retailer": "IGA",
+          "price": 2.0,
+          "deal_id": "ozbargain-b9724df8d7529e68",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.050181+00:00",
           "retailer": "IGA",
           "price": 2.0,
           "deal_id": "ozbargain-b9724df8d7529e68",
@@ -22839,6 +22867,13 @@
           "price": 0.99,
           "deal_id": "ozbargain-6dd4ea142082995f",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.050320+00:00",
+          "retailer": "Metro Petroleum (Brunswick West, Bankstown)",
+          "price": 0.99,
+          "deal_id": "ozbargain-6dd4ea142082995f",
+          "source": "OzBargain"
         }
       ]
     },
@@ -22856,6 +22891,13 @@
         },
         {
           "timestamp": "2026-09-02T16:35:36.161658+00:00",
+          "retailer": "Alpaka Gear AU",
+          "price": 206.5,
+          "deal_id": "ozbargain-9b44e40676d5f393",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.050466+00:00",
           "retailer": "Alpaka Gear AU",
           "price": 206.5,
           "deal_id": "ozbargain-9b44e40676d5f393",
@@ -22881,6 +22923,13 @@
           "price": 50.0,
           "deal_id": "ozbargain-a6f0a0a54eddbc47",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.050584+00:00",
+          "retailer": "Lokie Group",
+          "price": 50.0,
+          "deal_id": "ozbargain-a6f0a0a54eddbc47",
+          "source": "OzBargain"
         }
       ]
     },
@@ -22898,6 +22947,13 @@
         },
         {
           "timestamp": "2026-09-02T16:35:36.162135+00:00",
+          "retailer": "Finder",
+          "price": 30.0,
+          "deal_id": "ozbargain-ea5c41361226e636",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.050953+00:00",
           "retailer": "Finder",
           "price": 30.0,
           "deal_id": "ozbargain-ea5c41361226e636",
@@ -22923,6 +22979,13 @@
           "price": 46.38,
           "deal_id": "ozbargain-905a1f41da801908",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.051177+00:00",
+          "retailer": "Royal Kludge",
+          "price": 46.38,
+          "deal_id": "ozbargain-905a1f41da801908",
+          "source": "OzBargain"
         }
       ]
     },
@@ -22940,6 +23003,13 @@
         },
         {
           "timestamp": "2026-09-02T16:35:36.162480+00:00",
+          "retailer": "OnePass Mobile",
+          "price": 179.0,
+          "deal_id": "ozbargain-5753fa31040c4d7b",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.051300+00:00",
           "retailer": "OnePass Mobile",
           "price": 179.0,
           "deal_id": "ozbargain-5753fa31040c4d7b",
@@ -22965,6 +23035,13 @@
           "price": 1522.99,
           "deal_id": "ozbargain-1b5df50ca248bdca",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.051593+00:00",
+          "retailer": "AliExpress",
+          "price": 1522.99,
+          "deal_id": "ozbargain-1b5df50ca248bdca",
+          "source": "OzBargain"
         }
       ]
     },
@@ -22982,6 +23059,13 @@
         },
         {
           "timestamp": "2026-09-02T16:35:36.162976+00:00",
+          "retailer": "Amazon AU",
+          "price": 69.91,
+          "deal_id": "ozbargain-7b212408b4601967",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.051829+00:00",
           "retailer": "Amazon AU",
           "price": 69.91,
           "deal_id": "ozbargain-7b212408b4601967",
@@ -23007,6 +23091,13 @@
           "price": 199.99,
           "deal_id": "ozbargain-51e844c1390cbbef",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.052083+00:00",
+          "retailer": "Horizon Store AU Amazon AU (Price Beat $179.10 @ Bunnings)",
+          "price": 199.99,
+          "deal_id": "ozbargain-51e844c1390cbbef",
+          "source": "OzBargain"
         }
       ]
     },
@@ -23024,6 +23115,13 @@
         },
         {
           "timestamp": "2026-09-02T16:35:36.163342+00:00",
+          "retailer": "Coles",
+          "price": 25.0,
+          "deal_id": "ozbargain-eee73002d7916cc1",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.052194+00:00",
           "retailer": "Coles",
           "price": 25.0,
           "deal_id": "ozbargain-eee73002d7916cc1",
@@ -23049,6 +23147,13 @@
           "price": 5.5,
           "deal_id": "ozbargain-fc80acb52840e295",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.052326+00:00",
+          "retailer": "Coles",
+          "price": 5.5,
+          "deal_id": "ozbargain-fc80acb52840e295",
+          "source": "OzBargain"
         }
       ]
     },
@@ -23070,6 +23175,13 @@
           "price": 5.0,
           "deal_id": "ozbargain-e5deb5f73fcd588a",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.052475+00:00",
+          "retailer": "Apple TV Store",
+          "price": 5.0,
+          "deal_id": "ozbargain-e5deb5f73fcd588a",
+          "source": "OzBargain"
         }
       ]
     },
@@ -23087,6 +23199,13 @@
         },
         {
           "timestamp": "2026-09-02T16:35:36.163736+00:00",
+          "retailer": "Polestar",
+          "price": 73900.0,
+          "deal_id": "ozbargain-e42e14a8bea3e3c9",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.052592+00:00",
           "retailer": "Polestar",
           "price": 73900.0,
           "deal_id": "ozbargain-e42e14a8bea3e3c9",
@@ -23189,6 +23308,13 @@
           "price": 149.0,
           "deal_id": "ozbargain-6a10f0dca6feb0c8",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.048921+00:00",
+          "retailer": "Coles",
+          "price": 149.0,
+          "deal_id": "ozbargain-6a10f0dca6feb0c8",
+          "source": "OzBargain"
         }
       ]
     },
@@ -23203,11 +23329,18 @@
           "price": 15.0,
           "deal_id": "ozbargain-17a9f14d57ba8092",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.049062+00:00",
+          "retailer": "Flybuys",
+          "price": 15.0,
+          "deal_id": "ozbargain-17a9f14d57ba8092",
+          "source": "OzBargain"
         }
       ]
     },
     "product-c37f8928404914eff8e1": {
-      "title": "Sign up to Nexo Australia & Deposit $5,000+ in Crypto within 7 Days to Get a 1–2% Deposit Natch (up to $10,000) @Nexo",
+      "title": "Sign up to Nexo Australia & Deposit $5,000+ in Crypto within 7 Days to Get a 1–2% Deposit Match (up to $10,000) @Nexo",
       "brand": null,
       "model": null,
       "observations": [
@@ -23216,6 +23349,13 @@
           "retailer": "OzBargain-listed deal",
           "price": 5000.0,
           "deal_id": "ozbargain-4dda5b513b8beb31",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.049351+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 5000.0,
+          "deal_id": "ozbargain-fee369396f3bb397",
           "source": "OzBargain"
         }
       ]
@@ -23227,6 +23367,13 @@
       "observations": [
         {
           "timestamp": "2026-09-02T16:35:36.160787+00:00",
+          "retailer": "Mwave",
+          "price": 625.04,
+          "deal_id": "ozbargain-9985222e2a841400",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.049656+00:00",
           "retailer": "Mwave",
           "price": 625.04,
           "deal_id": "ozbargain-9985222e2a841400",
@@ -23245,9 +23392,30 @@
           "price": 10.0,
           "deal_id": "ozbargain-bf62fdb5d76065fa",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T21:04:57.049809+00:00",
+          "retailer": "Vinted",
+          "price": 10.0,
+          "deal_id": "ozbargain-bf62fdb5d76065fa",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8b17e3fed1f5f72ca22a": {
+      "title": "Schwarzkopf Brilliance, Permanent Hair Colour Ruby Red $2.60 (RRP $26) +Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T21:04:57.048801+00:00",
+          "retailer": "Amazon AU",
+          "price": 2.6,
+          "deal_id": "ozbargain-61010cc88c4e7393",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-09-02T16:35:47.441843+00:00"
+  "updated_at": "2026-09-02T21:05:07.030364+00:00"
 }
