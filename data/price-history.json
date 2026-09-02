@@ -9728,6 +9728,13 @@
           "price": 53.33,
           "deal_id": "ozbargain-f50dc8bafdf36541",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T16:35:36.162617+00:00",
+          "retailer": "Wolfbox Global Store AliExpress",
+          "price": 53.33,
+          "deal_id": "ozbargain-f50dc8bafdf36541",
+          "source": "OzBargain"
         }
       ]
     },
@@ -12189,7 +12196,7 @@
       ]
     },
     "product-8ada0393a2f2963cc578": {
-      "title": "Jack Daniels & Cola Bottle 330ml 24 Pack $27 (Was $130) at Coles (Select Locations)",
+      "title": "Suntory -196 Double Lemon 4.5% 330mL Can 10pk $35 + Delivery ($0 C&C/ In-Store) @ Liquorland",
       "brand": null,
       "model": "330ML",
       "observations": [
@@ -12212,6 +12219,13 @@
           "retailer": "OzBargain-listed deal",
           "price": 27.0,
           "deal_id": "ozbargain-c32689fb966e8e5c",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T16:35:36.161069+00:00",
+          "retailer": "Liquorland",
+          "price": 35.0,
+          "deal_id": "ozbargain-b2f086850b6dbafe",
           "source": "OzBargain"
         }
       ]
@@ -22776,6 +22790,13 @@
           "price": 10.0,
           "deal_id": "ozbargain-cf7e3452deca5c1d",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T16:35:36.161179+00:00",
+          "retailer": "CTactical",
+          "price": 10.0,
+          "deal_id": "ozbargain-cf7e3452deca5c1d",
+          "source": "OzBargain"
         }
       ]
     },
@@ -22786,6 +22807,13 @@
       "observations": [
         {
           "timestamp": "2026-09-02T11:19:53.242818+00:00",
+          "retailer": "IGA",
+          "price": 2.0,
+          "deal_id": "ozbargain-b9724df8d7529e68",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T16:35:36.161332+00:00",
           "retailer": "IGA",
           "price": 2.0,
           "deal_id": "ozbargain-b9724df8d7529e68",
@@ -22804,6 +22832,13 @@
           "price": 0.99,
           "deal_id": "ozbargain-6dd4ea142082995f",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T16:35:36.161516+00:00",
+          "retailer": "Metro Petroleum (Brunswick West, Bankstown)",
+          "price": 0.99,
+          "deal_id": "ozbargain-6dd4ea142082995f",
+          "source": "OzBargain"
         }
       ]
     },
@@ -22814,6 +22849,13 @@
       "observations": [
         {
           "timestamp": "2026-09-02T11:19:53.243122+00:00",
+          "retailer": "Alpaka Gear AU",
+          "price": 206.5,
+          "deal_id": "ozbargain-9b44e40676d5f393",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T16:35:36.161658+00:00",
           "retailer": "Alpaka Gear AU",
           "price": 206.5,
           "deal_id": "ozbargain-9b44e40676d5f393",
@@ -22832,6 +22874,13 @@
           "price": 50.0,
           "deal_id": "ozbargain-a6f0a0a54eddbc47",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T16:35:36.161777+00:00",
+          "retailer": "Lokie Group",
+          "price": 50.0,
+          "deal_id": "ozbargain-a6f0a0a54eddbc47",
+          "source": "OzBargain"
         }
       ]
     },
@@ -22842,6 +22891,13 @@
       "observations": [
         {
           "timestamp": "2026-09-02T11:19:53.243618+00:00",
+          "retailer": "Finder",
+          "price": 30.0,
+          "deal_id": "ozbargain-ea5c41361226e636",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T16:35:36.162135+00:00",
           "retailer": "Finder",
           "price": 30.0,
           "deal_id": "ozbargain-ea5c41361226e636",
@@ -22860,6 +22916,13 @@
           "price": 46.38,
           "deal_id": "ozbargain-905a1f41da801908",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T16:35:36.162356+00:00",
+          "retailer": "Royal Kludge",
+          "price": 46.38,
+          "deal_id": "ozbargain-905a1f41da801908",
+          "source": "OzBargain"
         }
       ]
     },
@@ -22870,6 +22933,13 @@
       "observations": [
         {
           "timestamp": "2026-09-02T11:19:53.243961+00:00",
+          "retailer": "OnePass Mobile",
+          "price": 179.0,
+          "deal_id": "ozbargain-5753fa31040c4d7b",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T16:35:36.162480+00:00",
           "retailer": "OnePass Mobile",
           "price": 179.0,
           "deal_id": "ozbargain-5753fa31040c4d7b",
@@ -22888,6 +22958,13 @@
           "price": 1522.99,
           "deal_id": "ozbargain-1b5df50ca248bdca",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T16:35:36.162746+00:00",
+          "retailer": "AliExpress",
+          "price": 1522.99,
+          "deal_id": "ozbargain-1b5df50ca248bdca",
+          "source": "OzBargain"
         }
       ]
     },
@@ -22898,6 +22975,13 @@
       "observations": [
         {
           "timestamp": "2026-09-02T11:19:53.244465+00:00",
+          "retailer": "Amazon AU",
+          "price": 69.91,
+          "deal_id": "ozbargain-7b212408b4601967",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T16:35:36.162976+00:00",
           "retailer": "Amazon AU",
           "price": 69.91,
           "deal_id": "ozbargain-7b212408b4601967",
@@ -22916,6 +23000,13 @@
           "price": 199.99,
           "deal_id": "ozbargain-51e844c1390cbbef",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T16:35:36.163234+00:00",
+          "retailer": "Horizon Store AU Amazon AU (Price Beat $179.10 @ Bunnings)",
+          "price": 199.99,
+          "deal_id": "ozbargain-51e844c1390cbbef",
+          "source": "OzBargain"
         }
       ]
     },
@@ -22926,6 +23017,13 @@
       "observations": [
         {
           "timestamp": "2026-09-02T11:19:53.244838+00:00",
+          "retailer": "Coles",
+          "price": 25.0,
+          "deal_id": "ozbargain-eee73002d7916cc1",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T16:35:36.163342+00:00",
           "retailer": "Coles",
           "price": 25.0,
           "deal_id": "ozbargain-eee73002d7916cc1",
@@ -22944,6 +23042,13 @@
           "price": 5.5,
           "deal_id": "ozbargain-fc80acb52840e295",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T16:35:36.163476+00:00",
+          "retailer": "Coles",
+          "price": 5.5,
+          "deal_id": "ozbargain-fc80acb52840e295",
+          "source": "OzBargain"
         }
       ]
     },
@@ -22958,6 +23063,13 @@
           "price": 5.0,
           "deal_id": "ozbargain-e5deb5f73fcd588a",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T16:35:36.163618+00:00",
+          "retailer": "Apple TV Store",
+          "price": 5.0,
+          "deal_id": "ozbargain-e5deb5f73fcd588a",
+          "source": "OzBargain"
         }
       ]
     },
@@ -22968,6 +23080,13 @@
       "observations": [
         {
           "timestamp": "2026-09-02T11:19:53.245234+00:00",
+          "retailer": "Polestar",
+          "price": 73900.0,
+          "deal_id": "ozbargain-e42e14a8bea3e3c9",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-02T16:35:36.163736+00:00",
           "retailer": "Polestar",
           "price": 73900.0,
           "deal_id": "ozbargain-e42e14a8bea3e3c9",
@@ -23058,7 +23177,77 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-642a62b3e041173b1366": {
+      "title": "[Refurbished] Apple iPhone SE 3 2022 64GB $149 + delivery @ Coles",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T16:35:36.159998+00:00",
+          "retailer": "Coles",
+          "price": 149.0,
+          "deal_id": "ozbargain-6a10f0dca6feb0c8",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-8e607f280c477a2d2c00": {
+      "title": "[Targeted] Save $15 on a $100+ Coles Online Order, Then Save $10 on Your Next $100+ Coles Online Order, Plus More @ Flybuys",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T16:35:36.160168+00:00",
+          "retailer": "Flybuys",
+          "price": 15.0,
+          "deal_id": "ozbargain-17a9f14d57ba8092",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c37f8928404914eff8e1": {
+      "title": "Sign up to Nexo Australia & Deposit $5,000+ in Crypto within 7 Days to Get a 1–2% Deposit Natch (up to $10,000) @Nexo",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T16:35:36.160464+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 5000.0,
+          "deal_id": "ozbargain-4dda5b513b8beb31",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-bf91fc0f79c9e6706b4f": {
+      "title": "Klevv Cras C910G 4TB PCIe 4.0 NVMe M.2 2280 SSD $625.04 Delivered @ Mwave",
+      "brand": null,
+      "model": "C910G",
+      "observations": [
+        {
+          "timestamp": "2026-09-02T16:35:36.160787+00:00",
+          "retailer": "Mwave",
+          "price": 625.04,
+          "deal_id": "ozbargain-9985222e2a841400",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a25117317c643b6a0fab": {
+      "title": "Earn $10 Voucher via Referral Signup & Listing 3 Items within 7 Days, & 2 x $10 Vouchers on First Sale within 30 Days @ Vinted",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-02T16:35:36.160938+00:00",
+          "retailer": "Vinted",
+          "price": 10.0,
+          "deal_id": "ozbargain-bf62fdb5d76065fa",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-09-02T11:20:05.176959+00:00"
+  "updated_at": "2026-09-02T16:35:47.441843+00:00"
 }
