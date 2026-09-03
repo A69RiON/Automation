@@ -23448,11 +23448,18 @@
           "price": 1499.0,
           "deal_id": "ozbargain-4f3e1149b4207aa1",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T11:16:03.115245+00:00",
+          "retailer": "Addicted to Audio",
+          "price": 1499.0,
+          "deal_id": "ozbargain-4f3e1149b4207aa1",
+          "source": "OzBargain"
         }
       ]
     },
     "product-c920fc2a8ad895c7c6a0": {
-      "title": "SPC ProVital Apple and Prune Fruit Puree Cups, 24 x 120g $2.08 +Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
+      "title": "SPC ProVital Apple and Prune Fruit Puree Cups, 24 x 120g $2.08 + Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
       "brand": "Apple",
       "model": null,
       "observations": [
@@ -23461,6 +23468,13 @@
           "retailer": "Amazon AU",
           "price": 2.08,
           "deal_id": "ozbargain-1c969f0b9b582cc6",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T11:16:03.115437+00:00",
+          "retailer": "Amazon AU",
+          "price": 2.08,
+          "deal_id": "ozbargain-68f3a995655cc1c9",
           "source": "OzBargain"
         }
       ]
@@ -23786,7 +23800,357 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-83674dbf1b90232edacf": {
+      "title": "$10 off Coles on Uber Eats, When You Spend $50",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.110714+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 10.0,
+          "deal_id": "ozbargain-092b38c41a426509",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b830b98199605d050eeb": {
+      "title": "Cooler Master Orb X Immersive Gaming Station in Artic White $8,999 (RRP $26,999) + Delivery from $1,119.95 ($0 NSW C&C) @ Mwave",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.110945+00:00",
+          "retailer": "Mwave",
+          "price": 8999.0,
+          "deal_id": "ozbargain-fa8d258fd4a91b79",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e9dd4f1c683e9341a20f": {
+      "title": "3x Allermist Fast & Long Lasting Nasal Spray Allergy Relief + Bonus 30x Loratadine 10mg $59.99 Delivered @ PharmacySavings",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.111126+00:00",
+          "retailer": "PharmacySavings",
+          "price": 59.99,
+          "deal_id": "ozbargain-1c298f968c545f63",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a50aa020c23e13821910": {
+      "title": "Austrian Audio The Composer Premium Reference Headphones $2999 Delivered @ Space Hi-Fi",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.111294+00:00",
+          "retailer": "Space Hi-Fi",
+          "price": 2999.0,
+          "deal_id": "ozbargain-2536f9db7570c696",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0ca681e1d6ee928b7cde": {
+      "title": "Traveloka: 10% Cashback on Flights @ ShopBack",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.111458+00:00",
+          "retailer": "ShopBack",
+          "price": 25.0,
+          "deal_id": "ozbargain-d7b137596376aeb9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a918fa747b30204fe127": {
+      "title": "Gaming PC: AMD 9800X3D, RTX 5070 Ti, B850M, 32GB RAM, 1TB SSD, 850W Gold PSU $3344 + Delivery ($0 NSW C&C) @ UMKLOGIX",
+      "brand": "AMD",
+      "model": "RTX 5070",
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.111657+00:00",
+          "retailer": "UMKLOGIX",
+          "price": 3344.0,
+          "deal_id": "ozbargain-95f940b74340bda5",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-40548e5e063a0b4860c2": {
+      "title": "50% off PropertyFlags Report: Flood, Bushfire, Defect Orders, Acquisition Risk for Any Address, $14.50 (Was $29)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.111790+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 14.5,
+          "deal_id": "ozbargain-52c77aec66367e99",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-af58368fe5584b405ad2": {
+      "title": "LEGO Super Mario Game Boy $69.84 Delivered @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.112081+00:00",
+          "retailer": "Amazon AU",
+          "price": 69.84,
+          "deal_id": "ozbargain-6f26dc0145370099",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-42a67fa71351cac401ec": {
+      "title": "Bonus $20 Costco Shop Card for New Gold Star or Business Membership ($65/Year) @ Costco",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.112217+00:00",
+          "retailer": "Costco",
+          "price": 20.0,
+          "deal_id": "ozbargain-7c4f20eec1defc40",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c7bff49eb9a0641429a4": {
+      "title": "HIFIMAN Arya Stealth Magnet Headphones US$400.25 (~A$562.23) AU Stock Delivered @ HIFIMAN Local Store AliExpress",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.112368+00:00",
+          "retailer": "HIFIMAN Local Store AliExpress",
+          "price": 400.25,
+          "deal_id": "ozbargain-80987fcf4800660c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b5cadf8d9c8ed68d4201": {
+      "title": "[WA] Huggies Ultra Dry Nappies 30-Pack (Sizes 4 & 5) $2.50 @ ALDI, Belmont",
+      "brand": null,
+      "model": "30-PACK",
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.112720+00:00",
+          "retailer": "ALDI, Belmont",
+          "price": 2.5,
+          "deal_id": "ozbargain-f926c441c52515c1",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-426054dd120ca05987f5": {
+      "title": "Crucial DDR5 32GB (1x32GB) 4800MHz CL40 RAM $499 + Delivery ($0 VIC C&C/ in-Store) @ PLE Computers",
+      "brand": "Crucial",
+      "model": "4800MHZ",
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.112845+00:00",
+          "retailer": "PLE Computers",
+          "price": 499.0,
+          "deal_id": "ozbargain-234d4aa0d9480c7d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e6a350cadd4d55374c8c": {
+      "title": "[Back Order] Alienware 39 5K OLED Gaming Monitor - AW3926QW $1,499 (RRP $1,999) Delivered @ Amazon AU",
+      "brand": null,
+      "model": "AW3926QW",
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.113011+00:00",
+          "retailer": "Amazon AU",
+          "price": 1499.0,
+          "deal_id": "ozbargain-2bd047c69faf2e29",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-855bc5efec6db9dcb077": {
+      "title": "Enter Code on First Login, Make 2 A$10 Orders, Get 2,000 KrisFlyer Miles (New App Users Only) @ Singapore Airlines New Kris+ App",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.113348+00:00",
+          "retailer": "Singapore Airlines New Kris+ App",
+          "price": 10.0,
+          "deal_id": "ozbargain-86cc44339a30b57a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-fbc432395a5989837a56": {
+      "title": "ALLPOWERS S2000 Pro 1451Wh 2400W Portable Power Station $979 Delivered @ ALLPOWERS",
+      "brand": null,
+      "model": "1451WH",
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.113535+00:00",
+          "retailer": "ALLPOWERS",
+          "price": 979.0,
+          "deal_id": "ozbargain-8a4532e00bf08ec6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0caea588a6aeb1e4bd75": {
+      "title": "Collect 1000 Everyday Rewards Points with Min. $0.01 Spend at Woolworths (Activation Required) @ Everyday Rewards",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.113695+00:00",
+          "retailer": "Everyday Rewards",
+          "price": 0.01,
+          "deal_id": "ozbargain-f8306ae6877110d5",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a57673ba89a87c1e40dd": {
+      "title": "Samsung EVO Plus 2 1TB Micro SD Card + Adapter $200 in Limited Stores @ Officeworks",
+      "brand": "Samsung",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.113843+00:00",
+          "retailer": "Officeworks",
+          "price": 200.0,
+          "deal_id": "ozbargain-d534b2ef188d81c4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-cd8efd94291cdeb321bc": {
+      "title": "nbn 25/10Mbps $48/Month for 12 Months (Ongoing $65.90/Month, New Customers Only) @ Flip",
+      "brand": null,
+      "model": "10MBPS",
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.113964+00:00",
+          "retailer": "Flip",
+          "price": 48.0,
+          "deal_id": "ozbargain-806ab4cdfcf8e63d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f673f188857be9ea1993": {
+      "title": "14% off Kayo / Binge eGift Cards ($25, $50 and $100) @ Bupa Life Rewards (Members Only)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.114085+00:00",
+          "retailer": "Bupa Life Rewards (Members Only)",
+          "price": 25.0,
+          "deal_id": "ozbargain-a28ef4f8d6a67868",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-bc7279e2331ade8a4757": {
+      "title": "Elegoo 1.75mm PLA Basic Refill 1kg Roll - 5 for $54.20 Delivered @ Elegoo Official-Store eBay",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.114241+00:00",
+          "retailer": "Elegoo Official-Store eBay",
+          "price": 54.2,
+          "deal_id": "ozbargain-f38cd40d2fc5e88d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f8216b5d3d3705b48bb5": {
+      "title": "[Switch] Fitness Circuit $15 @ Nintendo eShop",
+      "brand": "Nintendo",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.114405+00:00",
+          "retailer": "Nintendo eShop",
+          "price": 15.0,
+          "deal_id": "ozbargain-30e22424ad08adf3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-955e9138657d895e766f": {
+      "title": "[VIC] Fox ESS CQ7-W Battery & 10kW Hybrid Inverter: 28kWh $6499, 42kWh $7999 Installed (after Rebate) @ Victorian Power Savers",
+      "brand": null,
+      "model": "CQ7-W",
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.114597+00:00",
+          "retailer": "Victorian Power Savers",
+          "price": 6499.0,
+          "deal_id": "ozbargain-c5006d5f556a06df",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ea1b3ede91af78032953": {
+      "title": "Bisley Flx & Move Cotton Outline Print Tee 1 for $20, 2 for $30, 3 for $40 (RRP $29.95) Delivered @ Budget Workwear Outlet",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.114773+00:00",
+          "retailer": "Budget Workwear Outlet",
+          "price": 20.0,
+          "deal_id": "ozbargain-e02620600661e310",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ef1dbd0b81ab7247a74a": {
+      "title": "Free Fast Delivery on Orders over $30 @ Chemist Warehouse",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.114916+00:00",
+          "retailer": "Chemist Warehouse",
+          "price": 30.0,
+          "deal_id": "ozbargain-5474fdb33bbe7628",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-52cf99cf3066b85efb8b": {
+      "title": "Logitech G213 Prodigy RGB Gaming Keyboard - Black $45 C&C Only from Limited Stores @ Target",
+      "brand": "Logitech",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T11:16:03.115090+00:00",
+          "retailer": "Target",
+          "price": 45.0,
+          "deal_id": "ozbargain-b4178beaa847faf3",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-09-03T04:34:34.129877+00:00"
+  "updated_at": "2026-09-03T11:16:12.891443+00:00"
 }
