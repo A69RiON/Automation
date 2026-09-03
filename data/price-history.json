@@ -23826,6 +23826,13 @@
           "price": 8999.0,
           "deal_id": "ozbargain-fa8d258fd4a91b79",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T16:26:26.776251+00:00",
+          "retailer": "Mwave",
+          "price": 8999.0,
+          "deal_id": "ozbargain-fa8d258fd4a91b79",
+          "source": "OzBargain"
         }
       ]
     },
@@ -23836,6 +23843,13 @@
       "observations": [
         {
           "timestamp": "2026-09-03T11:16:03.111126+00:00",
+          "retailer": "PharmacySavings",
+          "price": 59.99,
+          "deal_id": "ozbargain-1c298f968c545f63",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T16:26:26.776373+00:00",
           "retailer": "PharmacySavings",
           "price": 59.99,
           "deal_id": "ozbargain-1c298f968c545f63",
@@ -23854,6 +23868,13 @@
           "price": 2999.0,
           "deal_id": "ozbargain-2536f9db7570c696",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T16:26:26.776496+00:00",
+          "retailer": "Space Hi-Fi",
+          "price": 2999.0,
+          "deal_id": "ozbargain-2536f9db7570c696",
+          "source": "OzBargain"
         }
       ]
     },
@@ -23864,6 +23885,13 @@
       "observations": [
         {
           "timestamp": "2026-09-03T11:16:03.111458+00:00",
+          "retailer": "ShopBack",
+          "price": 25.0,
+          "deal_id": "ozbargain-d7b137596376aeb9",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T16:26:26.776579+00:00",
           "retailer": "ShopBack",
           "price": 25.0,
           "deal_id": "ozbargain-d7b137596376aeb9",
@@ -23882,6 +23910,13 @@
           "price": 3344.0,
           "deal_id": "ozbargain-95f940b74340bda5",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T16:26:26.776726+00:00",
+          "retailer": "UMKLOGIX",
+          "price": 3344.0,
+          "deal_id": "ozbargain-95f940b74340bda5",
+          "source": "OzBargain"
         }
       ]
     },
@@ -23892,6 +23927,13 @@
       "observations": [
         {
           "timestamp": "2026-09-03T11:16:03.111790+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 14.5,
+          "deal_id": "ozbargain-52c77aec66367e99",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T16:26:26.776826+00:00",
           "retailer": "OzBargain-listed deal",
           "price": 14.5,
           "deal_id": "ozbargain-52c77aec66367e99",
@@ -23910,6 +23952,13 @@
           "price": 69.84,
           "deal_id": "ozbargain-6f26dc0145370099",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T16:26:26.777055+00:00",
+          "retailer": "Amazon AU",
+          "price": 69.84,
+          "deal_id": "ozbargain-6f26dc0145370099",
+          "source": "OzBargain"
         }
       ]
     },
@@ -23920,6 +23969,13 @@
       "observations": [
         {
           "timestamp": "2026-09-03T11:16:03.112217+00:00",
+          "retailer": "Costco",
+          "price": 20.0,
+          "deal_id": "ozbargain-7c4f20eec1defc40",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T16:26:26.777162+00:00",
           "retailer": "Costco",
           "price": 20.0,
           "deal_id": "ozbargain-7c4f20eec1defc40",
@@ -23938,6 +23994,13 @@
           "price": 400.25,
           "deal_id": "ozbargain-80987fcf4800660c",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T16:26:26.777281+00:00",
+          "retailer": "HIFIMAN Local Store AliExpress",
+          "price": 400.25,
+          "deal_id": "ozbargain-80987fcf4800660c",
+          "source": "OzBargain"
         }
       ]
     },
@@ -23948,6 +24011,13 @@
       "observations": [
         {
           "timestamp": "2026-09-03T11:16:03.112720+00:00",
+          "retailer": "ALDI, Belmont",
+          "price": 2.5,
+          "deal_id": "ozbargain-f926c441c52515c1",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T16:26:26.777528+00:00",
           "retailer": "ALDI, Belmont",
           "price": 2.5,
           "deal_id": "ozbargain-f926c441c52515c1",
@@ -23966,6 +24036,13 @@
           "price": 499.0,
           "deal_id": "ozbargain-234d4aa0d9480c7d",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T16:26:26.777621+00:00",
+          "retailer": "PLE Computers",
+          "price": 499.0,
+          "deal_id": "ozbargain-234d4aa0d9480c7d",
+          "source": "OzBargain"
         }
       ]
     },
@@ -23976,6 +24053,13 @@
       "observations": [
         {
           "timestamp": "2026-09-03T11:16:03.113011+00:00",
+          "retailer": "Amazon AU",
+          "price": 1499.0,
+          "deal_id": "ozbargain-2bd047c69faf2e29",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T16:26:26.777729+00:00",
           "retailer": "Amazon AU",
           "price": 1499.0,
           "deal_id": "ozbargain-2bd047c69faf2e29",
@@ -23994,6 +24078,13 @@
           "price": 10.0,
           "deal_id": "ozbargain-86cc44339a30b57a",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T16:26:26.777957+00:00",
+          "retailer": "Singapore Airlines New Kris+ App",
+          "price": 10.0,
+          "deal_id": "ozbargain-86cc44339a30b57a",
+          "source": "OzBargain"
         }
       ]
     },
@@ -24008,6 +24099,13 @@
           "price": 979.0,
           "deal_id": "ozbargain-8a4532e00bf08ec6",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T16:26:26.778074+00:00",
+          "retailer": "ALLPOWERS",
+          "price": 979.0,
+          "deal_id": "ozbargain-8a4532e00bf08ec6",
+          "source": "OzBargain"
         }
       ]
     },
@@ -24018,6 +24116,13 @@
       "observations": [
         {
           "timestamp": "2026-09-03T11:16:03.113695+00:00",
+          "retailer": "Everyday Rewards",
+          "price": 0.01,
+          "deal_id": "ozbargain-f8306ae6877110d5",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T16:26:26.778187+00:00",
           "retailer": "Everyday Rewards",
           "price": 0.01,
           "deal_id": "ozbargain-f8306ae6877110d5",
@@ -24150,7 +24255,133 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-2b0841cc1d157f4c71d2": {
+      "title": "September Golden Deals - $2 Sundae, $2.50 Large Fries, $3.50 McChicken, $8.95 ¼ Pounder Meal & 6 Nugs + More @ McDonalds via App",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T16:26:26.774834+00:00",
+          "retailer": "McDonalds via App",
+          "price": 2.0,
+          "deal_id": "ozbargain-35f16ae84031e0f1",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c3f14ef7cc14e6a267e8": {
+      "title": "Apple iPhone 17 Pro Max 256GB $1,879.99 Delivered @ Costco (Membership Required)",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T16:26:26.775079+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 1879.99,
+          "deal_id": "ozbargain-f61da582cdb5b806",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-117aa13675c31fc56613": {
+      "title": "$8.95 Small Double Cheeseburger Meal and Chicken 'n' Cheese (MyMacca's App Required)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T16:26:26.775188+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 8.95,
+          "deal_id": "ozbargain-a8120443f16eb300",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c58e9da54d6e3fa6372f": {
+      "title": "DeWALT 36V Mower kit ($1399) + Free 5 Piece Mixed Combo ($1699) + Hedge Trimmer ($269) + Blower ($249) via Redemption @ Bunnings",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T16:26:26.775433+00:00",
+          "retailer": "Bunnings",
+          "price": 1399.0,
+          "deal_id": "ozbargain-34d5f69b8a40f056",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-bcc758aa969c70d57f22": {
+      "title": "HP Omen 35L Gaming PC (Ryzen 7 9800X3D, 32GB RAM, 2TB SSD, Nvidia RTX 5070 Ti GPU) $3,599.10 Shipped @ HP ($3464.10 Education)",
+      "brand": "Nvidia",
+      "model": "RTX 5070",
+      "observations": [
+        {
+          "timestamp": "2026-09-03T16:26:26.775550+00:00",
+          "retailer": "HP ($3464.10 Education)",
+          "price": 3599.1,
+          "deal_id": "ozbargain-1e5996950600fa4b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-acbe8a102edee9a63163": {
+      "title": "[VIC] GUTS Family Game Day Ticket $4.75 + $0.15 Fee (for 1-2 Adults + 1-5 Children) 10am-6pm 12/9 @ GUTS, Belgrave Heights",
+      "brand": null,
+      "model": "10AM-6PM",
+      "observations": [
+        {
+          "timestamp": "2026-09-03T16:26:26.775686+00:00",
+          "retailer": "GUTS, Belgrave Heights",
+          "price": 4.75,
+          "deal_id": "ozbargain-2bdbd13fcad04596",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-65f41fa48e265341830e": {
+      "title": "ASICS Kayano 31 Black, Women's Size 12, D Wide - $129.99 + $15 Delivery ($0 with $159.99 Order) @ The Athlete's Foot",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T16:26:26.775816+00:00",
+          "retailer": "The Athlete's Foot",
+          "price": 129.99,
+          "deal_id": "ozbargain-f04b56473f168797",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-00bf9b0cef2e70b0b61c": {
+      "title": "[VIC] NFL Kickoff Festival - 2 for The Price of 1 Ticket - Thu or Sat $24.50, Fri $29.50 + $5.95 Fee @ Melbourne Park",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T16:26:26.775918+00:00",
+          "retailer": "Melbourne Park",
+          "price": 24.5,
+          "deal_id": "ozbargain-76f53adb098b58c4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4cc6df2ef7cccb65b6f9": {
+      "title": "$10 off Minimum $50 Spend (Excluding Delivery and Service Fees) @ Coles via Uber Eats",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T16:26:26.776118+00:00",
+          "retailer": "Coles via Uber Eats",
+          "price": 10.0,
+          "deal_id": "ozbargain-04554adbae43b204",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-09-03T11:16:12.891443+00:00"
+  "updated_at": "2026-09-03T16:26:38.270157+00:00"
 }
