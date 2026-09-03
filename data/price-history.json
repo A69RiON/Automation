@@ -23833,6 +23833,13 @@
           "price": 8999.0,
           "deal_id": "ozbargain-fa8d258fd4a91b79",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.633007+00:00",
+          "retailer": "Mwave",
+          "price": 8999.0,
+          "deal_id": "ozbargain-fa8d258fd4a91b79",
+          "source": "OzBargain"
         }
       ]
     },
@@ -23850,6 +23857,13 @@
         },
         {
           "timestamp": "2026-09-03T16:26:26.776373+00:00",
+          "retailer": "PharmacySavings",
+          "price": 59.99,
+          "deal_id": "ozbargain-1c298f968c545f63",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.633098+00:00",
           "retailer": "PharmacySavings",
           "price": 59.99,
           "deal_id": "ozbargain-1c298f968c545f63",
@@ -23875,6 +23889,13 @@
           "price": 2999.0,
           "deal_id": "ozbargain-2536f9db7570c696",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.633182+00:00",
+          "retailer": "Space Hi-Fi",
+          "price": 2999.0,
+          "deal_id": "ozbargain-2536f9db7570c696",
+          "source": "OzBargain"
         }
       ]
     },
@@ -23892,6 +23913,13 @@
         },
         {
           "timestamp": "2026-09-03T16:26:26.776579+00:00",
+          "retailer": "ShopBack",
+          "price": 25.0,
+          "deal_id": "ozbargain-d7b137596376aeb9",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.633251+00:00",
           "retailer": "ShopBack",
           "price": 25.0,
           "deal_id": "ozbargain-d7b137596376aeb9",
@@ -23917,6 +23945,13 @@
           "price": 3344.0,
           "deal_id": "ozbargain-95f940b74340bda5",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.633354+00:00",
+          "retailer": "UMKLOGIX",
+          "price": 3344.0,
+          "deal_id": "ozbargain-95f940b74340bda5",
+          "source": "OzBargain"
         }
       ]
     },
@@ -23934,6 +23969,13 @@
         },
         {
           "timestamp": "2026-09-03T16:26:26.776826+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 14.5,
+          "deal_id": "ozbargain-52c77aec66367e99",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.633429+00:00",
           "retailer": "OzBargain-listed deal",
           "price": 14.5,
           "deal_id": "ozbargain-52c77aec66367e99",
@@ -23959,6 +24001,13 @@
           "price": 69.84,
           "deal_id": "ozbargain-6f26dc0145370099",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.633610+00:00",
+          "retailer": "Amazon AU",
+          "price": 69.84,
+          "deal_id": "ozbargain-6f26dc0145370099",
+          "source": "OzBargain"
         }
       ]
     },
@@ -23976,6 +24025,13 @@
         },
         {
           "timestamp": "2026-09-03T16:26:26.777162+00:00",
+          "retailer": "Costco",
+          "price": 20.0,
+          "deal_id": "ozbargain-7c4f20eec1defc40",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.633692+00:00",
           "retailer": "Costco",
           "price": 20.0,
           "deal_id": "ozbargain-7c4f20eec1defc40",
@@ -24001,6 +24057,13 @@
           "price": 400.25,
           "deal_id": "ozbargain-80987fcf4800660c",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.633780+00:00",
+          "retailer": "HIFIMAN Local Store AliExpress",
+          "price": 400.25,
+          "deal_id": "ozbargain-80987fcf4800660c",
+          "source": "OzBargain"
         }
       ]
     },
@@ -24018,6 +24081,13 @@
         },
         {
           "timestamp": "2026-09-03T16:26:26.777528+00:00",
+          "retailer": "ALDI, Belmont",
+          "price": 2.5,
+          "deal_id": "ozbargain-f926c441c52515c1",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.633954+00:00",
           "retailer": "ALDI, Belmont",
           "price": 2.5,
           "deal_id": "ozbargain-f926c441c52515c1",
@@ -24043,6 +24113,13 @@
           "price": 499.0,
           "deal_id": "ozbargain-234d4aa0d9480c7d",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.634022+00:00",
+          "retailer": "PLE Computers",
+          "price": 499.0,
+          "deal_id": "ozbargain-234d4aa0d9480c7d",
+          "source": "OzBargain"
         }
       ]
     },
@@ -24060,6 +24137,13 @@
         },
         {
           "timestamp": "2026-09-03T16:26:26.777729+00:00",
+          "retailer": "Amazon AU",
+          "price": 1499.0,
+          "deal_id": "ozbargain-2bd047c69faf2e29",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.634105+00:00",
           "retailer": "Amazon AU",
           "price": 1499.0,
           "deal_id": "ozbargain-2bd047c69faf2e29",
@@ -24267,6 +24351,13 @@
           "price": 2.0,
           "deal_id": "ozbargain-35f16ae84031e0f1",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.631958+00:00",
+          "retailer": "McDonalds via App",
+          "price": 2.0,
+          "deal_id": "ozbargain-35f16ae84031e0f1",
+          "source": "OzBargain"
         }
       ]
     },
@@ -24277,6 +24368,13 @@
       "observations": [
         {
           "timestamp": "2026-09-03T16:26:26.775079+00:00",
+          "retailer": "Costco (Membership Required)",
+          "price": 1879.99,
+          "deal_id": "ozbargain-f61da582cdb5b806",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.632126+00:00",
           "retailer": "Costco (Membership Required)",
           "price": 1879.99,
           "deal_id": "ozbargain-f61da582cdb5b806",
@@ -24295,6 +24393,13 @@
           "price": 8.95,
           "deal_id": "ozbargain-a8120443f16eb300",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.632208+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 8.95,
+          "deal_id": "ozbargain-a8120443f16eb300",
+          "source": "OzBargain"
         }
       ]
     },
@@ -24305,6 +24410,13 @@
       "observations": [
         {
           "timestamp": "2026-09-03T16:26:26.775433+00:00",
+          "retailer": "Bunnings",
+          "price": 1399.0,
+          "deal_id": "ozbargain-34d5f69b8a40f056",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.632382+00:00",
           "retailer": "Bunnings",
           "price": 1399.0,
           "deal_id": "ozbargain-34d5f69b8a40f056",
@@ -24323,6 +24435,13 @@
           "price": 3599.1,
           "deal_id": "ozbargain-1e5996950600fa4b",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.632469+00:00",
+          "retailer": "HP ($3464.10 Education)",
+          "price": 3599.1,
+          "deal_id": "ozbargain-1e5996950600fa4b",
+          "source": "OzBargain"
         }
       ]
     },
@@ -24333,6 +24452,13 @@
       "observations": [
         {
           "timestamp": "2026-09-03T16:26:26.775686+00:00",
+          "retailer": "GUTS, Belgrave Heights",
+          "price": 4.75,
+          "deal_id": "ozbargain-2bdbd13fcad04596",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.632579+00:00",
           "retailer": "GUTS, Belgrave Heights",
           "price": 4.75,
           "deal_id": "ozbargain-2bdbd13fcad04596",
@@ -24351,6 +24477,13 @@
           "price": 129.99,
           "deal_id": "ozbargain-f04b56473f168797",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.632677+00:00",
+          "retailer": "The Athlete's Foot",
+          "price": 129.99,
+          "deal_id": "ozbargain-f04b56473f168797",
+          "source": "OzBargain"
         }
       ]
     },
@@ -24361,6 +24494,13 @@
       "observations": [
         {
           "timestamp": "2026-09-03T16:26:26.775918+00:00",
+          "retailer": "Melbourne Park",
+          "price": 24.5,
+          "deal_id": "ozbargain-76f53adb098b58c4",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.632754+00:00",
           "retailer": "Melbourne Park",
           "price": 24.5,
           "deal_id": "ozbargain-76f53adb098b58c4",
@@ -24379,9 +24519,44 @@
           "price": 10.0,
           "deal_id": "ozbargain-04554adbae43b204",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-03T21:02:57.632906+00:00",
+          "retailer": "Coles via Uber Eats",
+          "price": 10.0,
+          "deal_id": "ozbargain-04554adbae43b204",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-595f12896ae39d3f5542": {
+      "title": "Dimplex Heated Throw Charcoal $39 @ The Good Guys",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T21:02:57.631625+00:00",
+          "retailer": "The Good Guys",
+          "price": 39.0,
+          "deal_id": "ozbargain-6e32490266ed2b55",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-75d748eb4832362109db": {
+      "title": "[Switch 2] Orbitals $75 ($65 after $10 Newsletter Sign-up Voucher) Delivered / C&C @ Target",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-03T21:02:57.631838+00:00",
+          "retailer": "Target",
+          "price": 75.0,
+          "deal_id": "ozbargain-6b9ba71c8d2e5b56",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-09-03T16:26:38.270157+00:00"
+  "updated_at": "2026-09-03T21:03:08.412699+00:00"
 }
