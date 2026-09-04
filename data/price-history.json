@@ -7800,7 +7800,7 @@
       ]
     },
     "product-e3c8e571063a399cf777": {
-      "title": "[QLD] Classic Tonkotsu Ramen $1 for First 400 Customers on Saturday 29 August @ Motto Motto, Harbour Town, Gold Coast",
+      "title": "[QLD] Classic Tonkotsu Ramen $1 for First 400 Customers on Sat 12 Sep @ Motto Motto, Orion Springfield Central, Ipswich",
       "brand": null,
       "model": null,
       "observations": [
@@ -7816,6 +7816,13 @@
           "retailer": "Motto Motto, Harbour Town, Gold Coast",
           "price": 1.0,
           "deal_id": "ozbargain-ddcdba28f92fa1b5",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.763218+00:00",
+          "retailer": "Motto Motto, Orion Springfield Central, Ipswich",
+          "price": 1.0,
+          "deal_id": "ozbargain-f9c2a71b5009d344",
           "source": "OzBargain"
         }
       ]
@@ -14656,6 +14663,13 @@
           "price": 16.47,
           "deal_id": "ozbargain-c4bb8a6460f33dda",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.765676+00:00",
+          "retailer": "Amazon AU",
+          "price": 16.47,
+          "deal_id": "ozbargain-c4bb8a6460f33dda",
+          "source": "OzBargain"
         }
       ]
     },
@@ -15080,7 +15094,7 @@
       ]
     },
     "product-d0247c6bd30470e8c156": {
-      "title": "Amartisan 10-Piece Magnetic Screwdrivers Set $14.14 (RRP $18.41) + Delivery ($0 Prime/$59 Spend) @ Amazon AU",
+      "title": "AEG 10-Piece Fusion Kit (Black Edition) $1619.10 + Delivery ($0 C&C/ in-Store) @ Tool Kit Depot",
       "brand": null,
       "model": "10-PIECE",
       "observations": [
@@ -15096,6 +15110,13 @@
           "retailer": "Amazon AU",
           "price": 14.14,
           "deal_id": "ozbargain-8d193f1264968209",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.763499+00:00",
+          "retailer": "Tool Kit Depot",
+          "price": 1619.1,
+          "deal_id": "ozbargain-771f03bec4a1cb38",
           "source": "OzBargain"
         }
       ]
@@ -24887,7 +24908,7 @@
       ]
     },
     "product-e1b9c230fcc4ac70f87d": {
-      "title": "8kw Solar Panels + 10kwh Battery Perth Deal 2026 + Free Bollard: $6,499 after Rebates | Solar 365",
+      "title": "[WA] 8kW Solar Panels + 10kWh Battery + Free Bollard: Perth $6,499 after Rebates @ Solar 365",
       "brand": null,
       "model": "10KWH",
       "observations": [
@@ -24896,6 +24917,13 @@
           "retailer": "OzBargain-listed deal",
           "price": 6499.0,
           "deal_id": "ozbargain-4c111d20675dbaa9",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.763924+00:00",
+          "retailer": "Solar 365",
+          "price": 6499.0,
+          "deal_id": "ozbargain-5f93b8bb3b7d779c",
           "source": "OzBargain"
         }
       ]
@@ -24907,6 +24935,13 @@
       "observations": [
         {
           "timestamp": "2026-09-04T11:19:08.461292+00:00",
+          "retailer": "Supercheap Auto",
+          "price": 146.24,
+          "deal_id": "ozbargain-9855afb430a9991c",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.764034+00:00",
           "retailer": "Supercheap Auto",
           "price": 146.24,
           "deal_id": "ozbargain-9855afb430a9991c",
@@ -24925,6 +24960,13 @@
           "price": 14.98,
           "deal_id": "ozbargain-c840a9903a72e97e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.764172+00:00",
+          "retailer": "Nintendo eShop",
+          "price": 14.98,
+          "deal_id": "ozbargain-c840a9903a72e97e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -24939,11 +24981,18 @@
           "price": 139.0,
           "deal_id": "ozbargain-4dd792da268b719f",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.764314+00:00",
+          "retailer": "The Good Guys",
+          "price": 139.0,
+          "deal_id": "ozbargain-4dd792da268b719f",
+          "source": "OzBargain"
         }
       ]
     },
     "product-08a63b188457bf9dbb90": {
-      "title": "50% off Cozze Pizza Ovens: Standard 13\" Electric $195.60, 17\" Gas $239.60 + Delivery @ Cozze",
+      "title": "50% off Cozze Pizza Ovens: Standard 13\" Electric $195.60, 17\" Gas $239.60 + $15 Delivery @ Cozze",
       "brand": null,
       "model": null,
       "observations": [
@@ -24952,6 +25001,13 @@
           "retailer": "Cozze",
           "price": 195.6,
           "deal_id": "ozbargain-cb94f3d8c3094515",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.764443+00:00",
+          "retailer": "Cozze",
+          "price": 195.6,
+          "deal_id": "ozbargain-13da120249932350",
           "source": "OzBargain"
         }
       ]
@@ -24963,6 +25019,13 @@
       "observations": [
         {
           "timestamp": "2026-09-04T11:19:08.461867+00:00",
+          "retailer": "FitVille",
+          "price": 29.95,
+          "deal_id": "ozbargain-7b1dc6aa544eb563",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.764568+00:00",
           "retailer": "FitVille",
           "price": 29.95,
           "deal_id": "ozbargain-7b1dc6aa544eb563",
@@ -24981,6 +25044,13 @@
           "price": 57900.0,
           "deal_id": "ozbargain-da3fbe27a94ab992",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.764722+00:00",
+          "retailer": "BYD",
+          "price": 57900.0,
+          "deal_id": "ozbargain-da3fbe27a94ab992",
+          "source": "OzBargain"
         }
       ]
     },
@@ -24991,6 +25061,13 @@
       "observations": [
         {
           "timestamp": "2026-09-04T11:19:08.462234+00:00",
+          "retailer": "Shopback via App",
+          "price": 11.5,
+          "deal_id": "ozbargain-6dcc8f465c955f6d",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.764965+00:00",
           "retailer": "Shopback via App",
           "price": 11.5,
           "deal_id": "ozbargain-6dcc8f465c955f6d",
@@ -25009,6 +25086,13 @@
           "price": 35.0,
           "deal_id": "ozbargain-2d141d00ad015c96",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.765091+00:00",
+          "retailer": "Beewise",
+          "price": 35.0,
+          "deal_id": "ozbargain-2d141d00ad015c96",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25019,6 +25103,13 @@
       "observations": [
         {
           "timestamp": "2026-09-04T11:19:08.462464+00:00",
+          "retailer": "Nintendo eShop",
+          "price": 3.0,
+          "deal_id": "ozbargain-b32712a67b237c23",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.765192+00:00",
           "retailer": "Nintendo eShop",
           "price": 3.0,
           "deal_id": "ozbargain-b32712a67b237c23",
@@ -25037,6 +25128,13 @@
           "price": 49.99,
           "deal_id": "ozbargain-0fb4fcc1fe55a0a8",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.765300+00:00",
+          "retailer": "Inkbird",
+          "price": 49.99,
+          "deal_id": "ozbargain-0fb4fcc1fe55a0a8",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25047,6 +25145,13 @@
       "observations": [
         {
           "timestamp": "2026-09-04T11:19:08.462864+00:00",
+          "retailer": "Energy Australia",
+          "price": 250.0,
+          "deal_id": "ozbargain-ce0b80b65f5e7aba",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.765527+00:00",
           "retailer": "Energy Australia",
           "price": 250.0,
           "deal_id": "ozbargain-ce0b80b65f5e7aba",
@@ -25065,6 +25170,13 @@
           "price": 10.0,
           "deal_id": "ozbargain-6d3a76262321ff56",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.765803+00:00",
+          "retailer": "T2 Tea",
+          "price": 10.0,
+          "deal_id": "ozbargain-6d3a76262321ff56",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25075,6 +25187,13 @@
       "observations": [
         {
           "timestamp": "2026-09-04T11:19:08.463234+00:00",
+          "retailer": "adidas eBay",
+          "price": 40.5,
+          "deal_id": "ozbargain-645f03cd14fe8eff",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.765920+00:00",
           "retailer": "adidas eBay",
           "price": 40.5,
           "deal_id": "ozbargain-645f03cd14fe8eff",
@@ -25093,6 +25212,13 @@
           "price": 1.49,
           "deal_id": "ozbargain-d83d9e2848d72298",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.766030+00:00",
+          "retailer": "Apple App Store",
+          "price": 1.49,
+          "deal_id": "ozbargain-d83d9e2848d72298",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25103,6 +25229,13 @@
       "observations": [
         {
           "timestamp": "2026-09-04T11:19:08.463449+00:00",
+          "retailer": "Event Cinemas",
+          "price": 1.8,
+          "deal_id": "ozbargain-9b133b424451f34d",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.766135+00:00",
           "retailer": "Event Cinemas",
           "price": 1.8,
           "deal_id": "ozbargain-9b133b424451f34d",
@@ -25121,6 +25254,13 @@
           "price": 199.99,
           "deal_id": "ozbargain-81cb9c4a431b78da",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.766242+00:00",
+          "retailer": "Costco",
+          "price": 199.99,
+          "deal_id": "ozbargain-81cb9c4a431b78da",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25131,6 +25271,13 @@
       "observations": [
         {
           "timestamp": "2026-09-04T11:19:08.463818+00:00",
+          "retailer": "4WD Supa Centre & via Amazon AU",
+          "price": 29.9,
+          "deal_id": "ozbargain-bce0a44b72f2b91d",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.766471+00:00",
           "retailer": "4WD Supa Centre & via Amazon AU",
           "price": 29.9,
           "deal_id": "ozbargain-bce0a44b72f2b91d",
@@ -25149,6 +25296,13 @@
           "price": 1.37,
           "deal_id": "ozbargain-4b6fe85f9550a7be",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.766611+00:00",
+          "retailer": "Amazon AU",
+          "price": 1.37,
+          "deal_id": "ozbargain-4b6fe85f9550a7be",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25163,6 +25317,13 @@
           "price": 10.0,
           "deal_id": "ozbargain-dda63f3b41fa5ff2",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.766757+00:00",
+          "retailer": "Oakberry",
+          "price": 10.0,
+          "deal_id": "ozbargain-dda63f3b41fa5ff2",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25173,6 +25334,13 @@
       "observations": [
         {
           "timestamp": "2026-09-04T11:19:08.464198+00:00",
+          "retailer": "Sports Direct",
+          "price": 90.0,
+          "deal_id": "ozbargain-8cebd4b7d80ea8fa",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T16:22:13.766892+00:00",
           "retailer": "Sports Direct",
           "price": 90.0,
           "deal_id": "ozbargain-8cebd4b7d80ea8fa",
@@ -25235,7 +25403,49 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-36d50c434dcec53fd1d5": {
+      "title": "[Back Order] Bosch 18V 20mm Jigsaw Skin GST 18V-95 B $179.10 + Delivery @ Tool Kit Depot",
+      "brand": null,
+      "model": "18V-95",
+      "observations": [
+        {
+          "timestamp": "2026-09-04T16:22:13.763338+00:00",
+          "retailer": "Tool Kit Depot",
+          "price": 179.1,
+          "deal_id": "ozbargain-3967d4bb107aa64f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-302535c0ee9efba67d54": {
+      "title": "Horse & Dinosaur Keychain (Black/Gold) $9.99, 2 for $16.95, 3 for $23.01 Delivered @ Wangride eBay",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T16:22:13.763665+00:00",
+          "retailer": "Wangride eBay",
+          "price": 9.99,
+          "deal_id": "ozbargain-c93735faefa614a1",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-55316c0eebe1fbbd4eab": {
+      "title": "Duracell Coppertop Alkaline AAA Batteries 20pk $14.99 ($13.49 Sub & Save, RRP $27) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T16:22:13.763800+00:00",
+          "retailer": "Amazon AU",
+          "price": 14.99,
+          "deal_id": "ozbargain-c6673c8a7e624e23",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-09-04T11:19:19.194207+00:00"
+  "updated_at": "2026-09-04T16:22:23.931410+00:00"
 }
