@@ -14625,7 +14625,7 @@
       ]
     },
     "product-64e4aaa7be4ef74a838c": {
-      "title": "Cricnix Sports/Cricket Socks 3-Pack (Adult $8.99, Youth $7.99) + $10 Delivery @ Cricnix",
+      "title": "Dettol Antibacterial Hand Wash Refresh Refill Disinfecting 950ml 3-Pack $16.47 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
       "brand": null,
       "model": "3-PACK",
       "observations": [
@@ -14648,6 +14648,13 @@
           "retailer": "Cricnix",
           "price": 8.99,
           "deal_id": "ozbargain-0ccce77da32465ea",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T11:19:08.462992+00:00",
+          "retailer": "Amazon AU",
+          "price": 16.47,
+          "deal_id": "ozbargain-c4bb8a6460f33dda",
           "source": "OzBargain"
         }
       ]
@@ -24864,7 +24871,371 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-54110a27d9b2b254bd6d": {
+      "title": "Duracell Coppertop Alkaline AAA, 20 Pack Batteries $14.99 (RRP $27) +Delivery ($0 Prime/$59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.461008+00:00",
+          "retailer": "Amazon AU",
+          "price": 14.99,
+          "deal_id": "ozbargain-cc57240d9938c4d1",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e1b9c230fcc4ac70f87d": {
+      "title": "8kw Solar Panels + 10kwh Battery Perth Deal 2026 + Free Bollard: $6,499 after Rebates | Solar 365",
+      "brand": null,
+      "model": "10KWH",
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.461160+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 6499.0,
+          "deal_id": "ozbargain-4c111d20675dbaa9",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-3852e3d626f1e0f50bd1": {
+      "title": "Karcher K2 Premium 1750 PSI Pressure Washer $146.24 (Was $194.99) + Delivery ($0 C&C/ in-Store) @ Supercheap Auto",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.461292+00:00",
+          "retailer": "Supercheap Auto",
+          "price": 146.24,
+          "deal_id": "ozbargain-9855afb430a9991c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-36f4c4c7ae0348fda3e9": {
+      "title": "[Switch] Starlink: Battle for Atlas - Digital Edition $14.98, Deluxe Edition $23.98 @ Nintendo eShop",
+      "brand": "Nintendo",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.461426+00:00",
+          "retailer": "Nintendo eShop",
+          "price": 14.98,
+          "deal_id": "ozbargain-c840a9903a72e97e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6bae5e1e3406761ba936": {
+      "title": "Shark Steam & Scrub Steam Mop S7001 $139 (via Price Check Button & $15 off for Click & Collect) @ The Good Guys",
+      "brand": null,
+      "model": "S7001",
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.461575+00:00",
+          "retailer": "The Good Guys",
+          "price": 139.0,
+          "deal_id": "ozbargain-4dd792da268b719f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-08a63b188457bf9dbb90": {
+      "title": "50% off Cozze Pizza Ovens: Standard 13\" Electric $195.60, 17\" Gas $239.60 + Delivery @ Cozze",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.461730+00:00",
+          "retailer": "Cozze",
+          "price": 195.6,
+          "deal_id": "ozbargain-cb94f3d8c3094515",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-53c8fd131ddc263c4f90": {
+      "title": "FitVille Women's Walking Shoes Rebound Core V1 US$29.95 (~A$41.83) Delivered @ FitVille",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.461867+00:00",
+          "retailer": "FitVille",
+          "price": 29.95,
+          "deal_id": "ozbargain-7b1dc6aa544eb563",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-3dff3afb02f9dbd413f6": {
+      "title": "BYD Shark 6 Dynamic Cab Chassis $57,900 Driveaway + Free Heavy-Duty Alloy Tray (Save $9,000) @ BYD",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.461990+00:00",
+          "retailer": "BYD",
+          "price": 57900.0,
+          "deal_id": "ozbargain-da3fbe27a94ab992",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-230e560c1f1dabab1da2": {
+      "title": "[Westpac, StG, BSA, BoM] Hoyts Movie Ticket: Adult GA $11.50 (Session Exclusions Apply) @ Shopback via App",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.462234+00:00",
+          "retailer": "Shopback via App",
+          "price": 11.5,
+          "deal_id": "ozbargain-6dcc8f465c955f6d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f6b0723bc44be129a6ca": {
+      "title": "Children's Bee Suit with Fencing Veil: Cotton 2XS $35 (Was $125), Vented Triple Layer $55 (Was $195) + Delivery @ Beewise",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.462357+00:00",
+          "retailer": "Beewise",
+          "price": 35.0,
+          "deal_id": "ozbargain-2d141d00ad015c96",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e32a26e35386ccc8d87d": {
+      "title": "[Switch] Ys Origin $3 @ Nintendo eShop",
+      "brand": "Nintendo",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.462464+00:00",
+          "retailer": "Nintendo eShop",
+          "price": 3.0,
+          "deal_id": "ozbargain-b32712a67b237c23",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-55e13bff7ef218b13b5c": {
+      "title": "Inkbird Wireless Bluetooth BBQ Thermometer INT-11S-B $49.99 Delivered @ Inkbird",
+      "brand": null,
+      "model": "INT-11S-B",
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.462577+00:00",
+          "retailer": "Inkbird",
+          "price": 49.99,
+          "deal_id": "ozbargain-0fb4fcc1fe55a0a8",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b08c61f5032434f3d30a": {
+      "title": "[NSW] Join Energy Australia Flexi Plan for $250 Electricity Credit on First Bill (New Accounts Only) @ Energy Australia",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.462864+00:00",
+          "retailer": "Energy Australia",
+          "price": 250.0,
+          "deal_id": "ozbargain-ce0b80b65f5e7aba",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e716ae0d44f707b9cbdb": {
+      "title": "20% off Storewide (Exclusions Apply) + $10 Delivery ($0 in-Store/ C&C/ $50 Order) @ T2 Tea",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.463116+00:00",
+          "retailer": "T2 Tea",
+          "price": 10.0,
+          "deal_id": "ozbargain-6d3a76262321ff56",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-51ca1bcc19073909b716": {
+      "title": "adidas Women Running Sneakers Galaxy 7 Purple Tint or Runfalcon 5 Core Black $40.50 Delivered @ adidas eBay",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.463234+00:00",
+          "retailer": "adidas eBay",
+          "price": 40.5,
+          "deal_id": "ozbargain-645f03cd14fe8eff",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6f1e4108b7afdf53534e": {
+      "title": "[iOS] Cheerio - Block Ads and Browse Faster - Free (Was $1.49) @ Apple App Store",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.463343+00:00",
+          "retailer": "Apple App Store",
+          "price": 1.49,
+          "deal_id": "ozbargain-d83d9e2848d72298",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-5916907f155bfa07bfea": {
+      "title": "Half Price Tuesdays for Cinebuzz Members (Free to Join) (+ $1.80 Online Fee) @ Event Cinemas",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.463449+00:00",
+          "retailer": "Event Cinemas",
+          "price": 1.8,
+          "deal_id": "ozbargain-9b133b424451f34d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-447ab92692b586f9f79a": {
+      "title": "Apple AirPods 4 With Active Noise Cancellation $199.99 Delivered @ Costco",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.463555+00:00",
+          "retailer": "Costco",
+          "price": 199.99,
+          "deal_id": "ozbargain-81cb9c4a431b78da",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-edaf932d15ba9bab4b97": {
+      "title": "2x Kings Travel Canvas Bags $29.90 + Delivery / C&C @ 4WD Supa Centre & via Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.463818+00:00",
+          "retailer": "4WD Supa Centre & via Amazon AU",
+          "price": 29.9,
+          "deal_id": "ozbargain-bce0a44b72f2b91d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-351b5d9a6de763ed8a47": {
+      "title": "[Prime Business] Brunnings All Purpose NPK Fertiliser 500g $1.37 (RRP $6) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.463933+00:00",
+          "retailer": "Amazon AU",
+          "price": 1.37,
+          "deal_id": "ozbargain-4b6fe85f9550a7be",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-185549d1cf5d92c02bfb": {
+      "title": "[iOS, Android] Free $10 Sign-up Voucher + Buy 9 Get 1 Free Açaí Bowls/Smoothies via Oakberry Club App @ Oakberry",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.464064+00:00",
+          "retailer": "Oakberry",
+          "price": 10.0,
+          "deal_id": "ozbargain-dda63f3b41fa5ff2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-80915ce30172d672d2ac": {
+      "title": "Saucony Ride 18 Running Shoes $90 + $10 Shipping ($0 C&C/ $150 order) @ Sports Direct",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.464198+00:00",
+          "retailer": "Sports Direct",
+          "price": 90.0,
+          "deal_id": "ozbargain-8cebd4b7d80ea8fa",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-bd0ac928cef17d3286ea": {
+      "title": "Sennheiser Momentum 4 Wireless Headphones - Black $288 (RRP $549.95) Delivered @ Amazon AU (Excl. NT)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.464317+00:00",
+          "retailer": "Amazon AU (Excl. NT)",
+          "price": 288.0,
+          "deal_id": "ozbargain-79d98100851223a4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-88f0c4a9c6bea1df6a2c": {
+      "title": "[VIC] $23 Feature Film Ticket on Tuesdays (+ $2 Online Fee) @ IMAX Melbourne",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.464436+00:00",
+          "retailer": "IMAX Melbourne",
+          "price": 23.0,
+          "deal_id": "ozbargain-c8ac6f6ad457e6cf",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a3b8b84cd987aaba7188": {
+      "title": "[Hack] Final Fantasy VII Rebirth + Final Fantasy VII Remake Intergrade $20 @ Steam",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.464555+00:00",
+          "retailer": "Steam",
+          "price": 20.0,
+          "deal_id": "ozbargain-68d56f268a1a807a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1d141371199069a9b3ba": {
+      "title": "Vornado 533DC Air Circulator (White) $136 Delivered @ Amazon AU",
+      "brand": null,
+      "model": "533DC",
+      "observations": [
+        {
+          "timestamp": "2026-09-04T11:19:08.464686+00:00",
+          "retailer": "Amazon AU",
+          "price": 136.0,
+          "deal_id": "ozbargain-820f8cd25f8803c8",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-09-04T04:35:12.640130+00:00"
+  "updated_at": "2026-09-04T11:19:19.194207+00:00"
 }
