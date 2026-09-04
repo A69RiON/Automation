@@ -17992,7 +17992,7 @@
       ]
     },
     "product-f0baab004a219be39c5b": {
-      "title": "[Steam, PC, Mac, Linux] Sid Meier's Civilization VII Deluxe Edition $79.97 @ Steam",
+      "title": "[Steam, PC, Mac, Linux] Sid Meier's Civilization VII - Free to Play till September 11th @ Steam",
       "brand": null,
       "model": null,
       "observations": [
@@ -18001,6 +18001,13 @@
           "retailer": "Steam",
           "price": 79.97,
           "deal_id": "ozbargain-1d37d67c5067821a",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T04:35:01.198978+00:00",
+          "retailer": "Steam",
+          "price": 80.0,
+          "deal_id": "ozbargain-bf0a004541dbda1d",
           "source": "OzBargain"
         }
       ]
@@ -24554,9 +24561,310 @@
           "price": 75.0,
           "deal_id": "ozbargain-6b9ba71c8d2e5b56",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T04:35:01.200746+00:00",
+          "retailer": "Target",
+          "price": 75.0,
+          "deal_id": "ozbargain-6b9ba71c8d2e5b56",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1f1537d63e033061002a": {
+      "title": "Joyo JTA05 5W All-Valve Class A Guitar Combo Amp - $249 Delivered @ Artist Guitars",
+      "brand": null,
+      "model": "JTA05",
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.197173+00:00",
+          "retailer": "Artist Guitars",
+          "price": 249.0,
+          "deal_id": "ozbargain-c85f407a85ecae13",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b74275ad7ccf3c0e5e3e": {
+      "title": "Reebok Nano Gym $79.99, On Cloud 6 $189.99 & More + $15 Delivery ($0 C&C/ $159.99 Order) @ The Athlete's Foot",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.197343+00:00",
+          "retailer": "The Athlete's Foot",
+          "price": 79.99,
+          "deal_id": "ozbargain-0903876e613a88b8",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-33f5c66e4bfc51dfd899": {
+      "title": "[NSW,QLD,WA] IMAX Half Price Tuesdays for Cinebuzz Members (Free to Join) $22.50/$17.50/$19 (+$1.80 Online Fee) @ Event Cinemas",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.197487+00:00",
+          "retailer": "Event Cinemas",
+          "price": 22.5,
+          "deal_id": "ozbargain-1da60a7d5a604262",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-423919af49eb86a0d0fd": {
+      "title": "LG UltraGear G6 27G64NA 27\" QHD 300Hz Gaming Monitor $349 (Was $699) + Delivery ($0 C&C/ in-Store) @ JB Hi-Fi",
+      "brand": "LG",
+      "model": "27G64NA",
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.197649+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 349.0,
+          "deal_id": "ozbargain-ebc6322f631c4ee2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c8e0c3296486c40d551f": {
+      "title": "Eufy Security Homebase 3 $261.75 + Delivery ($0 C&C/ in-Store/ OnePass) @ Bunnings Warehouse",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.197777+00:00",
+          "retailer": "Bunnings Warehouse",
+          "price": 261.75,
+          "deal_id": "ozbargain-a09aaf096176f3e5",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c7ff59c4ff9ed3aa3cee": {
+      "title": "DJI Care Refresh 2-Year Plan for DJI Mini 4 Pro $99 + $8.95 Delivery @ digiDirect",
+      "brand": null,
+      "model": "2-YEAR",
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.198127+00:00",
+          "retailer": "digiDirect",
+          "price": 99.0,
+          "deal_id": "ozbargain-657917e33f5414bd",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-513548d82cb773512dea": {
+      "title": "Weber Go-Anywhere Charcoal Grill $119.95 Delivered / C&C @ Weber",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.198248+00:00",
+          "retailer": "Weber",
+          "price": 119.95,
+          "deal_id": "ozbargain-b7d0c2454488aac3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e94e4fa3c77ca8415153": {
+      "title": "15% Cashback on Event Cinemas Gift Cards + [Westpac, StG, BoM, BSA] 2% Bonus Cashback + $5 Bonus Gift Card @ ShopBack",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.198366+00:00",
+          "retailer": "ShopBack",
+          "price": 5.0,
+          "deal_id": "ozbargain-6a443ab6cb1ce5b2",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-384c9b9376545b83234e": {
+      "title": "[Refurb] Apple MacBook Air 13\" M2 Chip, 8GB RAM, 256GB SSD (As New) $899.10 Delivered @ Harris Technology eBay",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.198483+00:00",
+          "retailer": "Harris Technology eBay",
+          "price": 899.1,
+          "deal_id": "ozbargain-7e63596c0f942798",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-489640424144f7374353": {
+      "title": "[SA] Purchase a $100 Westfield Gift Card and Get a Bonus $20 Westfield Gift Card (Max 1 Per Member) @ Westfield, West Lakes",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.198640+00:00",
+          "retailer": "Westfield, West Lakes",
+          "price": 100.0,
+          "deal_id": "ozbargain-5e70d41c1ccdf8b5",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-14d8ea5caa3632b1ac95": {
+      "title": "Alienware 34 Gaming Monitor AW3426DW, UW-QHD QD-OLED $1,199 Delivered @ Amazon AU",
+      "brand": null,
+      "model": "AW3426DW",
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.198861+00:00",
+          "retailer": "Amazon AU",
+          "price": 1199.0,
+          "deal_id": "ozbargain-9aa5ef0a28a5bac8",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-fbc352ec89517398bd81": {
+      "title": "Men's Lonsdale Shoes $10, up to 60% off Skechers Apparel + $10 Delivery ($0 with $150 Order) @ Sports Direct",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.199097+00:00",
+          "retailer": "Sports Direct",
+          "price": 10.0,
+          "deal_id": "ozbargain-9c698a8c529a93fd",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-55811e1d8733815b3f7c": {
+      "title": "Liquorland $1 Express Delivery on Selected Items to Select Postcodes @ Liquorland",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.199328+00:00",
+          "retailer": "Liquorland",
+          "price": 1.0,
+          "deal_id": "ozbargain-b4484545d23943c3",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ad0bb0f1c28feaf63138": {
+      "title": "Singapore Air to Singapore Return Sep-Jul: PER $534, DRW $556, SYD $719, ADL $734, MEL $735, CNS $770, BNE $775, & More @ BTF",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.199462+00:00",
+          "retailer": "BTF",
+          "price": 534.0,
+          "deal_id": "ozbargain-959f7b0195ab5045",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7c66c1bfbb51ff34292a": {
+      "title": "Apple iPhone Air 512GB - Space Black $1,471.55 Delivered / NSW C&C @ Mobileciti",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.199717+00:00",
+          "retailer": "Mobileciti",
+          "price": 1471.55,
+          "deal_id": "ozbargain-dc67c7f284b72308",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d9a2803bd27493b8131b": {
+      "title": "[iOS, Android] Space for Two: Couples App, Lifetime Premium - Free (Was A$39.99) @ Apple App Store & Google Play Store",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.199839+00:00",
+          "retailer": "Apple App Store & Google Play Store",
+          "price": 39.99,
+          "deal_id": "ozbargain-b3c8660e6d14dc85",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-78b127a9dfaae5101f5e": {
+      "title": "[Switch 2] Cyberpunk 2077 Ultimate Edition $50.40 @ Nintendo eShop",
+      "brand": "Nintendo",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.200034+00:00",
+          "retailer": "Nintendo eShop",
+          "price": 50.4,
+          "deal_id": "ozbargain-527141e9a136dd94",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-cb128d24ec90541b2747": {
+      "title": "Apple AirPods 4 with Active Noise Cancellation $199 Delivered @ Officeworks / $200 @ JB Hi-Fi (C&C)",
+      "brand": "Apple",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.200166+00:00",
+          "retailer": "Officeworks / $200 @ JB Hi-Fi (C&C)",
+          "price": 199.0,
+          "deal_id": "ozbargain-c46b4fd4dbc975e6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-dceb34e99d9593f39105": {
+      "title": "Arozen Eon Pro 2 Scent Diffuser $165 (with 25% off Coded) Delivered @ Arozen",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.200271+00:00",
+          "retailer": "Arozen",
+          "price": 165.0,
+          "deal_id": "ozbargain-874cb62d2e7a5f96",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-a22f09d7d520166c164b": {
+      "title": "Grell Oae2 Open-Back Audiophile Headphones $499 (RRP $919) Delivered @ Addicted to Audio",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.200360+00:00",
+          "retailer": "Addicted to Audio",
+          "price": 499.0,
+          "deal_id": "ozbargain-7a7b740885c552ee",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-aedf3fbe1a6eb02a2fd3": {
+      "title": "Dimplex Heated Throw Charcoal $39 + Delivery ($0 C&C/In-Store) @ The Good Guys",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T04:35:01.200497+00:00",
+          "retailer": "The Good Guys",
+          "price": 39.0,
+          "deal_id": "ozbargain-b9ab62ae7d5e0ea1",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-09-03T21:03:08.412699+00:00"
+  "updated_at": "2026-09-04T04:35:12.640130+00:00"
 }
