@@ -7824,6 +7824,13 @@
           "price": 1.0,
           "deal_id": "ozbargain-f9c2a71b5009d344",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.795406+00:00",
+          "retailer": "Motto Motto, Orion Springfield Central, Ipswich",
+          "price": 1.0,
+          "deal_id": "ozbargain-f9c2a71b5009d344",
+          "source": "OzBargain"
         }
       ]
     },
@@ -14670,6 +14677,13 @@
           "price": 16.47,
           "deal_id": "ozbargain-c4bb8a6460f33dda",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.797850+00:00",
+          "retailer": "Amazon AU",
+          "price": 16.47,
+          "deal_id": "ozbargain-c4bb8a6460f33dda",
+          "source": "OzBargain"
         }
       ]
     },
@@ -15114,6 +15128,13 @@
         },
         {
           "timestamp": "2026-09-04T16:22:13.763499+00:00",
+          "retailer": "Tool Kit Depot",
+          "price": 1619.1,
+          "deal_id": "ozbargain-771f03bec4a1cb38",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.795657+00:00",
           "retailer": "Tool Kit Depot",
           "price": 1619.1,
           "deal_id": "ozbargain-771f03bec4a1cb38",
@@ -24925,6 +24946,13 @@
           "price": 6499.0,
           "deal_id": "ozbargain-5f93b8bb3b7d779c",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.796089+00:00",
+          "retailer": "Solar 365",
+          "price": 6499.0,
+          "deal_id": "ozbargain-5f93b8bb3b7d779c",
+          "source": "OzBargain"
         }
       ]
     },
@@ -24942,6 +24970,13 @@
         },
         {
           "timestamp": "2026-09-04T16:22:13.764034+00:00",
+          "retailer": "Supercheap Auto",
+          "price": 146.24,
+          "deal_id": "ozbargain-9855afb430a9991c",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.796215+00:00",
           "retailer": "Supercheap Auto",
           "price": 146.24,
           "deal_id": "ozbargain-9855afb430a9991c",
@@ -24967,6 +25002,13 @@
           "price": 14.98,
           "deal_id": "ozbargain-c840a9903a72e97e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.796348+00:00",
+          "retailer": "Nintendo eShop",
+          "price": 14.98,
+          "deal_id": "ozbargain-c840a9903a72e97e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -24984,6 +25026,13 @@
         },
         {
           "timestamp": "2026-09-04T16:22:13.764314+00:00",
+          "retailer": "The Good Guys",
+          "price": 139.0,
+          "deal_id": "ozbargain-4dd792da268b719f",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.796489+00:00",
           "retailer": "The Good Guys",
           "price": 139.0,
           "deal_id": "ozbargain-4dd792da268b719f",
@@ -25009,6 +25058,13 @@
           "price": 195.6,
           "deal_id": "ozbargain-13da120249932350",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.796614+00:00",
+          "retailer": "Cozze",
+          "price": 195.6,
+          "deal_id": "ozbargain-13da120249932350",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25026,6 +25082,13 @@
         },
         {
           "timestamp": "2026-09-04T16:22:13.764568+00:00",
+          "retailer": "FitVille",
+          "price": 29.95,
+          "deal_id": "ozbargain-7b1dc6aa544eb563",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.796748+00:00",
           "retailer": "FitVille",
           "price": 29.95,
           "deal_id": "ozbargain-7b1dc6aa544eb563",
@@ -25051,6 +25114,13 @@
           "price": 57900.0,
           "deal_id": "ozbargain-da3fbe27a94ab992",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.796871+00:00",
+          "retailer": "BYD",
+          "price": 57900.0,
+          "deal_id": "ozbargain-da3fbe27a94ab992",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25068,6 +25138,13 @@
         },
         {
           "timestamp": "2026-09-04T16:22:13.764965+00:00",
+          "retailer": "Shopback via App",
+          "price": 11.5,
+          "deal_id": "ozbargain-6dcc8f465c955f6d",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.797157+00:00",
           "retailer": "Shopback via App",
           "price": 11.5,
           "deal_id": "ozbargain-6dcc8f465c955f6d",
@@ -25093,6 +25170,13 @@
           "price": 35.0,
           "deal_id": "ozbargain-2d141d00ad015c96",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.797284+00:00",
+          "retailer": "Beewise",
+          "price": 35.0,
+          "deal_id": "ozbargain-2d141d00ad015c96",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25110,6 +25194,13 @@
         },
         {
           "timestamp": "2026-09-04T16:22:13.765192+00:00",
+          "retailer": "Nintendo eShop",
+          "price": 3.0,
+          "deal_id": "ozbargain-b32712a67b237c23",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.797388+00:00",
           "retailer": "Nintendo eShop",
           "price": 3.0,
           "deal_id": "ozbargain-b32712a67b237c23",
@@ -25135,6 +25226,13 @@
           "price": 49.99,
           "deal_id": "ozbargain-0fb4fcc1fe55a0a8",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.797502+00:00",
+          "retailer": "Inkbird",
+          "price": 49.99,
+          "deal_id": "ozbargain-0fb4fcc1fe55a0a8",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25152,6 +25250,13 @@
         },
         {
           "timestamp": "2026-09-04T16:22:13.765527+00:00",
+          "retailer": "Energy Australia",
+          "price": 250.0,
+          "deal_id": "ozbargain-ce0b80b65f5e7aba",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.797725+00:00",
           "retailer": "Energy Australia",
           "price": 250.0,
           "deal_id": "ozbargain-ce0b80b65f5e7aba",
@@ -25177,6 +25282,13 @@
           "price": 10.0,
           "deal_id": "ozbargain-6d3a76262321ff56",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.797967+00:00",
+          "retailer": "T2 Tea",
+          "price": 10.0,
+          "deal_id": "ozbargain-6d3a76262321ff56",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25194,6 +25306,13 @@
         },
         {
           "timestamp": "2026-09-04T16:22:13.765920+00:00",
+          "retailer": "adidas eBay",
+          "price": 40.5,
+          "deal_id": "ozbargain-645f03cd14fe8eff",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.798136+00:00",
           "retailer": "adidas eBay",
           "price": 40.5,
           "deal_id": "ozbargain-645f03cd14fe8eff",
@@ -25219,6 +25338,13 @@
           "price": 1.49,
           "deal_id": "ozbargain-d83d9e2848d72298",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.798256+00:00",
+          "retailer": "Apple App Store",
+          "price": 1.49,
+          "deal_id": "ozbargain-d83d9e2848d72298",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25236,6 +25362,13 @@
         },
         {
           "timestamp": "2026-09-04T16:22:13.766135+00:00",
+          "retailer": "Event Cinemas",
+          "price": 1.8,
+          "deal_id": "ozbargain-9b133b424451f34d",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.798362+00:00",
           "retailer": "Event Cinemas",
           "price": 1.8,
           "deal_id": "ozbargain-9b133b424451f34d",
@@ -25261,6 +25394,13 @@
           "price": 199.99,
           "deal_id": "ozbargain-81cb9c4a431b78da",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.798470+00:00",
+          "retailer": "Costco",
+          "price": 199.99,
+          "deal_id": "ozbargain-81cb9c4a431b78da",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25282,6 +25422,13 @@
           "price": 29.9,
           "deal_id": "ozbargain-bce0a44b72f2b91d",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.798703+00:00",
+          "retailer": "4WD Supa Centre & via Amazon AU",
+          "price": 29.9,
+          "deal_id": "ozbargain-bce0a44b72f2b91d",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25299,6 +25446,13 @@
         },
         {
           "timestamp": "2026-09-04T16:22:13.766611+00:00",
+          "retailer": "Amazon AU",
+          "price": 1.37,
+          "deal_id": "ozbargain-4b6fe85f9550a7be",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.798817+00:00",
           "retailer": "Amazon AU",
           "price": 1.37,
           "deal_id": "ozbargain-4b6fe85f9550a7be",
@@ -25415,6 +25569,13 @@
           "price": 179.1,
           "deal_id": "ozbargain-3967d4bb107aa64f",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.795501+00:00",
+          "retailer": "Tool Kit Depot",
+          "price": 179.1,
+          "deal_id": "ozbargain-3967d4bb107aa64f",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25425,6 +25586,13 @@
       "observations": [
         {
           "timestamp": "2026-09-04T16:22:13.763665+00:00",
+          "retailer": "Wangride eBay",
+          "price": 9.99,
+          "deal_id": "ozbargain-c93735faefa614a1",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.795796+00:00",
           "retailer": "Wangride eBay",
           "price": 9.99,
           "deal_id": "ozbargain-c93735faefa614a1",
@@ -25443,9 +25611,44 @@
           "price": 14.99,
           "deal_id": "ozbargain-c6673c8a7e624e23",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-04T20:46:22.795930+00:00",
+          "retailer": "Amazon AU",
+          "price": 14.99,
+          "deal_id": "ozbargain-c6673c8a7e624e23",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6307ac0e5dbe0a51bc63": {
+      "title": "[PC, Mac, Linux, Steam] Into the Breach $4.30 @ Steam",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-04T20:46:22.795085+00:00",
+          "retailer": "Steam",
+          "price": 4.3,
+          "deal_id": "ozbargain-21fa423de67ab577",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b621c830e0e439f03fcd": {
+      "title": "DeWalt DCMWSP156W2-XE 36V 8.0Ah XR 530mm Self-Propelled RWD Mower Combo Kit $1049 + Delivery ($0 C&C) @ Sydney Tools",
+      "brand": null,
+      "model": "DCMWSP156W2-XE",
+      "observations": [
+        {
+          "timestamp": "2026-09-04T20:46:22.795267+00:00",
+          "retailer": "Sydney Tools",
+          "price": 1049.0,
+          "deal_id": "ozbargain-0a4b997e12024573",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-09-04T16:22:23.931410+00:00"
+  "updated_at": "2026-09-04T20:46:32.024184+00:00"
 }
