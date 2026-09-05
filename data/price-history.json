@@ -4776,7 +4776,7 @@
       ]
     },
     "product-19b38a7d3e0daae04813": {
-      "title": "Glenfiddich/Glenmorangie 12yo Whisky 700ml $60.80/ $59.20 + Del ($0 C&C/$250+) @ Liquorland via Coles Online (Excl QLD, TAS, NT)",
+      "title": "Glenfiddich/Glenmorangie 12yo Whisky 700ml $60.80/$59.20 + Del ($0 C&C/$250+) @ Liquorland via Coles Online (Excl QLD, TAS, NT)",
       "brand": null,
       "model": "700ML",
       "observations": [
@@ -4855,6 +4855,20 @@
           "retailer": "Liquorland via Coles Online (Excl QLD, TAS, NT)",
           "price": 60.8,
           "deal_id": "ozbargain-bb2f64cf2fc975b3",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T15:14:58.951413+00:00",
+          "retailer": "Liquorland via Coles Online (Excl. QLD, TAS, NT)",
+          "price": 80.0,
+          "deal_id": "ozbargain-45c33652db9fa6dd",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T15:14:58.952890+00:00",
+          "retailer": "Liquorland via Coles Online (Excl QLD, TAS, NT)",
+          "price": 60.8,
+          "deal_id": "ozbargain-9c1cb12f21e38f64",
           "source": "OzBargain"
         }
       ]
@@ -5020,6 +5034,20 @@
         },
         {
           "timestamp": "2026-09-05T10:36:30.199091+00:00",
+          "retailer": "Bing Lee",
+          "price": 28.0,
+          "deal_id": "ozbargain-0edc1b3331898897",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T15:14:58.951271+00:00",
+          "retailer": "Xiaomi AU",
+          "price": 28.5,
+          "deal_id": "ozbargain-cb5f58bada3d50cf",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T15:14:58.953543+00:00",
           "retailer": "Bing Lee",
           "price": 28.0,
           "deal_id": "ozbargain-0edc1b3331898897",
@@ -5405,6 +5433,13 @@
         },
         {
           "timestamp": "2026-09-05T10:36:30.198085+00:00",
+          "retailer": "Drakes Supermarkets, Rochedale",
+          "price": 6.0,
+          "deal_id": "ozbargain-c07eb2790bdbca12",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T15:14:58.952652+00:00",
           "retailer": "Drakes Supermarkets, Rochedale",
           "price": 6.0,
           "deal_id": "ozbargain-c07eb2790bdbca12",
@@ -25758,11 +25793,18 @@
           "price": 105.0,
           "deal_id": "ozbargain-40e313113ec6d9e6",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T15:14:58.952766+00:00",
+          "retailer": "Supercheap Auto",
+          "price": 105.0,
+          "deal_id": "ozbargain-40e313113ec6d9e6",
+          "source": "OzBargain"
         }
       ]
     },
     "product-007133e9d2af206ae61b": {
-      "title": "Dalwhinnie 15-Year-Old Single Malt Scotch Whisky 700 ml $76 + Delivery ($0 C&C) @ Liquorland via Coles Online",
+      "title": "Dalwhinnie 15-Year-Old Single Malt Scotch Whisky 700ml $76 + Delivery ($0 C&C) @ Liquorland via Coles Online (Excl QLD, TAS, NT)",
       "brand": null,
       "model": "15-YEAR-OLD",
       "observations": [
@@ -25778,6 +25820,13 @@
           "retailer": "Liquorland via Coles Online",
           "price": 76.0,
           "deal_id": "ozbargain-1ea5b70fcb2c6d43",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T15:14:58.953016+00:00",
+          "retailer": "Liquorland via Coles Online (Excl QLD, TAS, NT)",
+          "price": 76.0,
+          "deal_id": "ozbargain-86fdf32a03dbfa17",
           "source": "OzBargain"
         }
       ]
@@ -25796,6 +25845,13 @@
         },
         {
           "timestamp": "2026-09-05T10:36:30.198754+00:00",
+          "retailer": "Professor Plums",
+          "price": 66.49,
+          "deal_id": "ozbargain-c6c6d14baf6146a7",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T15:14:58.953237+00:00",
           "retailer": "Professor Plums",
           "price": 66.49,
           "deal_id": "ozbargain-c6c6d14baf6146a7",
@@ -25821,6 +25877,13 @@
           "price": 39.6,
           "deal_id": "ozbargain-fb9a214fd0da3553",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T15:14:58.953345+00:00",
+          "retailer": "Binglee",
+          "price": 39.6,
+          "deal_id": "ozbargain-fb9a214fd0da3553",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25838,6 +25901,13 @@
         },
         {
           "timestamp": "2026-09-05T10:36:30.198981+00:00",
+          "retailer": "Amazon AU",
+          "price": 269.0,
+          "deal_id": "ozbargain-d8c090bd5f94a9f4",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T15:14:58.953444+00:00",
           "retailer": "Amazon AU",
           "price": 269.0,
           "deal_id": "ozbargain-d8c090bd5f94a9f4",
@@ -26094,6 +26164,13 @@
           "price": 3.25,
           "deal_id": "ozbargain-cfe7bc182cbf37a1",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T15:14:58.951686+00:00",
+          "retailer": "Bunnings",
+          "price": 3.25,
+          "deal_id": "ozbargain-cfe7bc182cbf37a1",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26122,6 +26199,13 @@
           "price": 6691.0,
           "deal_id": "ozbargain-2a7f71a605eac062",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T15:14:58.951976+00:00",
+          "retailer": "Goal Solar",
+          "price": 6691.0,
+          "deal_id": "ozbargain-2a7f71a605eac062",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26132,6 +26216,13 @@
       "observations": [
         {
           "timestamp": "2026-09-05T10:36:30.197447+00:00",
+          "retailer": "Dan Murphy's (Limited Locations)",
+          "price": 76.05,
+          "deal_id": "ozbargain-0f525816e9624d3c",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T15:14:58.952104+00:00",
           "retailer": "Dan Murphy's (Limited Locations)",
           "price": 76.05,
           "deal_id": "ozbargain-0f525816e9624d3c",
@@ -26150,6 +26241,13 @@
           "price": 99.0,
           "deal_id": "ozbargain-15da35e4a4702efb",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T15:14:58.952222+00:00",
+          "retailer": "Centre Com",
+          "price": 99.0,
+          "deal_id": "ozbargain-15da35e4a4702efb",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26160,6 +26258,13 @@
       "observations": [
         {
           "timestamp": "2026-09-05T10:36:30.197712+00:00",
+          "retailer": "Google Play",
+          "price": 0.3,
+          "deal_id": "ozbargain-2f3b35e19bdf337a",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T15:14:58.952328+00:00",
           "retailer": "Google Play",
           "price": 0.3,
           "deal_id": "ozbargain-2f3b35e19bdf337a",
@@ -26178,6 +26283,13 @@
           "price": 35.0,
           "deal_id": "ozbargain-e0a673d39f9e5b7e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T15:14:58.952437+00:00",
+          "retailer": "Amazon AU",
+          "price": 35.0,
+          "deal_id": "ozbargain-e0a673d39f9e5b7e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26188,6 +26300,13 @@
       "observations": [
         {
           "timestamp": "2026-09-05T10:36:30.197981+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 1499.0,
+          "deal_id": "ozbargain-e731906021f26a85",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T15:14:58.952558+00:00",
           "retailer": "JB Hi-Fi",
           "price": 1499.0,
           "deal_id": "ozbargain-e731906021f26a85",
@@ -26222,7 +26341,91 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-1558acf5bed8b2b1904e": {
+      "title": "Ubiquiti Dream Machine Special Edition UDM-SE ($844.3) + Free Delivery @ Mwave using coupon code SEP70",
+      "brand": "Ubiquiti",
+      "model": "SEP70",
+      "observations": [
+        {
+          "timestamp": "2026-09-05T15:14:58.950434+00:00",
+          "retailer": "Mwave using coupon code SEP70",
+          "price": 844.3,
+          "deal_id": "ozbargain-3f363fa80083be78",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-26d58e9e64ab7dd697ba": {
+      "title": "Pivotel 25GB $11.45 /month SIM for First 6 months VODA 4G Only (No rollovers, usage app, esim or cancellation/port out fees)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T15:14:58.950572+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 11.45,
+          "deal_id": "ozbargain-6b9b4339463be871",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0d4935b8313ef794636f": {
+      "title": "The Fifth Element (4K Ultra HD) $27.33 + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T15:14:58.950768+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 27.33,
+          "deal_id": "ozbargain-7155ef839c498b05",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-04086a13549f51444b9a": {
+      "title": "Coleman Classic Camping Stove $40 + Delivery ($0 C&C/ in-Store/ OnePass) @ Bunnings Warehouse",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T15:14:58.950894+00:00",
+          "retailer": "Bunnings Warehouse",
+          "price": 40.0,
+          "deal_id": "ozbargain-2e5461ab2fd5a635",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6e660e36e1900199002b": {
+      "title": "VTOMAN X7 Jump Starter 4250A with Air Compressor US$54.08 (~A$75.57) AU Stock Delivered @ VTOMAN Global Store AliExpress",
+      "brand": null,
+      "model": "4250A",
+      "observations": [
+        {
+          "timestamp": "2026-09-05T15:14:58.951028+00:00",
+          "retailer": "VTOMAN Global Store AliExpress",
+          "price": 54.08,
+          "deal_id": "ozbargain-1d728777eb9344ac",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-65dd9ed1b56e2edf988f": {
+      "title": "JBL Cinema SB510 3.1 Channel Soundbar with Built-in Subwoofer $149 Delivered Only @ Telstra",
+      "brand": "JBL",
+      "model": "SB510",
+      "observations": [
+        {
+          "timestamp": "2026-09-05T15:14:58.951142+00:00",
+          "retailer": "Telstra",
+          "price": 149.0,
+          "deal_id": "ozbargain-11d93fe5e05c632d",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-09-05T10:36:38.248443+00:00"
+  "updated_at": "2026-09-05T15:15:09.785844+00:00"
 }
