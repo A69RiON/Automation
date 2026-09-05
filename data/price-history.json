@@ -4776,7 +4776,7 @@
       ]
     },
     "product-19b38a7d3e0daae04813": {
-      "title": "Clynelish 14 Year Old Scotch Whisky 700ml $84.98 (RRP $117.68) Delivered @ Amazon AU",
+      "title": "Glenfiddich/Glenmorangie 12yo Whisky 700ml $60.80/ $59.20 + Delivery ($0 C&C/ $250 Order) @ Liquorland via Coles Online",
       "brand": null,
       "model": "700ML",
       "observations": [
@@ -4841,6 +4841,13 @@
           "retailer": "Amazon AU",
           "price": 84.98,
           "deal_id": "ozbargain-58bb4dd35eb29fe5",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T04:30:55.495265+00:00",
+          "retailer": "Liquorland via Coles Online",
+          "price": 60.8,
+          "deal_id": "ozbargain-9d1801f680291573",
           "source": "OzBargain"
         }
       ]
@@ -4944,7 +4951,7 @@
       ]
     },
     "product-8c3921ce0cf1cd26b2b7": {
-      "title": "Vention 45W 20000mAh CCC Certified Power Bank with Built-in Cable US$21.29 (~A$29.89) @ VEnTIOn Flagship Store AliExpress",
+      "title": "Laser 20000mAh Powerbank with Battery Display $28 Pickup @ Bing Lee",
       "brand": null,
       "model": "20000MAH",
       "observations": [
@@ -4995,6 +5002,13 @@
           "retailer": "VEnTIOn Flagship Store AliExpress",
           "price": 21.29,
           "deal_id": "ozbargain-2070c0b519cc9cb8",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T04:30:55.495802+00:00",
+          "retailer": "Bing Lee",
+          "price": 28.0,
+          "deal_id": "ozbargain-0edc1b3331898897",
           "source": "OzBargain"
         }
       ]
@@ -7827,6 +7841,13 @@
         },
         {
           "timestamp": "2026-09-04T20:46:22.795406+00:00",
+          "retailer": "Motto Motto, Orion Springfield Central, Ipswich",
+          "price": 1.0,
+          "deal_id": "ozbargain-f9c2a71b5009d344",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T04:30:55.497442+00:00",
           "retailer": "Motto Motto, Orion Springfield Central, Ipswich",
           "price": 1.0,
           "deal_id": "ozbargain-f9c2a71b5009d344",
@@ -15139,6 +15160,13 @@
           "price": 1619.1,
           "deal_id": "ozbargain-771f03bec4a1cb38",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T04:30:55.497600+00:00",
+          "retailer": "Tool Kit Depot",
+          "price": 1619.1,
+          "deal_id": "ozbargain-771f03bec4a1cb38",
+          "source": "OzBargain"
         }
       ]
     },
@@ -18622,7 +18650,7 @@
       ]
     },
     "product-674ccd706aa069aa9934": {
-      "title": "Maxim 2000w Convection Heater Each $20 (Save $25) @ Woolworths",
+      "title": "Ferrex High Pressure Washer 2000w $149, Ferrex Wet & Dry Vacuum 20L $49.99 @ ALDI",
       "brand": null,
       "model": "2000W",
       "observations": [
@@ -18645,6 +18673,13 @@
           "retailer": "Woolworths",
           "price": 20.0,
           "deal_id": "ozbargain-9babe49ec982c523",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T04:30:55.495954+00:00",
+          "retailer": "ALDI",
+          "price": 149.0,
+          "deal_id": "ozbargain-1a3517a6dff92ca6",
           "source": "OzBargain"
         }
       ]
@@ -25576,6 +25611,13 @@
           "price": 179.1,
           "deal_id": "ozbargain-3967d4bb107aa64f",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T04:30:55.497505+00:00",
+          "retailer": "Tool Kit Depot",
+          "price": 179.1,
+          "deal_id": "ozbargain-3967d4bb107aa64f",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25632,6 +25674,13 @@
           "price": 4.3,
           "deal_id": "ozbargain-21fa423de67ab577",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T04:30:55.497246+00:00",
+          "retailer": "Steam",
+          "price": 4.3,
+          "deal_id": "ozbargain-21fa423de67ab577",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25646,9 +25695,282 @@
           "price": 1049.0,
           "deal_id": "ozbargain-0a4b997e12024573",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T04:30:55.497349+00:00",
+          "retailer": "Sydney Tools",
+          "price": 1049.0,
+          "deal_id": "ozbargain-0a4b997e12024573",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-84f7c79af200ca323729": {
+      "title": "ToolPRO Automotive Tool Kit 201 Piece $105 (C&C Only) @ Supercheap Auto",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T04:30:55.495139+00:00",
+          "retailer": "Supercheap Auto",
+          "price": 105.0,
+          "deal_id": "ozbargain-40e313113ec6d9e6",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-007133e9d2af206ae61b": {
+      "title": "Dalwhinnie 15-Year-Old Single Malt Scotch Whisky 700 ml $76 + Delivery ($0 C&C) @ Liquorland via Coles Online",
+      "brand": null,
+      "model": "15-YEAR-OLD",
+      "observations": [
+        {
+          "timestamp": "2026-09-05T04:30:55.495371+00:00",
+          "retailer": "Liquorland via Coles Online",
+          "price": 76.0,
+          "deal_id": "ozbargain-1ea5b70fcb2c6d43",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c4937e2fda4e3c93ba02": {
+      "title": "Galileo Thermometer 56cm $66.49 (Was $94.99) + $9.95 Delivery ($4.95 with $100 Order, $0 with $200 Order) @ Professor Plums",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T04:30:55.495561+00:00",
+          "retailer": "Professor Plums",
+          "price": 66.49,
+          "deal_id": "ozbargain-c6c6d14baf6146a7",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-83ee59743df53e20fff5": {
+      "title": "Laser ChargeCore SafeCharge Max 20K Black PB-20lfbk-003 $39.60 + Delivery or Free C/C @ Binglee",
+      "brand": null,
+      "model": "PB-20LFBK-003",
+      "observations": [
+        {
+          "timestamp": "2026-09-05T04:30:55.495643+00:00",
+          "retailer": "Binglee",
+          "price": 39.6,
+          "deal_id": "ozbargain-fb9a214fd0da3553",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0502e33fd6bbfd6bb0ff": {
+      "title": "Bose QuietComfort Headphones Black (Renewed) $269 (RRP $287.70) Delivered @ Amazon AU",
+      "brand": "Bose",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T04:30:55.495722+00:00",
+          "retailer": "Amazon AU",
+          "price": 269.0,
+          "deal_id": "ozbargain-d8c090bd5f94a9f4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-38e883476965e11eff33": {
+      "title": "Cubase Pro 15 Version from $370.xx @Steinberg",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T04:30:55.495868+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 370.0,
+          "deal_id": "ozbargain-d056e655baa5b824",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-f14ceaee26919a5b5777": {
+      "title": "Dyson Cool Tower Fan Am07 $229+Delivery @ Woolworths Group via Everyday Market",
+      "brand": "Dyson",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T04:30:55.496015+00:00",
+          "retailer": "Woolworths Group via Everyday Market",
+          "price": 229.0,
+          "deal_id": "ozbargain-aa270b874d32cecd",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d37e6b99445145b37536": {
+      "title": "6x Pope 1010934 Bypass Pruner Heavy Duty Carbon Steel Blade 1010934 $49 (Delivered) @ South East Clearance",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T04:30:55.496108+00:00",
+          "retailer": "South East Clearance",
+          "price": 49.0,
+          "deal_id": "ozbargain-bf2c73a7f5744f4b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-9053c16c6854d26e0bd4": {
+      "title": "Garmin Fenix 8 47mm Sapphire - Carbon Grey DLC & $150 Gift Card $1498 + Delivery ($0 C&C) @ Harvey Norman",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T04:30:55.496206+00:00",
+          "retailer": "Harvey Norman",
+          "price": 150.0,
+          "deal_id": "ozbargain-dce3a1dc8b540e80",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2c660527ad05ef80c325": {
+      "title": "Lipton Iced Tea 1.5L Varieties $2.75 ($2.77 in TAS) @ Coles",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T04:30:55.496285+00:00",
+          "retailer": "Coles",
+          "price": 2.75,
+          "deal_id": "ozbargain-48a0db111300f319",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c5e370c38581e1b82be8": {
+      "title": "Anaheim Ducks Mens Wordmark Hoodie Black $40 + Delivery ($0 C&C/ in-Store) @ Rebel Sports",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T04:30:55.496386+00:00",
+          "retailer": "Rebel Sports",
+          "price": 40.0,
+          "deal_id": "ozbargain-87feeb63376e8f4a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b96a104437df1f96cd8d": {
+      "title": "20% off Liquor (Max Discount $75 Per Order, 2 Redemptions Per Person) + Delivery ($0 C&C) @ Liquorland via Coles Online",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T04:30:55.496473+00:00",
+          "retailer": "Liquorland via Coles Online",
+          "price": 75.0,
+          "deal_id": "ozbargain-4b4156bcf62f7192",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b2fcb78b120cfb8d9a44": {
+      "title": "Coles Mobile 210GB/365 Days Prepaid $179 New Services (Intl Calls/Text to 15 Destinations) @ Coles Mobile",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T04:30:55.496559+00:00",
+          "retailer": "Coles Mobile",
+          "price": 179.0,
+          "deal_id": "ozbargain-8caf733e5d4103f8",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-423d626abb1363dbefb6": {
+      "title": "Steelrising - Bastille Edition + The Axis Unseen $ 9.21 @HumbleBundle (RRP 84.95 + 36.99)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T04:30:55.496641+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 9.21,
+          "deal_id": "ozbargain-40f428064cf74d0b",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-126cf19f96b02d532a6a": {
+      "title": "Purchase a $200 Gift card and receive $30 coupon @ Decathlon",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T04:30:55.496724+00:00",
+          "retailer": "Decathlon",
+          "price": 200.0,
+          "deal_id": "ozbargain-c195a037940e0526",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b5f7b26586efe7d06871": {
+      "title": "SA Pinot Grigio 2026 6-Bottles $63.50 Delivered ($0 SA C&C, RRP $132) @ Bec Hardy Wines",
+      "brand": null,
+      "model": "6-BOTTLES",
+      "observations": [
+        {
+          "timestamp": "2026-09-05T04:30:55.496868+00:00",
+          "retailer": "Bec Hardy Wines",
+          "price": 63.5,
+          "deal_id": "ozbargain-27aadbe13bb16f29",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-2ba6bcd3b24c559975b3": {
+      "title": "$5 Bonus Cashback on $100 Spend at TopCashback Gift Cards (Single Transaction, Activation Required) @ TopCashback AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T04:30:55.497025+00:00",
+          "retailer": "TopCashback AU",
+          "price": 5.0,
+          "deal_id": "ozbargain-ca1437db7a1caeac",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-dc989a8ba2f3c23bdf9b": {
+      "title": "Wanderer Anti-Pooling Pro Gazebo 3x3m $96.75 C&C / in-Store @ Supercheap Auto",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T04:30:55.497094+00:00",
+          "retailer": "Supercheap Auto",
+          "price": 96.75,
+          "deal_id": "ozbargain-9353e735a01be506",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0e16527721929480ed87": {
+      "title": "Dell 32 Plus 4K QD-OLED Monitor - S3225QC $799.82 Delivered @ Dell",
+      "brand": "Dell",
+      "model": "S3225QC",
+      "observations": [
+        {
+          "timestamp": "2026-09-05T04:30:55.497171+00:00",
+          "retailer": "Dell",
+          "price": 799.82,
+          "deal_id": "ozbargain-55d305f1d2757a5f",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-09-04T20:46:32.024184+00:00"
+  "updated_at": "2026-09-05T04:31:04.431282+00:00"
 }
