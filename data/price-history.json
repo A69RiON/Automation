@@ -4776,7 +4776,7 @@
       ]
     },
     "product-19b38a7d3e0daae04813": {
-      "title": "Glenfiddich/Glenmorangie 12yo Whisky 700ml $60.80/ $59.20 + Delivery ($0 C&C/ $250 Order) @ Liquorland via Coles Online",
+      "title": "Glenfiddich/Glenmorangie 12yo Whisky 700ml $60.80/ $59.20 + Del ($0 C&C/$250+) @ Liquorland via Coles Online (Excl QLD, TAS, NT)",
       "brand": null,
       "model": "700ML",
       "observations": [
@@ -4848,6 +4848,13 @@
           "retailer": "Liquorland via Coles Online",
           "price": 60.8,
           "deal_id": "ozbargain-9d1801f680291573",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T10:36:30.198367+00:00",
+          "retailer": "Liquorland via Coles Online (Excl QLD, TAS, NT)",
+          "price": 60.8,
+          "deal_id": "ozbargain-bb2f64cf2fc975b3",
           "source": "OzBargain"
         }
       ]
@@ -5006,6 +5013,13 @@
         },
         {
           "timestamp": "2026-09-05T04:30:55.495802+00:00",
+          "retailer": "Bing Lee",
+          "price": 28.0,
+          "deal_id": "ozbargain-0edc1b3331898897",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T10:36:30.199091+00:00",
           "retailer": "Bing Lee",
           "price": 28.0,
           "deal_id": "ozbargain-0edc1b3331898897",
@@ -5336,7 +5350,7 @@
       ]
     },
     "product-e17c864ad7a3019591fc": {
-      "title": "Krosno Legend 750ml Glass Whisky Liquor Decanter $35.95 + Delivery @ Tableworx via Lasoo",
+      "title": "[QLD] Value Extra Virgin Olive Oil 750ml $6 in-Store @ Drakes Supermarkets, Rochedale",
       "brand": null,
       "model": "750ML",
       "observations": [
@@ -5387,6 +5401,13 @@
           "retailer": "Tableworx via Lasoo",
           "price": 35.95,
           "deal_id": "ozbargain-f803d4551933f447",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T10:36:30.198085+00:00",
+          "retailer": "Drakes Supermarkets, Rochedale",
+          "price": 6.0,
+          "deal_id": "ozbargain-c07eb2790bdbca12",
           "source": "OzBargain"
         }
       ]
@@ -9242,7 +9263,7 @@
       ]
     },
     "product-817bd444e34945b4c6fd": {
-      "title": "[NSW] Pylontech 5kW Inverter + 20kWh Battery from $3,999 Installed @ Tenet Tech",
+      "title": "[VIC] Hyxi 20kwh Solar Battery with 8kw Hybrid Inverter $2800 Installed + $100 for Referee & Referrer by Hyxi Power / K2 Battery",
       "brand": null,
       "model": "20KWH",
       "observations": [
@@ -9251,6 +9272,13 @@
           "retailer": "Tenet Tech",
           "price": 3999.0,
           "deal_id": "ozbargain-d5863724068af812",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T10:36:30.196650+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 2800.0,
+          "deal_id": "ozbargain-d7b17bc5648f3bca",
           "source": "OzBargain"
         }
       ]
@@ -18681,6 +18709,13 @@
           "price": 149.0,
           "deal_id": "ozbargain-1a3517a6dff92ca6",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T10:36:30.199304+00:00",
+          "retailer": "ALDI",
+          "price": 149.0,
+          "deal_id": "ozbargain-1a3517a6dff92ca6",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25716,6 +25751,13 @@
           "price": 105.0,
           "deal_id": "ozbargain-40e313113ec6d9e6",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T10:36:30.198220+00:00",
+          "retailer": "Supercheap Auto",
+          "price": 105.0,
+          "deal_id": "ozbargain-40e313113ec6d9e6",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25726,6 +25768,13 @@
       "observations": [
         {
           "timestamp": "2026-09-05T04:30:55.495371+00:00",
+          "retailer": "Liquorland via Coles Online",
+          "price": 76.0,
+          "deal_id": "ozbargain-1ea5b70fcb2c6d43",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T10:36:30.198505+00:00",
           "retailer": "Liquorland via Coles Online",
           "price": 76.0,
           "deal_id": "ozbargain-1ea5b70fcb2c6d43",
@@ -25744,6 +25793,13 @@
           "price": 66.49,
           "deal_id": "ozbargain-c6c6d14baf6146a7",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T10:36:30.198754+00:00",
+          "retailer": "Professor Plums",
+          "price": 66.49,
+          "deal_id": "ozbargain-c6c6d14baf6146a7",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25758,6 +25814,13 @@
           "price": 39.6,
           "deal_id": "ozbargain-fb9a214fd0da3553",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T10:36:30.198868+00:00",
+          "retailer": "Binglee",
+          "price": 39.6,
+          "deal_id": "ozbargain-fb9a214fd0da3553",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25768,6 +25831,13 @@
       "observations": [
         {
           "timestamp": "2026-09-05T04:30:55.495722+00:00",
+          "retailer": "Amazon AU",
+          "price": 269.0,
+          "deal_id": "ozbargain-d8c090bd5f94a9f4",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T10:36:30.198981+00:00",
           "retailer": "Amazon AU",
           "price": 269.0,
           "deal_id": "ozbargain-d8c090bd5f94a9f4",
@@ -25804,7 +25874,7 @@
       ]
     },
     "product-d37e6b99445145b37536": {
-      "title": "6x Pope 1010934 Bypass Pruner Heavy Duty Carbon Steel Blade 1010934 $49 (Delivered) @ South East Clearance",
+      "title": "6x Pope 1010934 Bypass Pruner Heavy Duty Carbon Steel Blade 1010934 $49 Delivered @ South East Clearance",
       "brand": null,
       "model": null,
       "observations": [
@@ -25813,6 +25883,13 @@
           "retailer": "South East Clearance",
           "price": 49.0,
           "deal_id": "ozbargain-bf2c73a7f5744f4b",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T10:36:30.199543+00:00",
+          "retailer": "South East Clearance",
+          "price": 49.0,
+          "deal_id": "ozbargain-04a3f295aaada9e1",
           "source": "OzBargain"
         }
       ]
@@ -25824,6 +25901,13 @@
       "observations": [
         {
           "timestamp": "2026-09-05T04:30:55.496206+00:00",
+          "retailer": "Harvey Norman",
+          "price": 150.0,
+          "deal_id": "ozbargain-dce3a1dc8b540e80",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T10:36:30.199702+00:00",
           "retailer": "Harvey Norman",
           "price": 150.0,
           "deal_id": "ozbargain-dce3a1dc8b540e80",
@@ -25842,6 +25926,13 @@
           "price": 2.75,
           "deal_id": "ozbargain-48a0db111300f319",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T10:36:30.199816+00:00",
+          "retailer": "Coles",
+          "price": 2.75,
+          "deal_id": "ozbargain-48a0db111300f319",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25852,6 +25943,13 @@
       "observations": [
         {
           "timestamp": "2026-09-05T04:30:55.496386+00:00",
+          "retailer": "Rebel Sports",
+          "price": 40.0,
+          "deal_id": "ozbargain-87feeb63376e8f4a",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T10:36:30.199943+00:00",
           "retailer": "Rebel Sports",
           "price": 40.0,
           "deal_id": "ozbargain-87feeb63376e8f4a",
@@ -25870,6 +25968,13 @@
           "price": 75.0,
           "deal_id": "ozbargain-4b4156bcf62f7192",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T10:36:30.200072+00:00",
+          "retailer": "Liquorland via Coles Online",
+          "price": 75.0,
+          "deal_id": "ozbargain-4b4156bcf62f7192",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25880,6 +25985,13 @@
       "observations": [
         {
           "timestamp": "2026-09-05T04:30:55.496559+00:00",
+          "retailer": "Coles Mobile",
+          "price": 179.0,
+          "deal_id": "ozbargain-8caf733e5d4103f8",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T10:36:30.200196+00:00",
           "retailer": "Coles Mobile",
           "price": 179.0,
           "deal_id": "ozbargain-8caf733e5d4103f8",
@@ -25970,7 +26082,147 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-c268b238b1ad6a3126e1": {
+      "title": "Energizer Lithium Coin Battery CR2450 - 1 Pack $3.25 @ Bunnings",
+      "brand": null,
+      "model": "CR2450",
+      "observations": [
+        {
+          "timestamp": "2026-09-05T10:36:30.196756+00:00",
+          "retailer": "Bunnings",
+          "price": 3.25,
+          "deal_id": "ozbargain-cfe7bc182cbf37a1",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-e91d2d1174e51f169289": {
+      "title": "[NSW] 2 Veg Curries & 4 Roti or 2 Veg Curries and 2 Roti & a Rice $.44 @ Desizzz Kitchen (Blacktown)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T10:36:30.196910+00:00",
+          "retailer": "Desizzz Kitchen (Blacktown)",
+          "price": 12.0,
+          "deal_id": "ozbargain-bba1fd6deca4fb17",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4a64921b99accfd96764": {
+      "title": "[VIC, NSW, QLD, SA] FoxESS EQ4800 Battery 21kWh from $6691 @ Goal Solar",
+      "brand": null,
+      "model": "EQ4800",
+      "observations": [
+        {
+          "timestamp": "2026-09-05T10:36:30.197269+00:00",
+          "retailer": "Goal Solar",
+          "price": 6691.0,
+          "deal_id": "ozbargain-2a7f71a605eac062",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-301c2bc21e9781fe28c2": {
+      "title": "Corowa Distilling Co Mad Dog Morgan Single Malt Aus Whisky 500 mL $76.05 + Delivery ($0 C&C) @ Dan Murphy's (Limited Locations)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T10:36:30.197447+00:00",
+          "retailer": "Dan Murphy's (Limited Locations)",
+          "price": 76.05,
+          "deal_id": "ozbargain-0f525816e9624d3c",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-0dc5b523ab82dbfd8532": {
+      "title": "Acer Nitro KG271X1 27\" FHD IPS 200Hz 1ms Gaming Monitor $99 + Delivery ($0 VIC, NSW, QLD C&C/ in-Store) @ Centre Com",
+      "brand": "Acer",
+      "model": "KG271X1",
+      "observations": [
+        {
+          "timestamp": "2026-09-05T10:36:30.197597+00:00",
+          "retailer": "Centre Com",
+          "price": 99.0,
+          "deal_id": "ozbargain-15da35e4a4702efb",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ac7d84faf25af9683c39": {
+      "title": "[Android, WearOS] DADAM121: Hybrid Watch Face A$0.30 (Was A$1.49) @ Google Play",
+      "brand": null,
+      "model": "DADAM121",
+      "observations": [
+        {
+          "timestamp": "2026-09-05T10:36:30.197712+00:00",
+          "retailer": "Google Play",
+          "price": 0.3,
+          "deal_id": "ozbargain-2f3b35e19bdf337a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-49882cd1709746ad4cd1": {
+      "title": "Life-Space Broad Spectrum Probiotic Advanced 90 Capsules $35 (RRP $73.99) + Delivery @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T10:36:30.197837+00:00",
+          "retailer": "Amazon AU",
+          "price": 35.0,
+          "deal_id": "ozbargain-e0a673d39f9e5b7e",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-54a6e2597ea3db986862": {
+      "title": "Dell XPS 13 13.4\" 2.5k Touch Laptop (Intel Core 5-320, 512GB, 16GB) $1,499 (Was $1699) + Delivery ($0 C&C/ in-Store) @ JB Hi-Fi",
+      "brand": "Intel",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T10:36:30.197981+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 1499.0,
+          "deal_id": "ozbargain-e731906021f26a85",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-95ae21856965861459df": {
+      "title": "Cubase Pro 15 Versions 40% off (Competitive Crossgrade A$370.20) @ Steinberg",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T10:36:30.199189+00:00",
+          "retailer": "Steinberg",
+          "price": 370.2,
+          "deal_id": "ozbargain-ae6fe0b271a49f25",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-b9f3dba19cc247fbcf82": {
+      "title": "Dyson Cool Tower Fan Am07 $229 + Delivery @ Woolworths Group via Everyday Market",
+      "brand": "Dyson",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-05T10:36:30.199389+00:00",
+          "retailer": "Woolworths Group via Everyday Market",
+          "price": 229.0,
+          "deal_id": "ozbargain-bb6acf4a93df75bd",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-09-05T04:31:04.431282+00:00"
+  "updated_at": "2026-09-05T10:36:38.248443+00:00"
 }

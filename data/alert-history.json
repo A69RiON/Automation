@@ -11,7 +11,18 @@
       "last_alert_reason": "new_good_deal",
       "last_alert_at": "2026-08-26T13:17:22.286256+00:00",
       "alert_count": 1
+    },
+    "ozbargain-bb2f64cf2fc975b3": {
+      "deal_id": "ozbargain-bb2f64cf2fc975b3",
+      "product_key": "product-19b38a7d3e0daae04813",
+      "title": "Glenfiddich/Glenmorangie 12yo Whisky 700ml $60.80/ $59.20 + Del ($0 C&C/$250+) @ Liquorland via Coles Online (Excl QLD, TAS, NT)",
+      "retailer": "Liquorland via Coles Online (Excl QLD, TAS, NT)",
+      "last_alert_price": 60.8,
+      "last_alert_score": 77,
+      "last_alert_reason": "new_good_deal",
+      "last_alert_at": "2026-09-05T10:36:39.458743+00:00",
+      "alert_count": 1
     }
   },
-  "updated_at": "2026-09-05T04:31:04.452398+00:00"
+  "updated_at": "2026-09-05T10:36:39.459988+00:00"
 }
