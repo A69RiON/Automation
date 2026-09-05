@@ -4870,6 +4870,20 @@
           "price": 60.8,
           "deal_id": "ozbargain-9c1cb12f21e38f64",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.625526+00:00",
+          "retailer": "Liquorland via Coles Online (Excl. QLD, TAS, NT)",
+          "price": 80.0,
+          "deal_id": "ozbargain-45c33652db9fa6dd",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.627234+00:00",
+          "retailer": "Liquorland via Coles Online (Excl QLD, TAS, NT)",
+          "price": 60.8,
+          "deal_id": "ozbargain-9c1cb12f21e38f64",
+          "source": "OzBargain"
         }
       ]
     },
@@ -4972,7 +4986,7 @@
       ]
     },
     "product-8c3921ce0cf1cd26b2b7": {
-      "title": "Laser 20000mAh Powerbank with Battery Display $28 Pickup @ Bing Lee",
+      "title": "Xiaomi 22.5W 20000mAh Power Bank with Integrated Cable $28.50 + $9.90 Delivery ($0 with $69 Spend) @ Xiaomi AU",
       "brand": null,
       "model": "20000MAH",
       "observations": [
@@ -5051,6 +5065,13 @@
           "retailer": "Bing Lee",
           "price": 28.0,
           "deal_id": "ozbargain-0edc1b3331898897",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.625384+00:00",
+          "retailer": "Xiaomi AU",
+          "price": 28.5,
+          "deal_id": "ozbargain-cb5f58bada3d50cf",
           "source": "OzBargain"
         }
       ]
@@ -5440,6 +5461,13 @@
         },
         {
           "timestamp": "2026-09-05T15:14:58.952652+00:00",
+          "retailer": "Drakes Supermarkets, Rochedale",
+          "price": 6.0,
+          "deal_id": "ozbargain-c07eb2790bdbca12",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.626962+00:00",
           "retailer": "Drakes Supermarkets, Rochedale",
           "price": 6.0,
           "deal_id": "ozbargain-c07eb2790bdbca12",
@@ -25800,6 +25828,13 @@
           "price": 105.0,
           "deal_id": "ozbargain-40e313113ec6d9e6",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.627090+00:00",
+          "retailer": "Supercheap Auto",
+          "price": 105.0,
+          "deal_id": "ozbargain-40e313113ec6d9e6",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25828,6 +25863,13 @@
           "price": 76.0,
           "deal_id": "ozbargain-86fdf32a03dbfa17",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.627372+00:00",
+          "retailer": "Liquorland via Coles Online (Excl QLD, TAS, NT)",
+          "price": 76.0,
+          "deal_id": "ozbargain-86fdf32a03dbfa17",
+          "source": "OzBargain"
         }
       ]
     },
@@ -25852,6 +25894,13 @@
         },
         {
           "timestamp": "2026-09-05T15:14:58.953237+00:00",
+          "retailer": "Professor Plums",
+          "price": 66.49,
+          "deal_id": "ozbargain-c6c6d14baf6146a7",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.627619+00:00",
           "retailer": "Professor Plums",
           "price": 66.49,
           "deal_id": "ozbargain-c6c6d14baf6146a7",
@@ -26171,6 +26220,13 @@
           "price": 3.25,
           "deal_id": "ozbargain-cfe7bc182cbf37a1",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.625821+00:00",
+          "retailer": "Bunnings",
+          "price": 3.25,
+          "deal_id": "ozbargain-cfe7bc182cbf37a1",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26206,6 +26262,13 @@
           "price": 6691.0,
           "deal_id": "ozbargain-2a7f71a605eac062",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.626175+00:00",
+          "retailer": "Goal Solar",
+          "price": 6691.0,
+          "deal_id": "ozbargain-2a7f71a605eac062",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26223,6 +26286,13 @@
         },
         {
           "timestamp": "2026-09-05T15:14:58.952104+00:00",
+          "retailer": "Dan Murphy's (Limited Locations)",
+          "price": 76.05,
+          "deal_id": "ozbargain-0f525816e9624d3c",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.626319+00:00",
           "retailer": "Dan Murphy's (Limited Locations)",
           "price": 76.05,
           "deal_id": "ozbargain-0f525816e9624d3c",
@@ -26248,6 +26318,13 @@
           "price": 99.0,
           "deal_id": "ozbargain-15da35e4a4702efb",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.626451+00:00",
+          "retailer": "Centre Com",
+          "price": 99.0,
+          "deal_id": "ozbargain-15da35e4a4702efb",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26265,6 +26342,13 @@
         },
         {
           "timestamp": "2026-09-05T15:14:58.952328+00:00",
+          "retailer": "Google Play",
+          "price": 0.3,
+          "deal_id": "ozbargain-2f3b35e19bdf337a",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.626551+00:00",
           "retailer": "Google Play",
           "price": 0.3,
           "deal_id": "ozbargain-2f3b35e19bdf337a",
@@ -26290,6 +26374,13 @@
           "price": 35.0,
           "deal_id": "ozbargain-e0a673d39f9e5b7e",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.626681+00:00",
+          "retailer": "Amazon AU",
+          "price": 35.0,
+          "deal_id": "ozbargain-e0a673d39f9e5b7e",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26307,6 +26398,13 @@
         },
         {
           "timestamp": "2026-09-05T15:14:58.952558+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 1499.0,
+          "deal_id": "ozbargain-e731906021f26a85",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.626836+00:00",
           "retailer": "JB Hi-Fi",
           "price": 1499.0,
           "deal_id": "ozbargain-e731906021f26a85",
@@ -26353,6 +26451,13 @@
           "price": 844.3,
           "deal_id": "ozbargain-3f363fa80083be78",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.624495+00:00",
+          "retailer": "Mwave using coupon code SEP70",
+          "price": 844.3,
+          "deal_id": "ozbargain-3f363fa80083be78",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26363,6 +26468,13 @@
       "observations": [
         {
           "timestamp": "2026-09-05T15:14:58.950572+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 11.45,
+          "deal_id": "ozbargain-6b9b4339463be871",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.624629+00:00",
           "retailer": "OzBargain-listed deal",
           "price": 11.45,
           "deal_id": "ozbargain-6b9b4339463be871",
@@ -26381,6 +26493,13 @@
           "price": 27.33,
           "deal_id": "ozbargain-7155ef839c498b05",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.624824+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 27.33,
+          "deal_id": "ozbargain-7155ef839c498b05",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26391,6 +26510,13 @@
       "observations": [
         {
           "timestamp": "2026-09-05T15:14:58.950894+00:00",
+          "retailer": "Bunnings Warehouse",
+          "price": 40.0,
+          "deal_id": "ozbargain-2e5461ab2fd5a635",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.624987+00:00",
           "retailer": "Bunnings Warehouse",
           "price": 40.0,
           "deal_id": "ozbargain-2e5461ab2fd5a635",
@@ -26409,6 +26535,13 @@
           "price": 54.08,
           "deal_id": "ozbargain-1d728777eb9344ac",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.625126+00:00",
+          "retailer": "VTOMAN Global Store AliExpress",
+          "price": 54.08,
+          "deal_id": "ozbargain-1d728777eb9344ac",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26423,9 +26556,16 @@
           "price": 149.0,
           "deal_id": "ozbargain-11d93fe5e05c632d",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-05T20:21:40.625248+00:00",
+          "retailer": "Telstra",
+          "price": 149.0,
+          "deal_id": "ozbargain-11d93fe5e05c632d",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-09-05T15:15:09.785844+00:00"
+  "updated_at": "2026-09-05T20:21:50.178551+00:00"
 }
