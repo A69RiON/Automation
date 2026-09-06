@@ -6522,6 +6522,13 @@
           "price": 24.0,
           "deal_id": "ozbargain-c54828dd67263771",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T15:28:39.246098+00:00",
+          "retailer": "Officeworks",
+          "price": 24.0,
+          "deal_id": "ozbargain-c54828dd67263771",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26640,6 +26647,13 @@
           "price": 0.85,
           "deal_id": "ozbargain-530e4b22f779ad28",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T15:28:39.247753+00:00",
+          "retailer": "Yesim",
+          "price": 0.85,
+          "deal_id": "ozbargain-530e4b22f779ad28",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26661,11 +26675,18 @@
           "price": 21.0,
           "deal_id": "ozbargain-5cb3023bb7e6253a",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T15:28:39.247913+00:00",
+          "retailer": "Officeworks",
+          "price": 21.0,
+          "deal_id": "ozbargain-5cb3023bb7e6253a",
+          "source": "OzBargain"
         }
       ]
     },
     "product-4853e36fac9bf10323c0": {
-      "title": "Sony WH-1000XM6 Black $466.99 Delivered @ TechintheBasket, Price Matched at Good Guys",
+      "title": "Sony WH-1000XM6 Black (Grey Import) $466.99 Delivered @ TechintheBasket",
       "brand": "Sony",
       "model": "WH-1000XM6",
       "observations": [
@@ -26681,6 +26702,13 @@
           "retailer": "TechintheBasket, Price Matched at Good Guys",
           "price": 466.99,
           "deal_id": "ozbargain-29da148c9e7bbc44",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T15:28:39.248314+00:00",
+          "retailer": "TechintheBasket",
+          "price": 466.99,
+          "deal_id": "ozbargain-7eaf8290d8b0128d",
           "source": "OzBargain"
         }
       ]
@@ -26699,6 +26727,13 @@
         },
         {
           "timestamp": "2026-09-06T10:58:06.560768+00:00",
+          "retailer": "Hype DC",
+          "price": 49.99,
+          "deal_id": "ozbargain-29c9f66e1abe2c64",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T15:28:39.248449+00:00",
           "retailer": "Hype DC",
           "price": 49.99,
           "deal_id": "ozbargain-29c9f66e1abe2c64",
@@ -26724,6 +26759,13 @@
           "price": 10.0,
           "deal_id": "ozbargain-ee4624914ba38e5a",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T15:28:39.248546+00:00",
+          "retailer": "Officeworks (was $30)",
+          "price": 10.0,
+          "deal_id": "ozbargain-ee4624914ba38e5a",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26745,6 +26787,13 @@
           "price": 20.0,
           "deal_id": "ozbargain-b0949f9bd2134bcc",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T15:28:39.248667+00:00",
+          "retailer": "Farmer to Fridge",
+          "price": 20.0,
+          "deal_id": "ozbargain-b0949f9bd2134bcc",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26762,6 +26811,13 @@
         },
         {
           "timestamp": "2026-09-06T10:58:06.560979+00:00",
+          "retailer": "Nashie",
+          "price": 10.0,
+          "deal_id": "ozbargain-d0387461ccb5bfd4",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T15:28:39.248773+00:00",
           "retailer": "Nashie",
           "price": 10.0,
           "deal_id": "ozbargain-d0387461ccb5bfd4",
@@ -26920,6 +26976,13 @@
           "price": 11.99,
           "deal_id": "ozbargain-6f6bacfb99cebe56",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T15:28:39.246335+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 11.99,
+          "deal_id": "ozbargain-6f6bacfb99cebe56",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26930,6 +26993,13 @@
       "observations": [
         {
           "timestamp": "2026-09-06T10:58:06.559696+00:00",
+          "retailer": "Coles on Uber Eats",
+          "price": 1.98,
+          "deal_id": "ozbargain-f2a0da28939c9fb8",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T15:28:39.246948+00:00",
           "retailer": "Coles on Uber Eats",
           "price": 1.98,
           "deal_id": "ozbargain-f2a0da28939c9fb8",
@@ -26948,6 +27018,13 @@
           "price": 49.95,
           "deal_id": "ozbargain-4934b5577b95fbfd",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T15:28:39.247077+00:00",
+          "retailer": "Brand House Direct",
+          "price": 49.95,
+          "deal_id": "ozbargain-4934b5577b95fbfd",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26958,6 +27035,13 @@
       "observations": [
         {
           "timestamp": "2026-09-06T10:58:06.559886+00:00",
+          "retailer": "The Good Guys",
+          "price": 141.0,
+          "deal_id": "ozbargain-e49d7baba8117703",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T15:28:39.247221+00:00",
           "retailer": "The Good Guys",
           "price": 141.0,
           "deal_id": "ozbargain-e49d7baba8117703",
@@ -26976,6 +27060,13 @@
           "price": 57.99,
           "deal_id": "ozbargain-651016d6f8794795",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T15:28:39.247348+00:00",
+          "retailer": "X-Mount Amazon AU",
+          "price": 57.99,
+          "deal_id": "ozbargain-651016d6f8794795",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26986,6 +27077,13 @@
       "observations": [
         {
           "timestamp": "2026-09-06T10:58:06.560041+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 2.99,
+          "deal_id": "ozbargain-a2d9e33adb4b9d3b",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T15:28:39.247444+00:00",
           "retailer": "OzBargain-listed deal",
           "price": 2.99,
           "deal_id": "ozbargain-a2d9e33adb4b9d3b",
@@ -27004,6 +27102,13 @@
           "price": 1749.0,
           "deal_id": "ozbargain-62bf7b19a1109b77",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T15:28:39.247580+00:00",
+          "retailer": "JB Hi-Fi",
+          "price": 1749.0,
+          "deal_id": "ozbargain-62bf7b19a1109b77",
+          "source": "OzBargain"
         }
       ]
     },
@@ -27014,6 +27119,13 @@
       "observations": [
         {
           "timestamp": "2026-09-06T10:58:06.560214+00:00",
+          "retailer": "Dan Murphy's",
+          "price": 125.95,
+          "deal_id": "ozbargain-bba82ef0799154be",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T15:28:39.247676+00:00",
           "retailer": "Dan Murphy's",
           "price": 125.95,
           "deal_id": "ozbargain-bba82ef0799154be",
@@ -27034,7 +27146,63 @@
           "source": "OzBargain"
         }
       ]
+    },
+    "product-af950142aa7eb53d4ac8": {
+      "title": "Cygnett 100W Laptop Power Bank 25K + Stand $42 + Delivery ($0 C&C) @ Bing Lee",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-06T15:28:39.245279+00:00",
+          "retailer": "Bing Lee",
+          "price": 42.0,
+          "deal_id": "ozbargain-b061dbd747697641",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4d4cef28c70cbf9e0162": {
+      "title": "Seagate Skyhawk 8TB 3.5\" SATA Hard Drive $326.50 (RRP $407.16) Delivered @ Amazon Germany via AU",
+      "brand": "Seagate",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-06T15:28:39.245548+00:00",
+          "retailer": "Amazon Germany via AU",
+          "price": 326.5,
+          "deal_id": "ozbargain-8a2f4532263c1928",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7066744521c232e276c7": {
+      "title": "[PC, Steam] Master Detective Archives: RAIN CODE Plus $19.97 (50% off) @ Steam",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-06T15:28:39.245669+00:00",
+          "retailer": "Steam",
+          "price": 19.97,
+          "deal_id": "ozbargain-33a624171942c5a0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-18424171a2902db243f9": {
+      "title": "MSI PRO MP251 E14l 24.5\" 144hz FHD 1ms IPS Business Monitor $99 + Delivery ($0 C&C) @ Mwave",
+      "brand": "MSI",
+      "model": "MP251",
+      "observations": [
+        {
+          "timestamp": "2026-09-06T15:28:39.245844+00:00",
+          "retailer": "Mwave",
+          "price": 99.0,
+          "deal_id": "ozbargain-a7c1f041257d9a46",
+          "source": "OzBargain"
+        }
+      ]
     }
   },
-  "updated_at": "2026-09-06T10:58:17.482240+00:00"
+  "updated_at": "2026-09-06T15:28:49.640407+00:00"
 }
