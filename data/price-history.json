@@ -4776,7 +4776,7 @@
       ]
     },
     "product-19b38a7d3e0daae04813": {
-      "title": "Glenfiddich/Glenmorangie 12yo Whisky 700ml $60.80/$59.20 + Del ($0 C&C/$250+) @ Liquorland via Coles Online (Excl QLD, TAS, NT)",
+      "title": "Aberlour 12yo Scotch Whisky 700ml $80 + Delivery ($0 C&C/ $250 Order) @ Liquorland via Coles Online (Excl. QLD, TAS, NT)",
       "brand": null,
       "model": "700ML",
       "observations": [
@@ -4883,6 +4883,20 @@
           "retailer": "Liquorland via Coles Online (Excl QLD, TAS, NT)",
           "price": 60.8,
           "deal_id": "ozbargain-9c1cb12f21e38f64",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T04:40:33.458643+00:00",
+          "retailer": "LL via Coles Online (Excl. QLD,NT,TAS)",
+          "price": 59.2,
+          "deal_id": "ozbargain-52883b232b347e23",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T04:40:33.461107+00:00",
+          "retailer": "Liquorland via Coles Online (Excl. QLD, TAS, NT)",
+          "price": 80.0,
+          "deal_id": "ozbargain-45c33652db9fa6dd",
           "source": "OzBargain"
         }
       ]
@@ -5069,6 +5083,13 @@
         },
         {
           "timestamp": "2026-09-05T20:21:40.625384+00:00",
+          "retailer": "Xiaomi AU",
+          "price": 28.5,
+          "deal_id": "ozbargain-cb5f58bada3d50cf",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T04:40:33.461003+00:00",
           "retailer": "Xiaomi AU",
           "price": 28.5,
           "deal_id": "ozbargain-cb5f58bada3d50cf",
@@ -26500,6 +26521,13 @@
           "price": 27.33,
           "deal_id": "ozbargain-7155ef839c498b05",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T04:40:33.460594+00:00",
+          "retailer": "Amazon UK via AU",
+          "price": 27.33,
+          "deal_id": "ozbargain-7155ef839c498b05",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26517,6 +26545,13 @@
         },
         {
           "timestamp": "2026-09-05T20:21:40.624987+00:00",
+          "retailer": "Bunnings Warehouse",
+          "price": 40.0,
+          "deal_id": "ozbargain-2e5461ab2fd5a635",
+          "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T04:40:33.460696+00:00",
           "retailer": "Bunnings Warehouse",
           "price": 40.0,
           "deal_id": "ozbargain-2e5461ab2fd5a635",
@@ -26542,6 +26577,13 @@
           "price": 54.08,
           "deal_id": "ozbargain-1d728777eb9344ac",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T04:40:33.460801+00:00",
+          "retailer": "VTOMAN Global Store AliExpress",
+          "price": 54.08,
+          "deal_id": "ozbargain-1d728777eb9344ac",
+          "source": "OzBargain"
         }
       ]
     },
@@ -26563,9 +26605,226 @@
           "price": 149.0,
           "deal_id": "ozbargain-11d93fe5e05c632d",
           "source": "OzBargain"
+        },
+        {
+          "timestamp": "2026-09-06T04:40:33.460896+00:00",
+          "retailer": "Telstra",
+          "price": 149.0,
+          "deal_id": "ozbargain-11d93fe5e05c632d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ce201430ba40b1d56396": {
+      "title": "$0.85 500MB Trial eSim @ Yesim",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-06T04:40:33.458282+00:00",
+          "retailer": "Yesim",
+          "price": 0.85,
+          "deal_id": "ozbargain-530e4b22f779ad28",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-db714804d996a1828b2a": {
+      "title": "Otto 65W GaN Wall Charger USBC Port & Rectractable Cable Tan $21 + Delivery ($0 to Metro Areas/ C&C/ in-Store) @ Officeworks",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-06T04:40:33.458434+00:00",
+          "retailer": "Officeworks",
+          "price": 21.0,
+          "deal_id": "ozbargain-5cb3023bb7e6253a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-4853e36fac9bf10323c0": {
+      "title": "Sony WH-1000XM6 Black (Grey Import) $466.99 Delivered @ TechintheBasket",
+      "brand": "Sony",
+      "model": "WH-1000XM6",
+      "observations": [
+        {
+          "timestamp": "2026-09-06T04:40:33.458951+00:00",
+          "retailer": "TechintheBasket",
+          "price": 466.99,
+          "deal_id": "ozbargain-7eaf8290d8b0128d",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-1e950e09f1f4838268f9": {
+      "title": "Lacoste Baseshot Pro Sneakers $49.99 (Rrp $179.99, Brown or White, Fr US 7 up to Us13) + Delivery/ $0 C&C @ Hype DC",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-06T04:40:33.459061+00:00",
+          "retailer": "Hype DC",
+          "price": 49.99,
+          "deal_id": "ozbargain-29c9f66e1abe2c64",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-d2db5f16e538c43394ec": {
+      "title": "Otto powerbank 10K mAh $10 @ Officeworks (was $30)",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-06T04:40:33.459136+00:00",
+          "retailer": "Officeworks (was $30)",
+          "price": 10.0,
+          "deal_id": "ozbargain-ee4624914ba38e5a",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-ebda092a302dcefc404f": {
+      "title": "$20 off $250+ Spend @ Farmer to Fridge",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-06T04:40:33.459234+00:00",
+          "retailer": "Farmer to Fridge",
+          "price": 20.0,
+          "deal_id": "ozbargain-b0949f9bd2134bcc",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-62c21e4c49285051fe03": {
+      "title": "$10 off, No Minimum Spend @ Nashie",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-06T04:40:33.459317+00:00",
+          "retailer": "Nashie",
+          "price": 10.0,
+          "deal_id": "ozbargain-d0387461ccb5bfd4",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-3c66d766aaaf30e54be1": {
+      "title": "Timex Men's Expedition Scout 40mm Watch (Green) $86.56 (RRP $120) Delivered @ Amazon AU",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-06T04:40:33.459408+00:00",
+          "retailer": "Amazon AU",
+          "price": 86.56,
+          "deal_id": "ozbargain-f40e2e880283fffd",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-40ef9c6e248f7db35f24": {
+      "title": "Singapore Airlines: London return PER $1455, BNE $1471, DRW $1484, CNS $1484, ADL $1520, MEL $1565, SYD $1565 @IWTF",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-06T04:40:33.459608+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 1455.0,
+          "deal_id": "ozbargain-1b399323f98a1c9f",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-effbf064a2dc7162f0b2": {
+      "title": "Mode Home 4L Digital Airfryer $19 (51% off) + $12.99 Delivery ($0 C&C in Limited Stores/ $120 Spend) @ Spotlight",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-06T04:40:33.459712+00:00",
+          "retailer": "Spotlight",
+          "price": 19.0,
+          "deal_id": "ozbargain-09a516e57284f6b7",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-3ee892c5c7afe0fd3d06": {
+      "title": "Yubikey C NFC + Yubikey C Nano (Openai Partner Offer) US$74.80 + US$11 Express Shipping (Total US$85.80 / ~A$119) @ Yubico",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-06T04:40:33.459812+00:00",
+          "retailer": "Yubico",
+          "price": 74.8,
+          "deal_id": "ozbargain-56d033a77df16e55",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-c0c1bb147e54223dca2d": {
+      "title": "Elite Tournament Basketball - Amber - Size 7 $69.00 @Throwback Store",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-06T04:40:33.459896+00:00",
+          "retailer": "OzBargain-listed deal",
+          "price": 69.0,
+          "deal_id": "ozbargain-d97fd1772539baef",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-6a70f9bd4ae1cbcb2d28": {
+      "title": "$150 off Your Logbook Service + $0.17 off Per Litre of Fuel Once A Week for 8 Weeks at Shell Reddy Express @ mycar Tyre & Auto",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-06T04:40:33.460005+00:00",
+          "retailer": "mycar Tyre & Auto",
+          "price": 150.0,
+          "deal_id": "ozbargain-c03cebdc7870f4da",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-55968d86c44e4b761ad0": {
+      "title": "Ubiquiti Dream Machine Special Edition UDM-SE $844.30 + Free Delivery @ Mwave",
+      "brand": "Ubiquiti",
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-06T04:40:33.460399+00:00",
+          "retailer": "Mwave",
+          "price": 844.3,
+          "deal_id": "ozbargain-d4ed06d8f49302b0",
+          "source": "OzBargain"
+        }
+      ]
+    },
+    "product-7a2b20c382d97e4ffeaf": {
+      "title": "25GB Unlimited Calls/Texts $11.45/month for First 6 months ($22.90 After) @ Pivotel",
+      "brand": null,
+      "model": null,
+      "observations": [
+        {
+          "timestamp": "2026-09-06T04:40:33.460489+00:00",
+          "retailer": "Pivotel",
+          "price": 11.45,
+          "deal_id": "ozbargain-1183bf1e85893f0c",
+          "source": "OzBargain"
         }
       ]
     }
   },
-  "updated_at": "2026-09-05T20:21:50.178551+00:00"
+  "updated_at": "2026-09-06T04:40:43.734981+00:00"
 }
