@@ -1,4 +1,4 @@
 import { createClient } from "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.57.4/+esm";
 const c=window.MARKETPLACE_CONFIG,sb=createClient(c.SUPABASE_URL,c.SUPABASE_PUBLISHABLE_KEY),$=id=>document.getElementById(id);$('trackButton').addEventListener('click',async()=>{const out=$('trackResult');out.textContent='Checking…';const {data,error}=await sb.rpc('track_booking',{p_booking_number:$('bookingNumber').value.trim(),p_email:$('bookingEmail').value.trim()});if(error||!data?.length){out.textContent='Booking not found. Check the booking number and email.';out.className='result error';return}const b=data[0];out.textContent=`${b.booking_number}\n${b.offering_title}\nStatus: ${b.status}\nDates: ${b.start_date||'—'} → ${b.end_date||'—'}\nTotal: A$${Number(b.total_amount).toFixed(2)}`;out.className='result success'});
 
-console.info("Digital Rental Platform V5.0.0 loaded");
+console.info("Digital Rental Platform V5.1.0 loaded");
